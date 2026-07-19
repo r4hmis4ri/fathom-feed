@@ -1,0 +1,639 @@
+{
+  "date": "2026-07-19",
+  "generatedAt": "2026-07-19T01:38:56.363Z",
+  "pillars": {
+    "ai": {
+      "name": "Artificial Intelligence",
+      "candidates": [
+        {
+          "title": "China's AI Leap and US Concerns - StartupHub.ai",
+          "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOS2MyRjNOazNvdHgzWEFROEh4Z2hjczhfallQOTJZSndmaHVJYm1qbVFzLTFXWkk3amllTkhLcmIya3R0ekxyWlppNUpBM2pqUmRtV1Nrbm81cDUxVFNBaVVKdVA4WHpoeFlZY1l3MDBjM0VPWEhTNURmVkhPdnNsRjN5Mzl4MmxNTEFHR0RsZHc4d0I4d2Z1amZ3?oc=5",
+          "date": "Sat, 18 Jul 2026 18:03:33 GMT",
+          "summary": "China's AI Leap and US Concerns StartupHub.ai",
+          "source": "news.google.com",
+          "_hash": "b4e92582144f36e7",
+          "_ageHours": 8,
+          "_inWindow": true,
+          "_score": 45.40993888888889,
+          "_corrob": 1
+        },
+        {
+          "title": "The Download: perimenopause misinformation and China&#8217;s latest AI leap",
+          "link": "https://www.technologyreview.com/2026/07/17/1140640/the-download-perimenopause-misinformation-china-moonshot-ai/",
+          "date": "Fri, 17 Jul 2026 12:10:00 +0000",
+          "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. There’s a lot of hype around perimenopause. Don’t buy it. Perimenopause used to be considered taboo, but not anymore. Thanks at least in part to TV doctors and social media influencers,&#8230;",
+          "source": "www.technologyreview.com",
+          "_hash": "d81b0f394e180d83",
+          "_ageHours": 37,
+          "_inWindow": true,
+          "_score": 15.517439444444442,
+          "_corrob": 1
+        },
+        {
+          "title": "A scorecard for the AI age",
+          "link": "https://openai.com/index/a-scorecard-for-the-ai-age",
+          "date": "Fri, 17 Jul 2026 10:00:00 GMT",
+          "summary": "Sarah Friar, CFO of OpenAI, introduces a practical AI scorecard to measure ROI through useful work, cost per successful task, dependability, and return on compute.",
+          "source": "openai.com",
+          "_hash": "f7a885de471108dd",
+          "_ageHours": 40,
+          "_inWindow": true,
+          "_score": 8.350772222222226,
+          "_corrob": 0
+        }
+      ]
+    },
+    "space": {
+      "name": "Space",
+      "candidates": [
+        {
+          "title": "Space Force triples launch contract ceiling amid rising demand",
+          "link": "https://spacenews.com/space-force-triples-launch-contract-ceiling-amid-rising-demand/",
+          "date": "Sat, 18 Jul 2026 17:40:06 +0000",
+          "summary": "The maximum value of the National Security Space Launch Phase 3 Lane 1 contract was raised from $5.6 billion to $17 billion The post Space Force triples launch contract ceiling amid rising demand appeared first on SpaceNews .",
+          "source": "spacenews.com",
+          "_hash": "ad3660bac3ef3dd3",
+          "_ageHours": 8,
+          "_inWindow": true,
+          "_score": 62.01897777777778,
+          "_corrob": 2
+        },
+        {
+          "title": "Skyroot Aerospace reaches orbit on first Vikram-1 launch",
+          "link": "https://spacenews.com/skyroot-aerospace-reaches-orbit-on-first-vikram-1-launch/",
+          "date": "Sat, 18 Jul 2026 08:03:59 +0000",
+          "summary": "Skyroot Aerospace’s Vikram-1 rocket successfully lifted off on its inaugural flight July 18, becoming the first commercial Indian rocket to reach orbit. The post Skyroot Aerospace reaches orbit on first Vikram-1 launch appeared first on SpaceNews .",
+          "source": "spacenews.com",
+          "_hash": "989154a1e47db065",
+          "_ageHours": 18,
+          "_inWindow": true,
+          "_score": 58.417033333333336,
+          "_corrob": 2
+        },
+        {
+          "title": "Mauritius becomes 70th nation to sign the Artemis Accords",
+          "link": "https://spacenews.com/mauritius-becomes-70th-nation-to-sign-the-artemis-accords/",
+          "date": "Sat, 18 Jul 2026 18:03:11 +0000",
+          "summary": "The island nation of Mauritius signed the Artemis Accords July 17, becoming the 70th nation to do so in less than six years. The post Mauritius becomes 70th nation to sign the Artemis Accords appeared first on SpaceNews .",
+          "source": "spacenews.com",
+          "_hash": "1fb6446d75945243",
+          "_ageHours": 8,
+          "_inWindow": true,
+          "_score": 56.4037,
+          "_corrob": 2
+        },
+        {
+          "title": "Another reusable rocket? Japan launches, lands RV-X prototype (video)",
+          "link": "https://www.space.com/space-exploration/launches-spacecraft/another-reusable-rocket-coming-japan-launches-lands-rv-x-prototype-video",
+          "date": "Sat, 18 Jul 2026 14:00:00 +0000",
+          "summary": "Japan has succeeded in the first-ever flight test of its RV-X experimental reusable rocket prototype.",
+          "source": "www.space.com",
+          "_hash": "6bef555ed8754b62",
+          "_ageHours": 12,
+          "_inWindow": true,
+          "_score": 53.35064444444444,
+          "_corrob": 1
+        },
+        {
+          "title": "Another reusable rocket? Japan launches, lands RV-X prototype (video) - Space",
+          "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPcU9IRUs3bGVaaUtLRERrTWRrQnRPVjBxR290dXgxY2lENV9Fb2FJRE5Fc1V0NzBUUy1vdEhIZm5zd252LWt1TnRrUjhGMlN6VFcyckE3dGFvOEV1czdHWnMzdk0zSGFXODFuOWpZdHVZYVVEQWZScmF0TWFHYlpXUEFZeF9VeTBZc2xLNXdWOHR6aXZNS3RaRXFrVnU3bEE0QjhMclI5Q202T0F0RFN1MWdOaDB2bjBwdzFSM21MQzBRZDNmRlk3NHZDZGM?oc=5",
+          "date": "Sat, 18 Jul 2026 14:00:00 GMT",
+          "summary": "Another reusable rocket? Japan launches, lands RV-X prototype (video) Space",
+          "source": "news.google.com",
+          "_hash": "754c4e5848986048",
+          "_ageHours": 12,
+          "_inWindow": true,
+          "_score": 52.35064444444444,
+          "_corrob": 2
+        },
+        {
+          "title": "'The dawn of a new space era': Vikram-1, India's 1st private orbital rocket, aces debut launch - Space",
+          "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNdW56NGltUnFwRXZoaTB5UGpRVUVYWWg4QjBmWDluY0QtS1RpQXBpcnVJOS1jbFJndnRmUGNqUFpLUmNpR0FEYUlXdFh3NzhjcjVCejYteHhnNkhtYllYZ1JRbGd4U2NDZnRMbkJzVzBiOXkyd3F4N1lnbXJLY0pqY3U2NkRudzRFM2JnVDVKcS1vanVtRVVMOXdfaXk5em9lajNmcE1obTJ3SnFKVUZDZnBnd09KR1phVTBaY2lR?oc=5",
+          "date": "Sat, 18 Jul 2026 07:28:44 GMT",
+          "summary": "'The dawn of a new space era': Vikram-1, India's 1st private orbital rocket, aces debut launch Space",
+          "source": "news.google.com",
+          "_hash": "980df3cb85d785d1",
+          "_ageHours": 18,
+          "_inWindow": true,
+          "_score": 51.82953333333333,
+          "_corrob": 2
+        },
+        {
+          "title": "This Week In Space podcast: Episode 219 — SpaceX Goes to War!",
+          "link": "https://www.space.com/entertainment/space-movies-shows/this-week-in-space-podcast-episode-219-spacex-goes-to-war",
+          "date": "Sat, 18 Jul 2026 13:40:10 +0000",
+          "summary": "On Episode 219 of This Week In Space, Rod Pyle and Tariq Malik discuss the space headlines for the past few weeks.",
+          "source": "www.space.com",
+          "_hash": "e7d9ce1ed90511b7",
+          "_ageHours": 12,
+          "_inWindow": true,
+          "_score": 46.02008888888889,
+          "_corrob": 2
+        },
+        {
+          "title": "NASA terminates Draper lunar lander mission",
+          "link": "https://spacenews.com/nasa-terminates-draper-lunar-lander-mission/",
+          "date": "Sat, 18 Jul 2026 00:00:20 +0000",
+          "summary": "NASA and Draper have terminated plans for a lunar lander mission after significant delays in development of the spacecraft. The post NASA terminates Draper lunar lander mission appeared first on SpaceNews .",
+          "source": "spacenews.com",
+          "_hash": "b2f0fb15c23486fc",
+          "_ageHours": 26,
+          "_inWindow": true,
+          "_score": 38.3562,
+          "_corrob": 2
+        },
+        {
+          "title": "'The dawn of a new space era': Vikram-1, India's 1st private orbital rocket, aces debut launch",
+          "link": "https://www.space.com/space-exploration/launches-spacecraft/skyroot-aerospace-india-first-private-orbital-launch-vikram-1",
+          "date": "Fri, 17 Jul 2026 16:00:00 +0000",
+          "summary": "Skyroot Aerospace's Vikram-1 rocket aced its debut mission on Saturday morning (July 18), making India the third nation with a private orbital launch capability.",
+          "source": "www.space.com",
+          "_hash": "fea040fd00dd429c",
+          "_ageHours": 34,
+          "_inWindow": true,
+          "_score": 36.35064444444444,
+          "_corrob": 2
+        },
+        {
+          "title": "Young minds, new rocket: Vikram-1 ushers generational leap for Indian space program - India Today",
+          "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxOeVdNZG11Wk1VZ3V3bHhrYmRHQ3dvUExvZ3I0Z0xRQjhudkE3azNkUEh4aTVsRXVwTXZLb3NmRDJlZmF1djVLYlRPTG93b0NUYTRLb00tSGgwVXFrM3JIUHpwSWZZUS1BTTVhUXFESG5nMldGcXpQXzE1Q3ZPOWdGa0tTY0FLQUQ5R0hSb09WamVmUmRUTzBOUlRERDFXa2NPZFdrbjZuRjQ4SUpqZC00WC0yYURESUVjTHBUaDFTdnJIbVRiX09mdmF2bi1aQVdfUEVqT2tsMDRoQUVKSktYOG9B0gHnAUFVX3lxTE5SbmlIc2FkYnRVdHRaaXYyVjRxdnU5Y3M3d0JBOTBoX2ZlMEpRbGtZT0tPaGVzaU4zcjJUNktuOEozOFdMSllFRC1zMVRuOFVaTHZVa0l5QXNzcEJHWGxyVF9QaEhZQmRjRnZxazJGWER4UC1vQkZpZ2lpYS1neEJSY0FWNlZiU2t3Qk1PMEYzamNvaDBDOE5ubEVmcmpKTnNTdEVUa2JQMndrWHNfSDdwVURSWkItSVc0Z1diSmVIU3ZTTTRpejVSajJZTTg1eWo4QWhZR0d2X3pNblZzUWltMjBOQTliVQ?oc=5",
+          "date": "Sat, 18 Jul 2026 07:34:28 GMT",
+          "summary": "Young minds, new rocket: Vikram-1 ushers generational leap for Indian space program India Today",
+          "source": "news.google.com",
+          "_hash": "5a430c9600875505",
+          "_ageHours": 18,
+          "_inWindow": true,
+          "_score": 34.92508861111111,
+          "_corrob": 1
+        },
+        {
+          "title": "SpaceX vs. AST SpaceMobile: Which Space Stock Will get Your Portfolio Into Orbit in 2026? - The Motley Fool",
+          "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQTThXcXdzam9fVVZWMDhRNTA2UVFQRDExNW14em1ucm9YMEVYaHlNZVZrX2cyaUs5V3FGWElHWWhZSU1KLUpfaHY2YU1NSXJTaTZZQXd0X2hEd2VyQ3FCY2JxN0lPc1piLUxrSXhnbWlsbS0zTG1wdUJRc1VPVHJvenJkTFp0Z0ZzYjB3YUhQSXpmV0twUFpleWhXenM2ekpJUkVhUVVOUmxfZG8zU0tMN0s2TzRKRjkzNjgwNVBneFlYWEJJU1EyZlBEMXp6VDdENjc1THhB?oc=5",
+          "date": "Fri, 17 Jul 2026 20:19:00 GMT",
+          "summary": "SpaceX vs. AST SpaceMobile: Which Space Stock Will get Your Portfolio Into Orbit in 2026? The Motley Fool",
+          "source": "news.google.com",
+          "_hash": "1131fe0f4e7f4db3",
+          "_ageHours": 29,
+          "_inWindow": true,
+          "_score": 34.66731083333333,
+          "_corrob": 2
+        },
+        {
+          "title": "NASA Invites Media to Roman Space Telescope, Crew-13 Launches",
+          "link": "https://www.nasa.gov/news-release/nasa-invites-media-to-roman-space-telescope-crew-13-launches/",
+          "date": "Fri, 17 Jul 2026 18:00:57 +0000",
+          "summary": "Media accreditation now is open for the launch of NASA’s Nancy Grace Roman Space Telescope and the agency’s SpaceX Crew-13 missions, both targeting launch in the coming months. The Roman telescope is slated to launch no earlier than 7:20 a.m. EDT Sunday, Aug. 30, aboard a SpaceX Falcon Heavy rocket from Launch Complex 39A at [&#8230;]",
+          "source": "www.nasa.gov",
+          "_hash": "e47bbf302f08883a",
+          "_ageHours": 32,
+          "_inWindow": true,
+          "_score": 27.366478055555554,
+          "_corrob": 1
+        }
+      ]
+    },
+    "crypto": {
+      "name": "Bitcoin / Crypto",
+      "candidates": [
+        {
+          "title": "Bitcoin ETFs likely to mirror gold’s 22-year ETF history, says Bloomberg Intelligence - Crypto Briefing",
+          "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE92c2otcTl0RDE2MElIMV9XbXF3QmVQR3RnM2FuX2gyLWlfcERmTzZ0dzMyYjF3MFZaQy1zR2ZBbjdTSTNuYm9pU1JkQ0dGbmJnUXNIUWNxaS1FdElzM3Z5X3JXZzJta2JtSUlQX0sxY3R6SllSMVVYM1EtbHJmRFE?oc=5",
+          "date": "Sat, 18 Jul 2026 22:03:02 GMT",
+          "summary": "Bitcoin ETFs likely to mirror gold’s 22-year ETF history, says Bloomberg Intelligence Crypto Briefing",
+          "source": "news.google.com",
+          "_hash": "8d40be2eff31bed1",
+          "_ageHours": 4,
+          "_inWindow": true,
+          "_score": 65.4010625,
+          "_corrob": 3
+        },
+        {
+          "title": "Bitcoin ETFs could triple gold ETF assets in 5 years, mirroring gold's 22-year growth path, says Bloomberg analyst. - Pluang",
+          "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNLXN3MHBVcVUwdnRMWTBhSVhJcHBRVVE1OWR2Ym9sSml6cmVEalhRM0ZKM1owTXlCNEtfRkltd3hLaWFEdkw2VHUwR3did1pDTUlJN09qbUFRc1VIRl9oVHc2ZzhDYUhQeDdkS1p0RWV5alJuSllsRGp4dFB3SUZvbA?oc=5",
+          "date": "Sat, 18 Jul 2026 22:12:45 GMT",
+          "summary": "Bitcoin ETFs could triple gold ETF assets in 5 years, mirroring gold's 22-year growth path, says Bloomberg analyst. Pluang",
+          "source": "news.google.com",
+          "_hash": "eb0caf0d3706b827",
+          "_ageHours": 3,
+          "_inWindow": true,
+          "_score": 60.563006666666666,
+          "_corrob": 2
+        },
+        {
+          "title": "Bitcoin spot ETFs expected to rebound strongly, mirroring gold ETFs' past volatility and recovery. - Pluang",
+          "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOOS1VREdZcTl3ZVlIeDdlMzFDbjRYcXZlYVVRMHRhUmwxelBUSU5pQS1GRUxCRWVIbEdQMHQ0VWg3VkZGdGtoZFJjNTVCaGl2Z0JyOEZfNlJMYk05RUhBUGprTjRhMmc1WlV6bmlrTVV4Sk1aUDhsbXF3V2NzdkRDMi1HbEVDNmVPb25aTnFfR0tTNHdVSmszWkJHRkJoVktxTW5uQkNONFVYVFk2?oc=5",
+          "date": "Sat, 18 Jul 2026 21:47:35 GMT",
+          "summary": "Bitcoin spot ETFs expected to rebound strongly, mirroring gold ETFs' past volatility and recovery. Pluang",
+          "source": "news.google.com",
+          "_hash": "9a689adc810831aa",
+          "_ageHours": 4,
+          "_inWindow": true,
+          "_score": 60.14356222222222,
+          "_corrob": 2
+        },
+        {
+          "title": "Bitcoin holds above $64K as ETF inflows and cry... - Pluang",
+          "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPa0lfMjhpbFllOXh4MmxtWEdZdEVPc3RoS2tWTWpXaFd2UmZ3TWxIUkF6WmdHMElNY29uaW1SZV9QcTlQckdiVlRacjN3ZlJwbXhPS3dpaG5KY1pKQi04eEh3aDN1UTU5MDVRNXVLZ1lHYk4yYWY5N0pCa3AtUUtnV2JmSkxWN2ZDY1oxRTdmSEYyQ2NSUC1TVGl0N3lyRHJsNkZqRnJfZk9JSzA?oc=5",
+          "date": "Sat, 18 Jul 2026 23:39:01 GMT",
+          "summary": "Bitcoin holds above $64K as ETF inflows and cry... Pluang",
+          "source": "news.google.com",
+          "_hash": "d0d0f995523ec56d",
+          "_ageHours": 2,
+          "_inWindow": true,
+          "_score": 57.00078444444444,
+          "_corrob": 1
+        },
+        {
+          "title": "Michael Saylor opposes BIP 110, calls for Bitcoin neutrality over transaction filtering - Crypto Briefing",
+          "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE0xQlVUOFdKUGZueTZCVjlZeFRlU0JBV3lMaUp6UHRyVGxaeVhMOU9nT095QUpuMl9INU5kWjM4Z3lmN3hNTS00MzZFU2U1QmRoaXE2aFo5cE5oSXZoX2lTLWx5cW5XdnhaWWdQRGFpYzkwMkpNLS1oTA?oc=5",
+          "date": "Sat, 18 Jul 2026 23:05:36 GMT",
+          "summary": "Michael Saylor opposes BIP 110, calls for Bitcoin neutrality over transaction filtering Crypto Briefing",
+          "source": "news.google.com",
+          "_hash": "cf165e9d506ed508",
+          "_ageHours": 3,
+          "_inWindow": true,
+          "_score": 56.44384027777778,
+          "_corrob": 1
+        },
+        {
+          "title": "Bitcoin's DOG Mode sparks debate on transaction relay and censorship without changing consensus rules - Pluang",
+          "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOd0NVY3M4UlpCbWRacXcwR2IwcVE5THkzdC1QM2ppOFJZZ3lyNmxzWXcwU2VjNWU4RF9kYUM4eWJ1ZG5wSGJFOTFmckFVVUFlcXphTkY0MEdkbWRTandVenBWQmhWVXRQeHdCYnpuRktaOFY4ZU1SckhRUk54SFhRY0dROE1Ydy1oMm0tTG4xQ0xrS1pKQUxzZUVvTQ?oc=5",
+          "date": "Sat, 18 Jul 2026 23:27:04 GMT",
+          "summary": "Bitcoin's DOG Mode sparks debate on transaction relay and censorship without changing consensus rules Pluang",
+          "source": "news.google.com",
+          "_hash": "516d22f137943ac8",
+          "_ageHours": 2,
+          "_inWindow": true,
+          "_score": 55.80161777777778,
+          "_corrob": 2
+        },
+        {
+          "title": "Stacks reaches 1.6M total wallets as Bitcoin DeFi ambitions grow - Crypto Briefing",
+          "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE8yZVRQMTF2eF9YdXkyVTVHWG9zbkVDQTJjUjRNNkZlbmhtUkI1SHJEU19OU0kzOERwc2ZlRkFaa0pNV2E2ZkJGYlg3ckF2d2JhZjdydHdvWk9TN2FMM1drZkF1dWFHd1RzZExHeG54dmNBYlAzdHc?oc=5",
+          "date": "Sat, 18 Jul 2026 21:32:12 GMT",
+          "summary": "Stacks reaches 1.6M total wallets as Bitcoin DeFi ambitions grow Crypto Briefing",
+          "source": "news.google.com",
+          "_hash": "136219922facef63",
+          "_ageHours": 4,
+          "_inWindow": true,
+          "_score": 53.88717361111111,
+          "_corrob": 2
+        },
+        {
+          "title": "US spot Bitcoin ETFs attract $132M inflows, led by BlackRock's IBIT, marking 4th day of gains. - Pluang",
+          "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOTHc4OTZfdTB3TGhHZDF5cEtWZkFzWWtib2l6bnFPY0tkbTVvZVVVdGRoQWh4bzF3Rk50dGtDeXJJemJ4Y3MzUWRJUmNmOTNmUGZfMXN3RWF0N2FtY0FTR1BaRTRhOUR3VkI3WmRUT29aVHhMd01XUXNrNFdaX3JyZUZxRDlENnhxMGpjbnNtRmlHcTBndFRLSkl5QzBxd25KdDJzazBtRURtLUtVYlRxYWtB?oc=5",
+          "date": "Sat, 18 Jul 2026 15:05:34 GMT",
+          "summary": "US spot Bitcoin ETFs attract $132M inflows, led by BlackRock's IBIT, marking 4th day of gains. Pluang",
+          "source": "news.google.com",
+          "_hash": "66d8f091db2d82ee",
+          "_ageHours": 11,
+          "_inWindow": true,
+          "_score": 53.443284444444444,
+          "_corrob": 2
+        },
+        {
+          "title": "Hoskinson wants Bitcoin’s money on Cardano. Here’s the plan. - Crypto News",
+          "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9RQlFza2tXV2FPbE5URnNWajNTek1IczVvUWZzc0MwRUZkTUtEUWNJY1F6ZHNHZXd1aUx0dTlfTV9hUFRwQUY0S2NlbUYtRTFvbHRSRUpTRFBEeDYyU0dPWUIxQWZTVHR5OEE?oc=5",
+          "date": "Sat, 18 Jul 2026 19:58:42 GMT",
+          "summary": "Hoskinson wants Bitcoin’s money on Cardano. Here’s the plan. Crypto News",
+          "source": "news.google.com",
+          "_hash": "662e83d04e28590a",
+          "_ageHours": 6,
+          "_inWindow": true,
+          "_score": 52.32884,
+          "_corrob": 2
+        },
+        {
+          "title": "Corporate bitcoin adoption is key to its global monetary role, with Strategy holding two-thirds of public BTC. - Pluang",
+          "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxPMVF6aXllQXFRenVtYndIcjV1RUdQWmFlQXZ3VXFVTXE5aHViMVRHbzg0RUhlSTJSejFMUUJ5S3hFT0Fzd2dQV21nZWtEc0w4Y2o3bGlqNlRkakk5cmpKaVJMX04yeE9seExZMWFfU190cmFoQ1hzVkZ2SDZhS01aVGM0OU1zS0pET1NLZ01HOFhYQ2w2a19KOFptMTkxZw?oc=5",
+          "date": "Sun, 19 Jul 2026 00:49:36 GMT",
+          "summary": "Corporate bitcoin adoption is key to its global monetary role, with Strategy holding two-thirds of public BTC. Pluang",
+          "source": "news.google.com",
+          "_hash": "c23e9c22e2c16fa6",
+          "_ageHours": 1,
+          "_inWindow": true,
+          "_score": 52.17717361111111,
+          "_corrob": 1
+        },
+        {
+          "title": "Crypto executives say digital native generations may never need a bank account",
+          "link": "https://www.coindesk.com/business/2026/07/17/crypto-executives-say-digital-native-generations-may-never-need-a-bank-account",
+          "date": "Sat, 18 Jul 2026 18:30:00 +0000",
+          "summary": "Steakhouse Financial co-founder Adrian Cachinero says digital-native generations may rely less on banks, while Binance says younger users are already driving crypto adoption in emerging markets.",
+          "source": "www.coindesk.com",
+          "_hash": "e6f22c6dc7c2e31a",
+          "_ageHours": 7,
+          "_inWindow": true,
+          "_score": 50.85050722222222,
+          "_corrob": 2
+        },
+        {
+          "title": "NEW: Bitcoin ETFs are likely to mirror Gold's 22-year ETF history, according to Bloomberg Intelligence 👀 - Moomoo",
+          "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQQml3ZGM4aG1wdGJRd1BUcGF5bnBMOGs4R1FhcTFfR0UtWkJMdmRhMVhiUV90UUV3bXdKTjBFZlpUZkNNWGhGbkh0WjB0eWJaUHN6d1ZOdGppUEZBX1ItMjBPSmhMN2lGWW1NVDUweXk0OTJPUF9yMUpmblRFcDRGTWp5Ti00aXJpazc0ZG1kUDF1SXl1aGhra0JVc3VHTHpYWHhR?oc=5",
+          "date": "Sat, 18 Jul 2026 12:18:32 GMT",
+          "summary": "NEW: Bitcoin ETFs are likely to mirror Gold's 22-year ETF history, according to Bloomberg Intelligence 👀 Moomoo",
+          "source": "news.google.com",
+          "_hash": "9ae0d2fc18411edd",
+          "_ageHours": 13,
+          "_inWindow": true,
+          "_score": 50.659395833333335,
+          "_corrob": 2
+        }
+      ]
+    },
+    "biotech": {
+      "name": "Biotech & Longevity",
+      "candidates": [
+        {
+          "title": "Celcuity got its cancer drug approved. Then its stock dipped",
+          "link": "https://endpoints.news/celcuity-got-its-cancer-drug-approved-then-its-stock-dipped/",
+          "date": "Fri, 17 Jul 2026 18:03:35 +0000",
+          "summary": "The FDA’s approval for Celcuity’s cancer drug Revtorpyk on Tuesday was widely anticipated. What Wall Street didn’t expect was that the drug could take until the end of the quarter to launch. ...",
+          "source": "endpoints.news",
+          "_hash": "c0299dc4d70818ea",
+          "_ageHours": 32,
+          "_inWindow": true,
+          "_score": 44.40661305555555,
+          "_corrob": 2
+        },
+        {
+          "title": "With FDA approval for its breast cancer blockbuster hopeful, Celcuity could ‘belong in the hands’ of a Big Pharma",
+          "link": "https://www.fiercebiotech.com/pharma/fda-approval-its-breast-cancer-blockbuster-hopeful-celcuity-could-belong-hands-big-pharma",
+          "date": "Jul 14, 2026 4:36pm",
+          "summary": "The FDA has approved a new small molecule inhibitor from Celcuity with blockbuster potential that could become a new standard-of-care for patients with breast cancer.",
+          "source": "www.fiercebiotech.com",
+          "_hash": "7e84cc97b1420d3c",
+          "_inWindow": true,
+          "_score": 29,
+          "_corrob": 1
+        },
+        {
+          "title": "BlossomHill eyes IPO as fertilizer to grow taller in crowded cancer fields",
+          "link": "https://www.fiercebiotech.com/biotech/blossomhill-eyes-ipo-fertilizer-grow-taller-crowded-cancer-fields",
+          "date": "Jul 17, 2026 12:10pm",
+          "summary": "Another biotech is squeezing into the crowded IPO waiting room just in time for the weekend. BlossomHill Therapeutics, a San Diego-based oncology outfit focused on small molecules, has filed paperwork with the Securities and Exchange Commission to publicly offer stock for the first time.",
+          "source": "www.fiercebiotech.com",
+          "_hash": "847e962f483cbd4e",
+          "_inWindow": true,
+          "_score": 28,
+          "_corrob": 2
+        },
+        {
+          "title": "Dimerix snaps up Mission’s stalled, phase 2-ready kidney disease candidate in $292M deal",
+          "link": "https://www.fiercebiotech.com/biotech/dimerix-snaps-missions-stalled-phase-2-ready-kidney-disease-candidate-5m-upfront",
+          "date": "Jul 17, 2026 4:52am",
+          "summary": "Dimerix has bought an acute kidney injury drug from Mission Therapeutics, paying $5 million upfront and committing up to $287 million in milestones for the phase 2-ready asset.",
+          "source": "www.fiercebiotech.com",
+          "_hash": "1aa172a8db2df2f2",
+          "_inWindow": true,
+          "_score": 28,
+          "_corrob": 2
+        },
+        {
+          "title": "BlossomHill eyes IPO to grow taller in crowded cancer fields - Fierce Biotech",
+          "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQOXYzdzFtZnp1cW8tM1hyZ0dXcFFuYktsX2N5THR3MXBlNVNaaXo0N0tmeFdXLWFhTHdWbE1rd1NURTZveGM0bWJZMUtSMGM4cEVDT05aUjJrZ3JsNXBLX2g4TFlxdmpKeFJHbExZdmhIajZneHZtMmpjdW5Wei03UWxpMndtamZ5ejBlSUt0dmZLMzBDc3lyVzBpal9ELVZKMEYxVTR3?oc=5",
+          "date": "Fri, 17 Jul 2026 16:08:24 GMT",
+          "summary": "BlossomHill eyes IPO to grow taller in crowded cancer fields Fierce Biotech",
+          "source": "news.google.com",
+          "_hash": "324dac30cedf0575",
+          "_ageHours": 34,
+          "_inWindow": true,
+          "_score": 24.48688333333333,
+          "_corrob": 2
+        },
+        {
+          "title": "GSK drops Phase 3 chronic cough drug in a blow to $2B Bellus Health buyout",
+          "link": "https://endpoints.news/gsk-drops-phase-3-chronic-cough-drug-in-a-blow-to-2b-bellus-health-buyout/",
+          "date": "Fri, 17 Jul 2026 11:05:17 +0000",
+          "summary": "In a major stumble for GSK’s $2 billion acquisition of Bellus Health, the UK pharma said Friday it is ending development of camlipixant in refractory chronic cough (RCC) after the drug ...",
+          "source": "endpoints.news",
+          "_hash": "badb005e919dee4f",
+          "_ageHours": 39,
+          "_inWindow": true,
+          "_score": 24.43494638888889,
+          "_corrob": 3
+        },
+        {
+          "title": "Mass. biotech: FDA to review experimental cancer drug after two rejections, 200+ layoffs - MassLive",
+          "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQbDhsOWtBWnZqZE5xNko2enA0ZmhLUE93cWRGaGxNdXR5eW0tQWhfcGlydGthekZVaGtWeXQyZ0dWUXowb1Q5R1ZlcjRfd28xMFlfZ2VKNXhkVUVZbHlSQnk2MWV5aEZSbWNPRFYzN29uT3BpSTF1S0hLdHNGWjJBcnRQbDFyMWQ2V1hVTVg2R0k4Z3dzU3pac1llY1VqeFdDakRGMzNfNVV4STlXRHRMSUNwNTkzanhKaWk2R1ZvNzI4RmVvM2Zzbkl1bw?oc=5",
+          "date": "Fri, 17 Jul 2026 19:48:00 GMT",
+          "summary": "Mass. biotech: FDA to review experimental cancer drug after two rejections, 200+ layoffs MassLive",
+          "source": "news.google.com",
+          "_hash": "d1d8773f6e1b2a1c",
+          "_ageHours": 30,
+          "_inWindow": true,
+          "_score": 23.146883333333335,
+          "_corrob": 1
+        },
+        {
+          "title": "The end for GSK’s chronic cough treatment - STAT",
+          "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOazVBTktqUk1qR3FicnRoMVl0bVRZRmtNSldmNE5Md3lhR2Y2allhSUNodm84RFBXc3JiTmE5WkZWb2JQMW1zbm5aS01adk11QjRHYjhsSEk1OGdUaWc2U1RNN2FHcGlZRlZTdlRLaTlEazdNc2Vpam1sR2NiajVaOEE1SFduWVhxc0dFc2ZCZnhvN05MOTdMVjJhUW15VGVKbGNSWlJB?oc=5",
+          "date": "Fri, 17 Jul 2026 14:45:27 GMT",
+          "summary": "The end for GSK’s chronic cough treatment STAT",
+          "source": "news.google.com",
+          "_hash": "0da01b4004ec2df8",
+          "_ageHours": 35,
+          "_inWindow": true,
+          "_score": 23.10438361111111,
+          "_corrob": 2
+        },
+        {
+          "title": "Dimerix buys a kidney injury drug; Arpeggio appears to be winding down",
+          "link": "https://endpoints.news/dimerix-buys-a-kidney-injury-drug-arpeggio-appears-to-be-winding-down/",
+          "date": "Fri, 17 Jul 2026 14:41:37 +0000",
+          "summary": "Plus, news about Takeda, Novartis and Regenxbio. 🤝 Mission sells kidney injury drug to Dimerix: Dimerix will pay $5 million upfront for Mission’s Phase 2-ready candidate for acute kidney injury, known ...",
+          "source": "endpoints.news",
+          "_hash": "ad73c9a4952d6295",
+          "_ageHours": 35,
+          "_inWindow": true,
+          "_score": 23.040501944444443,
+          "_corrob": 2
+        },
+        {
+          "title": "STAT+: The end for GSK&#8217;s chronic cough treatment",
+          "link": "https://www.statnews.com/2026/07/17/biotech-news-gsk-chronic-cough-treatment-meets-the-end-of-the-line/?utm_campaign=rss",
+          "date": "Fri, 17 Jul 2026 14:40:12 +0000",
+          "summary": "Sonothera's ultrasound gene therapy delivery, a new Alzheimer's drug controversy, and more biotech news from The Readout",
+          "source": "www.statnews.com",
+          "_hash": "48283324f7a833bc",
+          "_ageHours": 35,
+          "_inWindow": true,
+          "_score": 23.016890833333335,
+          "_corrob": 2
+        },
+        {
+          "title": "Fierce Biotech Fundraising Tracker '26: AdvanCell adds $315M; Draig draws down $65M",
+          "link": "https://www.fiercebiotech.com/biotech/fierce-biotech-fundraising-tracker-26",
+          "date": "Dec 22, 2025 3:30pm",
+          "summary": "The Fierce Biotech Fundraising Tracker records venture capital rounds of $50 million or more secured by biotechs.",
+          "source": "www.fiercebiotech.com",
+          "_hash": "fb802018d585e814",
+          "_inWindow": true,
+          "_score": 23,
+          "_corrob": 1
+        },
+        {
+          "title": "Updated: BlossomHill and Latigo join flourishing IPO queue with cancer, pain drugs",
+          "link": "https://endpoints.news/tagrisso-chasing-blossomhill-enters-nasdaq-queue-as-biotech-ipos-flourish/",
+          "date": "Fri, 17 Jul 2026 13:54:42 +0000",
+          "summary": "Last summer, zero biotechs made it onto the public markets as the industry weathered a seven-month dry spell for initial share sales. This time around, it's a summer IPO party as six",
+          "source": "endpoints.news",
+          "_hash": "4f066e1b04fb4f2c",
+          "_ageHours": 36,
+          "_inWindow": true,
+          "_score": 22.258557500000002,
+          "_corrob": 2
+        }
+      ]
+    },
+    "energy": {
+      "name": "Energy",
+      "candidates": [
+        {
+          "title": "A Wisconsin fusion company just lit a lightbulb off the particles leaking out of its reactor, no turbine and no steam, running the strongest magnetic field ever put on a plasma at 17 tesla — and the $500 million machine is going inside the plant that made America' - Autonocion.com",
+          "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9xN3JQZmtUYUVBN253Z2NuS3k0WVdwd1BQdnhTbklYaEotZEFJemZaNHpWQ1N1TnRsWjlqS1hNZXMyazBUSGRvdGxCdk5jNzJfbE43TWNkemYwLXp1ZTc1UXVjWGdPUjVzQnViY1BpY04?oc=5",
+          "date": "Sat, 18 Jul 2026 17:00:47 GMT",
+          "summary": "A Wisconsin fusion company just lit a lightbulb off the particles leaking out of its reactor, no turbine and no steam, running the strongest magnetic field ever put on a plasma at 17 tesla — and the $500 million machine is going inside the plant that made America' Autonocion.com",
+          "source": "news.google.com",
+          "_hash": "3c871ba8dabf36fa",
+          "_ageHours": 9,
+          "_inWindow": true,
+          "_score": 56.35962833333333,
+          "_corrob": 1
+        },
+        {
+          "title": "New SolarShare program brings affordable clean energy to Cobb EMC members - WSB-TV",
+          "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPWi0tQTVzYVdidkF4eW1JZTFTMmJDTUQzV3UxNEQ2UUlyeE9oOFpkOG1KVDBEanlWVHBSVEI0cEp1OS1mcGdaMnRTT1JkN1pMQV83d1B6MnQ2bmVCdHF1ZWlrd0lfOEgwal82STdrd3prZFd6VmgycTJ2VzJUeFVJelR6RkV6SEFIcUtWb3NNd0NYb25fN3dSZXBjSElXc1JlLWlOU1Q4ajV2dlQ5alRScWFqd3d3QXdGR1I0YW9iY01QcUR5UVRLbnpmMNIB3wFBVV95cUxQN0wxUUNkY3FfWEx6SGpQazdxV0pNX2FpZ2RFUEZ6UU1nczJtNFNpcG91Q2dKd3VQbHFyWEI2RjROVWNZRTltODRmY3JvLUJKWlhUUmhLZHNmTkh4U0pPX0ZXZXhaNGtKWFU2cGVfMzg1ekc3Y29vYXZ5YmV5bW1NTnUxbUwtTDZGWXcxVld0SEFka1hmNkdaRm4tZVhNNmFtQlJoQjA2THdCeE5maE5oNEh4NXY3V1VmaFRYdk10cEhBcXA5RVNuT21fWjFUeDJ5NTZWUm1zVnpuVWh0U0tB?oc=5",
+          "date": "Sat, 18 Jul 2026 21:16:07 GMT",
+          "summary": "New SolarShare program brings affordable clean energy to Cobb EMC members WSB-TV",
+          "source": "news.google.com",
+          "_hash": "753f985b47da0798",
+          "_ageHours": 4,
+          "_inWindow": true,
+          "_score": 54.615183888888886,
+          "_corrob": 1
+        },
+        {
+          "title": "Pass Permitting Reform. Unleash American Solar and Storage.",
+          "link": "https://cleantechnica.com/2026/07/17/pass-permitting-reform-unleash-american-solar-and-storage/",
+          "date": "Sat, 18 Jul 2026 02:22:06 +0000",
+          "summary": "Solar energy is the most affordable source of new electricity generation on the market today. It is the fastest energy source to build and is helping prop up the grid during even the most severe heatwaves. As electricity demand continues to climb, these technologies are well positioned to meet America’s growing energy needs. However, ... [continued] The post Pass Permitting Reform. Unleash American Solar and Storage. appeared first on CleanTechnica .",
+          "source": "cleantechnica.com",
+          "_hash": "2e2080a514921bec",
+          "_ageHours": 23,
+          "_inWindow": true,
+          "_score": 53.71490611111111,
+          "_corrob": 1
+        },
+        {
+          "title": "Philippines Energy Company Junk Coal Plant &#038; Break Ground on Latest BESS",
+          "link": "https://cleantechnica.com/2026/07/18/philippines-energy-company-junk-coal-plant-break-ground-on-latest-bess/",
+          "date": "Sat, 18 Jul 2026 13:11:34 +0000",
+          "summary": "Coal is dying a slow death in the central Philippines, and giant batteries are moving into the neighborhood to take its place. The Visayas power grid has suffered from chronic reliability issues for years, leaving the province of Cebu vulnerable to rolling blackouts during peak periods. As regional authorities push ... [continued] The post Philippines Energy Company Junk Coal Plant &#038; Break Ground on Latest BESS appeared first on CleanTechnica .",
+          "source": "cleantechnica.com",
+          "_hash": "c903362b9e62291a",
+          "_ageHours": 12,
+          "_inWindow": true,
+          "_score": 52.53935055555556,
+          "_corrob": 1
+        },
+        {
+          "title": "This New Made-In-China Ship Explains Why Offshore Wind Will Crush Trump&#8217;s Coal Dreams",
+          "link": "https://cleantechnica.com/2026/07/18/offshore-wind-china-reducing-costs-new-vessels/",
+          "date": "Sat, 18 Jul 2026 18:52:36 +0000",
+          "summary": "Trump or no Trump, the global offshore wind industry is taking advantage of new cost-cutting technologies and a new generation of offshore construction vessels that can handle today's supersized turbines. The post This New Made-In-China Ship Explains Why Offshore Wind Will Crush Trump&#8217;s Coal Dreams appeared first on CleanTechnica .",
+          "source": "cleantechnica.com",
+          "_hash": "83816de137462d50",
+          "_ageHours": 7,
+          "_inWindow": true,
+          "_score": 52.223239444444445,
+          "_corrob": 1
+        },
+        {
+          "title": "Tin oxide replaces scarce indium in solar mini-module, bringing cheaper clean energy closer to market - Tech Xplore",
+          "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE00Y3d3UWt1V0hWYXdyZ0k1ZG1mVERBVW9neWJ2cjB2OF96eF92UW4yMWEyLW8wU3RXX1pJSVV1RGlpUGZJU19mZy1uc2g2YkFobXVocmt5OHRqeVJhM1pVeTVpVDNXVF9HazB0bk5xbENraUdySlcwcUlR?oc=5",
+          "date": "Sat, 18 Jul 2026 18:00:06 GMT",
+          "summary": "Tin oxide replaces scarce indium in solar mini-module, bringing cheaper clean energy closer to market Tech Xplore",
+          "source": "news.google.com",
+          "_hash": "2e676c596ef89c33",
+          "_ageHours": 8,
+          "_inWindow": true,
+          "_score": 51.348239444444445,
+          "_corrob": 1
+        },
+        {
+          "title": "Local opinion: Arizona is a clean energy leader. Permitting reform can help us go further - Arizona Daily Star",
+          "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQRXNzR3BXVW05ZFZiSzh3c1RWU2ZMTldFTGxSMEZRaHZNR1BYbzR1THFRb0x2ZEl2S3BjV3RqQk1IemVQTFRXemNHeHZhLW9hemdwa1JHVVFnYWsyal9fTE1McElaWkc1N3VvYzVpamNqQVhfRnNjWkZnR2FObGZOdGhldU0yRmlRQ29F?oc=5",
+          "date": "Sat, 18 Jul 2026 12:30:00 GMT",
+          "summary": "Local opinion: Arizona is a clean energy leader. Permitting reform can help us go further Arizona Daily Star",
+          "source": "news.google.com",
+          "_hash": "e3eeeb6a631dce60",
+          "_ageHours": 13,
+          "_inWindow": true,
+          "_score": 44.84657277777778,
+          "_corrob": 2
+        },
+        {
+          "title": "Trump’s Clean Energy Rollback Is Already Hitting American Jobs - Autoblog",
+          "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNbHlvQXZkWUhCVG4zZ2JzemEybUwxVmNWZ0hVbkZOU1dMQ2xpb1pRYkY3M2tvZ2xfZkFlQmMtNWdRYXJxeFdNQ2JGMHZtTTZ1V2FzeDRydlNGYUkyXzdiQTA2dWVmeWNRNm90RDJ2SjJfN0lxaVBjMTRveDNaczhrTEtOeFZWUlVyUXhHandlU0lkbXpTeEE?oc=5",
+          "date": "Sat, 18 Jul 2026 15:45:00 GMT",
+          "summary": "Trump’s Clean Energy Rollback Is Already Hitting American Jobs Autoblog",
+          "source": "news.google.com",
+          "_hash": "027dadff3d3b1a79",
+          "_ageHours": 10,
+          "_inWindow": true,
+          "_score": 43.09657277777778,
+          "_corrob": 1
+        },
+        {
+          "title": "Tesla&#8217;s Offensive in South America Continues as the Brand Arrives in Uruguay, Cuts Prices in Chile",
+          "link": "https://cleantechnica.com/2026/07/17/teslas-offensive-in-south-america-continues-as-the-brand-arrives-in-uruguay-cuts-prices-in-chile/",
+          "date": "Fri, 17 Jul 2026 18:03:00 +0000",
+          "summary": "Seven months ago, we announced that Tesla had arrived in the Colombian market looking for blood. With a Model 3 launched below $30,000 and a Model Y below $32,500, the brand was offering a premium feeling for mass market prices, outcompeting pretty much everyone else in the EV landscape, including ... [continued] The post Tesla&#8217;s Offensive in South America Continues as the Brand Arrives in Uruguay, Cuts Prices in Chile appeared first on CleanTechnica .",
+          "source": "cleantechnica.com",
+          "_hash": "1b7dc3c2510e5cc2",
+          "_ageHours": 32,
+          "_inWindow": true,
+          "_score": 39.39657277777778,
+          "_corrob": 1
+        },
+        {
+          "title": "Xinjiang's clean energy exceeds 60%, cementing green hub status - news.cgtn.com",
+          "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOeXktUi1BWmNnbk9LbVBmM1FjNXIzUllJQm1ndzNZbmVJd1Fib1UzSF9QdEdmTVRLQmRSaHlaa2RIYVVSeDRXeXlxRW1PcVl2UDRsM2tkUGl4NW9lR2s5YUdYUzJvNF85anp5UUhoUE92NjktQTFpQ3M1RDBpMVpuaVRWN2ZtaUkyckMtWWFzNHpfVjd4NTFWR0pDd2p4blh3enRCcWFxT3RFdmluYksyUzJVOGxMR3BxWkE?oc=5",
+          "date": "Sat, 18 Jul 2026 09:50:28 GMT",
+          "summary": "Xinjiang's clean energy exceeds 60%, cementing green hub status news.cgtn.com",
+          "source": "news.google.com",
+          "_hash": "f979b5387ae6a211",
+          "_ageHours": 16,
+          "_inWindow": true,
+          "_score": 37.18768361111111,
+          "_corrob": 1
+        },
+        {
+          "title": "MA regulations needed to eliminate obstacles to clean energy | letter - MetroWest Daily News",
+          "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxPSEpQcmlqOERkbUFYeXFDRVFCalU4RWo4X3phRFQ1RXdfRE1wNGpCdzdEZzdhbVZSZkdSN1JKVEo0RDlocTJVZlJaRkY3ZFNiRlRZZmpPZDl4WVJUbFE5bmplaElWYWJvaVlETEE3ZFNHZlUyUWtQU0pob1JxRjZuNFlKX1hqZHZhVGI4eDU0Sk45OE5mMlhqazFTMEdOM3RQSy1KaG1PZlZKRUF4QkJOWXBxYTVldktLemczNjlSM1k2M0N5QXdSUW9LU1BzeUdfSHB5TWFwZlgxTDIzUnc?oc=5",
+          "date": "Sat, 18 Jul 2026 08:46:00 GMT",
+          "summary": "MA regulations needed to eliminate obstacles to clean energy | letter MetroWest Daily News",
+          "source": "news.google.com",
+          "_hash": "a41a6dc014bf8c82",
+          "_ageHours": 17,
+          "_inWindow": true,
+          "_score": 36.113239444444446,
+          "_corrob": 1
+        },
+        {
+          "title": "Nano Nuclear Energy (NASDAQ:NNE) Downgraded to Strong Sell Rating by Wall Street Zen - MarketBeat",
+          "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQc1FCMlF0ZmNOdFphakh2R25rcW0ybjB6XzdFeFJUbkk4WGJZbC1oeWxsOEcxaDJCaDRjUW5yVHh5MllsRmp5RE5VZXdvTzRqMU1ROFZfZG04bUlOSkRKcjdSSzBidzY2T01NRVdVSE9wNlBFTUVzSUdTNHQ3SFNXdDUwWTN0ZzF6Um9LaEU0MERXZ0RPSzFEb3NELVhUakxweXBWbkhWbEpKVFFMYmNmcEhVblZPemJuQkV6dE9nTGhUU0s0QWVWeENORDZrcDZa?oc=5",
+          "date": "Sat, 18 Jul 2026 05:58:06 GMT",
+          "summary": "Nano Nuclear Energy (NASDAQ:NNE) Downgraded to Strong Sell Rating by Wall Street Zen MarketBeat",
+          "source": "news.google.com",
+          "_hash": "8cf0494c39d2f4d1",
+          "_ageHours": 20,
+          "_inWindow": true,
+          "_score": 33.314905833333334,
+          "_corrob": 1
+        }
+      ]
+    }
+  }
+}
