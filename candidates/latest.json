@@ -1,153 +1,153 @@
 {
   "date": "2026-07-24",
-  "generatedAt": "2026-07-24T03:50:46.044Z",
+  "generatedAt": "2026-07-24T05:42:14.143Z",
   "pillars": {
     "ai": {
       "name": "Artificial Intelligence",
       "candidates": [
         {
-          "title": "OpenAI is making big claims as it rolls out ChatGPT Health to everyone",
-          "link": "https://www.theverge.com/ai-artificial-intelligence/970115/openai-chatgpt-health-launch-claims",
-          "date": "2026-07-23T13:00:00-04:00",
-          "summary": "OpenAI is rolling out ChatGPT Health to everyone in the US on Thursday, allowing more people to connect their medical records and health-tracking information to the chatbot. During a briefing, Ashley Alexander, OpenAI's vice president of health product, says the company's models \"are now capable of reasoning at levels that are better than clinician level.\" [&#8230;]",
-          "source": "www.theverge.com",
-          "_hash": "9f1d6c353b786647",
-          "_ageHours": 11,
+          "title": "Agent-Guided Relational Concept Discovery: Toward Interpretable Surgical Margin Assessment",
+          "link": "https://arxiv.org/abs/2607.21437",
+          "date": "Fri, 24 Jul 2026 00:00:00 -0400",
+          "summary": "arXiv:2607.21437v1 Announce Type: new Abstract: Deep learning models can effectively use Rapid Evaporative Ionization Mass Spectrometry (REIMS) data for surgical margin assessment. However, their clinical adoption remains challenging due to limited generalization to operating room conditions. This difficulty arises because models are typically trained on labeled spectra collected from resected tissue samples, while they must operate on noisy, unlabeled data acquired directly during surgery. In a",
+          "source": "rss.arxiv.org",
+          "_hash": "92dd33de59c08857",
+          "_ageHours": 2,
           "_inWindow": true,
-          "_score": 54.15367333333333,
+          "_score": 69.29584833333334,
           "_corrob": 1
         },
         {
-          "title": "Warner unveils agenda to help regulate artificial intelligence, data centers - WRIC ABC 8News",
-          "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNZ3lQemVzZ3Y4UnZEb2JJN194YXVMX3dNNVlDUk1xUzNURDRRdmIyRXZFWl81bEw4RXY5ZHRob0ZDWElHOXdSZUJqcnhxdUNvYWowdkJhR2dUeU1zZXlzWElrbUlJczY1Ym9CSURmQ3F2QnhQd1hSRHR2Z09QOUVzM2hHV1pDenlxOFdaMDE2N0dQS0RoNnBqOUF2cDMwY2RFWXU5WF9DcEt5SzlZdWxjRU81YnJHb2h1TjBBLUM4d2x6aGpQS01MZmV30gHPAUFVX3lxTE1NSXNfd3JkUE5nM0JvUkExbndoc3VMbHZOQUtSVUozX1hJcE9ocEQxRUszUjlYNzJGUnc0Rl91bnpYcWIyaHBIaTJma3p5cUlWUFFEVFRUTE05QlR5U0g3TXNQdEtvV2RyMFQ5aENZUl9lb21pd1hhSWpPSk9CVjhwVFhFVG90Skt2WTdiejE5YWl6YmVfRXQ2R3NrRll2TFd6X3VTNDBtRjctNVh6ZG9jeFNsOXQ5aE9RdEpEaVR3MWxTbmRqS1Z6TnNjSXZGVQ?oc=5",
-          "date": "Thu, 23 Jul 2026 21:35:53 GMT",
-          "summary": "Warner unveils agenda to help regulate artificial intelligence, data centers WRIC ABC 8News",
-          "source": "news.google.com",
-          "_hash": "aa05cb6cc88c893f",
-          "_ageHours": 6,
+          "title": "Leveraging Biokinetic Knowledge Priors for Data-Scarce Bioprocess Modeling",
+          "link": "https://arxiv.org/abs/2607.20539",
+          "date": "Fri, 24 Jul 2026 00:00:00 -0400",
+          "summary": "arXiv:2607.20539v1 Announce Type: cross Abstract: While deep learning has accelerated drug discovery, its impact on biomanufacturing has been considerably more limited. The reason is data scarcity. Bioreactor experiments are high-cost, take days to weeks, and are rarely shared in public form, leaving each research work with only a handful of experiments. The domain itself, however, is rich in prior knowledge. Biokinetic ordinary differential equation (ODE) models have described microbial growth ",
+          "source": "rss.arxiv.org",
+          "_hash": "ac456dadc358d0fe",
+          "_ageHours": 2,
           "_inWindow": true,
-          "_score": 52.75172722222222,
+          "_score": 64.29584805555555,
+          "_corrob": 0
+        },
+        {
+          "title": "From Atoms to Entropy: Optimal Noise Allocation for Diffusion Training in the Convex Regime",
+          "link": "https://arxiv.org/abs/2607.20540",
+          "date": "Fri, 24 Jul 2026 00:00:00 -0400",
+          "summary": "arXiv:2607.20540v1 Announce Type: cross Abstract: How should a diffusion model decide which noise levels to train on, and how much? Despite the importance of this choice, current noise schedules are based largely on heuristics or empirical tuning. Here, we develop a general statistical framework for studying asymptotically optimal noise-level allocation in diffusion training. Our first main result concerns the fully coupled regime, where information can spread between different time points. Unde",
+          "source": "rss.arxiv.org",
+          "_hash": "384c1665dac626a9",
+          "_ageHours": 2,
+          "_inWindow": true,
+          "_score": 64.29584805555555,
+          "_corrob": 0
+        },
+        {
+          "title": "Foundation-model-guided radiogenomic discovery linking cancer genomes to cancer scans",
+          "link": "https://arxiv.org/abs/2607.20583",
+          "date": "Fri, 24 Jul 2026 00:00:00 -0400",
+          "summary": "arXiv:2607.20583v1 Announce Type: cross Abstract: The function of many genes is still unknown, and conventional driver-discovery methods, which rely on how frequently a gene is mutated, cannot assess genes that are only rarely affected. Here we pair Evo~2-based genome analysis with routine clinical imaging to identify gene--phenotype associations at genome-wide scale. For every somatic mutation across three TCGA cohorts (cRCC=clear cell renal cell carcinoma, HCC=hepatocellular carcinoma, and BC=",
+          "source": "rss.arxiv.org",
+          "_hash": "1f733fe6db84cf56",
+          "_ageHours": 2,
+          "_inWindow": true,
+          "_score": 64.29584805555555,
+          "_corrob": 0
+        },
+        {
+          "title": "Scaling Up Formal Representation of Clinical Trial Protocols in Ensemble Logic Using LLMs: A Preliminary Study",
+          "link": "https://arxiv.org/abs/2607.21307",
+          "date": "Fri, 24 Jul 2026 00:00:00 -0400",
+          "summary": "arXiv:2607.21307v1 Announce Type: cross Abstract: The reliance on unstructured free text for documenting clinical trial protocols creates a significant barrier to automated reasoning, cohort discovery, and trial simulation. The lack of formal structure obscures critical temporal phenotypes, such as dynamic eligibility criteria and event timing constraints. Although Temporal Ensemble Logic (TEL) offers an expressive framework for modeling these elements, manual encoding remains a prohibitive bott",
+          "source": "rss.arxiv.org",
+          "_hash": "684664f37a2fe0dd",
+          "_ageHours": 2,
+          "_inWindow": true,
+          "_score": 64.29584750000001,
+          "_corrob": 0
+        },
+        {
+          "title": "AI Security Policy Should Assess Systems, Not Only Models",
+          "link": "https://arxiv.org/abs/2605.09504",
+          "date": "Fri, 24 Jul 2026 00:00:00 -0400",
+          "summary": "arXiv:2605.09504v2 Announce Type: replace-cross Abstract: We present swarm-attack, an open-source adversarial testing framework in which multiple lightweight LLM agents coordinate through shared memory, parallel exploration, and evolutionary optimization. Together, our results demonstrate that both safety bypass of frontier models and software vulnerability discovery, i.e., the capability class that motivated restricted release of Anthropic's Mythos Preview, are achievable at effectively zero co",
+          "source": "rss.arxiv.org",
+          "_hash": "eb6c94cabb136c0a",
+          "_ageHours": 2,
+          "_inWindow": true,
+          "_score": 64.29584694444443,
+          "_corrob": 0
+        },
+        {
+          "title": "Understanding and Accelerating the Training of Masked Diffusion Language Models",
+          "link": "https://arxiv.org/abs/2605.13026",
+          "date": "Fri, 24 Jul 2026 00:00:00 -0400",
+          "summary": "arXiv:2605.13026v2 Announce Type: replace-cross Abstract: Masked diffusion models (MDMs) have emerged as a promising alternative to autoregressive models (ARMs) for language modeling. However, MDMs are known to learn substantially more slowly than ARMs, which may become problematic when scaling MDMs to larger models. Therefore, we ask the following question: how can we accelerate standard MDM training while maintaining its final performance? To this end, we first provide a detailed analysis of w",
+          "source": "rss.arxiv.org",
+          "_hash": "df53f95fc94ea466",
+          "_ageHours": 2,
+          "_inWindow": true,
+          "_score": 64.29584694444443,
+          "_corrob": 0
+        },
+        {
+          "title": "Fragile Preferences: A Deep Dive Into Order Effects in Large Language Models",
+          "link": "https://arxiv.org/abs/2506.14092",
+          "date": "Fri, 24 Jul 2026 00:00:00 -0400",
+          "summary": "arXiv:2506.14092v4 Announce Type: replace Abstract: Large language models (LLMs) are increasingly deployed in decision-support systems for high-stakes domains such as hiring and university admissions, where choices often involve selecting among competing alternatives. While prior work has noted position biases in LLM-driven comparisons, these biases have not been systematically analyzed or linked to underlying preference structures. We present the first comprehensive study of position biases acr",
+          "source": "rss.arxiv.org",
+          "_hash": "5018a9c0a91ec83c",
+          "_ageHours": 2,
+          "_inWindow": true,
+          "_score": 63.29584722222222,
           "_corrob": 1
         },
         {
-          "title": "Universities ask for $24.5 million to launch and maintain artificial intelligence system - South Dakota Searchlight",
-          "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOMlJjeC1wUG83SGxOeU5MVDVXeDVIMGx0cGJxLUNzdmR3SFdTa0hwTFVCR3NhemZ6cWhCYThYcGxVdkROWFdnUFZqZ0NaOTdBUGVXbmRaeVBjeUxaZGh5MlFsNmVjYlRmUnhqa2J6S1JPVHgzU013d043RHlqVThGSzRWY01Lb1lGTThFRUVhWWtNMnJPM2t4bVhXTUtaa3FiUkpGMkNOOFZKQU1LTEtGSXVUUEpUbXhPZHBPQzV0TjhuNzZyUEZ1SFFEQ205WFE?oc=5",
-          "date": "Thu, 23 Jul 2026 21:27:41 GMT",
-          "summary": "Universities ask for $24.5 million to launch and maintain artificial intelligence system South Dakota Searchlight",
-          "source": "news.google.com",
-          "_hash": "485eb447070e7f75",
-          "_ageHours": 6,
+          "title": "Generative Artificial Intelligence in Bioinformatics: A Systematic Review of Models, Applications, and Methodological Advances",
+          "link": "https://arxiv.org/abs/2511.03354",
+          "date": "Fri, 24 Jul 2026 00:00:00 -0400",
+          "summary": "arXiv:2511.03354v2 Announce Type: replace-cross Abstract: Generative artificial intelligence (GenAI) is transforming bioinformatics by advancing genomics, proteomics, transcriptomics, structural biology, and drug discovery. Following the Preferred Reporting Items for Systematic Reviews and Meta-Analyses framework, this review addresses six research questions to evaluate influential GenAI strategies in terms of methodological innovation, predictive performance, specialization, limitations, and da",
+          "source": "rss.arxiv.org",
+          "_hash": "d726cbae371caf81",
+          "_ageHours": 2,
           "_inWindow": true,
-          "_score": 52.61506055555556,
+          "_score": 63.29584694444444,
           "_corrob": 1
         },
         {
-          "title": "Northeastern Illinois University Becomes First Public University in Chicago to Launch Bachelor of Science Degree in Artificial Intelligence - Morningstar",
-          "link": "https://news.google.com/rss/articles/CBMipwJBVV95cUxOSnI5ZDFGejFyNDgwYTVjUWhCUkd4dEVxeXNCX2xZRGU5czAzZWdMZm1vUmcwZ2RReXoxdF9wN3Z2ZGo5emtCcEtpZF8wQlhCVS10NHNVX3psS1lESkw4MmlhZ1VhS2xiZ1BKNjY3d2ZuS21hQzUxX3JRbW9fWjdZU3cyemVIM2NDTVpRaGJHcHNwX0t3MTd0OHBRMW5XU2h5LWxJRjctbklzdWx2d3ppTWJscjk5dmJSLVA5WUNBSHE4b2c5NHowMzYwZnVXR1pFa2d2TkxjS01Felk5S0xMTEJvbW1udkRMUnFuREZGNnZtVkJlcnFJWXNHV3NreUt0dUE5UmloZ1Nocm9vZmpzZTlFdXh2bHVCRkhmWDZwYXE1NmNHMFUw?oc=5",
-          "date": "Thu, 23 Jul 2026 13:09:39 GMT",
-          "summary": "Northeastern Illinois University Becomes First Public University in Chicago to Launch Bachelor of Science Degree in Artificial Intelligence Morningstar",
-          "source": "news.google.com",
-          "_hash": "008fac69487b086d",
-          "_ageHours": 15,
+          "title": "Marking the Wrong Symptoms: Evaluating LLM Watermarks in Medical Texts",
+          "link": "https://arxiv.org/abs/2607.20462",
+          "date": "Fri, 24 Jul 2026 00:00:00 -0400",
+          "summary": "arXiv:2607.20462v1 Announce Type: new Abstract: Large language models (LLMs) are increasingly integrated into clinical workflows, stressing the need for reliable traceability of model-generated output with watermarking. Yet, most watermarks are evaluated on general-purpose benchmarks, leaving domains like medicine, where small token-level perturbations can result in significant semantic changes, underexplored. In this work, we present the first rigorous study of how LLM watermarks affect medical",
+          "source": "rss.arxiv.org",
+          "_hash": "8f761f2004107a26",
+          "_ageHours": 2,
           "_inWindow": true,
-          "_score": 50.314505,
-          "_corrob": 1
+          "_score": 58.29584888888889,
+          "_corrob": 0
         },
         {
-          "title": "Indianapolis businesses use artificial intelligence to stop shoplifting - WISH-TV",
-          "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBES2wwQktmYy1nanhpOUhQa3RwUUxYZHAwcW1CMmJtRlFOcUVlRWZBTURDVVU1Vzk3by1zb3p2VGEzS0lFVTJwenFFdGNkUkhKZHB1TllhTl9ZR3pveVduRTVGVDJGWnhhQzhNRg?oc=5",
-          "date": "Thu, 23 Jul 2026 23:41:00 GMT",
-          "summary": "Indianapolis businesses use artificial intelligence to stop shoplifting WISH-TV",
-          "source": "news.google.com",
-          "_hash": "b7e0bdaf2b3dec44",
-          "_ageHours": 4,
+          "title": "DC-Leap: Training-Free Acceleration of dLLMs via Draft-Guided Contiguous Leaping Decoding",
+          "link": "https://arxiv.org/abs/2607.20467",
+          "date": "Fri, 24 Jul 2026 00:00:00 -0400",
+          "summary": "arXiv:2607.20467v1 Announce Type: new Abstract: While parallel decoding is central to the efficiency of Diffusion Large Language Models (dLLMs), current strategies are often hindered by overly conservative confidence thresholds. These thresholds, necessitated by the Joint Probability Dependence Error (JPDE), result in redundant denoising iterations and suboptimal inference speeds. To overcome this, we propose DC-Leap, a training-free framework that enables reliable acceleration of dLLMs in the m",
+          "source": "rss.arxiv.org",
+          "_hash": "ff3a299d600df6d0",
+          "_ageHours": 2,
           "_inWindow": true,
-          "_score": 48.837005,
-          "_corrob": 1
+          "_score": 58.29584888888889,
+          "_corrob": 0
         },
         {
-          "title": "Google launches global study of millions of AI chats to understand how people use artificial intelligence - Fox Business",
-          "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOUHEtY0ExNUVKXzRkN3p4aHFqWkxteWU0LVduY0c2bXBYWFFvdmtQV3lXRlpFMjZPZmp2enpNQTdwaXo3YVJlZEZwa2pIZVVLRzlvSG5jU0ZaNVAzSVVhTmFCVXZia21pck56czkxYXhCU3N2YW5BcVdTMWxJZ1FBVnZUSXpCbmV1c0NjSUxtX2dlSnJVZFlFYmFiS3doN2dfZzM0OFlpallScWxDZUVmbktJUEJoUy1Ga3BNdmRtQjJsMF8tSktMZ0FNY0FSRlFM0gHWAUFVX3lxTFBkQ25DVTJicW5MZ1lRUWdFMnluLUwxV3hHZEFwSm4yc3lQbVIzc1I3dmV2ZGdNT0tBOE5BTGJLM2JwVnhTQWs4WG01cEZFNGdYTDlHQjFaQUprVkp0SnNqVWRBQUNNaFBpRUxubWhuZi1SNnJJcWlVNkJjZlQ3WkY5aUxzNERKTnVXYTZoYUhuVmx6NWt2SVFWYjgzSnIxdnAyVERqRjhIQ3FMZXJGdV9yYXJjT0ZUS2wtdEl1SFRJbzBXVHZUdllYTnNIUzM4aS1ISEhvSlE?oc=5",
-          "date": "Thu, 23 Jul 2026 17:35:00 GMT",
-          "summary": "Google launches global study of millions of AI chats to understand how people use artificial intelligence Fox Business",
-          "source": "news.google.com",
-          "_hash": "b316c5d253c56dec",
-          "_ageHours": 10,
+          "title": "Incomplete Prompt Jailbreaks in Large Language Models",
+          "link": "https://arxiv.org/abs/2607.20473",
+          "date": "Fri, 24 Jul 2026 00:00:00 -0400",
+          "summary": "arXiv:2607.20473v1 Announce Type: new Abstract: Large language models (LLMs) are increasingly released as open-weight models with safeguards against harmful requests. Nevertheless, sentence completion remains vulnerable to incomplete harmful prompts. In this work, we formalize this phenomenon as incomplete prompt jailbreaks (IPJ) and provide a systematic empirical characterization of when and how incomplete prompts elicit harmful continuations. We analyze diverse attractor types associated with ",
+          "source": "rss.arxiv.org",
+          "_hash": "4f3d2d54c46749a3",
+          "_ageHours": 2,
           "_inWindow": true,
-          "_score": 48.737004999999996,
-          "_corrob": 1
-        },
-        {
-          "title": "Indiana businesses use artificial intelligence to enhance security - Yahoo",
-          "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPV1YwdjByOEtGa0ZhRFJQTVJWU3M5c0piMTNySTZoUlphRjJVYm5SMWxjdk56WHdxamREdGdKYWZqX1lBMC1BV3paSlpZV0VlYnVvc1VnMnRqcURxdDFLd2hqaDR1UEduTXhGelRfVFRfXzFXT2dIOVFJcXdSUzdfMk5nemRnOTMwd3dRMmVhNFc4U19TNl9ZZzk1UzVKU0Vl?oc=5",
-          "date": "Thu, 23 Jul 2026 21:24:20 GMT",
-          "summary": "Indiana businesses use artificial intelligence to enhance security Yahoo",
-          "source": "news.google.com",
-          "_hash": "f816c4a68b406be1",
-          "_ageHours": 6,
-          "_inWindow": true,
-          "_score": 46.55922722222222,
-          "_corrob": 1
-        },
-        {
-          "title": "Artificial intelligence: Moving beyond the GPU - SiliconANGLE",
-          "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQQWJzWnNFY1c0d3lpNE9ObGtmYjlwWFFoUU9wVHRwTWhMR1pQZThFbXVYT25yVGl2TjRrQTRmWDNHemJ3anNUWFRHREdncGR1eE5rVnhkbnZiaUVWYmk3MGVxekNrNTNlaDJsWDBGUlhKakxRWUZZaEdVTGo0aGxJUG90NF9LckMzQ203bGJDOWlKNnFMVFNJSGxZb01zSGx1RTFzWEpn?oc=5",
-          "date": "Thu, 23 Jul 2026 21:21:56 GMT",
-          "summary": "Artificial intelligence: Moving beyond the GPU SiliconANGLE",
-          "source": "news.google.com",
-          "_hash": "793d1fe32b162cc4",
-          "_ageHours": 6,
-          "_inWindow": true,
-          "_score": 46.51922722222222,
-          "_corrob": 1
-        },
-        {
-          "title": "Spotify rolls out conversational AI chatbot to sharpen music recommendations | Artificial Intelligence - Capmad",
-          "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQeG5YY2F0RlhzYVpsalJtSGlWUTRWSzJsWkJsT2NVQjdZRzJYR210YjQyZlF0eXNRUW1nU3o2eDhyNS0yOXY1VUtvMDdOdjNnRk5Fbmc3LU1sLWl4SVE2OU5VeXZFZmNzOWNpMUdIZktCTndjYy1MVUE4b3BNS0xTYWNWSHpRTXAzWDZBZ29taTlTSnVsYm1nNWNjT2Fma0kza01jM2xZWDlNUUQxUVF5Wlh1c2lITXZEaGF6MFFKZVlXbzl3OTJSQjZKOA?oc=5",
-          "date": "Thu, 23 Jul 2026 20:58:59 GMT",
-          "summary": "Spotify rolls out conversational AI chatbot to sharpen music recommendations | Artificial Intelligence Capmad",
-          "source": "news.google.com",
-          "_hash": "379d1506f886e807",
-          "_ageHours": 7,
-          "_inWindow": true,
-          "_score": 46.13672694444445,
-          "_corrob": 1
-        },
-        {
-          "title": "NVIDIA vs. UiPath: Which Artificial Intelligence Stock Is a Better Buy in 2026? - The Motley Fool",
-          "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNNFk3Xy03RUlFbEJ5TjRKNnRfLU5KbTBTMGFpSlg2b1VRWmhOUlhxSDZSelF1SEJpR0UtOEdZeFFETDBLcUZTS1Fzd3FkMlI3UG9MNkhfQ2ZxUEtaMDl0QVZsTWF5bHJsTl85czhqUmRrSWNLYVpWVFRSaGlSQWM4VmFHNzMtRWhGWV93ZlhNY21Ra3pxN2tIb1ZJc2FVOGQxYk52aEZTQnVSdzRrTW11ZTVlTDRkdmdObGtRMXE3OTBKR3RKaHdtaA?oc=5",
-          "date": "Thu, 23 Jul 2026 20:57:00 GMT",
-          "summary": "NVIDIA vs. UiPath: Which Artificial Intelligence Stock Is a Better Buy in 2026? The Motley Fool",
-          "source": "news.google.com",
-          "_hash": "b6dd9bd0354cc3e6",
-          "_ageHours": 7,
-          "_inWindow": true,
-          "_score": 46.10367166666667,
-          "_corrob": 1
-        },
-        {
-          "title": "The Echo Show 21 is a great smart home hub that’s $80 off",
-          "link": "https://www.theverge.com/gadgets/970254/amazon-echo-show-21-deal-sale",
-          "date": "2026-07-23T16:36:40-04:00",
-          "summary": "Split between buying a smart calendar, a kitchen TV, a smart home hub, and a smart display? Amazon’s Echo Show 21 is all of those things in one, with a huge 21-inch screen. You can use it to control your smart lights, glance at recipes, watch TV shows, and more. Currently, Best Buy and Home [&#8230;]",
-          "source": "www.theverge.com",
-          "_hash": "95709a0fc453d041",
-          "_ageHours": 7,
-          "_inWindow": true,
-          "_score": 45.764784444444444,
-          "_corrob": 1
-        },
-        {
-          "title": "NVIDIA vs. UiPath: Which Artificial Intelligence Stock Is a Better Buy in 2026? - The Globe and Mail",
-          "link": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxNZF9sYkpyMHNETW41VGtXMjlad1pRcGRjanhwUmt0NmFseWREVjdiTHlscS1nUDZVV09hbGYtcjM1a3NmT1RtNjhTUEZ1S19ZUUtzWWFybkxaSUJYWDdiTlFTTmFjaXlYWmYwM0EyT1ltNkNIeXpnZzc0U0lpX1doTU44bDRXcUN3dm13a2RLVzJlRVBHWk91NDNyN1ZrSHMwWVpmcmhqRmNhSlIzdDBVNktqN2lmOW01OGhDZkhjMjg4Q0g4eE93TkJ2Z2R3TEc4RFQteENjNUJDOExYQXFRUVlrNXJIaVdKeXlOa3ZJby14dVk?oc=5",
-          "date": "Thu, 23 Jul 2026 20:25:32 GMT",
-          "summary": "NVIDIA vs. UiPath: Which Artificial Intelligence Stock Is a Better Buy in 2026? The Globe and Mail",
-          "source": "news.google.com",
-          "_hash": "03eacac904eedf1f",
-          "_ageHours": 7,
-          "_inWindow": true,
-          "_score": 45.57922722222222,
-          "_corrob": 1
+          "_score": 58.29584888888889,
+          "_corrob": 0
         }
       ]
     },
@@ -155,15 +155,27 @@
       "name": "Space",
       "candidates": [
         {
+          "title": "A Million-Panel Project",
+          "link": "https://science.nasa.gov/earth/earth-observatory/a-million-panel-project/",
+          "date": "Fri, 24 Jul 2026 04:01:00 +0000",
+          "summary": "Utah’s new solar power and battery storage facility is among the largest in the region.",
+          "source": "www.nasa.gov",
+          "_hash": "bc12ef8e3ab18c34",
+          "_ageHours": 2,
+          "_inWindow": true,
+          "_score": 69.31235333333333,
+          "_corrob": 1
+        },
+        {
           "title": "Vulcan Centaur swapped out again: NASA goes with SpaceX Falcon Heavy rocket for launch of space weather mission",
           "link": "https://www.space.com/space-exploration/missions/vulcan-centaur-swapped-out-again-nasa-goes-with-spacex-falcon-heavy-rocket-for-launch-of-space-weather-mission",
           "date": "Thu, 23 Jul 2026 21:00:00 +0000",
           "summary": "NASA's SunRISE mission has been assigned a new launch vehicle: It will now be delivered to orbit by a SpaceX Falcon Heavy rocket rather than a United Launch Alliance Vulcan Centaur.",
           "source": "www.space.com",
           "_hash": "ab43d064b43611fd",
-          "_ageHours": 7,
+          "_ageHours": 9,
           "_inWindow": true,
-          "_score": 68.15353722222221,
+          "_score": 66.29568666666667,
           "_corrob": 3
         },
         {
@@ -173,10 +185,22 @@
           "summary": "Vulcan Centaur swapped out again: NASA goes with SpaceX Falcon Heavy rocket for launch of space weather mission Space",
           "source": "news.google.com",
           "_hash": "ecb956cba2023b5c",
-          "_ageHours": 7,
+          "_ageHours": 9,
           "_inWindow": true,
-          "_score": 62.15353694444445,
+          "_score": 60.29568638888889,
           "_corrob": 3
+        },
+        {
+          "title": "Poland commits $745 million to EU’s IRIS² constellation project",
+          "link": "https://spacenews.com/poland-commits-745-million-to-eus-iris%c2%b2-constellation-project/",
+          "date": "Thu, 23 Jul 2026 21:14:49 +0000",
+          "summary": "WARSAW, Poland — The Polish government has agreed to invest around $745 million in the development of the planned IRIS² multi-orbit satellite internet constellation with the European Union.&#160; The money [&#8230;] The post Poland commits $745 million to EU’s IRIS² constellation project appeared first on SpaceNews .",
+          "source": "spacenews.com",
+          "_hash": "096051a0d7059053",
+          "_ageHours": 8,
+          "_inWindow": true,
+          "_score": 56.54263111111111,
+          "_corrob": 1
         },
         {
           "title": "Live coverage: SpaceX ready for 2nd attempt to launch Starship Flight 13 following post-abort engine work",
@@ -185,9 +209,9 @@
           "summary": "The flight was delayed another day as Tropical Storm Bertha was expected to make landfall in Texas on Thursday. Liftoff of the Starship Flight 13 mission is scheduled during a 90-minute window that opens on Friday, July 24, at 5:45 p.m. CDT (6:45 p.m. EDT / 2245 UTC).",
           "source": "spaceflightnow.com",
           "_hash": "e82a59f2d6fc48d1",
-          "_ageHours": 9,
+          "_ageHours": 10,
           "_inWindow": true,
-          "_score": 55.367426111111115,
+          "_score": 53.50957555555556,
           "_corrob": 2
         },
         {
@@ -197,9 +221,9 @@
           "summary": "University System of Maryland and NASA Sign Five-Year Space Act Agreement to Advance Student Innovation in Space Exploration Business Wire",
           "source": "news.google.com",
           "_hash": "7ad5d0a7d4e169ae",
-          "_ageHours": 9,
+          "_ageHours": 10,
           "_inWindow": true,
-          "_score": 54.43687027777778,
+          "_score": 52.57901972222222,
           "_corrob": 3
         },
         {
@@ -209,9 +233,9 @@
           "summary": "NASA has long eyed the moon's south pole for its first crewed Artemis landing. But Artemis II astronaut Victor Glover says the agency should target an easier and safer place to touch down.",
           "source": "www.space.com",
           "_hash": "e89750be23ebc9ab",
-          "_ageHours": 16,
+          "_ageHours": 18,
           "_inWindow": true,
-          "_score": 54.153537222222226,
+          "_score": 52.29568666666667,
           "_corrob": 2
         },
         {
@@ -221,9 +245,9 @@
           "summary": "DOE allocates HALEU to space exploration Metal Tech News",
           "source": "news.google.com",
           "_hash": "4ec831dfbf11c7b8",
-          "_ageHours": 5,
+          "_ageHours": 7,
           "_inWindow": true,
-          "_score": 52.55881472222222,
+          "_score": 50.700964166666665,
           "_corrob": 2
         },
         {
@@ -233,22 +257,10 @@
           "summary": "SAN FRANCISCO – Space startup veteran Mark Matossian has joined forces with a software engineer and a best-selling author to establish Whipsmart Ventures, a venture capital fund focused on space [&#8230;] The post Mark Matossian co-founds Whipsmart Ventures to fund space and deep tech appeared first on SpaceNews .",
           "source": "spacenews.com",
           "_hash": "49b52f35da4eafb3",
-          "_ageHours": 8,
+          "_ageHours": 10,
           "_inWindow": true,
-          "_score": 50.540481944444444,
+          "_score": 48.68263111111111,
           "_corrob": 1
-        },
-        {
-          "title": "Here's the Biggest Risk Facing SpaceX (Hint: It's Not Another Failed Starship Launch) - The Globe and Mail",
-          "link": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxQM0xXNUZKZzBSX2tEQmhzX0ZGQkxraEZ6OGR4MWM4dHBhQ3pjTFBJeG9ybjk3X1Etb1ItUjZ3cFYyNDJXR2NlV0ptaUNBOXdqZDUwcU1qSmNTSGFTbFpic0ZGMXMxV3NhS1phTGk5NlFhVDhpSGRHVldZbTFLOUpSY2x2OWU0UUZmMmJHUXdiTGM0N2g4ell6Qnp3VFpyZ2NERzRJV0xuU181a2dLc3pMbHFTWlFUSW8xM0lnWmM3a2NoS3hpV240eHRua0x3Y2UzS3EtcnppTy1wN19UWjYzVXJmQTQybm1mYnhsWi1KcUNBNDZFRlE?oc=5",
-          "date": "Thu, 23 Jul 2026 14:00:32 GMT",
-          "summary": "Here's the Biggest Risk Facing SpaceX (Hint: It's Not Another Failed Starship Launch) The Globe and Mail",
-          "source": "news.google.com",
-          "_hash": "b33a1315502c121e",
-          "_ageHours": 14,
-          "_inWindow": true,
-          "_score": 50.16242583333333,
-          "_corrob": 2
         },
         {
           "title": "NASA Astronaut Chris Williams Closes Out Space Station Mission",
@@ -257,9 +269,9 @@
           "summary": "After eight months aboard the International Space Station for his first mission, NASA astronaut Chris Williams is preparing to return to Earth. During his assignment, Williams contributed to research for new cancer treatments, advanced the production of materials to improve computers and electronics, ventured into the vacuum of space to complete two spacewalks, and much [&#8230;]",
           "source": "www.nasa.gov",
           "_hash": "32967b7133a2f78f",
-          "_ageHours": 14,
+          "_ageHours": 16,
           "_inWindow": true,
-          "_score": 50.1535375,
+          "_score": 48.29568666666667,
           "_corrob": 2
         },
         {
@@ -269,9 +281,9 @@
           "summary": "Airbus executives say the turnaround in the company’s space business came just in time to tap growing demand, particularly from Europe, for space capabilities as it pursues a joint venture. The post Airbus space business takes advantage of growing demand for satellite systems appeared first on SpaceNews .",
           "source": "spacenews.com",
           "_hash": "2381c70cf84600ed",
-          "_ageHours": 16,
+          "_ageHours": 18,
           "_inWindow": true,
-          "_score": 48.07631527777778,
+          "_score": 46.21846444444444,
           "_corrob": 2
         },
         {
@@ -281,21 +293,9 @@
           "summary": "NASA astronauts make space ‘cake’ to celebrate new crew members keysnews.com",
           "source": "news.google.com",
           "_hash": "8abbe7e8e4a0a6b9",
-          "_ageHours": 10,
-          "_inWindow": true,
-          "_score": 47.76437027777778,
-          "_corrob": 2
-        },
-        {
-          "title": "NASA's retired astronauts are hitting the road to get young people to vote: 'one small step for you, and one giant leap for our country.' - Space",
-          "link": "https://news.google.com/rss/articles/CBMimAJBVV95cUxQOW1aSnIyQVNVX0pFd1JlUE1NZ0ZGS2hHcVowcW9LUzYzQkI3TkpRZy00UzZzUkVBUHJUaHJfTS1pLUJZWGR3TTJDT0p4SkVJN2NheU80bE9aclh2QVN3aktYeFAxTTBtbDN6YWhwakZfQ0lxS1l5RW9XZGdiOTlta0FhUmQ5S3FlZ0l0M1FPWnFZNEdUcGh1aDNncWdQNXc5SGlFX3pSTnI4MU1rQXk5SGJ5RzdoY3FydzVsOEx1b3V4ZWpTRzRic1NJYW11c04ycnV6SkJoMzJLREtGaTRSVU1wLVYtN3FtNDFvZG1DbGhCQ1JNbUo1UDZldjFlTVQ0b2R3eTA4VGpVSEU0dFgyTi1JYlRIUVVk?oc=5",
-          "date": "Thu, 23 Jul 2026 16:00:00 GMT",
-          "summary": "NASA's retired astronauts are hitting the road to get young people to vote: 'one small step for you, and one giant leap for our country.' Space",
-          "source": "news.google.com",
-          "_hash": "085d543659f30ab5",
           "_ageHours": 12,
           "_inWindow": true,
-          "_score": 46.15353694444445,
+          "_score": 45.90651972222222,
           "_corrob": 2
         }
       ]
@@ -310,9 +310,33 @@
           "summary": "BitMEX will have removed 65 derivative contracts and trading pairs in July, compared with just 19 across the first six months of the year.",
           "source": "cointelegraph.com",
           "_hash": "c6e9c5c6bbaa792c",
+          "_ageHours": 3,
+          "_inWindow": true,
+          "_score": 71.13526083333333,
+          "_corrob": 4
+        },
+        {
+          "title": "KULR Technology Moves $9.5M in Bitcoin to Coinbase Prime, Signaling Strategy Shift - Cryptonews.net",
+          "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE14V09ZZTNielRFUkN4dExCeDBsaWdzTkllMC1zcS1EbzhoTm5pa1dwZFdNUmJZNy1nUUdOcUQwSHhHYWFUU3JjTmMtUG9zdkxnRDFZSk9aN2U?oc=5",
+          "date": "Fri, 24 Jul 2026 04:49:47 GMT",
+          "summary": "KULR Technology Moves $9.5M in Bitcoin to Coinbase Prime, Signaling Strategy Shift Cryptonews.net",
+          "source": "news.google.com",
+          "_hash": "740cc4d6af77b6bb",
           "_ageHours": 1,
           "_inWindow": true,
-          "_score": 72.99313916666667,
+          "_score": 67.12526055555556,
+          "_corrob": 4
+        },
+        {
+          "title": "Crypto Market Overview: Bitcoin tests 50-day EMA support – Pi Network and Sky lead losses - FXStreet",
+          "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxOQzNVN2FYTXdJQTczV0xpWHFrYWdEbDNwOW1lQi1yOWQxSVJXbzQzR1lpN3c3U3QtTDhHVkQweXNfMGxyZ0daS3FEME5PZi1zLUpMMXlnSlczT2RJVGVoV1ltaTRlRGFjVTdHRE1FaFprcFZReVFJZG5YeGZsaVBPVnpYRmRYMHhocEJNR1NIeHZlV1NvWTNxbGZ0bGFldGhZczBicWpWSmZCbzU1OXd4aUptekJLWDE3MmlQRXlqUzcxTzI0MzhjTWluVG83d0I2c1JYN2pSd3ZUZlNINk04?oc=5",
+          "date": "Fri, 24 Jul 2026 04:08:08 GMT",
+          "summary": "Crypto Market Overview: Bitcoin tests 50-day EMA support – Pi Network and Sky lead losses FXStreet",
+          "source": "news.google.com",
+          "_hash": "bc44d5cfc2d7ca41",
+          "_ageHours": 2,
+          "_inWindow": true,
+          "_score": 66.43109388888888,
           "_corrob": 4
         },
         {
@@ -322,9 +346,9 @@
           "summary": "Bitcoin's Quantum Leap: Institutional Backing Validates Long-Term Security Amidst Looming Threat Kavout | AI",
           "source": "news.google.com",
           "_hash": "293f5d89f9e7502f",
-          "_ageHours": 1,
+          "_ageHours": 3,
           "_inWindow": true,
-          "_score": 66.81369444444445,
+          "_score": 64.95581611111112,
           "_corrob": 4
         },
         {
@@ -334,9 +358,9 @@
           "summary": "9 Firms Pledge $15M to Defend Bitcoin from Quantum Threats Briefs Finance",
           "source": "news.google.com",
           "_hash": "06b406b32d1dea64",
-          "_ageHours": 2,
+          "_ageHours": 4,
           "_inWindow": true,
-          "_score": 65.95980527777778,
+          "_score": 64.10192694444444,
           "_corrob": 4
         },
         {
@@ -346,9 +370,9 @@
           "summary": "Bitcoin Magazine BlackRock, Coinbase, Strategy Among Nine Firms Launching the Bitcoin Security Consortium, Pledging $15 Million To BTC Security Development Nine major Bitcoin firms launched a consortium pledging $15 million to support Bitcoin security research and long-term resilience, including quantum readiness. This post BlackRock, Coinbase, Strategy Among Nine Firms Launching the Bitcoin Security Consortium, Pledging $15 Million To BTC Security Development first appeared on Bitcoin Magazine ",
           "source": "bitcoinmagazine.com",
           "_hash": "4c8dff65c26a8a8c",
-          "_ageHours": 14,
+          "_ageHours": 16,
           "_inWindow": true,
-          "_score": 65.71536111111111,
+          "_score": 63.857483055555555,
           "_corrob": 4
         },
         {
@@ -358,10 +382,46 @@
           "summary": "Galaxy Commits $5M To Bitcoin’s Quantum-Era Security Quantum Zeitgeist",
           "source": "news.google.com",
           "_hash": "ca427ee022585941",
-          "_ageHours": 2,
+          "_ageHours": 4,
           "_inWindow": true,
-          "_score": 65.65341666666666,
+          "_score": 63.795538055555554,
           "_corrob": 4
+        },
+        {
+          "title": "Best Crypto To Buy Now: Bitcoin Stalls at $66K as AlphaPepe $2.07M Presale Demand Keeps Accelerating - StreetInsider",
+          "link": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxQNGx2M1dLVGxlbmVTaUlIcDhZZERHUTdqQm1zSUhEdGNfMTg0NDRxeEJMSVgxdDJlSTNCU0drTmd1RVg5eFJnZkZObXhkU2ZOeW5MYWEwb0E0VVpaM25uR29qWGJhV0xJdVVYSTU3VHFxYVpLZm9kNzBzRVpWaXVMam41RGtNS1BiemJrRVBIZ3RoaDJURHlBY2NtaGU1ZVVCdXBwSWpKTnVPMlhyeE1nSk9mSzcteDNaVk9fSFFpajd6amU5QkFxajBVRGdNcDBTd0ZyUFA0YTQ0c1QxS2QxaDNNUXlVNzItSUwyc19XazVfXzl1em90WHJB?oc=5",
+          "date": "Fri, 24 Jul 2026 05:31:33 GMT",
+          "summary": "Best Crypto To Buy Now: Bitcoin Stalls at $66K as AlphaPepe $2.07M Presale Demand Keeps Accelerating StreetInsider",
+          "source": "news.google.com",
+          "_hash": "29c4e779e7476722",
+          "_ageHours": 0,
+          "_inWindow": true,
+          "_score": 62.82137138888889,
+          "_corrob": 3
+        },
+        {
+          "title": "BlackRock (BLK) Faces Internal Clash In Aston Martin Talks And Backs Bitcoin Research - simplywall.st",
+          "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNX1psclZjVEQ4bjg3MGJ3cjIzdFotMnUzX3oxenF5NjVTelhtUFl1MG9FRTJtb3BCZjdOLWc0cURpbnd2ZDBTbTljbEtlQTUyX0Q2RGl2N1FlbmRFWmR4T2lBVVpiSVAtSzJ2TzF2aEJTVzU2NEFnckxTZl9zM1B4Q0J2LXd4M1RhT3VVenNybXJsQlpUQms4bWl3b3ltQnJMY0JHNTZ5R3ltQTlBejFMLVlPemhJWkJsQmlsMWVkUFFJemxCclBuXzFMckkyaHF5b1B2OHR30gHbAUFVX3lxTE5FV0Z1NGladkVqNkhCdVJHUFNULXhRNXVXNms0Zy0zMWFnYkRLS0RYcFAzRWozdXctMWhlcnhHR2RQTEtwSWI3bmJraThGdnJzTjhxdFJsTDd5aW5rdUlQeFVjbFdBbjJFbWhZWDJaai1VellWUzBERkhSQkVWMGNyY1d4S2J4WFZWQ1FTNlFndXh1LXlzNW5WQkZnM1pPOEtZeVZkSkZMZ3RpeGR5NWlpREJFSWZocGtkY3FPdUdvTXdZWTZmVkw5M0E1M0cya3pNNUVyRTJoU2E3Yw?oc=5",
+          "date": "Fri, 24 Jul 2026 05:23:37 GMT",
+          "summary": "BlackRock (BLK) Faces Internal Clash In Aston Martin Talks And Backs Bitcoin Research simplywall.st",
+          "source": "news.google.com",
+          "_hash": "d0e8853ba8323c3b",
+          "_ageHours": 0,
+          "_inWindow": true,
+          "_score": 62.689149444444446,
+          "_corrob": 3
+        },
+        {
+          "title": "Bitcoin holds near $65,000 as $800 billion AI selloff leaves crypto largely untouched",
+          "link": "https://www.coindesk.com/markets/2026/07/24/bitcoin-holds-near-usd65-000-as-usd800-billion-ai-selloff-leaves-crypto-largely-untouched",
+          "date": "Fri, 24 Jul 2026 04:43:19 +0000",
+          "summary": "The Magnificent Seven had their worst day since April 2025 after Alphabet and Tesla spooked investors on AI spending. Bitcoin fell less than 1%, and dogecoin led the majors lower.",
+          "source": "www.coindesk.com",
+          "_hash": "9b58369547ce9acb",
+          "_ageHours": 1,
+          "_inWindow": true,
+          "_score": 62.01748305555556,
+          "_corrob": 3
         },
         {
           "title": "Bitcoin slips below $65K as Trump unveils new global tariffs - Crypto News",
@@ -370,9 +430,9 @@
           "summary": "Bitcoin slips below $65K as Trump unveils new global tariffs Crypto News",
           "source": "news.google.com",
           "_hash": "8bd1876cafd5c44b",
-          "_ageHours": 6,
+          "_ageHours": 8,
           "_inWindow": true,
-          "_score": 63.307583055555554,
+          "_score": 61.449705,
           "_corrob": 3
         },
         {
@@ -382,70 +442,10 @@
           "summary": "Japan’s Crypto Law Changes Put Bitcoin ETF Hopes On A Longer Track TradingView",
           "source": "news.google.com",
           "_hash": "25aff86379e2ee26",
-          "_ageHours": 6,
-          "_inWindow": true,
-          "_score": 62.653416388888886,
-          "_corrob": 3
-        },
-        {
-          "title": "BlackRock’s IBIT Leads Nearly $1B Bitcoin ETF Recovery as Inflows Hit 7 Straight Days - Yahoo Finance",
-          "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNNFZlV1hqdTNIOXJsZXdocnh0OEprZjdvWEt6RXhVVkMtZWtVUjdqTGZsb0I0MzhPZk0zdWg0S0htRUI2a3hMN0p4SF9LbE8xbjNsUmlyMUdrZFJ4OHk4bkFEY3JsMDNaNzdBbkx3X1N4TFk0OVZVVXMxc290RzFxUXRLc3ZhRHF3UEJsU1h5OERvOVRCSjRqcnQwWQ?oc=5",
-          "date": "Thu, 23 Jul 2026 20:38:34 GMT",
-          "summary": "BlackRock’s IBIT Leads Nearly $1B Bitcoin ETF Recovery as Inflows Hit 7 Straight Days Yahoo Finance",
-          "source": "news.google.com",
-          "_hash": "b7f6e3405335ac94",
-          "_ageHours": 7,
-          "_inWindow": true,
-          "_score": 61.796194444444446,
-          "_corrob": 3
-        },
-        {
-          "title": "Q-Day: When Will Quantum Computers Actually Break Bitcoin? - BeInCrypto",
-          "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTFA0czFUVHpDdVp4c2VsSkQ3SW9vY1pSTXdWXzltVWN3cXZOVkdia2hjUld4em9CM3RFbmlMOVJvM1ZuV0thdGtjZTlfd2g1SkQwb0hDZF9OU2xCdnpSaWQ4eVluTXFSU1Jxd1ZkR19n?oc=5",
-          "date": "Thu, 23 Jul 2026 20:51:00 GMT",
-          "summary": "Q-Day: When Will Quantum Computers Actually Break Bitcoin? BeInCrypto",
-          "source": "news.google.com",
-          "_hash": "b60cafbbce866dbe",
-          "_ageHours": 7,
-          "_inWindow": true,
-          "_score": 61.00341638888889,
-          "_corrob": 4
-        },
-        {
-          "title": "Smarter Web Company Sells Bitcoin to Clear $11.7 Million Debt Facility",
-          "link": "https://bitcoinmagazine.com/news/smarter-web-company-sells-bitcoin",
-          "date": "Thu, 23 Jul 2026 19:50:36 +0000",
-          "summary": "Bitcoin Magazine Smarter Web Company Sells Bitcoin to Clear $11.7 Million Debt Facility The Smarter Web Company sold 177.89 BTC for $11.7 million to repay a convertible debt facility early, avoiding shareholder dilution while retaining a treasury of 2,700 BTC. This post Smarter Web Company Sells Bitcoin to Clear $11.7 Million Debt Facility first appeared on Bitcoin Magazine and is written by Micah Zimmerman .",
-          "source": "bitcoinmagazine.com",
-          "_hash": "6ca255e866c1a075",
           "_ageHours": 8,
           "_inWindow": true,
-          "_score": 60.99675027777778,
+          "_score": 60.795538055555554,
           "_corrob": 3
-        },
-        {
-          "title": "Coinbase Builds Post-Quantum Custody System, Funds Bitcoin&#8217;s Crypto Upgrade",
-          "link": "https://bitcoinmagazine.com/news/coinbase-building-post-quantum-solutions",
-          "date": "Thu, 23 Jul 2026 14:47:10 +0000",
-          "summary": "Bitcoin Magazine Coinbase Builds Post-Quantum Custody System, Funds Bitcoin&#8217;s Crypto Upgrade Coinbase says that while the threat isn't imminent, quantum may one day be able to break Bitcoin's cryptography. This post Coinbase Builds Post-Quantum Custody System, Funds Bitcoin&#8217;s Crypto Upgrade first appeared on Bitcoin Magazine and is written by Mathew Di Salvo .",
-          "source": "bitcoinmagazine.com",
-          "_hash": "5a9e4f65cf93e6dd",
-          "_ageHours": 13,
-          "_inWindow": true,
-          "_score": 60.939528055555556,
-          "_corrob": 4
-        },
-        {
-          "title": "Cryptocurrency exchange BitMEX to shut down - Reuters",
-          "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPSHp5TkdyUW5IcXd4ZFRpTTd5UjVxcUJWbkIxUFJxb2dPNlRsM1Q1UW8xUkdycC1RZ1hKZEN5MXVoYjFpSVl5RVEtMU1QV1ljU195Y2RCYm5MOEM4OGNpakN0YUxlaWhoNEdZd0JnNm5mY21adi1MN2dNS1JwSlBpWjFzbk5ZRkI5bml0ZG53?oc=5",
-          "date": "Thu, 23 Jul 2026 20:19:12 GMT",
-          "summary": "Cryptocurrency exchange BitMEX to shut down Reuters",
-          "source": "news.google.com",
-          "_hash": "540203eecbcbd0d2",
-          "_ageHours": 8,
-          "_inWindow": true,
-          "_score": 60.473416666666665,
-          "_corrob": 4
         }
       ]
     },
@@ -453,39 +453,39 @@
       "name": "Biotech & Longevity",
       "candidates": [
         {
-          "title": "NeuroSense prepares Health Canada approval filing for novel ALS treatment PrimeC",
-          "link": "https://longevity.technology/news/neurosense-prepares-health-canada-approval-filing-for-novel-als-treatment-primec/",
-          "date": "Thu, 23 Jul 2026 15:31:10 +0000",
-          "summary": "NeuroSense intends to proceed with a New Drug Submission to Health Canada for PrimeC for the treatment of amyotrophic lateral sclerosis after a constructive pre-NDS meeting and expects to file the submission in the coming months. The company presented an updated NDS package that it says includes achievement of the prespecified primary TDP-43 biomarker endpoint [&#8230;] The post NeuroSense prepares Health Canada approval filing for novel ALS treatment PrimeC appeared first on Longevity.Technolog",
-          "source": "longevity.technology",
-          "_hash": "6c2262f8f98a8212",
-          "_ageHours": 12,
-          "_inWindow": true,
-          "_score": 58.669579999999996,
-          "_corrob": 1
-        },
-        {
-          "title": "Ultrahuman unveils its biggest longevity platform overhaul",
-          "link": "https://longevity.technology/news/ultrahuman-unveils-its-biggest-longevity-platform-overhaul/",
-          "date": "Thu, 23 Jul 2026 15:20:41 +0000",
-          "summary": "The Emerald update redesigns the app around actionable health insights, bringing smarter guidance for everyday longevity. Can wearables finally answer the question: What now? If you’ve ever worn a fitness tracker, you’ve probably experienced a familiar feeling. You wake up, check your app and discover you slept poorly. Your stress score is higher than yesterday. [&#8230;] The post Ultrahuman unveils its biggest longevity platform overhaul appeared first on Longevity.Technology .",
-          "source": "longevity.technology",
-          "_hash": "af2d702101c7d88b",
-          "_ageHours": 13,
-          "_inWindow": true,
-          "_score": 58.49485777777778,
-          "_corrob": 1
-        },
-        {
           "title": "Biogen counts on drugs from Apellis deal to patch Leqembi's slow sales",
           "link": "https://endpoints.news/biogen-counts-on-drugs-from-apellis-deal-to-patch-leqembis-slow-sales/",
           "date": "Thu, 23 Jul 2026 14:00:25 +0000",
           "summary": "It’s no secret that sales of Leqembi have been disappointing. First approved in 2023, the Alzheimer’s drug from Eisai and Biogen launched shortly after Chris Viehbacher took the reins as Biogen CEO. Viehbacher went to ...",
           "source": "endpoints.news",
           "_hash": "3040054fd6f3dbfa",
-          "_ageHours": 14,
+          "_ageHours": 16,
           "_inWindow": true,
-          "_score": 57.15708055555555,
+          "_score": 55.30235277777778,
+          "_corrob": 1
+        },
+        {
+          "title": "BB Biotech Reports Net Profit Of CHF 451 Mln In Q2 2026 - TradingView",
+          "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNZVAyb0JBUERaWE95QW9fNDh1aUxZMEQyUVN2Nm4waWNqSzBFZDFYNFZtdVJQVzdybUc2UHpKaFZiLXgyUmtfLUpIdmZ5b2dCZExMTnpDVWg0TjRMbGZ0Y0N0Ykd3UTFHUERYRkJmdEVCQnRpTGVLcnBhY0dzODJHN3paMG9rd0R5cmNDaWVhSURJcWxLTDJMY1lfUTBhdnhKQmc3bnNfeTFiRzd6RG5DWXEwZWgwSGMwdE9kdHRKLWJ5WWM?oc=5",
+          "date": "Fri, 24 Jul 2026 05:05:00 GMT",
+          "summary": "BB Biotech Reports Net Profit Of CHF 451 Mln In Q2 2026 TradingView",
+          "source": "news.google.com",
+          "_hash": "cdc2484795c0082b",
+          "_ageHours": 1,
+          "_inWindow": true,
+          "_score": 52.37874111111111,
+          "_corrob": 1
+        },
+        {
+          "title": "BB Biotech Q2 2026: Strong NAV outperformance driven by disciplined stock selection and portfolio positioning - marketscreener.com",
+          "link": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxQXzQ4XzBiVEN3MUg1Ynh6M09pbzFjYTU2a3Q0aWppTDNCNFhBeVJhcy1qY2x6MU5aZHhsVjNiQUNzaU1TeER0TDM3bzZaWWNieENNbDFMRXU1YWJabVhNV0ZOVmdNRGlHTXIyanBjWFN3aGtubmZwbFdkOERqMFNHSVZCT3hZa1RnU0hGakJFaEZ3cVBnazM0a2ZfU3FOc3hOYVVWc2tLV2FFcmdKUktDOGR6bjVHTDdSdWJQZDJ0NTR5Sm5mbmNOSkdnTk1WWVpPYXRRZWFWUEdRWG5uR04tMmcwcXdiS28?oc=5",
+          "date": "Fri, 24 Jul 2026 05:01:04 GMT",
+          "summary": "BB Biotech Q2 2026: Strong NAV outperformance driven by disciplined stock selection and portfolio positioning marketscreener.com",
+          "source": "news.google.com",
+          "_hash": "f41394c44b26e198",
+          "_ageHours": 1,
+          "_inWindow": true,
+          "_score": 52.313185555555556,
           "_corrob": 1
         },
         {
@@ -495,58 +495,10 @@
           "summary": "Retatrutide, the obesity candidate that has shown the most powerful weight loss in late-stage trials, will be filed for approval early next year, its developer Eli Lilly said Thursday. The filing has been enabled by ...",
           "source": "endpoints.news",
           "_hash": "ee12d417392e4055",
-          "_ageHours": 17,
+          "_ageHours": 19,
           "_inWindow": true,
-          "_score": 53.33846944444444,
+          "_score": 51.48374166666667,
           "_corrob": 2
-        },
-        {
-          "title": "Why grip strength is becoming one of the biggest predictors of healthy aging and longevity - Fort Worth Star-Telegram",
-          "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1lMkRBM3d4djQtdVAteDV5OEZvalFCLXoxOUFQajFPUUp3SElyYkVyNFRXMXZzb2JNV1d6SHlGUGRZSDlpVllvYjMzODdrQUZxZHA3clJRVFo1aDMtYUttRWJuZVd1czd0Q3pzQlZ4Z3BfRmvSAXNBVV95cUxOVlBla2lpcDV3UFgtNnBDYXdsSV92SGR2MkRiXzUxZmJvc1dKS1dzdFhTQjNSZGl2T1pmc2EwVDgyYlU4Qk1xSUg0RkR1RkxIeTRtRmVQRzAzMkFtZVpZVS0wOFJnS2VJb0ZMYXR0RV92RENz?oc=5",
-          "date": "Thu, 23 Jul 2026 22:00:00 GMT",
-          "summary": "Why grip strength is becoming one of the biggest predictors of healthy aging and longevity Fort Worth Star-Telegram",
-          "source": "news.google.com",
-          "_hash": "2f55127775562455",
-          "_ageHours": 6,
-          "_inWindow": true,
-          "_score": 53.150126666666665,
-          "_corrob": 1
-        },
-        {
-          "title": "First U.S. patient enrolled in clinical trial for new dry AMD vision treatment",
-          "link": "https://longevity.technology/news/first-u-s-patient-enrolled-in-clinical-trial-for-new-dry-amd-vision-treatment/",
-          "date": "Thu, 23 Jul 2026 15:46:10 +0000",
-          "summary": "i-Lumen Scientific, a clinical-stage medical technology company developing bioelectric therapies for retinal disease, announced that the first U.S. patient was randomized in the i-SIGHT2 pivotal study evaluating the i-Lumen AMD System for intermediate to advanced dry age-related macular degeneration. The first U.S. randomization took place at Texas Retina Associates in Fort Worth, Texas, and follows [&#8230;] The post First U.S. patient enrolled in clinical trial for new dry AMD vision treatment",
-          "source": "longevity.technology",
-          "_hash": "63d7b6f827324fc0",
-          "_ageHours": 12,
-          "_inWindow": true,
-          "_score": 52.919579999999996,
-          "_corrob": 1
-        },
-        {
-          "title": "Ultrahuman unveils its biggest longevity platform overhaul - Longevity.Technology",
-          "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPWWFBdVNqOENFd2E2VTNaY2JPejFmTzIyc2JjOXlHRHBMRW5PdTF5WXNWeTJFSmNNQUFUam9PWVNsSFlhTWhCSHQ5ckxKQTl1ZWxlWG8wX1VOMzFSR0F5WGg3bzVMV3hUOFBicjBaeTlaWUdvYU40cE9UVUlnLXk1Rkw4cTBYUTFGZkFvS3RZRl9zWTVJRV9YRQ?oc=5",
-          "date": "Thu, 23 Jul 2026 15:21:52 GMT",
-          "summary": "Ultrahuman unveils its biggest longevity platform overhaul Longevity.Technology",
-          "source": "news.google.com",
-          "_hash": "474ac3cb687e80bb",
-          "_ageHours": 12,
-          "_inWindow": true,
-          "_score": 52.51457083333334,
-          "_corrob": 1
-        },
-        {
-          "title": "Genetic Lifespan Launches AgeCode™ Report 2.0, an AI-Powered Longevity Platform - EIN Presswire",
-          "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPX2xHTndhU2xtN1dPZllISVB4ZEM5UWg4dXkzejJONWxqWnVjVWZqVGd6dzE0UXBEZmpnTUZqeWJhM3N6c3RUZnNabzd0WE5FV0kyYmxBUFhZby1SV3RsbXo3SlVHVVpjenlYdjdMWDVEcjYxeGwtdVRrOTVRM2tzQkVtUFpBaERpLTdnN3BEQnM4M0NpNDhia0VlRml2cFlpc011R3VwbFJ4Q0FCbFVya2NZb3llaEZuNHlJLU4xZW1zUQ?oc=5",
-          "date": "Thu, 23 Jul 2026 15:00:00 GMT",
-          "summary": "Genetic Lifespan Launches AgeCode™ Report 2.0, an AI-Powered Longevity Platform EIN Presswire",
-          "source": "news.google.com",
-          "_hash": "b9d6a292e2436afe",
-          "_ageHours": 13,
-          "_inWindow": true,
-          "_score": 52.15012638888889,
-          "_corrob": 1
         },
         {
           "title": "iShares Global Healthcare ETF vs VanEck Biotech ETF: Which ETF Is Better for Profiting With Healthcare in 2026? - The Motley Fool",
@@ -555,21 +507,9 @@
           "summary": "iShares Global Healthcare ETF vs VanEck Biotech ETF: Which ETF Is Better for Profiting With Healthcare in 2026? The Motley Fool",
           "source": "news.google.com",
           "_hash": "e63efe5f184f64a8",
-          "_ageHours": 7,
+          "_ageHours": 9,
           "_inWindow": true,
-          "_score": 51.650126666666665,
-          "_corrob": 1
-        },
-        {
-          "title": "Longevity Medical Institute® Launches Advanced Intranasal Regenerative Neurological Therapy Platform - EIN Presswire",
-          "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxQWFY0LXFWbVhoTWpuZk14TTN5aVdfZEhSYzZROTZvVlVpSWNYa0YwXy1qQ1ViVU93bF9EMkxLSFhkcXg4YUMzdDNaOVVaM2E3TnRzc1B4azByMmN5a2w2aUNSdUs1cmRobUhkbmM2OFRsQ2g4WDlfUERqdDhDd3VhaTA0TXJEUHJsUG9OYXVFNDRGOE4zMGowUzFPZTVjUnRMQm9yZG52UUNGLTJTOUdXd2k0WWlRYTFpUjdSTHJib19ZN3lZV0FTNGZKakNNZ29XMlJKZDdRdkc2bEs3SzU0?oc=5",
-          "date": "Thu, 23 Jul 2026 14:16:00 GMT",
-          "summary": "Longevity Medical Institute® Launches Advanced Intranasal Regenerative Neurological Therapy Platform EIN Presswire",
-          "source": "news.google.com",
-          "_hash": "66c6ea56d48cf4ee",
-          "_ageHours": 14,
-          "_inWindow": true,
-          "_score": 51.41679305555556,
+          "_score": 49.795407777777775,
           "_corrob": 1
         },
         {
@@ -579,9 +519,9 @@
           "summary": "The panel recommended allowing compounding pharmacies to produce popular but unproven BPC-157 and KPV peptides.",
           "source": "www.statnews.com",
           "_hash": "e83a8ddfc9e1e4ce",
-          "_ageHours": 8,
+          "_ageHours": 10,
           "_inWindow": true,
-          "_score": 51.299025,
+          "_score": 49.44429722222222,
           "_corrob": 1
         },
         {
@@ -591,9 +531,69 @@
           "summary": "A 9-year-old biotech co-founded by CRISPR pioneer Jennifer Doudna is kicking off a run of biotech IPOs set for this year's second half. Scribe Therapeutics priced its $128.7 million",
           "source": "endpoints.news",
           "_hash": "4bf500633cabcda6",
-          "_ageHours": 2,
+          "_ageHours": 4,
           "_inWindow": true,
-          "_score": 51.18013611111111,
+          "_score": 49.325408333333336,
+          "_corrob": 1
+        },
+        {
+          "title": "Gene editor Scribe Therapeutics starts second-half IPO spree with $129M listing - Endpoints News",
+          "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOSnBINWJzcmpZZlVscGQ3bTNxcFFvR09walNNUGFHMGhWWmZicXpzZXhfcC1tdjZCdVMyX0NVRk5YUkRhZGxEWXVNd3pGTEhUSEoyZkl4N0xGTjBpc19lM2FCSG5NVU5vc1VtT3pZazVKRWVoSExwTGxyUWhHaVlfT0I3elVTcWlISnl0VWlRRjFKS3M?oc=5",
+          "date": "Fri, 24 Jul 2026 02:01:00 GMT",
+          "summary": "Gene editor Scribe Therapeutics starts second-half IPO spree with $129M listing Endpoints News",
+          "source": "news.google.com",
+          "_hash": "237807b00cf73c36",
+          "_ageHours": 4,
+          "_inWindow": true,
+          "_score": 49.31207444444444,
+          "_corrob": 1
+        },
+        {
+          "title": "iShares Global Healthcare ETF vs VanEck Biotech ETF: Which ETF Is Better for Profiting With Healthcare in 2026? - The Globe and Mail",
+          "link": "https://news.google.com/rss/articles/CBMiogJBVV95cUxNZ0k4UnVxQW9YNnY5b1ZQOEZUU0FpMUtUbTFBNS1RWmFGdGZuN3R5S1RPMmQ1czlCUGhndTZJSVlEb2FZUWU0b285U0ZnVGgwLWtPTFlQbHgwNjRTbzRFUVU4WmEyMXhxQUttMjQ3M01KY3JoaXZLN25sQ2I0SlZ1c3p0ZnJqR1B2M0xGZXI0dmhlVG1SUEU1UnRSVjB5ZXo5Qmw5WHY5NDlONWdoVkZVck9hWnhhYkk2YV9mMUpQZTRfRHM2amlwTURMUnVwamNRdEpDaGlEY3lpcVJjek5maUFHVTNjT0JlLU9SZUN3LVpPalc1dks1MUZoSENaQS1FaV9oUFIxaUJpNE5ZaHFDaFpWUVVMSmFlQVVubWZ6UDhoZw?oc=5",
+          "date": "Thu, 23 Jul 2026 19:50:19 GMT",
+          "summary": "iShares Global Healthcare ETF vs VanEck Biotech ETF: Which ETF Is Better for Profiting With Healthcare in 2026? The Globe and Mail",
+          "source": "news.google.com",
+          "_hash": "54d3eff57df1bc70",
+          "_ageHours": 10,
+          "_inWindow": true,
+          "_score": 49.13401861111111,
+          "_corrob": 1
+        },
+        {
+          "title": "Scribe secures $129M in a rare gene editing IPO - BioPharma Dive",
+          "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNbVNoQXRobzdMVDhzVUV2MndmemZWM2xmZ3dVTGE3N0p4UU9KU3BNeko3TXV5cE95WGFQVjhkNk5lVktNeVpYNnRTeUlmSlhOVUJrYVFJMjlhVlFOdFU3T1pPYUpoay1VcFhPY0ZMY2ZzMjN0ZllKWFZEUGtLQTF5ZjRJRXBka0IzSHlFMHczT1Qzb1Rf?oc=5",
+          "date": "Fri, 24 Jul 2026 01:30:06 GMT",
+          "summary": "Scribe secures $129M in a rare gene editing IPO BioPharma Dive",
+          "source": "news.google.com",
+          "_hash": "3c5ae70d380c15e9",
+          "_ageHours": 4,
+          "_inWindow": true,
+          "_score": 48.79707472222222,
+          "_corrob": 1
+        },
+        {
+          "title": "CT ENTERPRISE Rebrands as CPBIO: Company completes transition to a biotech-driven business, positioning itself as an integrated life sciences platform - TradingView",
+          "link": "https://news.google.com/rss/articles/CBMiqgJBVV95cUxQSnk2R29JTGR6eU1UN0wxMmd1UGMtREFfN0JheHAtOUdfYURUNDNwOHYwbEJxRHdrcWw4RUlzVk82LTdWd3VfUmJBUG1MaU44Yzd3OVM5X29TTFZwMzhTTWRGN0hVcGZYdDdzQ1RWR040NnZONV9QNjZLV1Y3RHFPZFV6aHhFMFRwX0dpLThqRkpFOHhEOEdwS09pV2FjNFBZbE1rWjQyM1l2WEJiYWMzcGRZTkd2OEtybHlQbzNZRmFaMXdpUGk1MzV6c1lkR0tnMk5Xa2FkaUpVREFIbmc3LXgyQmFrdXktdlppczBnTXQ4QUpKVzcyQ01TWUY1cW1oQzB4NUg3TjlWaWVVY2RUcWQtNEFzS2MyeVgwM0drVEpTemRoekRfSDdB?oc=5",
+          "date": "Fri, 24 Jul 2026 00:35:00 GMT",
+          "summary": "CT ENTERPRISE Rebrands as CPBIO: Company completes transition to a biotech-driven business, positioning itself as an integrated life sciences platform TradingView",
+          "source": "news.google.com",
+          "_hash": "d03373651aed9bd9",
+          "_ageHours": 5,
+          "_inWindow": true,
+          "_score": 47.87874111111111,
+          "_corrob": 1
+        },
+        {
+          "title": "Krystal Biotech, Inc.(NasdaqGS: KRYS) added to S&P 400 Health Care - marketscreener.com",
+          "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNS3VGNWVwWlNORGY2T2RseGEwQUt5cGtpeUNCQU5zd25tU0V5RmNmRHl6X2U1SHB3eFl3OVpULWhfWnh1QWFKdjFRdm15ZDdPY2F6dlZnWVNKWVJIZm5aX0t0X3Zlb29QU3JwYzA4b0o5LTgzR29faTFmcHdCNFlrbE41cGZ6c29Kb2RJeGIteHh3a21jUDgyWXhRWGRLb1FtaE5semlrQ21pRFNlX1lFVFVVRmJIZw?oc=5",
+          "date": "Fri, 24 Jul 2026 00:23:32 GMT",
+          "summary": "Krystal Biotech, Inc.(NasdaqGS: KRYS) added to S&P 400 Health Care marketscreener.com",
+          "source": "news.google.com",
+          "_hash": "90f733858083827e",
+          "_ageHours": 5,
+          "_inWindow": true,
+          "_score": 47.68762972222222,
           "_corrob": 1
         }
       ]
@@ -608,9 +608,9 @@
           "summary": "Skyrocketing energy demand, unpredictable fuel prices, and scorching summer heatwaves are sending U.S. electricity bills through the roof. With just 100 days until the 2026 midterm elections, the window is closing for lawmakers to tackle rising costs before voters render their verdict at the ballot box. New polling released by POLITICO shows ... [continued] The post Voters Know America Needs More Energy. Solar &#038; Storage Are the Overwhelming Choice. appeared first on CleanTechnica .",
           "source": "cleantechnica.com",
           "_hash": "fce43ffde574dd23",
-          "_ageHours": 7,
+          "_ageHours": 9,
           "_inWindow": true,
-          "_score": 70.21734444444445,
+          "_score": 68.36268444444444,
           "_corrob": 1
         },
         {
@@ -620,9 +620,21 @@
           "summary": "The UC Berkeley analysis should be welcome news for a manufacturing industry that is heavily reliant on natural gas, with its volatile prices, said Jose Dominguez, one of the report&rsquo;s authors.",
           "source": "www.utilitydive.com",
           "_hash": "ede38dc599797f2f",
-          "_ageHours": 11,
+          "_ageHours": 12,
           "_inWindow": true,
-          "_score": 54.43790055555556,
+          "_score": 52.583240277777776,
+          "_corrob": 1
+        },
+        {
+          "title": "Clean Energy Link – North transmission build kicks off in Western Australia - pv magazine Australia",
+          "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQZXRUT3k5NlFkay01dmVxdUJYNXZZTHdSYUFqbWNHemNqVkhNVWx5Vlg1LUNRdGwtNlhqRTRxRS01UDNQS0lyZmE5ZjBZTHd1X3VEalQ1OFJmZkw5WkZvUERPbUFsUVdzZDBUbk4zNndFYTh6QzdnQkNtakdJbF9FaUh1cHBhQkx4aVdHM21OMzlQbHpVZE9jT09jZGhfYmUzeVUxV3llcmdGR2xRMXlmaVN3YXRNTHduWG1QRTRpaUk?oc=5",
+          "date": "Fri, 24 Jul 2026 04:35:17 GMT",
+          "summary": "Clean Energy Link – North transmission build kicks off in Western Australia pv magazine Australia",
+          "source": "news.google.com",
+          "_hash": "72723212917793dc",
+          "_ageHours": 1,
+          "_inWindow": true,
+          "_score": 51.88323944444444,
           "_corrob": 1
         },
         {
@@ -632,9 +644,9 @@
           "summary": "Japanese Nuclear Energy Stocks With Real Exposure to Power Grids and AI Infrastructure simplywall.st",
           "source": "news.google.com",
           "_hash": "56dcbfbf97b88e30",
-          "_ageHours": 5,
+          "_ageHours": 7,
           "_inWindow": true,
-          "_score": 53.55484416666667,
+          "_score": 51.700184166666666,
           "_corrob": 1
         },
         {
@@ -644,9 +656,9 @@
           "summary": "Australia's Clean Energy Finance Corporation appoints new CEO as clean energy investment push accelerates PV Tech",
           "source": "news.google.com",
           "_hash": "11d12a574e3ca4a4",
-          "_ageHours": 0,
+          "_ageHours": 2,
           "_inWindow": true,
-          "_score": 52.7731775,
+          "_score": 50.9185175,
           "_corrob": 1
         },
         {
@@ -656,9 +668,9 @@
           "summary": "UC Berkeley clean energy project threatens rare butterfly habitat along Strawberry Creek CBS News",
           "source": "news.google.com",
           "_hash": "30d4b02d0022d2d5",
-          "_ageHours": 1,
+          "_ageHours": 2,
           "_inWindow": true,
-          "_score": 52.383177777777775,
+          "_score": 50.5285175,
           "_corrob": 1
         },
         {
@@ -668,9 +680,9 @@
           "summary": "Australia’s Clean Energy Investor Group calls for urgent EPBC Act implementation to unlock renewables PV Tech",
           "source": "news.google.com",
           "_hash": "b94bf5a0bf4846be",
-          "_ageHours": 6,
+          "_ageHours": 7,
           "_inWindow": true,
-          "_score": 52.37151083333333,
+          "_score": 50.51685055555556,
           "_corrob": 2
         },
         {
@@ -680,9 +692,9 @@
           "summary": "Washington, D.C. — According to reporting, more utility and technology companies will sign onto a nonbinding pledge to keep electricity costs down and protect ratepayers from skyrocketing bills driven by data centers’ energy demands. Despite what is written in the pledge, there has been minimal tangible progress made to address the impact ... [continued] The post Utilities &#038; Big Tech Pay Lip Service, &#8220;Pledge&#8221; to Keep Costs Down appeared first on CleanTechnica .",
           "source": "cleantechnica.com",
           "_hash": "92ae64b0fe55e7e9",
-          "_ageHours": 8,
+          "_ageHours": 10,
           "_inWindow": true,
-          "_score": 50.70067777777778,
+          "_score": 48.846017777777774,
           "_corrob": 1
         },
         {
@@ -692,9 +704,9 @@
           "summary": "Does CT have enough workers to fuel a nuclear energy future? Connecticut Public",
           "source": "news.google.com",
           "_hash": "63ca27872a580f26",
-          "_ageHours": 8,
+          "_ageHours": 9,
           "_inWindow": true,
-          "_score": 50.36651111111111,
+          "_score": 48.511850833333334,
           "_corrob": 2
         },
         {
@@ -704,9 +716,9 @@
           "summary": "Enhancing 'reliable substitution' capability of clean energy China Daily",
           "source": "news.google.com",
           "_hash": "1dda9bf6f2aa8116",
-          "_ageHours": 3,
+          "_ageHours": 5,
           "_inWindow": true,
-          "_score": 50.107344166666664,
+          "_score": 48.25268388888889,
           "_corrob": 1
         },
         {
@@ -716,9 +728,9 @@
           "summary": "Washington state’s clean-energy bottleneck leads to calls for reform KUOW",
           "source": "news.google.com",
           "_hash": "74a9215cc8cd9b61",
-          "_ageHours": 3,
+          "_ageHours": 5,
           "_inWindow": true,
-          "_score": 49.766511111111114,
+          "_score": 47.91185083333333,
           "_corrob": 1
         },
         {
@@ -728,21 +740,9 @@
           "summary": "Clean energy construction project at UC Berkeley threatens native butterfly habitat CBS News",
           "source": "news.google.com",
           "_hash": "c33f8a334f8bc4ab",
-          "_ageHours": 4,
+          "_ageHours": 6,
           "_inWindow": true,
-          "_score": 49.3054,
-          "_corrob": 1
-        },
-        {
-          "title": "Willdan Group (WLDN) Lands $31 Million Clean Energy Contract On An Undervalued Narrative - simplywall.st",
-          "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxNeUQ1ZjNxTnU0Y1BtQnE3cVJ1NnpXWE9zVG9oOVBlQy1WRjEtRDdxTGh1MVU5SlBRYWF0ZnBrODJ2cG5Ic3M2NGNkVlEtaWpYNnZ2TGs4dWkzVUlUMDk0MWhFNzZEcVc1QVgwVDhCVnBuTTUtZUFraE51T1VYalFZdjktdjA5dFdBaFNIQ2hTSndoSGdFbjQtZUxzOHd2Y3VFMHFNVUtGeGdLOFcxUW92S1h0NUVXY0cyb18tNDNBWTlKOVlreHB2WWx0WkFselJGS2JDTDFGN3dXWTDSAeABQVVfeXFMTzY0ODItY0xSRzVFbG1ZeTB3VXFGUnYxZDY0MDNHU2dUOHExZS1pcTdBT2JpbTI4eVktWmRtb19IQ2ZrZ2gtNTVjTm90U0JJVG5aSjJkYl9QVGdZSHl1VFl4RlhTMXhvd0Rzb2lpWVhWWGZ3OWlVUHNZQUZsX0ZORHBGa0gwOGV1R29UN2s5c1gxelkxZHFoS0VNdm9Qck1uekMtc3FqUUhkTm81b09BSlBhN0hRcEtZNFJzaU1SVzlrOW1rOEh4LWl0c0NvaU90eGdXMk9hVDQzcGdJbGNQMWM?oc=5",
-          "date": "Thu, 23 Jul 2026 23:30:20 GMT",
-          "summary": "Willdan Group (WLDN) Lands $31 Million Clean Energy Contract On An Undervalued Narrative simplywall.st",
-          "source": "news.google.com",
-          "_hash": "1f25e6670da31ff3",
-          "_ageHours": 4,
-          "_inWindow": true,
-          "_score": 48.65539972222222,
+          "_score": 47.450739722222224,
           "_corrob": 1
         }
       ]
