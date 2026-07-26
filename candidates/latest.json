@@ -1,6 +1,6 @@
 {
   "date": "2026-07-26",
-  "generatedAt": "2026-07-26T10:17:43.999Z",
+  "generatedAt": "2026-07-26T10:57:56.100Z",
   "pillars": {
     "ai": {
       "name": "Artificial Intelligence",
@@ -16,9 +16,9 @@
           "summary": "\"Just the fact that it exists, just the fact that it continues to exist. We should marvel at that.\"",
           "source": "www.space.com",
           "_hash": "afd00749d5d90a33",
-          "_ageHours": 0,
+          "_ageHours": 1,
           "_inWindow": true,
-          "_score": 62.704125,
+          "_score": 62.034083055555556,
           "_corrob": 3
         },
         {
@@ -28,33 +28,9 @@
           "summary": "I'm not an astronaut, but I went to the International Space Station (sort of) space.com",
           "source": "news.google.com",
           "_hash": "5d39fc56b56a04bf",
-          "_ageHours": 0,
+          "_ageHours": 1,
           "_inWindow": true,
-          "_score": 62.704124722222225,
-          "_corrob": 3
-        },
-        {
-          "title": "SpaceX Falcon 9 launches Starlink satellites from West Coast",
-          "link": "https://spaceflightnow.com/2026/07/25/live-coverage-spacex-falcon-9-to-launch-starlink-satellites-from-west-coast/",
-          "date": "Sat, 25 Jul 2026 13:58:51 +0000",
-          "summary": "Liftoff from Vandenberg Space Force Base in California occurred at 8:51 a.m. PDT (11:51 a.m. EDT / 1551 UTC). The Falcon 9 placed 24 Starlink satellites into orbit.",
-          "source": "spaceflightnow.com",
-          "_hash": "e6e1213c6b8606a6",
-          "_ageHours": 20,
-          "_inWindow": true,
-          "_score": 54.684958333333334,
-          "_corrob": 3
-        },
-        {
-          "title": "SpaceX Falcon 9 launches Starlink satellites from West Coast - Spaceflight Now",
-          "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPRURKNEtzemQ4QkRKWTQxU2g5QkNwakVmNUlMYjlObnQxX2dtNUJoc2xqUTh2YWREVVZrUkdxNjlGZi00U1luV2xpTHNjMDZiMGlDeXV0ektiR0JYMzBBMG84U2xMMVZqdjdBTE9Tbkp2dzNzV045bGRwWEtKNVBhaHJrN1BFSnpqeG9sSnFZcE81bk5Eel9EU2d6YUZVZzhhRDgtSi1rUXdXc2p6V3lhbjJTYUQ?oc=5",
-          "date": "Sat, 25 Jul 2026 17:18:28 GMT",
-          "summary": "SpaceX Falcon 9 launches Starlink satellites from West Coast Spaceflight Now",
-          "source": "news.google.com",
-          "_hash": "4192b80b11de34ea",
-          "_ageHours": 17,
-          "_inWindow": true,
-          "_score": 52.011902500000005,
+          "_score": 62.034082777777776,
           "_corrob": 3
         },
         {
@@ -64,10 +40,22 @@
           "summary": "Key ground stations in Spain operated by NASA and the European Space Agency have avoided serious damage from major wildfires in the country. The post NASA and ESA facilities avoid major damage from wildfires in Spain appeared first on SpaceNews .",
           "source": "spacenews.com",
           "_hash": "c4a676036d3ce868",
-          "_ageHours": 8,
+          "_ageHours": 9,
           "_inWindow": true,
-          "_score": 50.96440277777778,
+          "_score": 50.294360833333336,
           "_corrob": 1
+        },
+        {
+          "title": "SpaceX Falcon 9 launches Starlink satellites from West Coast",
+          "link": "https://spaceflightnow.com/2026/07/25/live-coverage-spacex-falcon-9-to-launch-starlink-satellites-from-west-coast/",
+          "date": "Sat, 25 Jul 2026 13:58:51 +0000",
+          "summary": "Liftoff from Vandenberg Space Force Base in California occurred at 8:51 a.m. PDT (11:51 a.m. EDT / 1551 UTC). The Falcon 9 placed 24 Starlink satellites into orbit.",
+          "source": "spaceflightnow.com",
+          "_hash": "e6e1213c6b8606a6",
+          "_ageHours": 21,
+          "_inWindow": true,
+          "_score": 49.01491638888889,
+          "_corrob": 2
         },
         {
           "title": "SpaceX conducts 13th Starship test flight",
@@ -78,8 +66,20 @@
           "_hash": "dcb905e70e917935",
           "_ageHours": 34,
           "_inWindow": true,
-          "_score": 47.19634722222222,
+          "_score": 46.52630527777778,
           "_corrob": 3
+        },
+        {
+          "title": "SpaceX Falcon 9 launches Starlink satellites from West Coast - Spaceflight Now",
+          "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPRURKNEtzemQ4QkRKWTQxU2g5QkNwakVmNUlMYjlObnQxX2dtNUJoc2xqUTh2YWREVVZrUkdxNjlGZi00U1luV2xpTHNjMDZiMGlDeXV0ektiR0JYMzBBMG84U2xMMVZqdjdBTE9Tbkp2dzNzV045bGRwWEtKNVBhaHJrN1BFSnpqeG9sSnFZcE81bk5Eel9EU2d6YUZVZzhhRDgtSi1rUXdXc2p6V3lhbjJTYUQ?oc=5",
+          "date": "Sat, 25 Jul 2026 17:18:28 GMT",
+          "summary": "SpaceX Falcon 9 launches Starlink satellites from West Coast Spaceflight Now",
+          "source": "news.google.com",
+          "_hash": "4192b80b11de34ea",
+          "_ageHours": 18,
+          "_inWindow": true,
+          "_score": 46.341860555555556,
+          "_corrob": 2
         },
         {
           "title": "We talk with astronaut Michael Foale about the 1997 Space Station Mir crisis: 'He took all the blame of the collision on his shoulders'",
@@ -88,9 +88,9 @@
           "summary": "'I believe that we, as a crew, saved space station Mir that day'",
           "source": "www.space.com",
           "_hash": "c66e0155964e27e8",
-          "_ageHours": 18,
+          "_ageHours": 19,
           "_inWindow": true,
-          "_score": 44.704125000000005,
+          "_score": 44.034083055555556,
           "_corrob": 3
         },
         {
@@ -102,7 +102,7 @@
           "_hash": "8faa175e6c27733f",
           "_ageHours": 20,
           "_inWindow": true,
-          "_score": 43.180235833333334,
+          "_score": 42.51019388888889,
           "_corrob": 3
         },
         {
@@ -112,9 +112,9 @@
           "summary": "NASA astronaut, 2 cosmonauts returning to Earth on July 26: Watch it live space.com",
           "source": "news.google.com",
           "_hash": "a8b45f0e3960fecc",
-          "_ageHours": 24,
+          "_ageHours": 25,
           "_inWindow": true,
-          "_score": 38.70412472222222,
+          "_score": 38.034082777777776,
           "_corrob": 3
         },
         {
@@ -126,7 +126,7 @@
           "_hash": "e171bbcba9a7e671",
           "_ageHours": 33,
           "_inWindow": true,
-          "_score": 36.37551388888889,
+          "_score": 35.70547194444445,
           "_corrob": 3
         },
         {
@@ -138,7 +138,7 @@
           "_hash": "36f0ae00e603a66d",
           "_ageHours": 33,
           "_inWindow": true,
-          "_score": 36.37551361111111,
+          "_score": 35.70547166666667,
           "_corrob": 3
         },
         {
@@ -148,9 +148,9 @@
           "summary": "Powered by 33 methane-fueled Raptor engines, the 407-foot-tall two-stage rocket blasted off from SpaceX's \"Starbase,\" Texas, launch site at 5:51 p.m. EDT, putting on a spectacular show for area residents and tourists as it climbed away atop some 16 million pounds of thrust.",
           "source": "spaceflightnow.com",
           "_hash": "e010d6d8d9c1174b",
-          "_ageHours": 33,
+          "_ageHours": 34,
           "_inWindow": true,
-          "_score": 35.84995833333333,
+          "_score": 35.17991638888889,
           "_corrob": 3
         }
       ]
@@ -158,6 +158,18 @@
     "crypto": {
       "name": "Bitcoin / Crypto",
       "candidates": [
+        {
+          "title": "Trump's bitcoin push faces investor doubts as crypto ownership falls and bitcoin prices crash | Hindustan Times - Hindustan Times",
+          "link": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxOYnBfMUVLT2k4UUZOQ0FxZ0tITmxjNkZvcDNwZFdFWmpFQ0VaR3NFUnFneTd3blc5a3VpZmhiMTZNdUY0Y3VON1pldldNYkZQMVZtYWVlTkNsY0FzRmxjYmw2RzVoNEdoMzMxa2RsQl93aGJyUk8wN1dBbjFOZ3YyUTJMZGFhSWRuMXFHbm9aNmxmZjVZSV9iLW9KVWkxemY2RTB1NzB0Tkg1Rm9xSWN3eWthOWxoVkp6c0pqeXpYZnctZnFDWjIwU3hpVTZCd21fZlQ1UFZiY1FzRzUzZ0RrWkRXdzRqMGZ3NGtCZDFsV2Z2NXNjZXfSAfsBQVVfeXFMTTNCNHJaR1hYeEZQUXdSRGhFZ3o4cFVpN3dsaTVORnpmS0Jtc3I1NFVtNTd5aWt2T0dwaVYya2txdW9Hb3h6MjhsUDkwNXlsTG1xb3p0NURlNmNvY1V1clVhQWtLUzdzeGxfZXFFcDRlUlh0WkZqNW9hTWNSMUl2SXU0bXFKbF9iWlV1WEJkTWIyQzNJTHNtdWQ4Tm04RHFkOUktc0F4d25EdmlJRURYcnNIRkNkeGZzNDYwV3NzNGJqU2UyUDQ4NERLbE03U1pPbHVaLUF6bTdfX1VxM3NjNUpsVVVoSHVFdFpwU2ZFWmJKWXlNUHM2cmNMeWM?oc=5",
+          "date": "Sun, 26 Jul 2026 10:42:12 GMT",
+          "summary": "Trump's bitcoin push faces investor doubts as crypto ownership falls and bitcoin prices crash | Hindustan Times Hindustan Times",
+          "source": "news.google.com",
+          "_hash": "f28dcfab5f0685bd",
+          "_ageHours": 0,
+          "_inWindow": true,
+          "_score": 67.73729416666666,
+          "_corrob": 4
+        },
         {
           "title": "Palzea Launches Expanded Cryptocurrency Exchange Platform P2P Trading, Spot Markets, Business Solutions - Benzinga",
           "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxOcG94SEhhWGEtcU9vQzhxVi1Ba1JuMGpMYXB1QUYwYVZwaEgtaGd4Y2VsazlYZWdPQ1RDNkRLNERKVjZRRk9oQWZMQWtaR3M2bkNCZVJIZ0JmdWQ3WGhTUEU3YkY3LUFRdy1yMVNXeFBZSlU4bktiWVU1X2FVeWVEWjJZalZYZERTalYyellJdnM3Z09Gdi01Zm9JU0F2S29nX1dPVnE0N2swN2xlTmgyVFp6LWhibWx6cjRfa0FuRHJzTDRTUjFWYk1pWVN2R2NoZXpoQ0FqX3g4QQ?oc=5",
@@ -167,8 +179,20 @@
           "_hash": "8df40a0df4a94d26",
           "_ageHours": 3,
           "_inWindow": true,
-          "_score": 66.27595166666666,
+          "_score": 65.60590527777778,
           "_corrob": 3
+        },
+        {
+          "title": "South Korea’s largest bank to launch payment service on JPMorgan’s Kinexys",
+          "link": "https://cointelegraph.com/news/south-korea-bank-payment-jpmorgans-kinexys?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "date": "Sun, 26 Jul 2026 10:21:25 +0000",
+          "summary": "South Korea’s largest lender will use JPMorgan’s blockchain platform to support US dollar cross-border payments for import and export businesses across 10 countries.",
+          "source": "cointelegraph.com",
+          "_hash": "619df4846cc7679f",
+          "_ageHours": 1,
+          "_inWindow": true,
+          "_score": 63.390905833333335,
+          "_corrob": 2
         },
         {
           "title": "Bitcoin ETFs see $225M outflows as geopolitical tensions and bearish signals hit crypto markets - Pluang",
@@ -177,9 +201,9 @@
           "summary": "Bitcoin ETFs see $225M outflows as geopolitical tensions and bearish signals hit crypto markets Pluang",
           "source": "news.google.com",
           "_hash": "188ef5cf3ade0031",
-          "_ageHours": 1,
+          "_ageHours": 2,
           "_inWindow": true,
-          "_score": 63.10067388888889,
+          "_score": 62.4306275,
           "_corrob": 2
         },
         {
@@ -189,9 +213,9 @@
           "summary": "Ethereum and Bitcoin ETFs see outflows, ending weeks of gains amid market shifts and Japan's regulatory reforms. Pluang",
           "source": "news.google.com",
           "_hash": "33d305ed50f4dc2e",
-          "_ageHours": 2,
+          "_ageHours": 3,
           "_inWindow": true,
-          "_score": 61.62706277777778,
+          "_score": 60.95701638888889,
           "_corrob": 2
         },
         {
@@ -201,9 +225,9 @@
           "summary": "Crypto exchange BitMart said it will wind down operations after its BMX token plunged and users reported withdrawal delays, with platform operations set to end in January.",
           "source": "cointelegraph.com",
           "_hash": "1bcb5291ac6d21ca",
-          "_ageHours": 3,
+          "_ageHours": 4,
           "_inWindow": true,
-          "_score": 59.89484111111111,
+          "_score": 59.22479472222222,
           "_corrob": 3
         },
         {
@@ -213,9 +237,9 @@
           "summary": "Bitcoin policy group joins U.S. State Department freedom tech push Crypto News",
           "source": "news.google.com",
           "_hash": "10fb80e8aa5e62b9",
-          "_ageHours": 3,
+          "_ageHours": 4,
           "_inWindow": true,
-          "_score": 59.892340833333336,
+          "_score": 59.222294166666664,
           "_corrob": 3
         },
         {
@@ -225,10 +249,22 @@
           "summary": "Users have a month to close trades and six months to withdraw, and the exchange gave no specific reason for closing.",
           "source": "www.coindesk.com",
           "_hash": "a789050f12f72c4f",
-          "_ageHours": 3,
+          "_ageHours": 4,
           "_inWindow": true,
-          "_score": 59.70150805555556,
+          "_score": 59.031461388888886,
           "_corrob": 3
+        },
+        {
+          "title": "Wall Street's Cheapest Bitcoin ETF Made $400 Million Without Lifting A Finger — Executive Sees More Assets Ahead - Stocktwits",
+          "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNSk1PdHFudmNHNGNwZ1ZiQy1YMmNCWU55SFJVVWJWU2traGlMU3J6cDBYNGVNcVRBZ1RVT0VFaG9CSUppVEpNb3doWk51dHFXM1BtXzRETm9tclRCZFpJYllnengwSHQ1YnVmVDdHanV4WE1qOGU4X2lNT1d6eDhIdmtzUXphU2lCRmxNbnhBM3BIY0VrenliZWlfNThOd2xXd2lYWjZpN2lxYi1TSWNQNFFNek1fOUU?oc=5",
+          "date": "Sun, 26 Jul 2026 10:50:41 GMT",
+          "summary": "Wall Street's Cheapest Bitcoin ETF Made $400 Million Without Lifting A Finger — Executive Sees More Assets Ahead Stocktwits",
+          "source": "news.google.com",
+          "_hash": "3d00ad20c6a7d26d",
+          "_ageHours": 0,
+          "_inWindow": true,
+          "_score": 58.878683055555555,
+          "_corrob": 1
         },
         {
           "title": "Bitcoin is clinging to $64,000 as $312 million in liquidations and ETF outflows signal a market under real pressure - Startup Fortune",
@@ -237,21 +273,9 @@
           "summary": "Bitcoin is clinging to $64,000 as $312 million in liquidations and ETF outflows signal a market under real pressure Startup Fortune",
           "source": "news.google.com",
           "_hash": "dce2c73f906572e2",
-          "_ageHours": 5,
+          "_ageHours": 6,
           "_inWindow": true,
-          "_score": 58.99845194444445,
-          "_corrob": 2
-        },
-        {
-          "title": "Cardano founder says quantum threat could dethrone Bitcoin - Crypto News",
-          "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQVWRFTllncTNXS1hpYmFPQWZhdW5sUllmNGhndHVHUkdnc0ZUZmt5Qk5GRkpVeXd6ajBhdUN1a2xWM3h3N2VFQXppbk9sV21vVGdhMGtnX2RFQ2ZtYkhuaDVDT2pFTGVfLVdQSDAwSkxmc2NSendBNmYwMldORUE1cjBJckVRUQ?oc=5",
-          "date": "Sun, 26 Jul 2026 09:17:49 GMT",
-          "summary": "Cardano founder says quantum threat could dethrone Bitcoin Crypto News",
-          "source": "news.google.com",
-          "_hash": "1e517fc2c5df1356",
-          "_ageHours": 1,
-          "_inWindow": true,
-          "_score": 57.000951944444445,
+          "_score": 58.328405277777776,
           "_corrob": 2
         },
         {
@@ -261,9 +285,9 @@
           "summary": "Bitcoin mining now draws majority of its power from sustainable sources as hydro leads the green push Startup Fortune",
           "source": "news.google.com",
           "_hash": "cd424bca3921dbd9",
-          "_ageHours": 3,
+          "_ageHours": 4,
           "_inWindow": true,
-          "_score": 54.95039638888889,
+          "_score": 54.28034972222222,
           "_corrob": 2
         },
         {
@@ -273,33 +297,9 @@
           "summary": "As MiCA beds in and the U.K. finalizes its crypto framework, stringent regulation could spur mergers, acquisitions and closer ties with banks.",
           "source": "www.coindesk.com",
           "_hash": "d4514fa00ff62dac",
-          "_ageHours": 0,
-          "_inWindow": true,
-          "_score": 52.704008055555555,
-          "_corrob": 1
-        },
-        {
-          "title": "BlackRock goes bullish on Ethereum, buys more ETH than Bitcoin - Finbold",
-          "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPWGM0d0Nzb1B2WWlreUQ3SE1pQ0ktRm5QNzdOME1uVXpnTHEzSjRzaE9GNElpZUxUc0UyYnkxQ0U4R1Q0QTJBajVtc29HTW82UWI2NmgzQi1rMjRjdzJYQXRRR3dJazF4X3RqSGRwQ19vNzdxRmszSEpPUFBGSnVaMktvNDBhSW1ydGc?oc=5",
-          "date": "Sun, 26 Jul 2026 09:30:11 GMT",
-          "summary": "BlackRock goes bullish on Ethereum, buys more ETH than Bitcoin Finbold",
-          "source": "news.google.com",
-          "_hash": "3285b99fe8ad21d9",
           "_ageHours": 1,
           "_inWindow": true,
-          "_score": 52.20706277777778,
-          "_corrob": 1
-        },
-        {
-          "title": "Trump made a big Bitcoin push. Investors aren't biting - USA Today",
-          "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNVDIzcUJEYTAwMmsydjhFeWpWQy1nRTlIc2RoWEY4ZGhGSkREWWVPNGpFM0gtYldqZjFhVTE0a05UYXNvWDdPWDJwQ1hCUXVZcDdWTG85TVM1SmVXVWhYVVhFbTdLd25qWkphTkY2eXcxNzV2Y29mNWtPQzdKeHdhTW1NdVBvNktBa1I0RU96bkxKSzN1VUVDYnczWnFTNDJBT2V0d2ZfYzItRUs3NExKT1o3Uzd0dVN6?oc=5",
-          "date": "Sun, 26 Jul 2026 09:05:00 GMT",
-          "summary": "Trump made a big Bitcoin push. Investors aren't biting USA Today",
-          "source": "news.google.com",
-          "_hash": "073dbd9c54d2211d",
-          "_ageHours": 1,
-          "_inWindow": true,
-          "_score": 51.78734083333333,
+          "_score": 52.03396138888889,
           "_corrob": 1
         }
       ]
@@ -314,9 +314,21 @@
           "summary": "Chinese university investigating girl's death in gene-editing trial CNA",
           "source": "news.google.com",
           "_hash": "2af711a11d03c74d",
-          "_ageHours": 2,
+          "_ageHours": 3,
           "_inWindow": true,
-          "_score": 56.903326388888885,
+          "_score": 56.23318722222222,
+          "_corrob": 1
+        },
+        {
+          "title": "US scientists finally uncover how a rare longevity gene may protect the brain from Alzheimer's and the dis - The Economic Times",
+          "link": "https://news.google.com/rss/articles/CBMizwJBVV95cUxOTGp4OS1UUGczaS00b2htRk5oYWw0b2xGMk1NVXhZQmU0QmppcFFJZ1kzOWRqeVN0S3l3MjlSSlZoOTBicnd4aHdGcy1HdThWMDhNUnNuLUVoTHFCTGhaajJnbWFCTURwbkZyWWp0SmNFUzdFR2JLOTMxVklONnlSbFd6WDBDZTNRZ0lFS01IMU90dXhwM1FyNVNrbjNBUnJvUmZ0YWZ0U0hDN0R0NVFHbWdCdF8taERDOGlmeDI1NFQwR1VEUnVlZVNMVTA2bXFIUzR6b1hYaXh0MlhWS090cDNZRDdfcWJhbkNoLTdzZ1lLRjVocVY4NC1oWmNIZzV5VTN0amZMdHdJdVhkV3BrQUdwTjhMWFhBVnE1ejRWX05UQVpZd0R1bFZUTWZ2cTUxeG5vdWJFQkEtODhSUVRPbzNKOWdwc2ljQTZjUlVpMNIB1AJBVV95cUxNd0NCdDRBeUtUMi1Qc0ppNEV6T3MxX2pEODgyR0RvMGcwbXJBTkcySm9wODM2Nk55RGs2RUw5bTZkSUhWdVoyRGVFOTljc2pMc2plOW0tajJhVDV3MnotX0dLSS1fTzZ5MmxBazRSdGEtMFJlM2ZVVW1MTjdzbkhYNHROeExITkRlcXFrWGgtLVhXYXp6WXZoVVdISGdlaHlPM2cxWjMwblVKRmhFR2tKUjZFelFDYkpwMklhVWp2N2FtMjlvbndXbXhubGdxRmxRN3dhMGdpRzEzTE80SExrRHFjbVdEcWtQOGd2ak5lenZWWDZJbG1iWVBwV2ppRktRdFBZRGZOVnY3R19tWjFWc3BGQVhCVjZtVnpGekl2b0tEWG1tNGwwQmJpUTBTMGRtM3U1WU8yVjMyQjhKcHRrYXBOSGd3NW0zUTgyaGUzd3pNcC1h?oc=5",
+          "date": "Sun, 26 Jul 2026 07:30:00 GMT",
+          "summary": "US scientists finally uncover how a rare longevity gene may protect the brain from Alzheimer's and the dis The Economic Times",
+          "source": "news.google.com",
+          "_hash": "2cd3217cfe080610",
+          "_ageHours": 3,
+          "_inWindow": true,
+          "_score": 55.5337425,
           "_corrob": 1
         },
         {
@@ -328,7 +340,7 @@
           "_hash": "33befe4171619011",
           "_ageHours": 2,
           "_inWindow": true,
-          "_score": 51.386381944444445,
+          "_score": 50.7162425,
           "_corrob": 1
         },
         {
@@ -340,8 +352,20 @@
           "_hash": "9709a06bc828fb49",
           "_ageHours": 25,
           "_inWindow": true,
-          "_score": 33.260826111111115,
+          "_score": 32.59068694444444,
           "_corrob": 2
+        },
+        {
+          "title": "Brain scans hint at new way to slow Alzheimer’s",
+          "link": "https://longevity.technology/news/brain-scans-hint-at-new-way-to-slow-alzheimers/",
+          "date": "Fri, 24 Jul 2026 16:45:28 +0000",
+          "summary": "New data suggest LM11A-31 may help preserve the brain’s communication networks, offering another promising path in Alzheimer’s research. The race against Alzheimer’s disease has largely revolved around amyloid plaques. The latest generation of FDA-approved drugs aims to clear these sticky protein deposits from the brain, slowing disease progression by removing what has long been viewed [&#8230;] The post Brain scans hint at new way to slow Alzheimer’s appeared first on Longevity.Technology .",
+          "source": "longevity.technology",
+          "_hash": "cb56b31a2ee00731",
+          "_ageHours": 42,
+          "_inWindow": true,
+          "_score": 28.79152888888889,
+          "_corrob": 1
         },
         {
           "title": "Merck stages expanded access to monthly HIV PrEP pill ahead of approval",
@@ -353,17 +377,6 @@
           "_inWindow": true,
           "_score": 28,
           "_corrob": 2
-        },
-        {
-          "title": "Sanofi abandons plan to seek approval for eczema drug from $1.1B Kymab buyout",
-          "link": "https://www.fiercebiotech.com/biotech/sanofi-abandons-plan-seek-approval-eczema-drug-11b-kymab-buyout",
-          "date": "Jul 24, 2026 5:17am",
-          "summary": "Sanofi has abandoned plans to seek approval for amlitelimab in atopic dermatitis, admitting that a drug once tipped as a potential blockbuster “would not represent a meaningful improvement” to existing treatments.",
-          "source": "www.fiercebiotech.com",
-          "_hash": "5aea9f2aa16b6356",
-          "_inWindow": true,
-          "_score": 23,
-          "_corrob": 1
         },
         {
           "title": "Scribe records upsized $129M IPO to bankroll lipid-lowering genetic meds",
@@ -394,9 +407,9 @@
           "summary": "Girl died after gene-editing treatment in China: Report The Times of India",
           "source": "news.google.com",
           "_hash": "5d324aa175167206",
-          "_ageHours": 31,
+          "_ageHours": 32,
           "_inWindow": true,
-          "_score": 21.837215,
+          "_score": 21.16707583333333,
           "_corrob": 1
         },
         {
@@ -408,7 +421,7 @@
           "_hash": "163e034c086ac814",
           "_ageHours": 32,
           "_inWindow": true,
-          "_score": 21.453881666666668,
+          "_score": 20.783742500000002,
           "_corrob": 1
         },
         {
@@ -420,7 +433,7 @@
           "_hash": "81d020cc3508b0f5",
           "_ageHours": 43,
           "_inWindow": true,
-          "_score": 21.241660277777775,
+          "_score": 20.571529166666664,
           "_corrob": 2
         },
         {
@@ -430,21 +443,9 @@
           "summary": "",
           "source": "www.nature.com",
           "_hash": "8bd7fbd73acb41a2",
-          "_ageHours": 34,
-          "_inWindow": true,
-          "_score": 18.70388222222222,
-          "_corrob": 1
-        },
-        {
-          "title": "AI designed gene-editing enzymes that outperform everything evolution built - Startup Fortune",
-          "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNSklfMlptUzJ3eDAyRmtZUGFYdGYyenFaR0xtTTFxd1QwNnlacEZnOE1QQi1YUkxXR2p1b0hNcjRBUVc5OC1YN1VRY2lNLXNVeGdlVUtxbUM1RWNSNnhza1JETWZfa0xHOE1aRG51NW9CTThsRHIwUllaYmlhZHEwcVlMcWtzX2lVaFNoRkVyVlUzbTJtZkVMbmppb2o1Y0Q1WmlJbHJ3?oc=5",
-          "date": "Fri, 24 Jul 2026 23:45:52 GMT",
-          "summary": "AI designed gene-editing enzymes that outperform everything evolution built Startup Fortune",
-          "source": "news.google.com",
-          "_hash": "e3d88eb446039266",
           "_ageHours": 35,
           "_inWindow": true,
-          "_score": 18.46832611111111,
+          "_score": 18.03375111111111,
           "_corrob": 1
         }
       ]
@@ -459,22 +460,10 @@
           "summary": "New flywheel energy storage systems can be located largely underground, offering aesthetic benefits alongside the potential for lower costs, longer duration, and less reliance on overseas supply chains. The post This New Underground Energy Storage System Supports Wind And Solar Power appeared first on CleanTechnica .",
           "source": "cleantechnica.com",
           "_hash": "91a0ef20c52fff16",
-          "_ageHours": 13,
+          "_ageHours": 14,
           "_inWindow": true,
-          "_score": 62.599756666666664,
+          "_score": 61.92961666666667,
           "_corrob": 2
-        },
-        {
-          "title": "China Keeps Beating Renewable Targets And Missing Nuclear Ones",
-          "link": "https://cleantechnica.com/2026/07/25/china-renewable-targets-nuclear-delivery/",
-          "date": "Sat, 25 Jul 2026 14:47:50 +0000",
-          "summary": "China’s renewable and nuclear targets are often quoted as equivalent statements about the future. The delivery record says otherwise. Wind and solar targets have repeatedly been overtaken, sometimes years early, while nuclear operating-capacity targets have been missed despite continued approvals, construction and political support. Forecasts should be built from what ... [continued] The post China Keeps Beating Renewable Targets And Missing Nuclear Ones appeared first on CleanTechnica .",
-          "source": "cleantechnica.com",
-          "_hash": "37e8ae9108b00d07",
-          "_ageHours": 19,
-          "_inWindow": true,
-          "_score": 57.50086777777778,
-          "_corrob": 1
         },
         {
           "title": "Nuclear Energy Stocks Backing AI Power Demand Retail Investors May Want To Research - simplywall.st",
@@ -485,7 +474,7 @@
           "_hash": "cb63e6bcb47e5994",
           "_ageHours": 4,
           "_inWindow": true,
-          "_score": 49.3608675,
+          "_score": 48.69072777777778,
           "_corrob": 1
         },
         {
@@ -495,9 +484,9 @@
           "summary": "Texas just gave a startup permission to test a fusion reactor — here's what that means Gagadget.com",
           "source": "news.google.com",
           "_hash": "4ad1864f74083129",
-          "_ageHours": 20,
+          "_ageHours": 21,
           "_inWindow": true,
-          "_score": 44.96836722222223,
+          "_score": 44.298227499999996,
           "_corrob": 1
         },
         {
@@ -507,9 +496,9 @@
           "summary": "Trump Administration reveals it canceled clean-energy grants for states that voted for Kamala Harris in 2024 election AOL.com",
           "source": "news.google.com",
           "_hash": "78b05e16dd1f4b32",
-          "_ageHours": 10,
+          "_ageHours": 11,
           "_inWindow": true,
-          "_score": 43.140589444444444,
+          "_score": 42.47044972222222,
           "_corrob": 1
         },
         {
@@ -521,7 +510,7 @@
           "_hash": "2379b21446041d74",
           "_ageHours": 11,
           "_inWindow": true,
-          "_score": 42.29614527777778,
+          "_score": 41.62600527777778,
           "_corrob": 1
         },
         {
@@ -533,7 +522,7 @@
           "_hash": "8d318e1decc5a445",
           "_ageHours": 11,
           "_inWindow": true,
-          "_score": 42.21142305555556,
+          "_score": 41.54128305555555,
           "_corrob": 1
         },
         {
@@ -545,7 +534,7 @@
           "_hash": "42038a39bce9d46b",
           "_ageHours": 19,
           "_inWindow": true,
-          "_score": 40.28697833333334,
+          "_score": 39.616838611111106,
           "_corrob": 1
         },
         {
@@ -555,9 +544,9 @@
           "summary": "Trump Administration Admits Canceling $7.6 Billion Clean Energy Grants in 16 Democratic States NewsCord",
           "source": "news.google.com",
           "_hash": "dde2fe19e159e3c0",
-          "_ageHours": 13,
+          "_ageHours": 14,
           "_inWindow": true,
-          "_score": 40.11114527777778,
+          "_score": 39.441005277777776,
           "_corrob": 1
         },
         {
@@ -567,9 +556,9 @@
           "summary": "Jeffersonville, Indiana facility will include more than 1,200 employees that will strengthen U.S. manufacturing, supply-chain resilience, and energy dominance KITCHENER, Ontarioa and JEFFERSONVILLE, Indiana — CS PowerTech Inc., a subsidiary of Canadian Solar Inc. (NASDAQ: CSIQ) and the largest silicon PV solar manufacturer in the U.S., today announced the official opening of the first phase of ... [continued] The post CS PowerTech Launches Best In Class PV HJT Solar Cell Factory appeared first o",
           "source": "cleantechnica.com",
           "_hash": "88dd063d0154123e",
-          "_ageHours": 33,
+          "_ageHours": 34,
           "_inWindow": true,
-          "_score": 38.08336777777778,
+          "_score": 37.41322777777778,
           "_corrob": 1
         },
         {
@@ -579,9 +568,9 @@
           "summary": "Democrats sue and accuse Trump administration of canceling clean energy grants after 2024 vote Межа. Новини України.",
           "source": "news.google.com",
           "_hash": "c00dc7ba8560e1f6",
-          "_ageHours": 15,
+          "_ageHours": 16,
           "_inWindow": true,
-          "_score": 38.000034166666666,
+          "_score": 37.32989416666667,
           "_corrob": 1
         },
         {
@@ -591,9 +580,21 @@
           "summary": "Trump administration admits it canceled clean-energy grants in states that voted for Kamala Harris CNN",
           "source": "news.google.com",
           "_hash": "180604ba8b82d5b1",
-          "_ageHours": 15,
+          "_ageHours": 16,
           "_inWindow": true,
-          "_score": 37.80558972222222,
+          "_score": 37.13544972222222,
+          "_corrob": 1
+        },
+        {
+          "title": "Trump administration admits grants for clean energy were canceled based on politics - niagara-gazette.com",
+          "link": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxNYk1WQjZaU0Y2U0R5dG01U3IzSDMyak53dVhPWWpCcm1LeXBRWGVyR1podnRWWVE2Q0pvMWtMVkI1Y0JQOXVnWUJyckFKclhFUGRYcUZJMUdGTVozQXo1Y1c1bFVZaGJhVjFuVS02VmRSeHdXZ2h5RVhtRFlnQUozLXRYYll2ZFJkWTc5cWxTZklBeVdIbXJGZE5kLTVtWjhRaEFwVVhJbkNBVElMVkR3UHBHaXN3aWRYTURyMDVLMl9yVWJocHo0TFZzdzNFSmJOQTBBWllKakVJZ3FkNGt3QW9WZXVibHJJazcwSnBYcl8zTVhqREt5OTN2MFlJZE0?oc=5",
+          "date": "Sat, 25 Jul 2026 11:15:00 GMT",
+          "summary": "Trump administration admits grants for clean energy were canceled based on politics niagara-gazette.com",
+          "source": "news.google.com",
+          "_hash": "4c9bc4de90ecb859",
+          "_ageHours": 24,
+          "_inWindow": true,
+          "_score": 29.283505277777778,
           "_corrob": 1
         }
       ]
