@@ -1,20 +1,56 @@
 {
   "date": "2026-07-28",
-  "generatedAt": "2026-07-28T03:48:28.452Z",
+  "generatedAt": "2026-07-28T04:15:39.316Z",
   "pillars": {
     "ai": {
       "name": "Artificial Intelligence",
       "candidates": [
         {
-          "title": "OpenAI called the Hugging Face attack unprecedented. But we’ve been here before.",
-          "link": "https://www.technologyreview.com/2026/07/27/1140836/openai-hugging-face-attack-precedent/",
-          "date": "Mon, 27 Jul 2026 18:00:00 +0000",
-          "summary": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first,&#160;sign up here. Reading OpenAI’s account last week of how some of its models broke their containment and hacked into the computer systems of Hugging Face, another AI company, was the first time I got&#8230;",
-          "source": "www.technologyreview.com",
-          "_hash": "19098db0218a8627",
+          "title": "Nvidia, Microsoft launch open AI security alliance — without OpenAI, Google, or Anthropic",
+          "link": "https://www.theverge.com/ai-artificial-intelligence/971281/nvidia-open-secure-ai-alliance-cybersecurity",
+          "date": "2026-07-27T08:06:22-04:00",
+          "summary": "Nvidia on Monday said it is joining forces with Microsoft, SpaceX, IBM, and other tech companies to build and share open-source AI security tools. The new Open Secure AI Alliance said open tools are required to effectively defend against attacks from frontier models. The initiative is a direct response to mounting concerns over the safety [&#8230;]",
+          "source": "www.theverge.com",
+          "_hash": "af3c00406aafbe1a",
+          "_ageHours": 16,
+          "_inWindow": true,
+          "_score": 68.84495722222222,
+          "_corrob": 5
+        },
+        {
+          "title": "Microsoft Builds AI Cyberstack As Nvidia Launches Open-Source Alliance 07/28/2026 - MediaPost",
+          "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQMk05UDl4NlVsOGlOVDFiZ2hqVEJnSjBrMTV6Z1RMWHJFNDAxdkc4U3lrUG9vLXA1QjJJVVFRXzluWjFiUVhtOHZscFI5S1dmV1h0eVBwV1plVkdEaktDYWwyNFdQb1FnRHh0TnRjdGt1WVV0ZGRTZzJTY3BhWldEblZoRkpPRWIwQ1NtSHlUTGpTdjBPSU1Jd05XV0hrOWJhUnIzSFpqS3AzcHB6?oc=5",
+          "date": "Mon, 27 Jul 2026 21:09:24 GMT",
+          "summary": "Microsoft Builds AI Cyberstack As Nvidia Launches Open-Source Alliance 07/28/2026 MediaPost",
+          "source": "news.google.com",
+          "_hash": "e21ac627b783e585",
+          "_ageHours": 7,
+          "_inWindow": true,
+          "_score": 66.89551444444444,
+          "_corrob": 4
+        },
+        {
+          "title": "Anthropic’s Amodei Rejects Open Model Ban But Calls for Testing - Bloomberg",
+          "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNeTVnc1A0RXVTS01BaHM2ajhVRFpCcWF2a1A0WC0yRWhFcWFwRno0T0NZNUEtM2doVHRmZ2NFM3RFZHk1VHFxQ3paT3NaeHhTd0JhbkZlTVlUX3V0NzJ5N21saFJUam5Tc3haUmYwVHlGZkU3UGpaMTBKUjNOMHVJeFMxanByWG1JV1ZlWDdiYUFpUnhXdWZpMlZPU1AtTXo0Y002NWRfNFBlV2UzWmpmVkpnNmo?oc=5",
+          "date": "Tue, 28 Jul 2026 01:51:00 GMT",
+          "summary": "Anthropic’s Amodei Rejects Open Model Ban But Calls for Testing Bloomberg",
+          "source": "news.google.com",
+          "_hash": "87b9f98117294526",
+          "_ageHours": 2,
+          "_inWindow": true,
+          "_score": 66.58884805555556,
+          "_corrob": 3
+        },
+        {
+          "title": "Microsoft launches its first cybersecurity model, plus a new agentic cybersecurity system",
+          "link": "https://techcrunch.com/2026/07/27/microsoft-launches-its-first-cyber-model-and-a-new-agentic-cybersecurity-system/",
+          "date": "Mon, 27 Jul 2026 18:32:11 +0000",
+          "summary": "Microsoft bolstered its AI cybersecurity offerings this week with the launch of its first AI security model and a new security platform.",
+          "source": "techcrunch.com",
+          "_hash": "bf780584982bccc1",
           "_ageHours": 10,
           "_inWindow": true,
-          "_score": 60.19191194444444,
+          "_score": 66.27523527777778,
           "_corrob": 2
         },
         {
@@ -24,130 +60,94 @@
           "summary": "Moonshot AI releases weights for Kimi-K3, firing a shot across the bow of OpenAI and Anthropic — open-weight model performs almost as well as frontier models while being 2-3x easier to run Tom's Hardware",
           "source": "news.google.com",
           "_hash": "19ea6df6f4fd1cdb",
-          "_ageHours": 9,
+          "_ageHours": 10,
           "_inWindow": true,
-          "_score": 55.87468805555555,
-          "_corrob": 1
+          "_score": 65.42162472222222,
+          "_corrob": 3
         },
         {
-          "title": "Amazon&#8217;s trying to launch a global satellite cellphone network in 2028",
-          "link": "https://www.theverge.com/tech/971437/amazon-leo-direct-to-device-satellite-network",
-          "date": "2026-07-27T11:40:38-04:00",
-          "summary": "Amazon filed an FCC application on Saturday to launch a new Leo satellite constellation that will provide direct-to-device satellite service for \"voice, messaging, data, and emergency services.\" If approved, Amazon will begin deploying the new constellation of 5,105 satellites in 2028. It says it plans to partner with mobile network operators to offer direct-to-device satellite [&#8230;]",
-          "source": "www.theverge.com",
-          "_hash": "3ded4847fcc5ca47",
-          "_ageHours": 12,
+          "title": "Anthropic&#8217;s Dario Amodei responds: doesn&#8217;t oppose open-weight models, but fears Chinese AI",
+          "link": "https://techcrunch.com/2026/07/27/anthropics-dario-amodei-responds-doesnt-oppose-open-weight-models-but-fears-chinese-ai/",
+          "date": "Tue, 28 Jul 2026 00:13:33 +0000",
+          "summary": "Anthropic founder and CEO Dario Amodei made his views clear about open-weight models and China's growing AI capabilities.",
+          "source": "techcrunch.com",
+          "_hash": "1b6dce3ff05db662",
+          "_ageHours": 4,
           "_inWindow": true,
-          "_score": 52.86913388888889,
-          "_corrob": 1
+          "_score": 64.96467972222223,
+          "_corrob": 3
         },
         {
-          "title": "Reuters: OpenAI Agent Hacked Hugging Face for Days Before Being Detected - Security Affairs",
-          "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOMmNMbUdubUpMUXNSMkNFZDBlZl9HR0dvRHpqVFFtZHV4SDFYWXJ5b0lmUklITkM1QzBUUkxQcWtOaDFBV25aM3hjRDFFcXZsQUdjTElsUTFXQmxBOThfZ0I0dkFsSU5pODU4cTVFbGRDa2M3bUowTi1YR2dUZVZSZlJUS3ItdW1tSF9WMEg2djdGdVl2ejhjVW5jOTM4aHZia0RwcHJBSU1kQ2M2dWxDZ05TTVXSAboBQVVfeXFMT0hKWnJ6X1d5cnBNSDFHUWF2eGhQSU5jU1czZ1BoamhqcWh3VDV1X1RuVEF5SHpZTlNBQ2FkZUdWQTFPLW52Ykd0ajBiMVBJb2JjcmRXZkRkQXZRcU9KOGZ1U2FoR1JJTWJ2dkRmMjhRZURuZmNUSmlnNjNJaFZTLUVnNWY2OUZ4dlV1Z3hqa2FQcEp0TXpSNkVCWUhnT1V5S3B6LU9nYm5MdHJmX21JM1F6X25Hb0YySHF3?oc=5",
-          "date": "Mon, 27 Jul 2026 22:29:13 GMT",
-          "summary": "Reuters: OpenAI Agent Hacked Hugging Face for Days Before Being Detected Security Affairs",
-          "source": "news.google.com",
-          "_hash": "7ddf6f5dd5125c91",
+          "title": "Anthropic CEO Dario Amodei says AI company isn't advocating for ban of open-weight models",
+          "link": "https://www.cnbc.com/2026/07/27/anthropic-ceo-dario-amodei-isnt-advocating-open-weight-model-ban.html",
+          "date": "Mon, 27 Jul 2026 23:43:50 GMT",
+          "summary": "Critics have questioned why Anthropic didn't sign an industry letter last week in support of open-weight models.",
+          "source": "search.cnbc.com",
+          "_hash": "caedf12ccb90bc5a",
           "_ageHours": 5,
           "_inWindow": true,
-          "_score": 52.67885472222222,
+          "_score": 64.46940222222221,
+          "_corrob": 3
+        },
+        {
+          "title": "Power up your AI infrastructure! A first look at the Smart Systems Stage agenda at TechCrunch Disrupt 2026",
+          "link": "https://techcrunch.com/2026/07/27/power-up-your-ai-infrastructure-a-first-look-at-the-smart-systems-stage-agenda-at-techcrunch-disrupt-2026/",
+          "date": "Mon, 27 Jul 2026 15:30:00 +0000",
+          "summary": "At TechCrunch Disrupt 2026, the Smart Systems Stage will be where energy, infrastructure, and technology collide, covering everything from fusion breakthroughs to the grid strain AI is putting on the entire economy.",
+          "source": "techcrunch.com",
+          "_hash": "e240478a7777659e",
+          "_ageHours": 13,
+          "_inWindow": true,
+          "_score": 64.23884638888889,
+          "_corrob": 1
+        },
+        {
+          "title": "Nvidia OpenAI Data Center Deal Tests AI Funding 2026 - Memeburn",
+          "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9WZ3VrNGthRTJBOHByZFppTTZFd0oxNHZiYTdrZDdyOUNidWk1S094aXhULXFMX3RuVGlZbGZnX2RxRUgtSTM4Q0NvT3E1VFNrWEo2UHZMVThKSHpKcGV3bEdpTTRZY2VIRkxfLU5MN29EVVlsZGFSSWxnanBwWmc?oc=5",
+          "date": "Mon, 27 Jul 2026 22:58:52 GMT",
+          "summary": "Nvidia OpenAI Data Center Deal Tests AI Funding 2026 Memeburn",
+          "source": "news.google.com",
+          "_hash": "880ec628560c4e2e",
+          "_ageHours": 5,
+          "_inWindow": true,
+          "_score": 63.71995861111111,
+          "_corrob": 3
+        },
+        {
+          "title": "Nvidia, Microsoft and IBM Launch Open Secure AI Alliance to Strengthen AI Cybersecurity - Decrypt",
+          "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPRUg3alp4NTFsVkxKVVFGWGR0QzVwT1BENkFTbjROTExVbktNM0M2MXNCYW00U2xfd0RPTHljbUpLX3hpYVFmN0VaOHlJRFQzaDRQeU9QTHlEM1NBLXcwX0ZLVTZrZzA3OEJKY3dWSmQ3WGw2aU9NNnJTUGVuVUpmX2FoOGdURi1pMjRtVtIBlAFBVV95cUxNZEtIVkNnRTcyNVRLREkwR01sS2RJZ1I1MklYcnhIbjc1MEF3WGQ4bDlnZGxlQUZxMENlZ0FWRHpHMmwxOE5WT0lXZmdGdDdJV0x6LTlUZ1NBNHdGeHdaXzZzczgteUY3UVR2bzNOaERLSEtGbVd1ZVVRYTFFMFVPNDRHRFdYQnQxZ2NVRklleGRZZEpG?oc=5",
+          "date": "Mon, 27 Jul 2026 17:58:46 GMT",
+          "summary": "Nvidia, Microsoft and IBM Launch Open Secure AI Alliance to Strengthen AI Cybersecurity Decrypt",
+          "source": "news.google.com",
+          "_hash": "d3a25e81cc9f4c78",
+          "_ageHours": 10,
+          "_inWindow": true,
+          "_score": 63.718292222222225,
+          "_corrob": 4
+        },
+        {
+          "title": "Tech giants launch open AI safety plan following breach - NBC Bay Area",
+          "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQOGtpdjkzZWJaWEdMZFFaSGxjWUZpbmlhbWg2ZzZRaUswc0dteFJkbVZ6dUY5dTdoT0JUanNnQXRiYi0zNVYyVU1naV9yTHY0eGxhQVRBY2NJOTlBdC1XTXQ3QW9udEtOcGtVYnlFU0NCa0VsTHo4T1NMVS01TEs4WmZMRFFGRjdUTko0REVJR0FDbFlMcjQteUNIRG1xa2ZJVW90N9IBrAFBVV95cUxQdGNtQmpuWHE0elMtZUk4aWtHdFdUc2pJR2I4LU94SHdZRGlqYVVlVmZCaVozX1hWZlJMU2UxVDBNQnFsUThFSHByVDlDR1Zib2VKdWNUS3luQXl2eHlKRWl5NVRPUjJQTm13Qlp3V3JvTzI3dWhNaG1YYXBmdW9CMC1zSzFOSWRXMy1aU1ZGNHJmcUYxTS1DOVBKUm1EMEJKcGdMdDB2SWlsQ01o?oc=5",
+          "date": "Tue, 28 Jul 2026 02:28:47 GMT",
+          "summary": "Tech giants launch open AI safety plan following breach NBC Bay Area",
+          "source": "news.google.com",
+          "_hash": "6689157fcefb0fc4",
+          "_ageHours": 2,
+          "_inWindow": true,
+          "_score": 62.21857027777778,
           "_corrob": 2
         },
         {
-          "title": "Artificial Intelligence Driven Solar Tracking System for Enhanced Energy Efficiency and Environmental Sustainability - Springer Nature Link",
-          "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1Nb2pFS2gzSDYtcnNxMGRqZm5yWGFvbGI5b24xeHFNeWU0V0p2bTMxZW5ILTFWbWR0QkE1N2xIN0phdWlRMEdobXlfV3FiSzlyTl9SVmpPUklKVVBSVnZwMWFCcENxMi1LNWNj?oc=5",
-          "date": "Mon, 27 Jul 2026 21:05:10 GMT",
-          "summary": "Artificial Intelligence Driven Solar Tracking System for Enhanced Energy Efficiency and Environmental Sustainability Springer Nature Link",
+          "title": "Nvidia creates AI security alliance after OpenAI hack. But OpenAI isn’t invited - Straight Arrow",
+          "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxOVUZJd3dXQU5wY3djZkRUQWdDOUdZb0ZJX1dnR0xVYnZWbUpPU1BSblBtZW9HbkJrV3ZVX20yMC0zVWNCbWZQR0F6QWpvZzdaWmF0R3cyRWVqcUlfMFEwNENSVWMwMFVuVGVzanliblVOVkUxMmV3TUVuOEVTY0tSSnp5cU4zYzQtSEN5RkY3NVlJcjZPMFBJdkcySEpXQQ?oc=5",
+          "date": "Mon, 27 Jul 2026 22:25:58 GMT",
+          "summary": "Nvidia creates AI security alliance after OpenAI hack. But OpenAI isn’t invited Straight Arrow",
           "source": "news.google.com",
-          "_hash": "d9c20b3e2928869a",
-          "_ageHours": 7,
-          "_inWindow": true,
-          "_score": 52.27802166666667,
-          "_corrob": 1
-        },
-        {
-          "title": "Artificial intelligence the 'biggest single investing theme' in recorded human history, expert argues - Fox Business",
-          "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1DN2tHeWJ5QVZacDNEaWotZzdnbk54bVphTGwwNWJIdVBqS3RrWjhmcURmcUdvWXc3ZGRqTlVYamMwLThLQWNQTENaY3h5d1hRT0cwdmlic2diQnM?oc=5",
-          "date": "Mon, 27 Jul 2026 20:13:42 GMT",
-          "summary": "Artificial intelligence the 'biggest single investing theme' in recorded human history, expert argues Fox Business",
-          "source": "news.google.com",
-          "_hash": "827604924f0ba970",
-          "_ageHours": 8,
-          "_inWindow": true,
-          "_score": 51.42024388888889,
-          "_corrob": 1
-        },
-        {
-          "title": "Hugging Face CEO wants transparency after OpenAI’s AI incident - Computerworld",
-          "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNX3FhZlRlQi1VZlhXUDBzVFFjZXJEaUhpNC1rWlNsdEx1d21DZFRUendHMFV6MW4wUEoyTE1zcEdTQ0pJSm1lQ0w0cUlqLWN2UktINW1oWkpTUUJXSWlaNzBiWmg1dnUzR0JadHJRRjdZRzdVT0lFM1ZaTGdvT2NISno3cU8yU25iTnpkYWVxWVJyMHJXOVRkMTcwU1JNSUh2NndHY1ZRdzM0ZXZMOVctdndQcVdJNzNNY3B5Wg?oc=5",
-          "date": "Mon, 27 Jul 2026 20:21:25 GMT",
-          "summary": "Hugging Face CEO wants transparency after OpenAI’s AI incident Computerworld",
-          "source": "news.google.com",
-          "_hash": "232e1bf66ad3a5b8",
-          "_ageHours": 7,
-          "_inWindow": true,
-          "_score": 50.548854722222224,
-          "_corrob": 2
-        },
-        {
-          "title": "Cornerstone Launches President's AI Advisory Board to Lead the Future of Christian Higher Education - Cornerstone University",
-          "link": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxPUmV5NVNHS3JpZzhOTjdiMWJBcWpkd3dXUXVkbnhHMzFVeEdnVGdVbjdnVmt3aDhnQlJ2QkNUM2xvdVJGaWxWU1RubkVTOTdPaFhpdU5pZDY0UXhlXzc1WWo3cWRRaHBGY014aDExenEtUWFfQnB4b0dBZ3N5OVNoZkVOalhxbktpTThzc2hVdFVtNktRN0pXb0poUmlpdTgtRkdTZW56akdSSWU2NFE3MkhaS28td0FKWDZRWXhMNkdEMkpHZE83SndJNFN6NVZ1MHlseHNVUENGak92SnI4R0J5OXVUYWdBNDZ4Vk1SSWw?oc=5",
-          "date": "Mon, 27 Jul 2026 19:05:46 GMT",
-          "summary": "Cornerstone Launches President's AI Advisory Board to Lead the Future of Christian Higher Education Cornerstone University",
-          "source": "news.google.com",
-          "_hash": "895a08ebf07ba322",
-          "_ageHours": 9,
-          "_inWindow": true,
-          "_score": 50.288021666666666,
-          "_corrob": 1
-        },
-        {
-          "title": "Closing the data loop in AI-driven drug discovery",
-          "link": "https://www.technologyreview.com/2026/07/27/1139667/closing-the-data-loop-in-ai-driven-drug-discovery/",
-          "date": "Mon, 27 Jul 2026 11:40:16 +0000",
-          "summary": "Drug discovery is a high-cost, high-risk endeavor that is under growing pressure from a market increasingly defined by first-mover advantage. Since the 1950s, the cost of developing new pharmaceuticals has roughly doubled every nine years—a phenomenon known as Eroom’s Law. Today, bringing a new drug to market takes an average of 10-15 years and costs&#8230;",
-          "source": "www.technologyreview.com",
-          "_hash": "64f6386cdaec9555",
-          "_ageHours": 16,
-          "_inWindow": true,
-          "_score": 48.86302277777778,
-          "_corrob": 1
-        },
-        {
-          "title": "Editorial | US aims to dominate AI but China’s open-source approach is unstoppable - South China Morning Post",
-          "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQOGgxX3Z4WHh1NXpUVDMycE1XQ3hNWTNKVWNaOTNTVjVGWnJBbWNCeWlqSU0yNTFjbC1ZMlJMWWZacGFDVjIwd0YwQ1ZRanZzcGxGdWVNT2hpMVppTDh3cXp4Q0stOFJPVUl3bWFGZjU2aG5KQ29fLXZUNTAwZnc1VXIxaTlTaFZHc3didnptNll6bHVabkVSdTJNeWo4X3IzNEdkVTRRWEZUcElmSm1Ua3Bn0gGyAUFVX3lxTFBfazFTN2pvWjROUWp3bmNBWXltWG13WEFneTJHblBROGtKYktXZm55ZXpvNm53MHpxM25WYlFKdUJmMXd0ZF9Rc0wycGdiTzVFS2o4MFpxbXFLSHQ1MEJWelpBQnNTY0l0T05HX2VvNmVfM3JxU1lkZXF4enlBaEJ4U1lOLUtwclNyX0F4TmVEUnJYR1A5bFF5N2YwOHBicHV4U283RlRLV0l0a3YwSzI4VWc?oc=5",
-          "date": "Mon, 27 Jul 2026 23:15:07 GMT",
-          "summary": "Editorial | US aims to dominate AI but China’s open-source approach is unstoppable South China Morning Post",
-          "source": "news.google.com",
-          "_hash": "fd41def7124a8357",
-          "_ageHours": 5,
-          "_inWindow": true,
-          "_score": 48.44385472222222,
-          "_corrob": 1
-        },
-        {
-          "title": "Industrial Tokenization for LLM-Based Health Intelligence: A Federated Architecture for Industrial Evidence Integration",
-          "link": "https://arxiv.org/abs/2607.22153",
-          "date": "Mon, 27 Jul 2026 00:00:00 -0400",
-          "summary": "arXiv:2607.22153v1 Announce Type: new Abstract: Industrial health management increasingly relies on heterogeneous information sources, including condition monitoring systems, supervisory control and data acquisition systems, maintenance records, inspection results, and prognostic models. Although large language models provide new opportunities for cross-source reasoning, industrial data and analytical outputs differ substantially in structure, temporal resolution, physical meaning, and reliabili",
-          "source": "rss.arxiv.org",
-          "_hash": "95780fc8f27678f8",
-          "_ageHours": 24,
-          "_inWindow": true,
-          "_score": 47.19191138888889,
-          "_corrob": 1
-        },
-        {
-          "title": "Marvell Technology vs. Planet Labs: Which Growth Stock Is a Better Buy in 2026, the Artificial Intelligence Company or the Rising Star of the Space-Based Economy? - The Motley Fool",
-          "link": "https://news.google.com/rss/articles/CBMitgJBVV95cUxNMVdIUTFvSW5aV3JGQ3Uzd204Vk5qSXJKTzllU0g0OVpBN1pUc2trVW9EZmFXZDhYS1ZScG1qWTl4X3pIaVV0Y0FmOTFha1dCWUNGdUNfcjFGcGpMd0ZrZFRhN29lOVdYeWlud1VtbGF3R21DLTZNOFYxcWFSejJ0cTZqMWVSUVJaSnBDTTUxYnQwWWtFT2NkY0VSUTkybDQxczhlaTJvRWljVGNicndOWGs2anlJblljN2t6c3NOY21VeC0zMldkYUF0X2hwT3J0TGtkVFhndXFDWldVazgzX2FLRlhmUzhscWhXY3ZFTkpSUXNQaXoxS3dpUjdKbG1ybjJncjZuQnpMQlpjMkpPeGFZS1dkR3l2cnFlVC0xSE9zLWppOFpUVkZZcjhuV3prb3JRZW53?oc=5",
-          "date": "Mon, 27 Jul 2026 21:22:00 GMT",
-          "summary": "Marvell Technology vs. Planet Labs: Which Growth Stock Is a Better Buy in 2026, the Artificial Intelligence Company or the Rising Star of the Space-Based Economy? The Motley Fool",
-          "source": "news.google.com",
-          "_hash": "1a271aa083d54f5e",
+          "_hash": "e16d2a32d972d589",
           "_ageHours": 6,
           "_inWindow": true,
-          "_score": 46.558577222222226,
-          "_corrob": 1
+          "_score": 62.17162583333334,
+          "_corrob": 4
         }
       ]
     },
@@ -163,7 +163,7 @@
           "_hash": "cbbcf4abb47d8a87",
           "_ageHours": 8,
           "_inWindow": true,
-          "_score": 62.19175638888889,
+          "_score": 61.738688333333336,
           "_corrob": 2
         },
         {
@@ -173,9 +173,9 @@
           "summary": "Citigroup Launches $10.219 Million Autocallable Equity-Linked Securities Backed by Space Exploration Technologies Stock Kalkine Media",
           "source": "news.google.com",
           "_hash": "90c15e10b1836e1c",
-          "_ageHours": 4,
+          "_ageHours": 5,
           "_inWindow": true,
-          "_score": 59.65620055555556,
+          "_score": 59.20313222222222,
           "_corrob": 2
         },
         {
@@ -187,7 +187,7 @@
           "_hash": "f09fd11e2f666f67",
           "_ageHours": 17,
           "_inWindow": true,
-          "_score": 59.000368333333334,
+          "_score": 58.54729944444445,
           "_corrob": 2
         },
         {
@@ -199,7 +199,7 @@
           "_hash": "d6dec8436725c848",
           "_ageHours": 6,
           "_inWindow": true,
-          "_score": 58.19175638888889,
+          "_score": 57.738688333333336,
           "_corrob": 2
         },
         {
@@ -211,7 +211,7 @@
           "_hash": "80abf3b645932652",
           "_ageHours": 6,
           "_inWindow": true,
-          "_score": 58.19175611111111,
+          "_score": 57.738688055555556,
           "_corrob": 2
         },
         {
@@ -223,7 +223,7 @@
           "_hash": "e2db3ee38dbd3833",
           "_ageHours": 8,
           "_inWindow": true,
-          "_score": 56.19175611111111,
+          "_score": 55.738688055555556,
           "_corrob": 2
         },
         {
@@ -235,7 +235,7 @@
           "_hash": "122e1f3d75d77975",
           "_ageHours": 9,
           "_inWindow": true,
-          "_score": 55.22925722222222,
+          "_score": 54.77618833333334,
           "_corrob": 2
         },
         {
@@ -247,7 +247,7 @@
           "_hash": "1c2f51ac09b5da61",
           "_ageHours": 10,
           "_inWindow": true,
-          "_score": 49.212312777777775,
+          "_score": 48.75924388888889,
           "_corrob": 1
         },
         {
@@ -259,8 +259,20 @@
           "_hash": "8a5b1b2d17d68ce7",
           "_ageHours": 9,
           "_inWindow": true,
-          "_score": 49.013979444444445,
+          "_score": 48.56091055555555,
           "_corrob": 2
+        },
+        {
+          "title": "Smoke Blankets Oregon",
+          "link": "https://science.nasa.gov/earth/natural-disasters/wildfires/smoke-blankets-oregon/",
+          "date": "Tue, 28 Jul 2026 04:01:00 +0000",
+          "summary": "Lightning storms have ignited dozens of fires in central and eastern Oregon.",
+          "source": "www.nasa.gov",
+          "_hash": "b62824ec726a179f",
+          "_ageHours": 0,
+          "_inWindow": true,
+          "_score": 47.755355,
+          "_corrob": 0
         },
         {
           "title": "NASA Astronaut Chris Williams Returns to Earth",
@@ -271,7 +283,7 @@
           "_hash": "77620c81941588bd",
           "_ageHours": 11,
           "_inWindow": true,
-          "_score": 48.004535000000004,
+          "_score": 47.55146611111111,
           "_corrob": 1
         },
         {
@@ -281,22 +293,10 @@
           "summary": "Frequency Electronics Inc. Announces Space Mission Contract Award Valued at Approximately $8 million The Manila Times",
           "source": "news.google.com",
           "_hash": "0cf2e577a9a873f9",
-          "_ageHours": 16,
+          "_ageHours": 17,
           "_inWindow": true,
-          "_score": 46.82397805555556,
+          "_score": 46.370909999999995,
           "_corrob": 3
-        },
-        {
-          "title": "On this day in space! July 27, 1962: The 1st zero-g cosmonaut training flight took off on a Soviet jetliner",
-          "link": "https://www.space.com/space-exploration/on-this-day-in-space-july-27-2026",
-          "date": "Mon, 27 Jul 2026 17:20:20 +0000",
-          "summary": "On July 27, 1962, two Russian cosmonauts boarded a Soviet airliner and experienced weightlessness without going to space. Here's why it mattered.",
-          "source": "www.space.com",
-          "_hash": "8aa6e8e3c84e4d6c",
-          "_ageHours": 10,
-          "_inWindow": true,
-          "_score": 42.53064527777778,
-          "_corrob": 1
         }
       ]
     },
@@ -310,9 +310,9 @@
           "summary": "Bitcoin Magazine Coinbase Chief Policy Officer Praises Crypto Clarity Act as &#8220;Extraordinarily Bipartisan&#8221; Coinbase Chief Policy Officer Faryar Shirzad said it's time for Democrats and Republicans to vote on the Clarity Act. This post Coinbase Chief Policy Officer Praises Crypto Clarity Act as &#8220;Extraordinarily Bipartisan&#8221; first appeared on Bitcoin Magazine and is written by Mathew Di Salvo .",
           "source": "bitcoinmagazine.com",
           "_hash": "2bd2328c506f6b63",
-          "_ageHours": 7,
+          "_ageHours": 8,
           "_inWindow": true,
-          "_score": 67.91192749999999,
+          "_score": 67.45768222222222,
           "_corrob": 3
         },
         {
@@ -324,7 +324,7 @@
           "_hash": "3a05f039667a4001",
           "_ageHours": 5,
           "_inWindow": true,
-          "_score": 63.12053861111111,
+          "_score": 62.666293333333336,
           "_corrob": 4
         },
         {
@@ -334,9 +334,9 @@
           "summary": "Bitcoin ETFs Bled Cash Last Week After Winning Streak Bitcoin Magazine",
           "source": "news.google.com",
           "_hash": "773e2b9971db6dcb",
-          "_ageHours": 11,
+          "_ageHours": 12,
           "_inWindow": true,
-          "_score": 62.614705,
+          "_score": 62.16045972222222,
           "_corrob": 4
         },
         {
@@ -346,9 +346,9 @@
           "summary": "Bitcoin Magazine Bitcoin ETFs Bled Nearly Half a Billion Dollars End of Last Week, Reversing Sentiment Investors cashed out of American Bitcoin exchange-traded funds at the end of last week, ending a seven days winning streak.&#160; Data from Farside Investors shows that over $475 million was redeemed from the investment products during trading hours on Thursday and Friday, with BlackRock&#8217;s iShares Bitcoin Trust handling most of the trading action.&#160; Risk appetite [&#8230;] This post B",
           "source": "bitcoinmagazine.com",
           "_hash": "5617e11d6d1944b6",
-          "_ageHours": 11,
+          "_ageHours": 12,
           "_inWindow": true,
-          "_score": 62.59414972222222,
+          "_score": 62.13990444444445,
           "_corrob": 4
         },
         {
@@ -358,9 +358,9 @@
           "summary": "Coinbase Chief Policy Officer Praises Crypto Clarity Act as “Extraordinarily Bipartisan” Bitcoin Magazine",
           "source": "news.google.com",
           "_hash": "6ae6864fd9573d09",
-          "_ageHours": 7,
+          "_ageHours": 8,
           "_inWindow": true,
-          "_score": 61.911927222222225,
+          "_score": 61.457681666666666,
           "_corrob": 3
         },
         {
@@ -370,22 +370,10 @@
           "summary": "Bitcoin Magazine Strategy Skips Bitcoin Again, Buys Back $25M of STRC Stock The company has not bought Bitcoin now for five weeks. This post Strategy Skips Bitcoin Again, Buys Back $25M of STRC Stock first appeared on Bitcoin Magazine and is written by Mathew Di Salvo .",
           "source": "bitcoinmagazine.com",
           "_hash": "e95811ed6df9c216",
-          "_ageHours": 13,
+          "_ageHours": 14,
           "_inWindow": true,
-          "_score": 60.79831638888889,
+          "_score": 60.34407111111111,
           "_corrob": 4
-        },
-        {
-          "title": "Ether ETFs Pull $104M, Tripling Bitcoin's Weekly Inflows - The Defiant",
-          "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOemRLdkpKOHNvNTJYU0xrR295YlNvbFZxTWxzUkZkWWh2cm9sR05lY1lPQi1ROEF0aFNSOVYwbHNFU3pJUHZTR2wwUWpCVzFjdDEyTG9HZ3ZCNXFadGFYUnh6S0hnOWhPeXRtTThZN0ZaXzZPbUhOX0czcTI0Yi14MUdqWFRPS1NqZUhONE44Z082NVJ2ZE0yTQ?oc=5",
-          "date": "Mon, 27 Jul 2026 19:20:03 GMT",
-          "summary": "Ether ETFs Pull $104M, Tripling Bitcoin's Weekly Inflows The Defiant",
-          "source": "news.google.com",
-          "_hash": "0cc110f2edd00c54",
-          "_ageHours": 8,
-          "_inWindow": true,
-          "_score": 60.52581611111111,
-          "_corrob": 3
         },
         {
           "title": "Strategy buys preferred stock in past week instead of bitcoin, hit to business model signaled (MSTR:NASDAQ) - Seeking Alpha",
@@ -394,9 +382,9 @@
           "summary": "Strategy buys preferred stock in past week instead of bitcoin, hit to business model signaled (MSTR:NASDAQ) Seeking Alpha",
           "source": "news.google.com",
           "_hash": "e51e9913f2ec448b",
-          "_ageHours": 14,
+          "_ageHours": 15,
           "_inWindow": true,
-          "_score": 59.85359388888889,
+          "_score": 59.399348333333336,
           "_corrob": 4
         },
         {
@@ -408,7 +396,7 @@
           "_hash": "b5cf2d15d3d6ef79",
           "_ageHours": 4,
           "_inWindow": true,
-          "_score": 59.11276083333333,
+          "_score": 58.65851583333333,
           "_corrob": 3
         },
         {
@@ -420,7 +408,7 @@
           "_hash": "a70ba4d54b8d666b",
           "_ageHours": 15,
           "_inWindow": true,
-          "_score": 58.960816111111114,
+          "_score": 58.506570833333335,
           "_corrob": 4
         },
         {
@@ -432,7 +420,7 @@
           "_hash": "b3ecc6ac788f7755",
           "_ageHours": 17,
           "_inWindow": true,
-          "_score": 57.28387166666667,
+          "_score": 56.82962638888889,
           "_corrob": 4
         },
         {
@@ -444,8 +432,20 @@
           "_hash": "9c03e4b5596df8e3",
           "_ageHours": 17,
           "_inWindow": true,
-          "_score": 57.269149722222224,
+          "_score": 56.814904722222224,
           "_corrob": 4
+        },
+        {
+          "title": "NFL urges CFTC to strengthen rules on sports prediction markets: report",
+          "link": "https://www.theblock.co/post/409846/nfl-urges-cftc-to-strengthen-rules-on-sports-prediction-markets-report?utm_source=rss&utm_medium=rss",
+          "date": "Mon, 27 Jul 2026 17:57:24 -0400",
+          "summary": "The NFL responded to the CFTC’s recent draft rulemaking calling for stricter prediction markets oversight, including age restrictions.",
+          "source": "www.theblock.co",
+          "_hash": "3400682000da7b00",
+          "_ageHours": 6,
+          "_inWindow": true,
+          "_score": 56.694071111111114,
+          "_corrob": 3
         }
       ]
     },
@@ -453,75 +453,27 @@
       "name": "Biotech & Longevity",
       "candidates": [
         {
-          "title": "Voyager’s single-dose gene therapy cuts tau by 75%",
-          "link": "https://longevity.technology/news/voyagers-single-dose-gene-therapy-cuts-tau-by-75/",
-          "date": "Mon, 27 Jul 2026 16:45:37 +0000",
-          "summary": "New six-month data strengthen the case for a one-time Alzheimer’s treatment as Voyager prepares to begin human trials later this year. What if Alzheimer’s care can be provided in the form of a single infusion given once? What if the biggest breakthrough is finally finding a reliable way to reach the brain in the first [&#8230;] The post Voyager’s single-dose gene therapy cuts tau by 75% appeared first on Longevity.Technology .",
-          "source": "longevity.technology",
-          "_hash": "a998890b3718afd1",
-          "_ageHours": 11,
+          "title": "The longevity revolution: Why people are investing in skin health earlier than ever before - The Times of India",
+          "link": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxOSHFRdE9feFpIZmRHbFJtUmp2ZEE0TzBmcmVWanc1UWtvRmhObVF5M2FnSk5HSE9faHJYaWpBS3BPeTdSX0htQ2tuM05jR04xMERHNjlyRGtwOWEza015MU5VWlQ0amxSbnREbmdDcmpOQm0xQ1oyS1BqNV9zZTJEdG41WUpLRVZybEpxZExmbjhtUENQNTgwVVhidGs0aWNrbUFiUTlMM1YzdzNTdXltbmZ5WEpaeFFBVEtQWHpyTUdqZzZsU2dHLWxOU1Jwa2haLTgtTUoxU0FJampoSXJHbmxXTU9Kb1RLTE1FN1l1LTNDRWVRdHA4Z0Q2SETSAYQCQVVfeXFMUGIxTjB1ajAtd3dqeFJKQlJvVWdtMUJoN0dvQmNlcGw2ODRzMEJfMVNJU0hLOTZjZURwV2ludk4yYnVoWHNUUnZ4S25HWm9rYzY4Q2RxcERpeF9fY0pfZ1NRWFRTSTUyZ3Z1T04wQ3dlTnNud3lRUFlKV0lPRmt1MUZ6MmZJcFVNV2FIYTl0dlhaQTEzTi1sMmcxdldzcDV1S1lYNHJETy1MM0N1WkxfTGNPY3VnZzN6VjZBaHdUeDNKREd2UDE5MUs2SkYtN2RfOXRPOC15UG1Wa284ZmYzaXJTc1duV1BCMjVnTHFKZUNmcHpXWjhTM0NIdmtKTGRMUzFLX2E?oc=5",
+          "date": "Tue, 28 Jul 2026 03:48:45 GMT",
+          "summary": "The longevity revolution: Why people are investing in skin health earlier than ever before The Times of India",
+          "source": "news.google.com",
+          "_hash": "77cc09c1be0b8da9",
+          "_ageHours": 0,
           "_inWindow": true,
-          "_score": 71.94815888888888,
+          "_score": 58.549665,
           "_corrob": 1
         },
         {
-          "title": "AnHorn Medicines begins Phase 1 trial for new drug to prevent chemotherapy-related nerve damage",
-          "link": "https://longevity.technology/news/anhorn-medicines-begins-phase-1-trial-for-new-drug-to-prevent-chemotherapy-related-nerve-damage/",
-          "date": "Mon, 27 Jul 2026 08:36:13 +0000",
-          "summary": "AnHorn Medicines on 23 July 2026 reported that the first subject received the first dose in the Phase 1 clinical trial of AH-008, a first-in-class neuroprotective candidate being developed to prevent chemotherapy-induced peripheral neuropathy. The Phase 1 study, launched in Taipei, is designed to evaluate safety, tolerability and pharmacokinetics in healthy volunteers and to generate [&#8230;] The post AnHorn Medicines begins Phase 1 trial for new drug to prevent chemotherapy-related nerve damag",
-          "source": "longevity.technology",
-          "_hash": "cb86d178c9052b1c",
-          "_ageHours": 19,
-          "_inWindow": true,
-          "_score": 61.79149222222222,
-          "_corrob": 3
-        },
-        {
-          "title": "The revolution to make longevity policy a national priority",
-          "link": "https://longevity.technology/news/the-revolution-to-make-longevity-policy-a-national-priority/",
-          "date": "Mon, 27 Jul 2026 13:35:35 +0000",
-          "summary": "Breakthroughs in longevity research are accelerating, but without political and regulatory change, many may never reach people in need. Longevity science is known for big ambitions. However, what it has lacked, more often than not, is a seat at the policymaking table. For years, breakthroughs in aging research have largely been measured by what happens [&#8230;] The post The revolution to make longevity policy a national priority appeared first on Longevity.Technology .",
-          "source": "longevity.technology",
-          "_hash": "e0dee73fb201619c",
-          "_ageHours": 14,
-          "_inWindow": true,
-          "_score": 56.78093666666667,
-          "_corrob": 1
-        },
-        {
-          "title": "MapLight’s schizophrenia drug dampens once-daily hopes despite Phase 2 win",
-          "link": "https://endpoints.news/maplights-schizophrenia-drug-dampens-once-daily-hopes-despite-phase-2-win/",
-          "date": "Mon, 27 Jul 2026 15:17:42 +0000",
-          "summary": "MapLight Therapeutics’ stock {$MPLT} plummeted more than 60% on Monday after a once-daily regimen of its schizophrenia drug missed the primary endpoint in a mid-stage trial, despite the study’s overall success. Investors had been hoping ...",
-          "source": "endpoints.news",
-          "_hash": "41f4f12f77497bd6",
-          "_ageHours": 13,
-          "_inWindow": true,
-          "_score": 56.482881388888885,
-          "_corrob": 3
-        },
-        {
-          "title": "Argenx acquires Forte for $2.2B to get hands on phase 2-stage vitiligo drug - Fierce Biotech",
-          "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPay1YdGdFTkNIN1RzQ1h6YWQ4bWU4NUVsVWxvYUV1RnpNLTZ2c29aSTVxRjV1SXBXYnVHajF5UHBwREVjakFvbVh2dklYSVJxZTFVc2l1dlZUa3VQMkR6Wk03dmZKZ2xiVVFqQnh5NzlTMkdKX21LS3h5ejNmVEoxYXgzYm5IcXhRekxKbFBqSTVha3QwZnVXcTJ3ZkpfSWo3dXBN?oc=5",
-          "date": "Mon, 27 Jul 2026 10:08:15 GMT",
-          "summary": "Argenx acquires Forte for $2.2B to get hands on phase 2-stage vitiligo drug Fierce Biotech",
+          "title": "Europe’s tentative embrace of agricultural gene editing could revolutionize food production and health in Asia - Genetic Literacy Project",
+          "link": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxQdjdwci1fYkpiNWhZUV9XVWp2RkJndlhXaUhnWjhDdmNTcTV1cTV2OUY2amppSGF0eW03Q3RYQzJ5QzhEdGFOTENObFEwWk1NMDlHa0toSEhpUzlES1Q1alFqVkhUMDgxQjhhcU9sNEdMaGtSZUh4LVd4SF9ZSEVjOEsyTzRYTFdUN01UbV8td0l2OFJLbW10ZGZPV2VRUHZTdGRtbDd3b09sUjJkNGRrbElJTHE4d1R5U3VSS3J2Sk5CbFlRVFhlVDhncGE5T1ZrenFhRXJkWHlBZVdqSENsWHFWSnlZOWVST0N4SQ?oc=5",
+          "date": "Tue, 28 Jul 2026 04:06:05 GMT",
+          "summary": "Europe’s tentative embrace of agricultural gene editing could revolutionize food production and health in Asia Genetic Literacy Project",
           "source": "news.google.com",
-          "_hash": "8b9771b2872dc608",
-          "_ageHours": 18,
+          "_hash": "7c8d0cc323d9fb6c",
+          "_ageHours": 0,
           "_inWindow": true,
-          "_score": 56.32537305555556,
-          "_corrob": 4
-        },
-        {
-          "title": "Are We Too Toxic to Age Naturally? Here’s What 3 Longevity Doctors Say - Athletech News",
-          "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxObVZpOTZjY09RejZZZDFsNWRITGNEM0ZSd2QxUTBzUU9CeENTdndHVVRZTlU2X3hMakJPYlFOTEJoOV9JWElXNmtWendWTTNONzJyUXVyQWZld0xMa3VXMi1vZnowbVRlNGVhc0tkVDh5MDhQSHY0SWZENjhxLVBHcnd4WGFhQnc2VXo0bWNfdi1TTmtoYVVlWW1UQWhZcW1Sc21sNWZR?oc=5",
-          "date": "Mon, 27 Jul 2026 20:53:39 GMT",
-          "summary": "Are We Too Toxic to Age Naturally? Here’s What 3 Longevity Doctors Say Athletech News",
-          "source": "news.google.com",
-          "_hash": "20c041db22039052",
-          "_ageHours": 7,
-          "_inWindow": true,
-          "_score": 52.08203972222222,
+          "_score": 52.83855416666667,
           "_corrob": 1
         },
         {
@@ -533,20 +485,32 @@
           "_hash": "d8b10f7eeaeffc4b",
           "_ageHours": 7,
           "_inWindow": true,
-          "_score": 52.0323175,
+          "_score": 51.581609722222225,
           "_corrob": 1
         },
         {
-          "title": "Julie Gibson Clark, 2nd Slowest-Aging Woman on Earth, Joins Longevity Life Academy by eTeacher Group, to Make Elite Longevity Accessible to Americans - TMX Newsfile",
-          "link": "https://news.google.com/rss/articles/CBMimAJBVV95cUxQZl96ekZob2J0U3ZUOEVYT2JsYlI5LWdfWFk1S3cxZHFiVUxnOTFoWlBFMDZiY3ZYQnhxRUxmdmxVQ2hQU2s4QXpDbm4tUW5EXzVDMDUweURaUXpsZ1cxSFZveG5KdUE4SS04bHBlLVctRFh4M3hlSGFSam1CQ0hKWG4td1NwRWxfTkduSER6RjlwSi0xeXRuSUI1OGlnb3JjWEpMNDRVOVhEVnkzZlBXeGt1N0VWN2JFMV9YSFVDVTkyU0hncHlJZHVzM080Smd6RGd4bXBPMTZaMlZqbzhic3ZndXpwWjVMeEctLWpsaV8xc2I1bGpRQkpST0d5aS1NTzkxcF81S3lVNldkTmEtSERTMWh0dmx2?oc=5",
-          "date": "Mon, 27 Jul 2026 19:58:00 GMT",
-          "summary": "Julie Gibson Clark, 2nd Slowest-Aging Woman on Earth, Joins Longevity Life Academy by eTeacher Group, to Make Elite Longevity Accessible to Americans TMX Newsfile",
-          "source": "news.google.com",
-          "_hash": "87ec2f90b54eb71f",
-          "_ageHours": 8,
+          "title": "MapLight’s schizophrenia drug dampens once-daily hopes despite Phase 2 win",
+          "link": "https://endpoints.news/maplights-schizophrenia-drug-dampens-once-daily-hopes-despite-phase-2-win/",
+          "date": "Mon, 27 Jul 2026 15:17:42 +0000",
+          "summary": "MapLight Therapeutics’ stock {$MPLT} plummeted more than 60% on Monday after a once-daily regimen of its schizophrenia drug missed the primary endpoint in a mid-stage trial, despite the study’s overall success. Investors had been hoping ...",
+          "source": "endpoints.news",
+          "_hash": "41f4f12f77497bd6",
+          "_ageHours": 13,
           "_inWindow": true,
-          "_score": 51.154539722222225,
-          "_corrob": 1
+          "_score": 51.03216527777778,
+          "_corrob": 2
+        },
+        {
+          "title": "Argenx acquires Forte for $2.2B to get hands on phase 2-stage vitiligo drug - Fierce Biotech",
+          "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPay1YdGdFTkNIN1RzQ1h6YWQ4bWU4NUVsVWxvYUV1RnpNLTZ2c29aSTVxRjV1SXBXYnVHajF5UHBwREVjakFvbVh2dklYSVJxZTFVc2l1dlZUa3VQMkR6Wk03dmZKZ2xiVVFqQnh5NzlTMkdKX21LS3h5ejNmVEoxYXgzYm5IcXhRekxKbFBqSTVha3QwZnVXcTJ3ZkpfSWo3dXBN?oc=5",
+          "date": "Mon, 27 Jul 2026 10:08:15 GMT",
+          "summary": "Argenx acquires Forte for $2.2B to get hands on phase 2-stage vitiligo drug Fierce Biotech",
+          "source": "news.google.com",
+          "_hash": "8b9771b2872dc608",
+          "_ageHours": 18,
+          "_inWindow": true,
+          "_score": 50.874665,
+          "_corrob": 3
         },
         {
           "title": "Biotech Innovator InstaMed® Pharmaceuticals Appoints Tracy Gibbs, PhD, as Chief Executive Officer Ahead of Worldwide Launch of Non-Injectable Peptide Platform - PR Newswire",
@@ -555,9 +519,9 @@
           "summary": "Biotech Innovator InstaMed® Pharmaceuticals Appoints Tracy Gibbs, PhD, as Chief Executive Officer Ahead of Worldwide Launch of Non-Injectable Peptide Platform PR Newswire",
           "source": "news.google.com",
           "_hash": "f1c8fc1e1ab8a217",
-          "_ageHours": 8,
+          "_ageHours": 9,
           "_inWindow": true,
-          "_score": 50.771206388888885,
+          "_score": 50.32049833333333,
           "_corrob": 1
         },
         {
@@ -567,9 +531,9 @@
           "summary": "RA Capital launches Oak Hill Bio onto the Nasdaq via SPAC Fierce Biotech",
           "source": "news.google.com",
           "_hash": "d24554ea293ae3bc",
-          "_ageHours": 8,
+          "_ageHours": 9,
           "_inWindow": true,
-          "_score": 50.61259527777778,
+          "_score": 50.1618875,
           "_corrob": 1
         },
         {
@@ -579,21 +543,57 @@
           "summary": "Legend Biotech stock falls as CEO Ying Huang steps down Investing.com",
           "source": "news.google.com",
           "_hash": "9e58a99b011cd18d",
-          "_ageHours": 8,
+          "_ageHours": 9,
           "_inWindow": true,
-          "_score": 49.9448175,
+          "_score": 49.49410944444445,
           "_corrob": 2
         },
         {
-          "title": "CHLA Joins Sickle Cell Study on Gene Editing Method - respiratory-therapy.com",
-          "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQdHl5cmVCd3JUVldkWFJJOVdpaVNYcjhqR0xBRmRUZjBJTFItOGRaS1BwQnNacWYtd0V0Zm5jamhwSEcweGhKVUtxMzFQd1BHaTdxVmN4MFZDLUtoUnBqbFRWUEo5WnZnS3ZWTHZ4YzdHTVhENTVjbUhyeHdPRUFGS2FjdEh6M05BOVoyN3BRRGR3dEc1N3N4VWdGQWlqNEVyanNNM09Yci1teTF6QjJxS1RvWURRUmFnRHdWQUVKby1wRDhj?oc=5",
-          "date": "Mon, 27 Jul 2026 19:43:45 GMT",
-          "summary": "CHLA Joins Sickle Cell Study on Gene Editing Method respiratory-therapy.com",
+          "title": "Legend Bio CEO resigns, shares tumble - thebambooworks.com",
+          "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE9kcTRyU0kwM2lLNXlfRjZ4clpsdjZEUGlnbm5FUnZHV1dhdmlUM0ttVmhkWFhwQnZxdEtaUnhoTndKRUJTSC1yRGZHcDdrRll6ZnF3Nmc1d3k2VUNMZkdzMWk3ekFLcG9GTmNPeFFXc1o4QQ?oc=5",
+          "date": "Mon, 27 Jul 2026 22:16:46 GMT",
+          "summary": "Legend Bio CEO resigns, shares tumble thebambooworks.com",
           "source": "news.google.com",
-          "_hash": "d8eccb5087c484f9",
-          "_ageHours": 8,
+          "_hash": "1bb7898d7fc59f74",
+          "_ageHours": 6,
           "_inWindow": true,
-          "_score": 49.91703972222222,
+          "_score": 47.01660944444444,
+          "_corrob": 1
+        },
+        {
+          "title": "Updated: AstraZeneca foresees blockbuster sales for Claudin 18.2 ADC, but Ultomiris flops in rare disease",
+          "link": "https://endpoints.news/astrazenecas-pipeline-struggles-continue-as-it-reports-disappointing-data-in-cancer-rare-disease/",
+          "date": "Mon, 27 Jul 2026 11:03:08 +0000",
+          "summary": "AstraZeneca said Monday that a key late-stage trial of its Claudin 18.2-targeting ADC in stomach cancer had succeeded, albeit with a caveat — but another Phase 3 trial of Ultomiris yielded subpar results in a rare ...",
+          "source": "endpoints.news",
+          "_hash": "5b9a2d857dc619d0",
+          "_ageHours": 17,
+          "_inWindow": true,
+          "_score": 46.789387500000004,
+          "_corrob": 2
+        },
+        {
+          "title": "Apnimed aspires for up to $160M IPO as sleep apnea launch nears - Fierce Biotech",
+          "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNdVQ3Z0ZhSDdkWDM4YTNiYlZGcm5uUWpHN2NTNGtXLWlZNTdvV0g0WXdvVUlNREtOdGt1X08xQkhOT0Fxdnl5d2RYckc3aUtub2tqMDN6dGJoc1BwWnFodHkxREQtNk4xZ2FVNjM3bF9wcEota012S2k1b0huYVUxUjRZYlItWmdFMnV3S21SMURqMzl1T3Zr?oc=5",
+          "date": "Mon, 27 Jul 2026 15:30:39 GMT",
+          "summary": "Apnimed aspires for up to $160M IPO as sleep apnea launch nears Fierce Biotech",
+          "source": "news.google.com",
+          "_hash": "8c999fec1368d677",
+          "_ageHours": 13,
+          "_inWindow": true,
+          "_score": 46.247998333333335,
+          "_corrob": 1
+        },
+        {
+          "title": "Legend Biotech Shares Fall After CEO Huang Resigns - marketscreener.com",
+          "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOTzFrTDRkVnFoYWV0QkRiYUpUckwxOUpuNFoxUFlITV9BVE5BRnVMZ3RyR3M0TXUydVk4azJOcm95WGhQMjZLUTdJaVhyVHBYUEFJaEoxczdnS3M0TjVaNWhHS3AzV3BPeGQtbjAtOEpEUFEwVElVd1YzeGtEeGVTYTR2c2FrWXBQc0g0VWRVTzMxY1JsajN0YndScU5sNmhCbzNSZVF3?oc=5",
+          "date": "Mon, 27 Jul 2026 16:03:49 GMT",
+          "summary": "Legend Biotech Shares Fall After CEO Huang Resigns marketscreener.com",
+          "source": "news.google.com",
+          "_hash": "568240bfc53c937b",
+          "_ageHours": 12,
+          "_inWindow": true,
+          "_score": 45.80077611111111,
           "_corrob": 2
         }
       ]
@@ -608,9 +608,9 @@
           "summary": "In the second quarter of 2026 (2Q26), 24% of new light-duty vehicles sold in the United States were hybrid electric, battery electric, or plug-in hybrid electric vehicles, up from 22% in 2Q25. Between 2Q25 and 2Q26, hybrid electric vehicles continued to gain market share, reaching a record 16% of light-duty ... [continued] The post Hybrid Sales Rise While Battery Electric Sales Remain Lower After Tax Credit Expiration appeared first on CleanTechnica .",
           "source": "cleantechnica.com",
           "_hash": "cff7f61fb1c3b3bc",
-          "_ageHours": 1,
+          "_ageHours": 2,
           "_inWindow": true,
-          "_score": 69.87612055555556,
+          "_score": 69.42548277777777,
           "_corrob": 1
         },
         {
@@ -622,7 +622,7 @@
           "_hash": "764c3142a34322ce",
           "_ageHours": 13,
           "_inWindow": true,
-          "_score": 58.213342499999996,
+          "_score": 57.762704722222225,
           "_corrob": 1
         },
         {
@@ -632,9 +632,9 @@
           "summary": "The US Nuclear Regulatory Commission has approved Framatome's request to allow its nuclear fuel facility in Richland, Washington, to manufacture TRISO fuel, while Lightbridge and QNI have signed a memorandum of understanding to establish a framework for collaboration on the long-term supply of HALEU fuel.",
           "source": "www.world-nuclear-news.org",
           "_hash": "fdb8c7f36598f2e5",
-          "_ageHours": 11,
+          "_ageHours": 12,
           "_inWindow": true,
-          "_score": 53.84278722222222,
+          "_score": 53.39214944444444,
           "_corrob": 1
         },
         {
@@ -644,9 +644,9 @@
           "summary": "California Energy Commission, California Public Utilities Commission and Rajasthan Electricity Regulatory Commission Sign Landmark Memorandum of Intent to Advance Clean Energy Collaboration PR Newswire",
           "source": "news.google.com",
           "_hash": "e78712522f87e733",
-          "_ageHours": 1,
+          "_ageHours": 2,
           "_inWindow": true,
-          "_score": 51.687509166666665,
+          "_score": 51.236871111111114,
           "_corrob": 1
         },
         {
@@ -658,7 +658,7 @@
           "_hash": "d2f4a4566c050a54",
           "_ageHours": 2,
           "_inWindow": true,
-          "_score": 51.31362027777778,
+          "_score": 50.86298222222222,
           "_corrob": 1
         },
         {
@@ -670,7 +670,7 @@
           "_hash": "efab038d7b53fab3",
           "_ageHours": 15,
           "_inWindow": true,
-          "_score": 50.24973138888889,
+          "_score": 49.79909361111111,
           "_corrob": 1
         },
         {
@@ -682,7 +682,7 @@
           "_hash": "faffc2363998265c",
           "_ageHours": 16,
           "_inWindow": true,
-          "_score": 49.199175555555556,
+          "_score": 48.7485375,
           "_corrob": 1
         },
         {
@@ -692,9 +692,9 @@
           "summary": "Marine Minerals Administration, Nuclear Regulatory Commission Sign Memorandum of Understanding for Offshore Nuclear Energy Projects DredgeWire",
           "source": "news.google.com",
           "_hash": "661ae6e56fce96f4",
-          "_ageHours": 4,
+          "_ageHours": 5,
           "_inWindow": true,
-          "_score": 48.87695361111111,
+          "_score": 48.426315555555554,
           "_corrob": 1
         },
         {
@@ -704,9 +704,9 @@
           "summary": "Clean-Energy Projects Face Scrutiny After Tax Credit Rush Law360",
           "source": "news.google.com",
           "_hash": "0119c3a50efffbc1",
-          "_ageHours": 4,
+          "_ageHours": 5,
           "_inWindow": true,
-          "_score": 48.83750916666666,
+          "_score": 48.38687111111111,
           "_corrob": 1
         },
         {
@@ -716,9 +716,9 @@
           "summary": "A Major Trump Energy Scandal Is Flying Under the Radar. It’s a Twisted Repeat of History. Slate Magazine",
           "source": "news.google.com",
           "_hash": "2390077ad37f463e",
-          "_ageHours": 6,
+          "_ageHours": 7,
           "_inWindow": true,
-          "_score": 46.787509166666666,
+          "_score": 46.33687138888889,
           "_corrob": 1
         },
         {
@@ -728,9 +728,9 @@
           "summary": "Can AI's power problem become a clean-energy opportunity? Tech Xplore",
           "source": "news.google.com",
           "_hash": "abfee2d9fe766a55",
-          "_ageHours": 7,
+          "_ageHours": 8,
           "_inWindow": true,
-          "_score": 45.521120277777776,
+          "_score": 45.0704825,
           "_corrob": 1
         },
         {
@@ -742,7 +742,7 @@
           "_hash": "cb948b3c948c1e8b",
           "_ageHours": 19,
           "_inWindow": true,
-          "_score": 45.25306472222222,
+          "_score": 44.80242666666666,
           "_corrob": 2
         }
       ]
