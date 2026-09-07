@@ -1,24 +1,34 @@
 {
   "date": "2026-09-07",
-  "generatedAt": "2026-09-07T04:20:37.504Z",
+  "generatedAt": "2026-09-07T05:06:49.429Z",
   "pillars": {
     "ai": {
       "name": "Artificial Intelligence",
       "candidates": [
         {
-          "title": "Nvidia’s Huang says ‘AGI has arrived’ after OpenAI’s GPT-6 Astra launch",
-          "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOamtIZG1uM0JkOXFCM3loZ3g0Q3Q0YmRCQTEwbzdQdjZROUZqOFM3Sy13VExQRlV1RmlJYVFGQWtKa3NvdENRX3FhdVhpQnJDeU8xM0tfQjRQRmgyVGQ1U2gtV3RHeTd0N2tFeHg0U2dVeFFUSXN1eW9kY18zbU9nbExXOFhXNjB5Szh3RzRvTUNpQzByS1dtcE1vd2pXcGNrZ0dNc2FCOE12cDVseV9FRWY5d2dWMGxZRGxiZjd6eHc?oc=5",
-          "date": "Mon, 07 Sep 2026 01:59:10 GMT",
-          "summary": "Nvidia’s Huang says ‘AGI has arrived’ after OpenAI’s GPT-6 Astra launch Investing.com",
-          "publisher": "investing.com",
+          "title": "Jensen Huang says \"AGI has arrived\" following OpenAI's GPT-6 Astra launch (NVDA:NASDAQ)",
+          "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQUE5vTlQ4X01XeXBBWGhjaUIwUnU1VkNUOU45US1lRDBYcFViLWg4cmw4TGV4OWJKWGFXYVBNWmtCUkFBc3IxbDhXdmwxc3pKZExydk5JSkZUcll0eXptX0pSN29jTDg5bV9yVVVzX3R0QWlZczZOM0xodWJ5YnVfYW9kV1FBdmhlMkswNUtoMVRqLU4yZ3lsa1ZfTGUxTHBsMXpNQU1WcHFMOF9r?oc=5",
+          "date": "Mon, 07 Sep 2026 04:58:42 GMT",
+          "summary": "Jensen Huang says \"AGI has arrived\" following OpenAI's GPT-6 Astra launch (NVDA:NASDAQ) Seeking Alpha",
+          "publisher": "seekingalpha.com",
           "_via": "news.google.com",
-          "source": "investing.com",
-          "_hash": "55d142b70eece053",
-          "_ageHours": 2,
+          "source": "seekingalpha.com",
+          "_hash": "65a9b4860a23362a",
+          "_ageHours": 0,
           "_inWindow": true,
-          "_score": 76.64216722222221,
-          "_corrob": 5,
+          "_score": 88.8643775,
+          "_corrob": 7,
           "_cluster": [
+            {
+              "source": "investing.com",
+              "title": "Nvidia’s Huang says ‘AGI has arrived’ after OpenAI’s GPT-6 Astra launch",
+              "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOamtIZG1uM0JkOXFCM3loZ3g0Q3Q0YmRCQTEwbzdQdjZROUZqOFM3Sy13VExQRlV1RmlJYVFGQWtKa3NvdENRX3FhdVhpQnJDeU8xM0tfQjRQRmgyVGQ1U2gtV3RHeTd0N2tFeHg0U2dVeFFUSXN1eW9kY18zbU9nbExXOFhXNjB5Szh3RzRvTUNpQzByS1dtcE1vd2pXcGNrZ0dNc2FCOE12cDVseV9FRWY5d2dWMGxZRGxiZjd6eHc?oc=5"
+            },
+            {
+              "source": "linkedin.com",
+              "title": "Nvidia CEO says AI has reached human-like intelligence, credits OpenAI’s GPT-6 Astra - CNBC TV18",
+              "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQYlcwVDFqTGJFalc0UzlDcEFod0F2TVpLYWk2TTVVa1VDaGxkLUZHSTNlR3RhVkFtWXd2NFRpUWQ0S0lYTzZWc3VXM2Zrcy1pMXZERVNyeFU3VHRxUkx4U3JNU1JQMnZMQUZsSWlpMDVZLTZxV2RTRkRDc3YwekUyV1JmZ09hSDVQWGp6MHdhMWlUZHVWTmVEbm9SSmZ5anV6c1NKRi11YkVPREVaTmhNSWFuSjM5Y2M?oc=5"
+            },
             {
               "source": "finance.biggo.com",
               "title": "OpenAI's GPT-6 Astra Could Trigger a New Wave of CPU Demand, Benefiting Intel and AMD",
@@ -40,9 +50,9 @@
               "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQOUZMYTliejlKS1dfSmZCRmZZUko2WjJHa2RvSW03UVh6V0wwY3VJUnJrSXBDaGczVEJnWTkxR204QzEzUE0tRk15TGlIbm9sQkNGNkVTQ3VUWlVLV1AyRkU5ZVVlaGctSGloX0dRWGdQYUppZEVFNnpnbWE3Y3ZVZ2c2ZXc3SUtLRWZtVlRJUlNyNXFhSy1GTA?oc=5"
             },
             {
-              "source": "decrypt.co",
-              "title": "OpenAI's GPT-6 Astra Is Shockingly Good at Almost Everything",
-              "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9ObmdXZF9sT1B4U1hxbUp4M0FFMU8wLU0ybWVMdjlHVF90dWFnMGJCZnQzaW5qVXpaanIxejNBME1qZjluZnZ5bzhIZS1KVzlrNmROa3FoWVpPeVFFRnllRDljSzYxeEpDTW50TU90YUt5ajdpeHfSAX5BVV95cUxNeFZHdDlZNXhFeXRxZmY0SnV5YktTd3ZNMWVfUUwzZnh2ZG9ZT1A4Vkk0bE51R1BabktvWkJuc3RfdEF5ejhnRzZlSER3YWRuMFUyWi1peDFrMThrc2dSQWw2eW9pMDVfSVo0N3RYb3Y4MzdKbzNoS0JuZUJYS1E?oc=5"
+              "source": "startuphub.ai",
+              "title": "Jensen Huang AGI practically already G20",
+              "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNQzFWUlRBN2tjdTR6RkN2NVJEa1pnR3FFdkpqU0RaNXB1TU9nX2hvNF92Y0IzWFpFY05JRzZpM2NYY3lxdkFTUUtoOUVsb2FOcEdwaWtROFNaXzAtbDYxS0R4VlR0RDBhQ1JwcUROYmVzZE5OSFZfNnV0dUdrRzhVRVFJSno5N2JkbGI0cTBTRmp0Wm84dEcybl9uSTFKUm44ZG91UTN3?oc=5"
             }
           ]
         },
@@ -57,13 +67,13 @@
           "_hash": "f964af05fb211507",
           "_ageHours": 2,
           "_inWindow": true,
-          "_score": 76.33911111111111,
-          "_corrob": 6,
+          "_score": 70.56909944444445,
+          "_corrob": 5,
           "_cluster": [
             {
-              "source": "timesofindia.indiatimes.com",
-              "title": "TCS subsidiary HyperVault gets 264 acre land in Hyderabad to build campus for up to 1GW AI data center",
-              "link": "https://news.google.com/rss/articles/CBMikwJBVV95cUxNUmNwNDFaMkFEa2tSeFNCUVkzeF9NM0ptOEZ5VVhvVURTcDFoVTRIUm5XRlZoT0RaYWE5el8wNHRMaExNTDhJdHp2QnpoOTlManZweWtWbjB2U1Z4SHpqZ3lIa0JBYXBWQ09XUWRlZDF6aXh4NmFkQllzQllOUnpLakxpSFZvRUJPYVl6N0Q1blZ5dFVQSjVPUHFiRW1ObnE2X0pIc2k5a3VLTVhtb0htR0dJQ05LYkRaLThtcjY0Q2pwZVdfOW9VaTg1WW5MTllBenZqMWJ6b2xtcHByMHE3bUJXNEowN1NGVUtOV2lyMVNGSHNuRk5WODlGd2JkWS1RckRsbUpMU3dreERYZi03aklXY9IBmAJBVV95cUxNZC1maWdTamdqUEN6RUYxRVN6ZEZMcDV2NjdKQk84ampmNUx2d3k5bU4tal9uQjFKclFzUFBoX1ZuQWo0cklqMHFQWWJLSmJhMHAwVms4ZTJkV3dWdVJnMnVMRkx3NTFzaDE2YnE5MDdiWXRhcU5WLXZReUVuSURNSUs2c2lrZFNxdnNyZmpQX0Zvbjk0ZF8tVm9FM0tuWVMyUHN1LTlNN2JkMWFFVDZrUEtiNUNGZ0RYSUlQaUZ0eF9OZmNMUGhpZUluVlFGWWVpR2tKWTlRLTVRd2k3bWozY3hEQ3FzYU9ORWF3N2JIelROVzZjVEk0S0FBMGRHNjRoMGhrOGgyUi1seHUtWXNNLXpoMDNlZlZk?oc=5"
+              "source": "tribune.com.pk",
+              "title": "India's TCS unit to invest up to $7.4 billion in AI data center campus",
+              "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQekZpWE1tNlM1anlUeTVtakZxT1lsdFB3Z3RXRlZtMmZEa3FFOTRFUmJ0b3ZpWlliYUpKQlRlNnRoQVl0RVFMazlUNXM2X1lNS01EeTVOTm1Wd1FqcXQxQmV5REF3MlBFUFNCcG5UVlktLTZtTGdteERyQ0pIZncyNENWUFNWaFZiS0U0djNSYlItSVRRd2hOZGJCczVQTFJpbm1KbUxGREg3SExvU25r0gGvAUFVX3lxTFB6RmlYTW02UzVqeVR5NW1qRnFPWWx0UHdndFdGVm0yZkRrcUU5NEVSYnRvdmlaWWJhSkpCVGU2dGhBWXRFUUxrOVQ1czZfWU1LTUR5NU5ObVZ3UWpxdDFCZXlEQXcyUEVQU0JwblRWWS0tNm1MZ214RHJDSkhmdzI0Q1ZQU1ZoVmJLRTR2M1JiUi1JVFF3aE5kYkJzNVBMUmlubUptTEZESDdITG9Tbms?oc=5"
             },
             {
               "source": "briefs.co",
@@ -89,11 +99,6 @@
               "source": "tradingview.com",
               "title": "India's TCS unit to invest up to $7.4 billion for AI data center campus",
               "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNVE4yTzBTQ092aHF0Y21NWC03M1FaaHo3NmtDRW9PdTNuR2ZoT2UxQnhlTnZTcnhzWVFyb1RTb19OeXg3aE1SbzZycmgtSTJWUWpkUDh2SGNLVUJzUzJsUlJkLVNMTGwtMThpS2hZbFViYkhpYzdzU1FvVXpDRlp1NzhScWJvTDdma3ZNcFNEOHVhR2EzbUdvSU80RG9tZ2NIUlJQS3ZfeG1RdU1iTkc3cEZvQlVCM2NxeWM3NVhyNUxYaGlSeUkzZTA2eDNPWEpZdDJSOEVlOA?oc=5"
-            },
-            {
-              "source": "ndtvprofit.com",
-              "title": "TCS' HyperVault Secures 264 Acres For Massive 1GW AI Data Center Campus In Hyderabad",
-              "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPWEwzd1FpQzE2OXY5MEtvZ0xrM05Ic0doeDdaVjFxek1VRjBIWndMck9uc1UyVkc1d0hacnhlMTJoeE9DdDZIZjA3Ni1GVzVUVTZhWmMzLTNmZnVmU3RQM1dZWDloQXRGcERtTHd0cC1BWnI5b3BMR25FbzlGcW5VeXg0WnhvbklwZmFTMDVwV19ma3pLU0x5UHg0OVVESnVUZjI2RnVBTjZYSWpHUFBfdnJLU01ZS3pQdXQ0YnZ5aTVLbzB2cHBr0gHPAUFVX3lxTE5zSl91aERZLVd6UHdsejlXUDYtWi1Yck5Fa1NVWnVkZHhidlhEd1FtZlJIZWhzZWhpQVkxZk5uUl9VVzhFVXBWZThYUkZYQWdWOHg1MkxnNlFaVFZhZTRPUW90Q3VDV0NnMTR5SG03UHdCTnpHNUx1b0NYVkoyRXJKaVNLZzlfdWJnTjJlOHVOd3VueFZlWkpRaWlIOW02M1lZLWFWczVpaXJxQTZBUzRlWmJWWHNuTjU3RzlwUTZUZW9zWVEtZndQSGhiS3N0MA?oc=5"
             }
           ]
         },
@@ -106,9 +111,9 @@
           "_via": "news.google.com",
           "source": "eu.36kr.com",
           "_hash": "e6a7d66aadc9ec35",
-          "_ageHours": 0,
+          "_ageHours": 1,
           "_inWindow": true,
-          "_score": 68.74077777777778,
+          "_score": 67.97076638888889,
           "_corrob": 3,
           "_cluster": [
             {
@@ -129,17 +134,79 @@
           ]
         },
         {
+          "title": "TCS subsidiary Hypervault to develop up to 1 GW AI data center in Hyderabad, invest ₹70,000 crore",
+          "link": "https://news.google.com/rss/articles/CBMiigJBVV95cUxNb29BRE1GRW9ZN1R2NU84dkFJUVk5TllaTGZYcEl5WVJqdWEwWXN3UXRNV3dNMnpOWm9ZY1JNWTFXTTZwZmUxX3hRNHVKVFNNUEd1TnhGMkRMM1poX0NraXBVX0pERjFpd0VtX2lWVmpfRF80Mk1VT0ctMGY4bC16N0RLc203MUZLSXpPNmRxSWgzRkoxYnVzNHo2TjdOQUp4a090RHV3cjZDRWFNUFdsWG5wendLTzI3enBLRi1YWTBHRV9SbUNtVzNSdjNTZmVNSWNBZlZmNERVOVFYSEZkTE1iZnMzSGJuSDlwVmNSajdEX01CcTJ0Ukh0NnlLXzRNWFkyUC16ZEs1QdIBigJBVV95cUxNb29BRE1GRW9ZN1R2NU84dkFJUVk5TllaTGZYcEl5WVJqdWEwWXN3UXRNV3dNMnpOWm9ZY1JNWTFXTTZwZmUxX3hRNHVKVFNNUEd1TnhGMkRMM1poX0NraXBVX0pERjFpd0VtX2lWVmpfRF80Mk1VT0ctMGY4bC16N0RLc203MUZLSXpPNmRxSWgzRkoxYnVzNHo2TjdOQUp4a090RHV3cjZDRWFNUFdsWG5wendLTzI3enBLRi1YWTBHRV9SbUNtVzNSdjNTZmVNSWNBZlZmNERVOVFYSEZkTE1iZnMzSGJuSDlwVmNSajdEX01CcTJ0Ukh0NnlLXzRNWFkyUC16ZEs1QQ?oc=5",
+          "date": "Mon, 07 Sep 2026 03:01:57 GMT",
+          "summary": "TCS subsidiary Hypervault to develop up to 1 GW AI data center in Hyderabad, invest ₹70,000 crore ET Telecom",
+          "publisher": "telecom.economictimes.indiatimes.com",
+          "_via": "news.google.com",
+          "source": "telecom.economictimes.indiatimes.com",
+          "_hash": "d228322cb4322853",
+          "_ageHours": 2,
+          "_inWindow": true,
+          "_score": 65.91854388888889,
+          "_corrob": 4,
+          "_cluster": [
+            {
+              "source": "timesofindia.indiatimes.com",
+              "title": "TCS subsidiary HyperVault gets 264 acre land in Hyderabad to build campus for up to 1GW AI data center",
+              "link": "https://news.google.com/rss/articles/CBMikwJBVV95cUxNUmNwNDFaMkFEa2tSeFNCUVkzeF9NM0ptOEZ5VVhvVURTcDFoVTRIUm5XRlZoT0RaYWE5el8wNHRMaExNTDhJdHp2QnpoOTlManZweWtWbjB2U1Z4SHpqZ3lIa0JBYXBWQ09XUWRlZDF6aXh4NmFkQllzQllOUnpLakxpSFZvRUJPYVl6N0Q1blZ5dFVQSjVPUHFiRW1ObnE2X0pIc2k5a3VLTVhtb0htR0dJQ05LYkRaLThtcjY0Q2pwZVdfOW9VaTg1WW5MTllBenZqMWJ6b2xtcHByMHE3bUJXNEowN1NGVUtOV2lyMVNGSHNuRk5WODlGd2JkWS1RckRsbUpMU3dreERYZi03aklXY9IBmAJBVV95cUxNZC1maWdTamdqUEN6RUYxRVN6ZEZMcDV2NjdKQk84ampmNUx2d3k5bU4tal9uQjFKclFzUFBoX1ZuQWo0cklqMHFQWWJLSmJhMHAwVms4ZTJkV3dWdVJnMnVMRkx3NTFzaDE2YnE5MDdiWXRhcU5WLXZReUVuSURNSUs2c2lrZFNxdnNyZmpQX0Zvbjk0ZF8tVm9FM0tuWVMyUHN1LTlNN2JkMWFFVDZrUEtiNUNGZ0RYSUlQaUZ0eF9OZmNMUGhpZUluVlFGWWVpR2tKWTlRLTVRd2k3bWozY3hEQ3FzYU9ORWF3N2JIelROVzZjVEk0S0FBMGRHNjRoMGhrOGgyUi1seHUtWXNNLXpoMDNlZlZk?oc=5"
+            },
+            {
+              "source": "tekedia.com",
+              "title": "TCS Subsidiary to Invest $7.4 Billion in 1 GW AI Data Center Campus in India",
+              "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNUEdXYWh6cDVXajAwT0Mxa0lGbFFkTVBWcEZGdFNCTnVOdU85Y3JrT2dwbTQ5SjZmY2VuLTdUZHhzdjlwV25zY1RTTHhpTEdGXzhTbVJVUG5lTW9rTnpHaUMtTVNZTXpVeWRuQWdLMlVKcXFJWTdadDhRaWNnN1AybTlfMXN6dUhQMFlsZTdZa3huNmljZmtiMm52VHVxQzBqRnc?oc=5"
+            },
+            {
+              "source": "sahi.com",
+              "title": "TCS HyperVault to set up ₹70,000 crore AI data center in Telangana",
+              "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNc1FxVE81Q01hbkRfVllldmxsdldOMmZzZUZKWUN6Tll1LXJLMWl1UVV0UzQ0LUU0RUQwWFhBWWR5RzBjY2Rua0Q5cmJQUjVGTjQwUHAxVlV6RHA5YnIweEJaUlM3TXhRZVZxNE5ld1FCNlRQb2pacHY0emRQZUtVbm1RZ3ZZVG1XTmM0VjRraGZKM1VGTFZRbjV2Q0xHa3lSbDVqTmJ3OA?oc=5"
+            },
+            {
+              "source": "ndtvprofit.com",
+              "title": "TCS' HyperVault Secures 264 Acres For Massive 1GW AI Data Center Campus In Hyderabad",
+              "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPWEwzd1FpQzE2OXY5MEtvZ0xrM05Ic0doeDdaVjFxek1VRjBIWndMck9uc1UyVkc1d0hacnhlMTJoeE9DdDZIZjA3Ni1GVzVUVTZhWmMzLTNmZnVmU3RQM1dZWDloQXRGcERtTHd0cC1BWnI5b3BMR25FbzlGcW5VeXg0WnhvbklwZmFTMDVwV19ma3pLU0x5UHg0OVVESnVUZjI2RnVBTjZYSWpHUFBfdnJLU01ZS3pQdXQ0YnZ5aTVLbzB2cHBr0gHPAUFVX3lxTE5zSl91aERZLVd6UHdsejlXUDYtWi1Yck5Fa1NVWnVkZHhidlhEd1FtZlJIZWhzZWhpQVkxZk5uUl9VVzhFVXBWZThYUkZYQWdWOHg1MkxnNlFaVFZhZTRPUW90Q3VDV0NnMTR5SG03UHdCTnpHNUx1b0NYVkoyRXJKaVNLZzlfdWJnTjJlOHVOd3VueFZlWkpRaWlIOW02M1lZLWFWczVpaXJxQTZBUzRlWmJWWHNuTjU3RzlwUTZUZW9zWVEtZndQSGhiS3N0MA?oc=5"
+            }
+          ]
+        },
+        {
+          "title": "NVIDIA Acquires Hugging Face for $13 Billion: A Boost for Europe's Open-Source AI",
+          "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQZFNkaTdZdEV5OURDbUhIRmdESWNndW1xOEhPWXZHTjY5YkVxZXViRDhYYWdQQ3duenkxUl9IWGcxblQ2Rjd0VlZlcjZobjFCamdfbVV3LW9iTDU5blFxVDROM3hCY2JEUUYzSWlvdFBfUnFIN2RrS1BYVURnN3BHaTNyVk5IY185RmhuREcyVjlZUGtKWG1KeHJBMjM5S09kZnVoc1BxcHFzSEFI?oc=5",
+          "date": "Mon, 07 Sep 2026 04:34:33 GMT",
+          "summary": "NVIDIA Acquires Hugging Face for $13 Billion: A Boost for Europe's Open-Source AI indexbox.io",
+          "publisher": "indexbox.io",
+          "_via": "news.google.com",
+          "source": "indexbox.io",
+          "_hash": "72c3cb65c66ae145",
+          "_ageHours": 1,
+          "_inWindow": true,
+          "_score": 63.4618775,
+          "_corrob": 2,
+          "_cluster": [
+            {
+              "source": "ca.news.yahoo.com",
+              "title": "Could NVIDIA's purchase of Hugging Face boost the EU's AI sovereignty?",
+              "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNUGRJTTQ4bTlFNVRjMEdmX3k4aVljUjhJVlpmblptTmtEQzN4RVhkMEpGQ2Yya0ZOQnItSkJ5V0lrM1dQV3lhNnVSUDhhNTJKMnlTLTZONDRoNTVPM29WS09UNzQ4cFh3dXNvSmxIa3JkUVB1cktXTU4wMEVCbnpqTTdB?oc=5"
+            },
+            {
+              "source": "memeburn.com",
+              "title": "Nvidia Agrees To Buy Hugging Face For $12.9 Billion In AI Push",
+              "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQbURPLXJJSTlJSVFSMDdYVGY3ZU1QZ2VrSnZZYVIxX1RuaWdQWGh1VzJEbW4tUTBaS0pUTFZxUExHVElFakxmdkRWaVFuOTV3Y3lFRVlIZl90aUtIeUx3NG1pcTBjUU9hSGZvR1ZYcmNzUXVJOEhFc05CYkJZTU5zWnNpZ19FVVNkTGE4?oc=5"
+            }
+          ]
+        },
+        {
           "title": "Tech Bytes: Anthropic IPO could target US$2 trillion valuation as October launch takes shape",
           "link": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxPamU3NDRxR19PcDhaOXNhZXBqWHhjVHhseTZPSFppTGtDX3Q4LUUzTTRxYjkxVzR5aUJ2dGd3bXlNc3FxWjRsS3JxdlhPRWk0aXZYY2xWUHNkRENpNkU3cGd1eTJkT0V3T0UtTlFHQ1NZdkdfSWF6b1oxdnFBTlVFbEZIc0F4ZTJ0NnhZOFU2Z0RkNHBLYUxjX0pVTWFfejRxUS1KS18yVTdzNEFLalVRMlprc3FQblFqaGV6M0JfSnp6aGJPZ3JDU0RQRmhCSGc4cHBZb0NyQU16cm9HOGhJQTluOHp5eEF0Njg0amYzQVQ3Qk92WnBIMQ?oc=5",
           "date": "Mon, 07 Sep 2026 00:55:00 GMT",
-          "summary": "Tech Bytes: Anthropic IPO could target US$2 trillion valuation as October launch takes shape proactiveinvestors.com.au",
+          "summary": "Tech Bytes: Anthropic IPO could target US$2 trillion valuation as October launch takes shape Proactive financial news",
           "publisher": "proactiveinvestors.com.au",
           "_via": "news.google.com",
           "source": "proactiveinvestors.com.au",
           "_hash": "5ff513da5dd851eb",
-          "_ageHours": 3,
+          "_ageHours": 4,
           "_inWindow": true,
-          "_score": 55.572722222222225,
+          "_score": 54.802710833333336,
           "_corrob": 1,
           "_cluster": [
             {
@@ -158,9 +225,9 @@
           "_via": "news.google.com",
           "source": "digitaltrends.com",
           "_hash": "1f689184934249e9",
-          "_ageHours": 3,
+          "_ageHours": 4,
           "_inWindow": true,
-          "_score": 54.86161111111111,
+          "_score": 54.09159972222222,
           "_corrob": 2,
           "_cluster": [
             {
@@ -184,9 +251,9 @@
           "_via": "theverge.com",
           "source": "theverge.com",
           "_hash": "a58086622a49f10a",
-          "_ageHours": 5,
+          "_ageHours": 6,
           "_inWindow": true,
-          "_score": 54.25716583333333,
+          "_score": 53.48715388888889,
           "_corrob": 1,
           "_cluster": [
             {
@@ -210,9 +277,9 @@
           "_via": "news.google.com",
           "source": "mashable.com",
           "_hash": "ab8db46795b50c46",
-          "_ageHours": 5,
+          "_ageHours": 6,
           "_inWindow": true,
-          "_score": 53.927167222222224,
+          "_score": 53.157155555555555,
           "_corrob": 1,
           "_cluster": [
             {
@@ -226,14 +293,14 @@
           "title": "Nvidia (NVDA)’s First-Ever Year-Ahead Forecast Puts It on a Path to Pass Apple and Alphabet",
           "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQa2NVbTgxd01uU3JxNVRGQUV0bl9wbVY1UHhlVllsMUViT0VJRzZUa3ozQ3NLOC1rMEhCXzhOUU5nUUxsaE12SjBPTXk0aHdycEx2bHFlSzBaMHJrU0pFVlJZcmtJV2FBeGVDYmlxanZqN0E3UjRMZGg5VkJjcE5uUVlLelA5MnQzYVNMSnFXUnJlZDFSdl9sMg?oc=5",
           "date": "Sun, 06 Sep 2026 22:31:47 GMT",
-          "summary": "Nvidia (NVDA)’s First-Ever Year-Ahead Forecast Puts It on a Path to Pass Apple and Alphabet finance.yahoo.com",
+          "summary": "Nvidia (NVDA)’s First-Ever Year-Ahead Forecast Puts It on a Path to Pass Apple and Alphabet Yahoo Finance",
           "publisher": "finance.yahoo.com",
           "_via": "news.google.com",
           "source": "finance.yahoo.com",
           "_hash": "0253c0112294e1bc",
-          "_ageHours": 6,
+          "_ageHours": 7,
           "_inWindow": true,
-          "_score": 53.18577833333333,
+          "_score": 52.41576638888889,
           "_corrob": 1,
           "_cluster": [
             {
@@ -262,9 +329,9 @@
           "_via": "news.google.com",
           "source": "w.media",
           "_hash": "1ec7a04091db36e8",
-          "_ageHours": 0,
+          "_ageHours": 1,
           "_inWindow": true,
-          "_score": 52.78938888888889,
+          "_score": 52.019377222222225,
           "_corrob": 1,
           "_cluster": [
             {
@@ -275,70 +342,23 @@
           ]
         },
         {
-          "title": "Jensen Huang's Net Worth Up $36 Billion as Nvidia Stock Eyes Surge to Record High",
-          "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxOVEdJbk80dkpHcFZJaW5aUW9ONF9PV0M4Qi1QTEZhSDV0b1lZSDQ3dmVyN01YY3JpeEs4MU9WQmtNUGMza2xpS3VWSFdTeUxaNFBnbEFFaElsYnZtdERfQ3g2QmRxSkMwMHpmOXZFdC1rVUxlLWNxbkJzZ25JRTlyX0FzNE5lMFpPckw1QzlxTW1pZlFIaFIzd1p4dHlYVlBHbzlIWUJJWFZDRl8xOHctZVBmSUNraDlNc0IxUUdVSWdPbFRTY0t6b1NlN1IyMGZuSlVyNDZaWQ?oc=5",
-          "date": "Sun, 06 Sep 2026 16:54:40 GMT",
-          "summary": "Jensen Huang's Net Worth Up $36 Billion as Nvidia Stock Eyes Surge to Record High Benzinga",
-          "publisher": "benzinga.com",
+          "title": "NVIDIA Emerges as AI Industry's Central Bank",
+          "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNSjZ6STBaQWg3ck5laW45MDl4OFlyT2NBclVrYmozU3ZPZWJPcXdGMEpZV3ZQU2gtNjgxM2VMT0NIOC1IZENlajNvQmk4ZEhEY0wwV1gzTDNXZVhsc1M3cXFMcGtrYTI4U0lBXzR0cTJpaldPNFV6VDQtRG85dVNxS19LeG0xU1kw?oc=5",
+          "date": "Mon, 07 Sep 2026 04:01:52 GMT",
+          "summary": "NVIDIA Emerges as AI Industry's Central Bank 조선일보",
+          "publisher": "chosun.com",
           "_via": "news.google.com",
-          "source": "benzinga.com",
-          "_hash": "7f17f959e0e2fbc5",
-          "_ageHours": 11,
-          "_inWindow": true,
-          "_score": 52.567166666666665,
-          "_corrob": 2,
-          "_cluster": [
-            {
-              "source": "finance.yahoo.com",
-              "title": "Prediction: Nvidia Stock Will Double in Under a Year",
-              "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNVW43VXNEY2E3eEktZnRmQVgyNlplS0txU3QyeDFOR3NXRVNnSGJ0S2k5Ui1FVWg0NmtnRTZaMFIwVFE3YndxWVJfNmV4ZjZkd1VQMUdJdVAxc1UxcE5DcWNKUENURWlWNkxWVnY0U2tYNHVUREtuaktTcHBwY25CNUJDdVRNejVkeTlYLWpBVTYxYjhxRXhuSk8xR2ViNFFScGxv?oc=5"
-            },
-            {
-              "source": "startuphub.ai",
-              "title": "Jensen Huang AGI practically already G20",
-              "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNQzFWUlRBN2tjdTR6RkN2NVJEa1pnR3FFdkpqU0RaNXB1TU9nX2hvNF92Y0IzWFpFY05JRzZpM2NYY3lxdkFTUUtoOUVsb2FOcEdwaWtROFNaXzAtbDYxS0R4VlR0RDBhQ1JwcUROYmVzZE5OSFZfNnV0dUdrRzhVRVFJSno5N2JkbGI0cTBTRmp0Wm84dEcybl9uSTFKUm44ZG91UTN3?oc=5"
-            }
-          ]
-        },
-        {
-          "title": "History Says What Nvidia's Last Big Acquisition Became. Hugging Face Will Cost Nearly Twice as Much.",
-          "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxOSWtvYmpxbmV6S0FJTXphSkdZdW5hSG1BVmpjYWpXRHltbEhuMm9NdHN1Vm5OelpfWWY0V1BZc3llY0p3alFMRk8zTWpkUFpMNm95RWNRczRaWXpxcUVZV18yRDJuV1VGSi02X01RN2JyZUJtZDlWal9sRHhneTFMb3o0bktjYzdlLVNzOU4zTmpGZ09FdU5zOFh6S3NYWU0wVU5hUnc0UVg3cmlFdnJzSURhcDVobUFvZ2F0MlhwbkJQMldRT1JvOU5TMmdNaEFNa1BINldSdDM?oc=5",
-          "date": "Mon, 07 Sep 2026 03:47:27 GMT",
-          "summary": "History Says What Nvidia's Last Big Acquisition Became. Hugging Face Will Cost Nearly Twice as Much. The Motley Fool",
-          "publisher": "fool.com",
-          "_via": "news.google.com",
-          "source": "fool.com",
-          "_hash": "ca829b63bfaa86a1",
+          "source": "chosun.com",
+          "_hash": "46386a3bd757a89b",
           "_ageHours": 1,
           "_inWindow": true,
-          "_score": 52.446889444444444,
+          "_score": 51.91715527777778,
           "_corrob": 1,
           "_cluster": [
             {
-              "source": "aol.com",
-              "title": "History Says What Nvidia's Last Big Acquisition Became. Hugging Face Will Cost Nearly Twice as Much.",
-              "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE8xRUR4bDY5dU0zU3lIS1BwTnU0dGExUTRBRm9Db3BFcVVHOFZTaEROS2ZWYVhUMzd4QVpsRm94NHdBSTNwNHNqUGYxV3c0YXR0WU82NExzRVM3RVVaUC1SX2loZ1h6Mlp0djB0Z2VEU09SdHdnR1FMbzlld3o3UQ?oc=5"
-            }
-          ]
-        },
-        {
-          "title": "Nvidia’s $99 Billion Portfolio Is Turning Intel and CoreWeave Into an AI Stress Test",
-          "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNRlF0ZkYydXo4ekR5UnBIM3VkR2RFcF9aOVFkTXZGUG91ZWpjM3N5bGZSMndnQkJFY0NTYWh1WmlrdTZRbXZtNXdKeVR5WEtERG54VTU5NWJoY0tIaFItT3gyeVBUYUR2bm1pX0RRR2MwNnVuWV91THgxZnNtM2dLY2VzWFN2dHNtUDVLNjZsN0J0ejZRTkp6V3pQQ1RyelJV?oc=5",
-          "date": "Mon, 07 Sep 2026 03:42:00 GMT",
-          "summary": "Nvidia’s $99 Billion Portfolio Is Turning Intel and CoreWeave Into an AI Stress Test finance.yahoo.com",
-          "publisher": "finance.yahoo.com",
-          "_via": "news.google.com",
-          "source": "finance.yahoo.com",
-          "_hash": "3c0a25b363f95c4f",
-          "_ageHours": 1,
-          "_inWindow": true,
-          "_score": 52.35605611111111,
-          "_corrob": 1,
-          "_cluster": [
-            {
-              "source": "seekingalpha.com",
-              "title": "Nvidia's $279 Billion Bet Changes Everything (NASDAQ:NVDA)",
-              "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQQnJDc2g5WHpFTWFSbUNJRVZ4TFJQb1Jhc3lncmhwQk5CaDdwd2ppaHZybkxmSU5tLW43WFlVQnJBd1dtck9PaXdGalB5Nm1Qelh6TTVTTmlrVnZScjN3Uy1nN09qbEI4a0pIbjNlbUd2ZmJ4WHNmTGFRTXNsRWhud1E4SFJCN0daUjRV?oc=5"
+              "source": "afr.com",
+              "title": "Nvidia is the central bank of AI. But will its loans prove sound?",
+              "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNT09ORzZTQnR4R0Z4NjlBNVR0OWdBc2JhWDNPR3FjU1BQd3BMVWZRM3lkbUE0WGdpcXRMOXVRRG03ekRpNEpuWENEdUpjWERocWJuUU5QUmlnaEpNY1JSWXhzX25VMVUtMm5WRGlmZ29FUTNIc3I4M1FUMXVOcFFUNmR2VTZ5T1R0eHRRbDFZNVBzNVVkenNSc1RUS0N1NzFsQksxX2pTNFVudFliNzl3?oc=5"
             }
           ]
         }
@@ -351,14 +371,14 @@
           "title": "Space exploration: Luxembourg-led MAGPIE set to become Europe's first rover on the Moon",
           "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNbW5kM1lHUjZsZk9VdHlkX3BJaHByWmNpcjhZU3Bkb0ZCaGF4aTRxamgyYjdtdDRXXy0wUFBRZXl3dE5BcHhvbFZQVUNFdW1zT3FtWHpDWmRWSnVndlFMaWhzY2E3ckdkdnFZbWJ0dWhvSlRiSWR3NFhOa044dUdQbm8tVDNId2xhNi1BanV0TU1BQTFtWEllcHQ5cENwRFFhR0VZSEQtX01GckgwdDFYVTBkNFhOS0JqVHRvY0dYTml5MXoyTXc?oc=5",
           "date": "Sun, 06 Sep 2026 09:54:16 GMT",
-          "summary": "Space exploration: Luxembourg-led MAGPIE set to become Europe's first rover on the Moon RTL Today",
+          "summary": "Space exploration: Luxembourg-led MAGPIE set to become Europe's first rover on the Moon today.rtl.lu",
           "publisher": "today.rtl.lu",
           "_via": "news.google.com",
           "source": "today.rtl.lu",
           "_hash": "8469da43082a0655",
-          "_ageHours": 18,
+          "_ageHours": 19,
           "_inWindow": true,
-          "_score": 50.56030694444445,
+          "_score": 49.79036277777777,
           "_corrob": 3,
           "_cluster": [
             {
@@ -379,6 +399,36 @@
           ]
         },
         {
+          "title": "APOD: 2026 September 7 – The Pelican Nebula in Gas, Dust, and Stars",
+          "link": "https://science.nasa.gov/image-article/apod-2026-september-7-the-pelican-nebula-in-gas-dust-and-stars/",
+          "date": "Mon, 07 Sep 2026 04:05:00 +0000",
+          "summary": "APOD Science APOD APOD: 2026 September 7 – The… Today’s APOD Archive Submissions Index Search Calendar RSS Education About Discuss APOD Astronomy Picture of the Day Discover the cosmos! Each day a different image or photograph of our fascinating universe is featured, along with a brief explanation written by a professional astronomer. The Pelican [&#8230;]",
+          "publisher": "",
+          "_via": "nasa.gov",
+          "source": "nasa.gov",
+          "_hash": "b8c8f75df7735331",
+          "_ageHours": 1,
+          "_inWindow": true,
+          "_score": 46.969252222222224,
+          "_corrob": 0,
+          "_cluster": []
+        },
+        {
+          "title": "A Bright Spot at Mount Michael",
+          "link": "https://science.nasa.gov/earth/earth-observatory/a-bright-spot-at-mount-michael/",
+          "date": "Mon, 07 Sep 2026 04:01:00 +0000",
+          "summary": "With austral winter nearing its end, clouds cleared for a satellite view of volcanic activity in the remote South Atlantic.",
+          "publisher": "",
+          "_via": "nasa.gov",
+          "source": "nasa.gov",
+          "_hash": "c38a8c3e8d10c8d7",
+          "_ageHours": 1,
+          "_inWindow": true,
+          "_score": 46.902585555555554,
+          "_corrob": 0,
+          "_cluster": []
+        },
+        {
           "title": "Isar Aerospace Completes First Successful Spectrum Flight",
           "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOeDN4a3JQR0ZESUFyZWZ4N2Q1cDlDOXNtRERKSEMtOUhGM29LOVNGZGhaYmdyN1dLU202alAtUXFwNDVRekI0VE9zTy0tOG5xRTVuWTJwdVM1djVRclA0TDJDaFVVaGZtUjVnSWJHTjZFUWJyZ0R5OHVSeXVNVmF6cUFNakpCU3ljcjVwUks3M1hfc1Q3?oc=5",
           "date": "Sun, 06 Sep 2026 05:40:14 GMT",
@@ -389,13 +439,34 @@
           "_hash": "32d4e52576eda456",
           "_ageHours": 23,
           "_inWindow": true,
-          "_score": 36.32641805555556,
+          "_score": 35.55647388888889,
           "_corrob": 1,
           "_cluster": [
             {
               "source": "isaraerospace.com",
               "title": "History for European spaceflight: Isar Aerospace reaches orbit and deploys payloads on second flight",
               "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOdzhRbEVYRThOaTJFbWpHWG9aWTgzc0V6WjhFeWtTWS02dWg3T3FvamdRcU04ekRleTh4TGV3cGl3SmdWTjVZMXZvOEJHNHZJXzBUQWJsX1d2YmhoV2ZZMWROaVRIdU5HeW9Sa0RrV0Z6QkNrbmYxMmZNNHpHbEtMUGduQmV6YTNZSXJtQnBicWw5bzR1QmFRcVZKT2xzcklRZjZwMTVuazFORndUeXk1UGRfNVFxV3VTNTk0VGt4STlmaU1zbUwyOUZGQ2JoQWlk?oc=5"
+            }
+          ]
+        },
+        {
+          "title": "NASA expands Deep Space Network with giant new dish in California desert",
+          "link": "https://www.space.com/astronomy/nasa-expands-deep-space-network-with-giant-new-dish-in-california-desert",
+          "date": "Sun, 06 Sep 2026 10:00:00 +0000",
+          "summary": "The new antenna will boost capacity on NASA's increasingly strained deep-space communications network as Artemis and other missions drive up demand.",
+          "publisher": "",
+          "_via": "space.com",
+          "source": "space.com",
+          "_hash": "89772465a49b4230",
+          "_ageHours": 19,
+          "_inWindow": true,
+          "_score": 33.88591861111111,
+          "_corrob": 1,
+          "_cluster": [
+            {
+              "source": "bastillepost.com",
+              "title": "China's deep space association signs MOU with LatAm, Caribbean counterpart",
+              "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNRFMtYkRPVGpqSEpwNXA1SjV4WkQtd1FNLTJKaFBYRnlGbmw1MHV5Z3U3SGp0T1V2bktROXdwNVNHSk9MUjBxZGZBUDdOQmlub3Y3dXA5QXRoQm40RXFLYzdFU0VlTTNJWmg5RURIUWVybU5ONzRRN0E5Sk05c09hUldyNFczZElLMnJ0ZnhGajIzcjJlWDFFeFkwTEJyZGVqbEJvSGJGeXZfSTY1RmFaMkp5RGllWVg0R2xXVzNZazJnZw?oc=5"
             }
           ]
         }
@@ -405,74 +476,38 @@
       "name": "Bitcoin / Crypto",
       "candidates": [
         {
-          "title": "Alleged White-Hat Hackers Withdraw 4,000 bitcoin from Blockstream&#8217;s Liquid Network Federation Reserves",
-          "link": "https://bitcoinmagazine.com/news/alleged-white-hat-hackers-withdraw-4000-bitcoin-from-blockstreams-liquid-network-federation-reserves",
-          "date": "Sun, 06 Sep 2026 22:16:53 +0000",
-          "summary": "Bitcoin Magazine Alleged White-Hat Hackers Withdraw 4,000 bitcoin from Blockstream&#8217;s Liquid Network Federation Reserves Liquid Network said purported white-hat hackers withdrew about 4,000 bitcoin from the federation wallet that backs L-BTC. Bridge nodes are disabled and the sidechain is paused. This post Alleged White-Hat Hackers Withdraw 4,000 bitcoin from Blockstream&#8217;s Liquid Network Federation Reserves first appeared on Bitcoin Magazine and is written by Juan Galt .",
-          "publisher": "",
-          "_via": "bitcoinmagazine.com",
-          "source": "bitcoinmagazine.com",
-          "_hash": "0512d3abd49698e0",
-          "_ageHours": 6,
+          "title": "Bitcoin-based Liquid Network says $320 million withdrawn in hack By Reuters",
+          "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPZ3NPV3NPd0lZWWRpcm1LQ2xSUkFZcnhiRmtHYmxKZ1hmU0hmLUlBOWl1UWpFMG5fcFVKT2dVRDU4eGIzZUhOOFhwcUdpN0hTSkdLUFBkeHNzdHgyblZDdVhoMGFpaEJXby1LWDQxQTJmamtGcmo2cWdxYUN5V19jWVU0VGt0dHBiMHJxZ0ViZUc2TzJjeE5zVEVIcDlpemtPbV9BZ3RoT2twQzRnZWVpQm9ybzNrODJaeWFV?oc=5",
+          "date": "Mon, 07 Sep 2026 04:46:47 GMT",
+          "summary": "Bitcoin-based Liquid Network says $320 million withdrawn in hack By Reuters Investing.com",
+          "publisher": "investing.com",
+          "_via": "news.google.com",
+          "source": "investing.com",
+          "_hash": "d73839491304b21f",
+          "_ageHours": 0,
           "_inWindow": true,
-          "_score": 67.93713166666666,
-          "_corrob": 4,
+          "_score": 72.66539666666667,
+          "_corrob": 5,
           "_cluster": [
             {
-              "source": "finance.yahoo.com",
+              "source": "shattered.io",
+              "title": "Liquid Network Hack: $320M Bitcoin Sidechain Exploit [2026]",
+              "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBOMmxwV3UwLUxMOFF4Y1p0bTJKYnhTVTB0TUtGNGRtcWFBOFBQRkRFWGJ3ZUFOVmZuUVdnMU5pNmk5emVJVVJBYTQtaVlCTVRYQVdEOGFXOGFaVTNtTE5zalhaZ1pxamM4MWc?oc=5"
+            },
+            {
+              "source": "reuters.com",
               "title": "Bitcoin-based Liquid Network says $320 million withdrawn in hack",
-              "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOU0hISzZVT3dyVURmdDlFekhaYVI1Q19CS2RneXlvX3ByOXVsY0NlRUVUcm9uZWJacW9jYTY0SmI4MmtJRzRIX3p4akRvWlZ6dnIxcWpoaDhlNnVGMF9KNWstN200RFQ1ZjdYZHF0eFBiZE5vQkM2NUJOdW16bFNBQ0NKaDcyT1V2U3daUE5KcVM4U3FhRUNMU29NX05qWm8?oc=5"
+              "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQV1lpQVdhRENMSUQ3NnJWZkxyRlRjN0hHS2xsek1XbFo2ZEVCNnJ6RGRsNUZubmRCUURNbl9hbk5WSXJ4X0ZrTVJ3YW4wdHl5d05lOER2a1JZRUtkQmxKcy1DVjFGdFJfTGF5b1JtbE5BLVNoMGhGVEZKdm5ZZlcwQU9EQ2U4MWlmZEtNbEdxb1d1cWtSQzlLckJsdHRpWEM2TlJ2S0JYVnNySXM?oc=5"
+            },
+            {
+              "source": "tradingview.com",
+              "title": "Bitcoin-based Liquid Network says $320 million withdrawn in hack",
+              "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOQTl0TlhnbGNGMjNHRHJEWWNNSVBiU1p5b3BfZGZMdzNVSEZCTERTNHpUZlN6N1dOZUNrZVIyNzRzVzY1YUtrX3RoS1ZwNjBEVkk0XzVZZC1KcEJjVFhaNjFMV1hnS3d4VTVvU2VzTUVTMmJjVEVCQXZ5b0dsdlVOVlhOYVBiZU1JWnM2NVBFZndUY3NwWDNETURabG1WN09wRVg0bUI5S3RSTlFLeGJEUmRheWQ4eVlVdU12YzQycklWUUNpeHhVcnMwRUJoZw?oc=5"
             },
             {
               "source": "businesstoday.com.my",
               "title": "Bitcoin-Linked Liquid Network Hit By US$320 Million Hack",
               "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNMGJvUXpYcXBnT2J3ZWlnYzhqNF9VQUo0Wkh3aEdWZGY1YzVxUGxGVFFJYjhSTHM2aEMwRTluSjJWQi1LQjhEUVYtcU5QdEM0bURRalg0SFpWYWVoSDNLZ2p4U3RNM0FVTUxuOXRqR3ZycDdWV3VGX1JtSWIyS0wyb01xakZMYlBXVEZDU19ZTnctZmhWNnJrM21MVXhiUURyemc?oc=5"
-            },
-            {
-              "source": "theblock.co",
-              "title": "Liquid Network pauses after purported ‘white-hat’ hackers withdraw $320 million in bitcoin",
-              "link": "https://www.theblock.co/news/defi/2026-09-06-liquid-network-pauses-after-purported-white-hat-hackers-withdraw-320-million-in-bitcoin-413626"
-            },
-            {
-              "source": "theblock.co",
-              "title": "Liquid Network pauses after purported 'white-hat' hackers withdraw $320 million in bitcoin",
-              "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNVU9EVnRoU1lOd2RlUjJOZWNQaHd2SFY3aGxxTVNzZlZqaFR4OTJaeW1uTkl1cWxlei10OEtPTjBvQnIxRHFmdWtEZ1FCU1kxLTVTakFaajNNV3VMZVdHR0EzNlZDd3h5VHB0Z0Q1MTAzRXBMWGl4OU14T0lCTVB3NVcwNVZRM0NXbzJaeVpLODJTM1FoRzlKbWtldjNlZUFXZl9oYnQ2RkVHOTdJUWRpWDQ3Ymg0bzNpVEZiS2tFMWE3SnFvMkMtRGRlcjE4S01GN29McUN3?oc=5"
-            },
-            {
-              "source": "tradingview.com",
-              "title": "Liquid halts network after white-hat hackers withdraw $320M in Bitcoin",
-              "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNSXpNQ3d3amZVUW5ZcVY5SC15eENmSzNYb1UyQk1YLTVnUERGVjQzRFhxZDJEd2E3eW1UX1VhSURwd2NiRmVTMEdWZmdEb05EYWE0RnhXVlRyZ3I1TEpOc2JYUDBIZ2pJRENkdEpRMTgxcHZEbUpNSmY2Qk13QWFock9aSVZXa0h3STUxT1V5cmtvbWR4bDBWT2VlNTBVQ0gySGR6c1VoWGRySFU1Umo3LVRadkJ2bjVWSWx1ZGktLUxwV09kSVd2YjFMS1lKZjA?oc=5"
-            }
-          ]
-        },
-        {
-          "title": "Bitcoin network used by exchanges hit by $320 million exploit. Hackers claim they're the 'good guys'",
-          "link": "https://www.coindesk.com/markets/2026/09/07/bitcoin-network-used-by-exchanges-hit-by-usd320-million-exploit-hackers-claim-they-re-the-good-guys",
-          "date": "Mon, 07 Sep 2026 03:43:12 +0000",
-          "summary": "Liquid Network, a settlement layer used by exchanges, halted all transactions after losing $320 million worth of bitcoin in a security exploit.",
-          "publisher": "",
-          "_via": "coindesk.com",
-          "source": "coindesk.com",
-          "_hash": "c6b0b77aeccf2985",
-          "_ageHours": 1,
-          "_inWindow": true,
-          "_score": 62.37574277777778,
-          "_corrob": 3,
-          "_cluster": [
-            {
-              "source": "lcx.com",
-              "title": "Bitcoin network used by exchanges hit by $320 million exploit. Hackers claim they're the 'good guys'",
-              "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNRW52bU5VcmNyUjJnQkxGRWxtWGhxdkcxenBOWGtZcW4waHctclg1YWtKNXk2QXNENWduUTdRRGFDa3JxTGNEUFRSenh2b0ttS3RHekIyNnpXcWM3U2JHakJ3SDFCUzFBcm5JMmRtVmVIS1hyYnNEZkZadThYa0JpclhZV25hb2RPS3VYSUE4SUh5RXRwOHAzMHJOQ3VXTy1oa3ZSR2txWksySTNEcWVV?oc=5"
-            },
-            {
-              "source": "coindesk.com",
-              "title": "Bitcoin network used by exchanges hit by $320 million exploit. Hackers claim they're the 'good guys'",
-              "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxNYlpMcUhFV2FjZTNKLVlzYklnVG40SHlpNWFJSFdmalNZclViQTZqSEFTVVJQY29ZZlFTLThlTTFhQ1hMVmctTnFXbGhzNVRBRUczMFFPYXJrUU5NTkc2bUktRDA2RUk1U2ljNVVrTl9fdktHRG80NmtpdHB3Z28zTU1nbEY1eVBFWjNWQkdOZTd3V2h3SmFldUdHOUtBLUpleTY4ZTA4ZkJmSVgxWFJ2R1JheGxELWJZV21FaE9oaDZ5WEpjeFY5dVI5S2lJejZlamRSdGhrTjYtV0E?oc=5"
-            },
-            {
-              "source": "thestar.com.my",
-              "title": "Bitcoin network says US$320mil stolen in latest crypto hack",
-              "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNX3JFcG9mUU1RVGNMa0dma0V4VE8xZUtQQkFSaXFGUnR1MUFYY2tPSGkxVmxUdmRuT0RVWklmMHcycGx5SEFqOHI4aFowUlk0dHJXYUtGamt2TjhON0RjQ0xnTE9DeVo0SnVXUVFqeTU1N0FXZTRTcGluN0x4MFo1dUQwVi1DeHFYd09pcHpDeXFQbkFwZDYzcWhQdlk5NGQ4UXdjMjhCdFdKcmh5SDZGaTlEa29QNzcxcnY0?oc=5"
             },
             {
               "source": "bloomberg.com",
@@ -490,11 +525,16 @@
           "_via": "theblock.co",
           "source": "theblock.co",
           "_hash": "1a8d7b290c574ea9",
-          "_ageHours": 2,
+          "_ageHours": 3,
           "_inWindow": true,
-          "_score": 61.92102027777778,
-          "_corrob": 2,
+          "_score": 66.1509525,
+          "_corrob": 3,
           "_cluster": [
+            {
+              "source": "beincrypto.com",
+              "title": "Bitcoin ETFs Dodge the Inflow Slump That Caught Ethereum, Solana, and XRP",
+              "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1WNmtncVRsSmUyUkNLa3E5RHVWcGNCOHg2OFozWTNrWl9wVmY3UzZuenMxSzBsRFlCOEtTYjJIdDNlN1dDVXZVM0FlSWYyTDJ0WlA0VHA2WVRpSGc4ZUZ0cEQ3YVBnUVRFcHR1anNnRng?oc=5"
+            },
             {
               "source": "en.bloomingbit.io",
               "title": "US Spot Bitcoin ETFs Post Third Straight Week of Net Inflows, Add $986.9 Million",
@@ -518,6 +558,89 @@
           ]
         },
         {
+          "title": "Alleged White-Hat Hackers Withdraw 4,000 bitcoin from Blockstream&#8217;s Liquid Network Federation Reserves",
+          "link": "https://bitcoinmagazine.com/news/alleged-white-hat-hackers-withdraw-4000-bitcoin-from-blockstreams-liquid-network-federation-reserves",
+          "date": "Sun, 06 Sep 2026 22:16:53 +0000",
+          "summary": "Bitcoin Magazine Alleged White-Hat Hackers Withdraw 4,000 bitcoin from Blockstream&#8217;s Liquid Network Federation Reserves Liquid Network said purported white-hat hackers withdrew about 4,000 bitcoin from the federation wallet that backs L-BTC. Bridge nodes are disabled and the sidechain is paused. This post Alleged White-Hat Hackers Withdraw 4,000 bitcoin from Blockstream&#8217;s Liquid Network Federation Reserves first appeared on Bitcoin Magazine and is written by Juan Galt .",
+          "publisher": "",
+          "_via": "bitcoinmagazine.com",
+          "source": "bitcoinmagazine.com",
+          "_hash": "0512d3abd49698e0",
+          "_ageHours": 7,
+          "_inWindow": true,
+          "_score": 57.16706361111111,
+          "_corrob": 2,
+          "_cluster": [
+            {
+              "source": "tradingview.com",
+              "title": "Bitcoin Worth $320 Million Taken From BTC Layer 2 Solution by 'White-Hat Hackers' — 'Contact Us on Chain'",
+              "link": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxOTVpUMWlpSkpFUld2aHl2a3lVTjlPQlEyZzJ5X2s4YWZldzRWYzYxZG8ydndJQUo3NnV1ZXFQSTh5a21scFJYQmJXSWJUbnZlNnZwX25XREw1Tmw2TVhuTldPY08zZW0xaTJvemtnZmhvNlZXS0JsT1RISXd3RnE1eTFReTlyT3VrLUZBd2ZYYl8tMUx0aHBHNEk4RlRZRU5QTnFYRkFuSUtZWV9QSGJ1ZHlnRm9mXzVHVHZUVTF4UmtMcW91NWFvY2FVOTRBWEFVZFE5TXAyeERiVmFJNktrdDBtcnZwUVlqeEMzNzdR?oc=5"
+            },
+            {
+              "source": "theblock.co",
+              "title": "Liquid Network pauses after purported ‘white-hat’ hackers withdraw $320 million in bitcoin",
+              "link": "https://www.theblock.co/news/defi/2026-09-06-liquid-network-pauses-after-purported-white-hat-hackers-withdraw-320-million-in-bitcoin-413626"
+            },
+            {
+              "source": "theblock.co",
+              "title": "Liquid Network pauses after purported 'white-hat' hackers withdraw $320 million in bitcoin",
+              "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNVU9EVnRoU1lOd2RlUjJOZWNQaHd2SFY3aGxxTVNzZlZqaFR4OTJaeW1uTkl1cWxlei10OEtPTjBvQnIxRHFmdWtEZ1FCU1kxLTVTakFaajNNV3VMZVdHR0EzNlZDd3h5VHB0Z0Q1MTAzRXBMWGl4OU14T0lCTVB3NVcwNVZRM0NXbzJaeVpLODJTM1FoRzlKbWtldjNlZUFXZl9oYnQ2RkVHOTdJUWRpWDQ3Ymg0bzNpVEZiS2tFMWE3SnFvMkMtRGRlcjE4S01GN29McUN3?oc=5"
+            },
+            {
+              "source": "tradingview.com",
+              "title": "Liquid halts network after white-hat hackers withdraw $320M in Bitcoin",
+              "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNSXpNQ3d3amZVUW5ZcVY5SC15eENmSzNYb1UyQk1YLTVnUERGVjQzRFhxZDJEd2E3eW1UX1VhSURwd2NiRmVTMEdWZmdEb05EYWE0RnhXVlRyZ3I1TEpOc2JYUDBIZ2pJRENkdEpRMTgxcHZEbUpNSmY2Qk13QWFock9aSVZXa0h3STUxT1V5cmtvbWR4bDBWT2VlNTBVQ0gySGR6c1VoWGRySFU1Umo3LVRadkJ2bjVWSWx1ZGktLUxwV09kSVd2YjFMS1lKZjA?oc=5"
+            }
+          ]
+        },
+        {
+          "title": "Vitalik Buterin says Bitcoin's core cryptograph...",
+          "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOTEg5MGdhYmhxV3RTWl9DUWRGa0NEQ1hZeWRPOFFFOWRra3BvVlkyN0J2MS12T1hzWk52LVZVWXcyWmZjZVZocU9qTTczTVZubVBINGVIN3VwXzI2SXlMN1ZtVFFEdThCNjFIOVlncWVCRXl1ZXMtR0l5SGV4eTJqUFNqZWxtaWZvSWZJZA?oc=5",
+          "date": "Mon, 07 Sep 2026 04:45:20 GMT",
+          "summary": "Vitalik Buterin says Bitcoin's core cryptograph... Pluang",
+          "publisher": "pluang.com",
+          "_via": "news.google.com",
+          "source": "pluang.com",
+          "_hash": "82997bf20ace9dc2",
+          "_ageHours": 0,
+          "_inWindow": true,
+          "_score": 52.64123,
+          "_corrob": 1,
+          "_cluster": [
+            {
+              "source": "tradingview.com",
+              "title": "Vitalik Buterin rejects claims AI could crash Bitcoin by 50%",
+              "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOZkZfZnNaQjltbGs4SE9zSjZSTEVpS01vNk9CRXZTSDVPc0N0Ym54b2JoYk81Y21xNUpnZXZ3X05CNkNULTNMRjhrSDBDUzB1MW00aGg1alU5Nno2eVRKZ2ttR2FUckxYdEpOTE04VG92eWc1aGtvNVhvMW54a1dDQ3NlV0ZvamZ2TUx3MFg2Wm1kUGpGZTdVN2htX2ZhYkszZjV2R2tDUlRVYkRGRDZLeUhJdEFsNm9kSnZFNDZreXktUQ?oc=5"
+            }
+          ]
+        },
+        {
+          "title": "Oil up, bitcoin down as U.S. strikes Iranian crude carriers",
+          "link": "https://www.coindesk.com/markets/2026/09/07/oil-up-bitcoin-down-as-u-s-strikes-iranian-crude-carriers",
+          "date": "Mon, 07 Sep 2026 04:44:16 +0000",
+          "summary": "Bitcoin trades lower by nearly 1% as escalating U.S.-Iran hostilities push oil higher.",
+          "publisher": "",
+          "_via": "coindesk.com",
+          "source": "coindesk.com",
+          "_hash": "6a4a54ff16bb9ee2",
+          "_ageHours": 0,
+          "_inWindow": true,
+          "_score": 52.62345277777778,
+          "_corrob": 1,
+          "_cluster": [
+            {
+              "source": "coindesk.com",
+              "title": "Oil up, bitcoin down as U.S. strikes Iranian crude carriers",
+              "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOZE9Jb1IyenhaM21iX2hGcTVyVloxLUdSUWlqMlkySnJmWnZuTEtZMEZMcmEybXVBX2pqNlpQTmNwMGlQTlIyVnpqT2tsOWtTU0t0YW1jcjh3V0ptemRWdjA0RWJDcUI1UEphb2RXM3pyX3pFQUIwVGlKUWt2MWc5VlNVT2hsS3ZIdlNDVWQwbk5rWXIxSFNiazMwcjhPS3NFSm9F?oc=5"
+            },
+            {
+              "source": "investing.com",
+              "title": "Bitcoin down but holds near $80,000 as corporate buying, U.S. crypto vote in focus",
+              "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPS3Y3aGducU9YUTNQNTN1dkZVRWdzeUplNmdVbml6RmlrLXBCd1NtbXlRdlM3MDhnNzZJM3B5bXlVZTJXTUVJdVltQ0psc2ZjNTJJU2hpS1k5SFpVOXZDUm02dlJ1X2lTbDBvRGdlcnVFYVFIXzg0dUpjcWJzNmFoVHNEM3RieERYT2ZBS051aGh6b0dSdjJNNDY1X25yeHNSeVoxTGIyRDluZnlZZEp4dnpsWFMyeDhrUUFOX0ZVODk5a1FGWndNaGl2T09DRzMyMzZfOFhB?oc=5"
+            }
+          ]
+        },
+        {
           "title": "Bitcoin Price Prediction: Bull Flag or Bear Trap? What the Charts Say",
           "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1nOFVRbUlzdnlJMW5uSjFOM0tiMHY2aFpiRU5RVjZPbGlWelh3eDU4RW8yOHJtdWtlcGplNzByaTRRQlBJd3FpUkNjNjlpZHpfa3N0a3FoNFo?oc=5",
           "date": "Mon, 07 Sep 2026 03:54:28 GMT",
@@ -526,9 +649,9 @@
           "_via": "news.google.com",
           "source": "cryptonews.net",
           "_hash": "baffbd13fe1ec270",
-          "_ageHours": 0,
+          "_ageHours": 1,
           "_inWindow": true,
-          "_score": 52.563520277777776,
+          "_score": 51.79345222222222,
           "_corrob": 1,
           "_cluster": [
             {
@@ -539,49 +662,28 @@
           ]
         },
         {
-          "title": "They Took $320 Million In Bitcoin — Then Left A Note: “We Are Whitehats”",
-          "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPd2FuOWR3QlJIOTN0ekhHUG9Hdk95amlxcGoyWFVZZG15OTR3NmxrZTcxVW1pYlI0ZUx1dHJoOTVEbWlaQ05RN0F3N0Z0MGJaM1M5aU90RjZaVUdZV2lJOFRBT0k3cElyQWhDRUZlTXdmMEJ5c1RLbGd1dVRFYm1VYkJiUlExZWduYlQxaXJEWE9aWWVSX0hCbEY2aWNId3IyZ2IyMG5CYnQ1bjV0WGF3WjNnQzB0OVZvbVQwd2xfdXY2MkpVdFJyS0ZGbEptdw?oc=5",
-          "date": "Sun, 06 Sep 2026 22:18:46 GMT",
-          "summary": "They Took $320 Million In Bitcoin — Then Left A Note: “We Are Whitehats” Bitcoin Magazine",
-          "publisher": "bitcoinmagazine.com",
-          "_via": "news.google.com",
-          "source": "bitcoinmagazine.com",
-          "_hash": "2081152af9a2296f",
-          "_ageHours": 6,
-          "_inWindow": true,
-          "_score": 51.96852027777778,
-          "_corrob": 2,
-          "_cluster": [
-            {
-              "source": "yahoo.com",
-              "title": "Hackers Demand $2 Million in Bitcoin from Germany. Berlin Refuses to Pay",
-              "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNSXVtY2RETEg3N1JoTGxoNjlmOHNOdGExV3JFZExHdkREZWUzTEdGQjBkNnNHemcwS2JUTkZocloySVZ6TkU1aFUwZTF4MV9NdUNxdTRfQWdkV3pLcVpwN25BZnhDR2l1RW90d0JuSU1HcU11T0g5M0xEVC1DZ0RzM2hIR0xsTWpBZzkwcVp3VQ?oc=5"
-            },
-            {
-              "source": "beincrypto.com",
-              "title": "Hackers Demand $2 Million in Bitcoin from Germany. Berlin Refuses to Pay",
-              "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBJNnhYbTdkTVQ4amJiRlY1cE5KTEJTb05RRVR1SUZhMEZCRW5HSWpZdFpqcWQzX2ladS1XYjBKVk1GWHJOb3JjRFZudG1wT09xbTRuSHZWVGEtQU4zS2VyWVZxY1dLU215dS1rVDNCNUI?oc=5"
-            }
-          ]
-        },
-        {
-          "title": "Zcash breaks $1,000 — \"Buying now is like buying Bitcoin in 2013\"?",
-          "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBIRXl5Q281b0xRU3RWYWFtdmFRODg3d3ExdDNTMXpmOFZyczhTSllTeHAtNE5NQXJ1N0MwSFBTbk9FZi1NZ0F3VXpDNGtEY19T?oc=5",
-          "date": "Mon, 07 Sep 2026 03:15:15 GMT",
-          "summary": "Zcash breaks $1,000 — \"Buying now is like buying Bitcoin in 2013\"? odaily.news",
-          "publisher": "odaily.news",
-          "_via": "news.google.com",
-          "source": "odaily.news",
-          "_hash": "cc67f90e92a9885b",
+          "title": "Bitcoin network used by exchanges hit by $320 million exploit. Hackers claim they're the 'good guys'",
+          "link": "https://www.coindesk.com/markets/2026/09/07/bitcoin-network-used-by-exchanges-hit-by-usd320-million-exploit-hackers-claim-they-re-the-good-guys",
+          "date": "Mon, 07 Sep 2026 03:43:12 +0000",
+          "summary": "Liquid Network, a settlement layer used by exchanges, halted all transactions after losing $320 million worth of bitcoin in a security exploit.",
+          "publisher": "",
+          "_via": "coindesk.com",
+          "source": "coindesk.com",
+          "_hash": "c6b0b77aeccf2985",
           "_ageHours": 1,
           "_inWindow": true,
-          "_score": 51.909908888888886,
+          "_score": 51.605675,
           "_corrob": 1,
           "_cluster": [
             {
-              "source": "forbes.com",
-              "title": "‘Like Buying Bitcoin In 2013’—Tiny Crypto Suddenly Rockets 7,300% As Massive $100 Billion Price Boom Predicted",
-              "link": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxNMl9JOERnOHBIbm5YZWtidWctVWswVzlyaUZnd05VYk4tWDhWN3NsWFpWT0JMVkpQS0ppOGpoLWthSmpsWVBPZDhIczdfV1dmUDNGOUFRcWNFREIwU3FsU2Qtb1I4eDFuRGdQN2VnS0ZtTXNUc1RVQkVLSU1QM0t4MkRQMlB6WVJaVU9YOUtYb3MyRi1wRmtkSGxxTHA3WEdvcG8teHYyQWRjVHhKQ21xMTVkMXV0U3NlLThuX2ZSRHIzdnlfcmRTUnhlZzBKUG1GQm56NWlrNmhxYjJZOXNmM0hpMTdxUk1ZOVJZ?oc=5"
+              "source": "lcx.com",
+              "title": "Bitcoin network used by exchanges hit by $320 million exploit. Hackers claim they're the 'good guys'",
+              "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNRW52bU5VcmNyUjJnQkxGRWxtWGhxdkcxenBOWGtZcW4waHctclg1YWtKNXk2QXNENWduUTdRRGFDa3JxTGNEUFRSenh2b0ttS3RHekIyNnpXcWM3U2JHakJ3SDFCUzFBcm5JMmRtVmVIS1hyYnNEZkZadThYa0JpclhZV25hb2RPS3VYSUE4SUh5RXRwOHAzMHJOQ3VXTy1oa3ZSR2txWksySTNEcWVV?oc=5"
+            },
+            {
+              "source": "coindesk.com",
+              "title": "Bitcoin network used by exchanges hit by $320 million exploit. Hackers claim they're the 'good guys'",
+              "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxNYlpMcUhFV2FjZTNKLVlzYklnVG40SHlpNWFJSFdmalNZclViQTZqSEFTVVJQY29ZZlFTLThlTTFhQ1hMVmctTnFXbGhzNVRBRUczMFFPYXJrUU5NTkc2bUktRDA2RUk1U2ljNVVrTl9fdktHRG80NmtpdHB3Z28zTU1nbEY1eVBFWjNWQkdOZTd3V2h3SmFldUdHOUtBLUpleTY4ZTA4ZkJmSVgxWFJ2R1JheGxELWJZV21FaE9oaDZ5WEpjeFY5dVI5S2lJejZlamRSdGhrTjYtV0E?oc=5"
             }
           ]
         },
@@ -594,9 +696,9 @@
           "_via": "news.google.com",
           "source": "moomoo.com",
           "_hash": "45c7d9874bba71ca",
-          "_ageHours": 2,
+          "_ageHours": 3,
           "_inWindow": true,
-          "_score": 51.21129805555555,
+          "_score": 50.44123027777778,
           "_corrob": 1,
           "_cluster": [
             {
@@ -610,14 +712,14 @@
           "title": "CZ Says Bitcoin Could Overtake Gold Next Bull Run: The Price It Needs to Hit",
           "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOM2NWOWJZQ1plRzI1NVpSRnhWdlJjWkFhcDJsOXUtZm91M2p3Z0U4RlZGS0E2U3FHVHNvdHFzeWI4N1FuQUdsQ1IwUElUZjc2YkRaemc4cEQxM1dOZmtkd3VfNnpzR0xzYWw2bWJQUHRnN2c1TVZSc2FHVEtQSU1Ta2VvWXJKX2V4WDEtNFh2T2piQk54eXZIWUJLMA?oc=5",
           "date": "Mon, 07 Sep 2026 02:02:00 GMT",
-          "summary": "CZ Says Bitcoin Could Overtake Gold Next Bull Run: The Price It Needs to Hit finance.yahoo.com",
+          "summary": "CZ Says Bitcoin Could Overtake Gold Next Bull Run: The Price It Needs to Hit Yahoo Finance",
           "publisher": "finance.yahoo.com",
           "_via": "news.google.com",
           "source": "finance.yahoo.com",
           "_hash": "cda1670d2bcea108",
-          "_ageHours": 2,
+          "_ageHours": 3,
           "_inWindow": true,
-          "_score": 50.689075833333334,
+          "_score": 49.91900805555556,
           "_corrob": 1,
           "_cluster": [
             {
@@ -638,13 +740,34 @@
           "_hash": "666f56cad7a52a74",
           "_ageHours": 5,
           "_inWindow": true,
-          "_score": 48.27046472222222,
+          "_score": 47.50039666666667,
           "_corrob": 1,
           "_cluster": [
             {
               "source": "cryptopotato.com",
               "title": "No Public Money Behind El Salvador’s New Bitcoin, IMF Confirms",
               "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQcUNkOTF0TW5YZUhMWUhiYlBVZ2hvcTBUOWM1c1dJZjh2a1IzSlhEcmdwYi1xVnc0THJrbHNLU0U2R0M4SnlpTEdPbG50cjJucG01enJDQ0kzWkJkQlBjd01kdHRILU84Mi0zSzZJSHlPdW5jQ29MTWI3Q21fTVRieVVnOFRxUzE0S1E4YnhTUQ?oc=5"
+            }
+          ]
+        },
+        {
+          "title": "They Took $320 Million In Bitcoin — Then Left A Note: “We Are Whitehats”",
+          "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPd2FuOWR3QlJIOTN0ekhHUG9Hdk95amlxcGoyWFVZZG15OTR3NmxrZTcxVW1pYlI0ZUx1dHJoOTVEbWlaQ05RN0F3N0Z0MGJaM1M5aU90RjZaVUdZV2lJOFRBT0k3cElyQWhDRUZlTXdmMEJ5c1RLbGd1dVRFYm1VYkJiUlExZWduYlQxaXJEWE9aWWVSX0hCbEY2aWNId3IyZ2IyMG5CYnQ1bjV0WGF3WjNnQzB0OVZvbVQwd2xfdXY2MkpVdFJyS0ZGbEptdw?oc=5",
+          "date": "Sun, 06 Sep 2026 22:18:46 GMT",
+          "summary": "They Took $320 Million In Bitcoin — Then Left A Note: “We Are Whitehats” Bitcoin Magazine",
+          "publisher": "bitcoinmagazine.com",
+          "_via": "news.google.com",
+          "source": "bitcoinmagazine.com",
+          "_hash": "2081152af9a2296f",
+          "_ageHours": 7,
+          "_inWindow": true,
+          "_score": 46.1984525,
+          "_corrob": 1,
+          "_cluster": [
+            {
+              "source": "yahoo.com",
+              "title": "Hackers Demand $2 Million in Bitcoin from Germany. Berlin Refuses to Pay",
+              "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNSXVtY2RETEg3N1JoTGxoNjlmOHNOdGExV3JFZExHdkREZWUzTEdGQjBkNnNHemcwS2JUTkZocloySVZ6TkU1aFUwZTF4MV9NdUNxdTRfQWdkV3pLcVpwN25BZnhDR2l1RW90d0JuSU1HcU11T0g5M0xEVC1DZ0RzM2hIR0xsTWpBZzkwcVp3VQ?oc=5"
             }
           ]
         },
@@ -659,60 +782,13 @@
           "_hash": "0f3b148df7a9161f",
           "_ageHours": 8,
           "_inWindow": true,
-          "_score": 45.4557425,
+          "_score": 44.685674722222224,
           "_corrob": 1,
           "_cluster": [
             {
               "source": "finance.yahoo.com",
               "title": "If You'd Invested $1,000 in Bitcoin 10 Years Ago, Here's How Much You'd Have Today",
               "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNSUdrMnNYdEFOcl9CZXpkaXZSMDEycG90TTQxMEdxaGdpMXFmWmh2bXBXeHA1OTVzdVpDcHpiZl8wbXMzZ2NlQ25sODItak5KRll2eV9GdUUtaGtHMXJZR2I0UjVQWkxiRzJacDVWeU9CWFdoSDhDcWZxOHBfM25TNjltbGNuRWxlamtYdXdDbmc2V3dJeXlF?oc=5"
-            }
-          ]
-        },
-        {
-          "title": "1 Cryptocurrency Up 29% in 3 Weeks to Buy Before It Soars Another 515% by 2029",
-          "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQWExfQzJqTkhPX0NqLU1Qd1REUmxNMUkzQ3Uza1BMN09nQ2dZa01zcTRZenRvOTZrSW14OXd3Ui02ZHlWLTYxLVZ5NHVqMjFzZWRWVzY4c0xidmhVdzZLOVdlbHVkQWxzcFhRckVJUU5ZSGdPZ0twZ010MEVYbEpfTXV0TTY?oc=5",
-          "date": "Sun, 06 Sep 2026 15:21:00 GMT",
-          "summary": "1 Cryptocurrency Up 29% in 3 Weeks to Buy Before It Soars Another 515% by 2029 Currently.com",
-          "publisher": "currently.att.yahoo.com",
-          "_via": "news.google.com",
-          "source": "currently.att.yahoo.com",
-          "_hash": "0d10c2fd8150920c",
-          "_ageHours": 13,
-          "_inWindow": true,
-          "_score": 45.0057425,
-          "_corrob": 2,
-          "_cluster": [
-            {
-              "source": "fool.com",
-              "title": "1 Unstoppable Cryptocurrency to Buy Before It Soars 270%",
-              "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNUTdNWEtBRVJwbkdNakpyN3NRa2NsQ2M2MVNpUmt1TDluUUlOZnNCY25RNHNPODlBelZSWDdrVXhvTWZZSjJLTl9LeEJmSzNkTnBfUlVtZU5FV0JnQjdYZ3VzelBEYUFTcU41TzRITUxnVjJ1QTRyT2Z5VnhXUUF4QTA1MXJuUjVLcTFiZm1ob2JWNlJpVThGcg?oc=5"
-            },
-            {
-              "source": "finance.yahoo.com",
-              "title": "1 Unstoppable Cryptocurrency to Buy Before It Soars 270%",
-              "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPWkUwdTc0aVhERHVKaDJQMVQ4MVZlQWVQdjg1eS1HSF9vT1dMbWducFVCZno1cE9ZVFk1b0phUXFfakZ5WVVqUVdLNHg4UmNMWEhKOThfNmM4SE5TS0xzeC1kOWp0RUZ6RjFOU09ZOVI1eTAweXo5TUJyb2hPS190SjVibFcybmpqYVVwOGJ3U0RLaWRNSGF5VEZyQnBXZ1BGUW1kdDNR?oc=5"
-            }
-          ]
-        },
-        {
-          "title": "Mark Yusko says he exited most of his Solana stake, while Bitcoin-linked assets swell",
-          "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOOHQzaDFHb0NLenAxQ1hwRHBBbVItZ3JSVnpBUDRWTHFZaXlnMlM5Vjk3TEJzbU1vdnhpaDFmNTRxVTJUMUtYWC14ZFU0a0lRMEtiZUFkVXpXSmkwVE9FcHdCeW9jZzNTTWJVd01WYmx2ekhQUHRQakhlOGVFMkxOR211RzJUbXZLUlFHeHduMlB6UGR0dHFrVWlwYUs3ekx0R1dNTDFQeVN6ZWdWNUtLM2VycVRzejV6OElFS2JWMA?oc=5",
-          "date": "Sun, 06 Sep 2026 20:02:38 GMT",
-          "summary": "Mark Yusko says he exited most of his Solana stake, while Bitcoin-linked assets swell Seeking Alpha",
-          "publisher": "seekingalpha.com",
-          "_via": "news.google.com",
-          "source": "seekingalpha.com",
-          "_hash": "8dc82a88fde55068",
-          "_ageHours": 8,
-          "_inWindow": true,
-          "_score": 44.69963138888889,
-          "_corrob": 1,
-          "_cluster": [
-            {
-              "source": "stocktwits.com",
-              "title": "Mark Yusko Dumps 90% Of Solana, Warns Of More Pain For BTC — But Half His Wealth In Still In Bitcoin",
-              "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxNejRaOHRCVTlWZzBsb1k0SWtISWpWaXdhZWV6TWpsSUJLRklnU2JMTEFrNHctZjRnVUo4aW5qcnYxWmFVZXRhekt0U01aeDVOSFhITS1MOEl1bUVFY0RPbENrWXBzaHhJVnZSQkNUNnB3N21iWTFaOW9BXy1lZm5fMDR3ZlBGQ3dtYnJLXzl1Y0ZvczhuM3R4aDdUUEh2NjdMZmcwYks5MUYxWjBEbUx1eXdHZE9lX2FBdTVjUkxMUHQ0ZlkzeTBWYmRZc0xqM0QxSnB0aEkwV2hwVTlsQnNIUE5jcw?oc=5"
             }
           ]
         }
@@ -722,6 +798,27 @@
       "name": "Biotech & Longevity",
       "candidates": [
         {
+          "title": "No crash diets or supplements: Delhi nutritionist shares 5 daily habits for better health and longevity. ‘",
+          "link": "https://news.google.com/rss/articles/CBMiywJBVV95cUxOR2ZZa1R6d1VuWXJ2UDh2WXlLWlNJaERUcy1RVEZOZDNhbzl3a2RJbmRuVDV5U1I2bU9WbThJSGlXenRucF9RX0VoMldWV1hBM3ZZeWFVazFMbDl5SWg2OVZyeWVybjVhXzVKRjlULVAwcTJuSk1hYXUyYTQzNGlObmg0QmxCNzRpOWZmNkswSV93SERwcThYV2NCcWVLZmdRQ21CODdtczNpV2FkSUdjM2puMTdBSlVkRHVuNng5YkF3Um5PZWRpaFQtclduRHR2NGc1ZzlIVmV6LXhkeS1FeUNPY01uVWNEeWJkbVRPUjZRSzNXY1V5SkJWbV9FRDdJMVNBb0FiTVJLVXN0XzIxOWFfVG1wS1lJRDFXTzgzc0hPLXlSOFdBZlJKU3VYaHZoNG5kQllpQTBWbWxnQ1Z6OUV2ODVWLUhaeVlR0gHQAkFVX3lxTE90YllWdjZOSi1BT2xidUtMbGhvNnIxRHhZdFFoT015ZXludk5ONVh2SE1BZXlHWUZNTHFGaC1ORWc3c2hkeDBDR1gyS2g4RHFWNnBXUUdWVGJPQV8zdW5JTTlvLWctUno2T3BLY3pkeVI5YmZvVmFONFFvT1RkV3hmUzZrSVR5YmxlX3FiakZOLWFXazJVQnp2MzEycGh3OHBIeFBuNk5HYkpLZXpjQ1RITWNrTDFmQzVwcGZNYnAwWjBNVzBJcWxqYm1XbXhaMVkwRXBXM0w0ZWRybWtMMzA3SEE1UjhBYTVpV0x3ZDZfVmo2Q3duMU5ERGRrQjBOelhYTUdfMFVXd3RaNHVZQUU0OHpQYzltX21qWU96cjZEWTNSeWZPenhFWVB0N29UUVc3X2hyakZNdUFCRjZrcWZ2THE5dW1VUmFTVXVINy03eQ?oc=5",
+          "date": "Mon, 07 Sep 2026 02:40:29 GMT",
+          "summary": "No crash diets or supplements: Delhi nutritionist shares 5 daily habits for better health and longevity. ‘ The Economic Times",
+          "publisher": "m.economictimes.com",
+          "_via": "news.google.com",
+          "source": "m.economictimes.com",
+          "_hash": "f9f2b3131f44eea3",
+          "_ageHours": 2,
+          "_inWindow": true,
+          "_score": 56.560008055555556,
+          "_corrob": 1,
+          "_cluster": [
+            {
+              "source": "aroundambler.com",
+              "title": "ERAs Health & Longevity, new direct primary care practice, now open in Blue Bell",
+              "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNLXdHckpqb0VzWGNNdjlEZ1hoUmM4ekFFMTNaU05VRXZYeFFoR0J1TmdhQmZXdFdTZ2dXWVU3eGJ5OHhyRXYxRDdKaTVxS0FhcGh0MEJ2d0xEX0JzRWlGY2xTc0Z1dEo5Y2loNlI3bkNqclV4LXZtOWZSN0xLSDdITGZ5M1pzSVQ4Z0xoUFlSTS13NVVmdmVrdTBmamd5TGNxZVlCWg?oc=5"
+            }
+          ]
+        },
+        {
           "title": "Best sports for longevity: Why tennis, badminton, and even cycling may help you live longer",
           "link": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxNenBzYUtzUUVrU2VXSkV2QmVmZGpJdTh4RVVRemI4OEtFbzJhZnBMQU90Z2oxNlRieERFVGxDUzh3S2hsYThaT1c3OERDbjhnb0tDMzVVMk56cGxnTjhBZmJBcjZRNmJRRzViZ3pBWmk2b1ltaDRNeEtMUnVjZHo5dU5icXp5aWd1bW5pRmg1Q2t0RGVGWGs1UUZQNThFemdtd3liOU5tWUlsSy1qbkUzMWhSUkxmVVBuMmlBTzhSd2RfSkJIQWx1U0RQeXFWdGZmd2RndmRqMzJURUU5TTF5czdTai1oZl9jNmp6NXJBbi1wbERRbktGQ9IBgAJBVV95cUxNR3lFS0tnZ1B4RE1QSFBFamZVdkQ2VkNUT3VERER6bTczX0NadThfZkFyUTFTaG9henVLUGFzVTc1WUEtdTlPeVEyUkFXbWRUR25TbVVkLUtWcU9rUng5eS15Uno3WUxRNG1hbnd6Z1NYVFBDcEtLU08zd2lXWTJaem5JOXdFSkZIQ2F1SGlyakszcmVoM1VkQlhYZWZ0Z2lwX2VRUG1tbnlSU0hLZlQ4UXBDcndUOUFUOXExdmU1ZEU4c25YMHVCY3dBR0VUOE9jWmM5blZ6anlsXzlIVDhadGhMQkNGWlVsVnVPZllINVN1VUJuSW5wUWtrSWE0Q3U5?oc=5",
           "date": "Mon, 07 Sep 2026 01:15:47 GMT",
@@ -730,41 +827,15 @@
           "_via": "news.google.com",
           "source": "timesofindia.indiatimes.com",
           "_hash": "cd9bb95bac2cca29",
-          "_ageHours": 3,
+          "_ageHours": 4,
           "_inWindow": true,
-          "_score": 60.91527722222222,
-          "_corrob": 2,
+          "_score": 55.14834166666667,
+          "_corrob": 1,
           "_cluster": [
             {
               "source": "ctinsider.com",
               "title": "Connecticut doctors say this habit could help you live longer",
               "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPSDF5dHZ4dlFuMEEweUl1Sl9odkJPU0l3Y0ZWVnJXVzA3UW8zQWdjNU1Dd3FmU2YtUlJqQ0lFb1RsdElHY1UxRGxhOXh3Z0JiSVhfdnFHT0JzRENOVDk3bXRaSl9xT3ZZRDI4M2htV3gxckFNZkdqYnFRcnd4U2VDVGZqM0E2Y3lmSlFlVW1nRVBCWWxEbWtsWnVBd0Q?oc=5"
-            },
-            {
-              "source": "gq-magazine.co.uk",
-              "title": "Can coffee help you live longer? Longevity experts weigh in - gq-magazine.co.uk",
-              "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNczFZYTl6YUdiTTRPZWJEMWtFRlIyZW90NkNBQXR6c05LZ3c1S1RQcjBydl9YeWttYlJtWDBrTDRqcFA4QWx4Ykc0aWk0QkxYMjdVRl8ycDZ5eHZvejRFNlNGTWtQd3hPSVlZc2xUcHhKNFZKZ3Q3emJFU0tBVUJYZkZGYlRvbE10SHcyUQ?oc=5"
-            }
-          ]
-        },
-        {
-          "title": "No crash diets or supplements: Delhi nutritionist shares 5 daily habits for better health and longevity. ‘",
-          "link": "https://news.google.com/rss/articles/CBMiywJBVV95cUxOR2ZZa1R6d1VuWXJ2UDh2WXlLWlNJaERUcy1RVEZOZDNhbzl3a2RJbmRuVDV5U1I2bU9WbThJSGlXenRucF9RX0VoMldWV1hBM3ZZeWFVazFMbDl5SWg2OVZyeWVybjVhXzVKRjlULVAwcTJuSk1hYXUyYTQzNGlObmg0QmxCNzRpOWZmNkswSV93SERwcThYV2NCcWVLZmdRQ21CODdtczNpV2FkSUdjM2puMTdBSlVkRHVuNng5YkF3Um5PZWRpaFQtclduRHR2NGc1ZzlIVmV6LXhkeS1FeUNPY01uVWNEeWJkbVRPUjZRSzNXY1V5SkJWbV9FRDdJMVNBb0FiTVJLVXN0XzIxOWFfVG1wS1lJRDFXTzgzc0hPLXlSOFdBZlJKU3VYaHZoNG5kQllpQTBWbWxnQ1Z6OUV2ODVWLUhaeVlR0gHQAkFVX3lxTE90YllWdjZOSi1BT2xidUtMbGhvNnIxRHhZdFFoT015ZXludk5ONVh2SE1BZXlHWUZNTHFGaC1ORWc3c2hkeDBDR1gyS2g4RHFWNnBXUUdWVGJPQV8zdW5JTTlvLWctUno2T3BLY3pkeVI5YmZvVmFONFFvT1RkV3hmUzZrSVR5YmxlX3FiakZOLWFXazJVQnp2MzEycGh3OHBIeFBuNk5HYkpLZXpjQ1RITWNrTDFmQzVwcGZNYnAwWjBNVzBJcWxqYm1XbXhaMVkwRXBXM0w0ZWRybWtMMzA3SEE1UjhBYTVpV0x3ZDZfVmo2Q3duMU5ERGRrQjBOelhYTUdfMFVXd3RaNHVZQUU0OHpQYzltX21qWU96cjZEWTNSeWZPenhFWVB0N29UUVc3X2hyakZNdUFCRjZrcWZ2THE5dW1VUmFTVXVINy03eQ?oc=5",
-          "date": "Mon, 07 Sep 2026 02:40:29 GMT",
-          "summary": "No crash diets or supplements: Delhi nutritionist shares 5 daily habits for better health and longevity. ‘ economictimes.com",
-          "publisher": "m.economictimes.com",
-          "_via": "news.google.com",
-          "source": "m.economictimes.com",
-          "_hash": "f9f2b3131f44eea3",
-          "_ageHours": 2,
-          "_inWindow": true,
-          "_score": 57.32694388888889,
-          "_corrob": 1,
-          "_cluster": [
-            {
-              "source": "aroundambler.com",
-              "title": "ERAs Health & Longevity, new direct primary care practice, now open in Blue Bell",
-              "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNLXdHckpqb0VzWGNNdjlEZ1hoUmM4ekFFMTNaU05VRXZYeFFoR0J1TmdhQmZXdFdTZ2dXWVU3eGJ5OHhyRXYxRDdKaTVxS0FhcGh0MEJ2d0xEX0JzRWlGY2xTc0Z1dEo5Y2loNlI3bkNqclV4LXZtOWZSN0xLSDdITGZ5M1pzSVQ4Z0xoUFlSTS13NVVmdmVrdTBmamd5TGNxZVlCWg?oc=5"
             }
           ]
         },
@@ -777,9 +848,9 @@
           "_via": "news.google.com",
           "source": "biotechdispatch.com.au",
           "_hash": "54a174b7ab240a16",
-          "_ageHours": 2,
+          "_ageHours": 3,
           "_inWindow": true,
-          "_score": 50.632221666666666,
+          "_score": 49.86528611111111,
           "_corrob": 1,
           "_cluster": [
             {
@@ -795,27 +866,6 @@
       "name": "Energy",
       "candidates": [
         {
-          "title": "Nuclear Fusion Reactor For Cleaner Energy",
-          "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQSjJHTTZJNnNyNjlWYzlzV1VPWlZCOW1kZnA2Ylc2NzRLcWoyTlRObWJlM1BBRG5YZjg0WlhDa0ZfTjV4ek00cGM3MFpvQ1kxQllZMVA2S3lpT19Nam5KV1pjWE5la3hJUVVVc2R5YklWZ1B0SEFTVTRRbXhJcUJvem1Fb21PYjQ4T1BNeEtQdDA3bkJfNEE?oc=5",
-          "date": "Sun, 06 Sep 2026 18:14:27 GMT",
-          "summary": "Nuclear Fusion Reactor For Cleaner Energy Yahoo",
-          "publisher": "yahoo.com",
-          "_via": "news.google.com",
-          "source": "yahoo.com",
-          "_hash": "c499859364344cc7",
-          "_ageHours": 10,
-          "_inWindow": true,
-          "_score": 54.892723333333336,
-          "_corrob": 1,
-          "_cluster": [
-            {
-              "source": "motorbiscuit.com",
-              "title": "Google Just Dropped €411 Million on a Fusion Reactor Deemed \"Impossible\" to Build",
-              "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNQ1o3R1RzLXB3SzJaUXJzZGR4OVdSMVpZME03bzd1eEFDV0U5OE5XdHphQV90QXROVXhNaUZybEVVZjlsTlZ4aS1vQVd2WXhzOWhoNzQzakhiYkFyZmw0YklDTUp1N1JuYURCYzlSaWZfVU9HSzRrMkp3aEJpbGZORGtUMEN5bVFrWGx0d3NqX0xRVHM0c3d0Q2dlelIycmVlTFlMNDUwMnY3NTQ4WUE?oc=5"
-            }
-          ]
-        },
-        {
           "title": "Wenzhou wind cluster boosts clean energy push",
           "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTFA1SlJxWmxTektGQ284M3JTZG0yODdmV0xqcEhzellNdjZwYjhlYVNCVElOZmtpRmIzRldMa0FIWEI5SFhIYWMyZkQzSzRmTnhkRGRXT01nWlh1YnJWNVZLbFphNENUQjV0TE1vSEV0RUpfd2NLQXpyWTN0cVh3UQ?oc=5",
           "date": "Mon, 07 Sep 2026 00:54:01 GMT",
@@ -824,11 +874,16 @@
           "_via": "news.google.com",
           "source": "chinadaily.com.cn",
           "_hash": "99974daa7eac88d3",
-          "_ageHours": 3,
+          "_ageHours": 4,
           "_inWindow": true,
-          "_score": 54.552167777777775,
-          "_corrob": 2,
+          "_score": 58.78518666666667,
+          "_corrob": 3,
           "_cluster": [
+            {
+              "source": "media.service.gov.wales",
+              "title": "Shape plans for a new clean energy company, owned by Wales, to benefit Wales",
+              "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPT3gwcmFTc19haUQxYkVIcFVRTUplSUxBazItaFRFVTVYU19zWWpVUUVPRVlTVkYxNk5oc1VkSDk2SWZFUThMVFVGQWl2V2VLTWRNWWwtdk40SUJSLS0taGdINDVuV0pFdERxQWxURUp0MHRDaERSem41OGJJbVIyNVFpUUpTYU5pbnVMcFlUVjRxQTFHakMwU1pvRS0yVXJHZXRFeTdyMlg5YWxLZjZtUg?oc=5"
+            },
             {
               "source": "marketscreener.com",
               "title": "Carnegie Clean Energy Backs Opening of US Wave Energy Testing Facility",
@@ -836,8 +891,29 @@
             },
             {
               "source": "arkansasonline.com",
-              "title": "India sees clean energy wasted despite demand - The Arkansas Democrat-Gazette",
+              "title": "India sees clean energy wasted despite demand",
               "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQRE5RSGFtTFdvMlN6V2NIa2JMNFZmMTdzSV9rb0IzNktJSGxxT2Q3c05zT1lSZFhISi1oaVJZTUxFMjRYamVsYVNBcHJiRThiUFBrVTgwVWRrZzZFSk02Smktc09aQXdpdDdEZFBTSllZeXFINlBJWFhxMTE0RXpSZ2ZXTGFMOFUydDY5MjUwTmlpcGxUSXdDOXpn?oc=5"
+            }
+          ]
+        },
+        {
+          "title": "Nuclear Fusion Reactor For Cleaner Energy",
+          "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQSjJHTTZJNnNyNjlWYzlzV1VPWlZCOW1kZnA2Ylc2NzRLcWoyTlRObWJlM1BBRG5YZjg0WlhDa0ZfTjV4ek00cGM3MFpvQ1kxQllZMVA2S3lpT19Nam5KV1pjWE5la3hJUVVVc2R5YklWZ1B0SEFTVTRRbXhJcUJvem1Fb21PYjQ4T1BNeEtQdDA3bkJfNEE?oc=5",
+          "date": "Sun, 06 Sep 2026 18:14:27 GMT",
+          "summary": "Nuclear Fusion Reactor For Cleaner Energy Yahoo",
+          "publisher": "yahoo.com",
+          "_via": "news.google.com",
+          "source": "yahoo.com",
+          "_hash": "c499859364344cc7",
+          "_ageHours": 11,
+          "_inWindow": true,
+          "_score": 54.12574222222222,
+          "_corrob": 1,
+          "_cluster": [
+            {
+              "source": "motorbiscuit.com",
+              "title": "Google Just Dropped €411 Million on a Fusion Reactor Deemed \"Impossible\" to Build",
+              "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNQ1o3R1RzLXB3SzJaUXJzZGR4OVdSMVpZME03bzd1eEFDV0U5OE5XdHphQV90QXROVXhNaUZybEVVZjlsTlZ4aS1vQVd2WXhzOWhoNzQzakhiYkFyZmw0YklDTUp1N1JuYURCYzlSaWZfVU9HSzRrMkp3aEJpbGZORGtUMEN5bVFrWGx0d3NqX0xRVHM0c3d0Q2dlelIycmVlTFlMNDUwMnY3NTQ4WUE?oc=5"
             }
           ]
         },
@@ -850,9 +926,9 @@
           "_via": "news.google.com",
           "source": "energiesmedia.com",
           "_hash": "f6ef6bad72f40716",
-          "_ageHours": 6,
+          "_ageHours": 7,
           "_inWindow": true,
-          "_score": 46.646612222222224,
+          "_score": 45.87963111111111,
           "_corrob": 1,
           "_cluster": [
             {
@@ -871,9 +947,9 @@
           "_via": "news.google.com",
           "source": "fool.com",
           "_hash": "ee6af04a908829b8",
-          "_ageHours": 15,
+          "_ageHours": 16,
           "_inWindow": true,
-          "_score": 42.65189,
+          "_score": 41.88490888888889,
           "_corrob": 2,
           "_cluster": [
             {
