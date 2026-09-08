@@ -1,6 +1,6 @@
 {
   "date": "2026-09-08",
-  "generatedAt": "2026-09-08T03:30:36.372Z",
+  "generatedAt": "2026-09-08T05:05:12.031Z",
   "pillars": {
     "ai": {
       "name": "Artificial Intelligence",
@@ -14,15 +14,25 @@
           "_via": "news.google.com",
           "source": "says.com",
           "_hash": "c39e7490a0425c61",
-          "_ageHours": 1,
+          "_ageHours": 2,
           "_inWindow": true,
-          "_score": 73.32300972222222,
-          "_corrob": 4,
+          "_score": 81.74646666666666,
+          "_corrob": 6,
           "_cluster": [
+            {
+              "source": "finance.biggo.com",
+              "title": "Malaysia Weighs Adopting Huawei AI Chips Despite U.S. Opposition — Potential First Foreign Government to Do So",
+              "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5ZLVpTcHR4X3RYRmUyaFFqYW9yTjRUcEZIaWU1M1EzQ0twR3ZuSEtIZzFHZVdDS2ZyX09rbGdDWC1CXzdlVzVjRFZYaW9UN1A2b25JRzdjRXpiMU1obExPUlVOWXJFS2FUaEtKRVJfcDN5UExqUlE?oc=5"
+            },
             {
               "source": "theedgemalaysia.com",
               "title": "Malaysia eyes Huawei chips for AI project despite US warning — Bloomberg",
               "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9yQ1NlME9yZFBWYTFWRHcteFFrTXZrQ1hqVUZSX3BGZHFIcXR0LVdyVHJDVkphZV9vVzRrd3FtQkhaZC1HYWZKSHhzVGxBMkxD?oc=5"
+            },
+            {
+              "source": "techinasia.com",
+              "title": "Malaysia eyes Huawei chips for $494m sovereign AI project",
+              "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOR0R3cG5LR1Qza29XbmxUZ0sxOHZkT2FYdm1xSllPV1NfUUVYRmxtVW1kMmpNbklNRnE5dXRrMWFXV0dnSWVTanJRRDRDS2JzR056RnFUSGQwaXJRWHpoV0owTEdmU01KNTdhYmRpQ29QaERWRmo0SWtBNDN0MWZmRGJuU090dw?oc=5"
             },
             {
               "source": "deccanchronicle.com",
@@ -42,6 +52,176 @@
           ]
         },
         {
+          "title": "Report: Anthropic walks away from $6 billion deal to acquire Israeli AI startup Decart",
+          "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE8ta190YUtGTk1YdGMtQ08xaVJkNE41X1Ryck9NYzkzM0lURlpJYTI5ZkFiaHVzSDZBbF9Tal9lQkFydlBrY2swaTIyamQ4UXhNSk16NGdVVzR1eWtnNUMyU01B?oc=5",
+          "date": "Tue, 08 Sep 2026 04:49:53 GMT",
+          "summary": "Report: Anthropic walks away from $6 billion deal to acquire Israeli AI startup Decart ynetnews.com",
+          "publisher": "ynetnews.com",
+          "_via": "news.google.com",
+          "source": "ynetnews.com",
+          "_hash": "37d80a8db18d65cd",
+          "_ageHours": 0,
+          "_inWindow": true,
+          "_score": 73.74452305555556,
+          "_corrob": 4,
+          "_cluster": [
+            {
+              "source": "calcalistech.com",
+              "title": "Anthropic drops plans to acquire Israeli AI startup Decart",
+              "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBwRTFrZ0FTa3htQU5Hdy0zcTcwZjNVLTRtNTlWRmlTZks3dlRjMUdQbk5iZTNEWFp1eUVCNkdxam9INWx2YUtwaE8zTUpNSE9ya0hvVmkxMFRiNzFOMVZMb283OC1yYU0?oc=5"
+            },
+            {
+              "source": "investing.com",
+              "title": "Anthropic drops plan to acquire AI startup Decart, Bloomberg reports",
+              "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQUzR1UUs3UVN3SDNIbjJ6TTA1eTRtLVQ1WDF6eEdhQUcyZHZVQ1pYbktiNW1GNm83NUY2OGhFVHhxQmlSY29mZVI3MXBoVnA5UnlsZG1BNDBMcUpyWUwyTmNVazlIbXlPeS1ZbzVkbmp4YXNxY0V1c1JBSDVUVXhXRHNkTWtiN3liWlRVZHFLY051WlNBV1FZYW5XdFhfS3NOdklwVUQxb3lNMTZ0ZF96TDdRYjFsbGU5OWptOHA4RVBLUQ?oc=5"
+            },
+            {
+              "source": "tradingview.com",
+              "title": "Anthropic drops pursuit of AI startup Decart, Bloomberg News reports",
+              "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPMk5Ddkl5ZHFwM09QcEc1akxvR1N3Q2REa1pmWEUwXzZHRnkwc1ltMWdVTVdKTmxrRXZpNDMySE9Ra3A4RlZnMWwxc1Fub2lVNzcwODNtM0p0Tmg2S0NBXzd1X2FOSnNFUTRsb0ZfeFJodHY3WEZ6Z0tjamdrZUdwTWhhbGE1dnNJYkJSb2wwMTVVNHdDUTFweFIxaTc0QmxNMDluOFBId3UwMnFXRWQ1amp5Y0l6c0wtZVFuYTR0LWhsM0sxdmh1c0lrY3ljQzBRUklR?oc=5"
+            },
+            {
+              "source": "bloomberg.com",
+              "title": "Anthropic Said to Walk Away From $6 Billion Decart Purchase",
+              "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPQ1Zudkkxb25tNlRGWlNXU0loaTJfQy12c2hEWTQ4UVlMMFVuNzBNdllDZlU3N1U0T2JYbWl6N2ItUVBmSEZIb0JNbldQMm1BamhTSkIyZ1ZjazFqLV9OREd3alpWRGw5RE5OWWdLeDRJQk00bTFGWFFMQ0hFcjdBbEQ2QWNITkFHZWpkYzN3Yy1HTllZYk1hSkFxRDBwdEZHMDhYaTU1Yl92N0pNSVhPM2dn?oc=5"
+            },
+            {
+              "source": "tradingview.com",
+              "title": "Anthropic Said To Walk Away From $6 Billion Decart Acquisition - Bloomberg News",
+              "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxPNVRBVEdDM05DVjZ3eFh3dFMxdzdBaUpoNUUwMzhxVjFiUUFJbDFNUTZ6clctNmd0Y0ZFQmVtcHRrNGUySGtSZGx1aGRQX2FCeVUtN1BLWHNCazM4b2pJcVRwSlJ6OGQyUW5KOXRvTU1YcGthMWw0NmRrdDFCMWEyWVVGOEwyeDBGOU82RUJhcV94NU1RTE16Zk13SjNNM1VmQjdGQ1NNMDNpNy1zT0dCRDRaMGducmsyZlNBaWxZVFA1NHp3NmJVdG80RTJiRGphMFdpUDZFeG92Y0g3d2ln?oc=5"
+            }
+          ]
+        },
+        {
+          "title": "Nvidia CEO Jensen Huang says ‘AGI has arrived’ after OpenAI launches GPT-6 Astra",
+          "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPaTBpZDlkQnN2M0QxTk16OFZsY0dRNGZYRFphM0lmQlhKNGd3QklPTFgwbDN0V1ZCaGhqeU9oMXRiSDhtUDVQLUN5X2x2aEZWcm5KY0xPTFY4Q2t6SXlJTjNfdUt1U2FndmJpZ0hXc29TUjE5bjlOMW1xdTBxUjV3TklXRkNNdF91RERYTzRWYjQ1OW44dkNVVllDNzRxVndsZXMxdVA3TkliWHpHRllpdXBtVnI3MHBHNDByTno4R3TSAcYBQVVfeXFMTXdra0VHb3lDM3FCNHlOQmlUaTVsTzVNNzE5cG15Ml9xMTZ3Y1JhYUpDYXJCZkd5RmlqdS1GUkl0M2o5cWNwTnNfazFzaDFadmZGZHRZc2c5Z0c0UFpiSFZpYy1iNUJlQWtMdW1rS0hsM041N2hablRWaWd1VEkzdnYzLUtLb1JhYmhNbnlJRzRMLWc4aW4yeXRZUXI4N3pMZ25TU0JPc1RPSk40TFBGbDh4Ulg0aVNQelRRZFQwNE5RQXZhaTJB?oc=5",
+          "date": "Tue, 08 Sep 2026 04:24:03 GMT",
+          "summary": "Nvidia CEO Jensen Huang says ‘AGI has arrived’ after OpenAI launches GPT-6 Astra Firstpost",
+          "publisher": "firstpost.com",
+          "_via": "news.google.com",
+          "source": "firstpost.com",
+          "_hash": "a8ce0e54dd9d4f0f",
+          "_ageHours": 1,
+          "_inWindow": true,
+          "_score": 69.31396722222223,
+          "_corrob": 2,
+          "_cluster": [
+            {
+              "source": "finance.yahoo.com",
+              "title": "Nvidia's 3-Year-Old H100 Chip Is Still Getting the Market to Pay Up, Jensen Huang Says Compute Is 'Fungible, Durable and Highly Rentable'",
+              "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQRUhGd3RqOTUxbDlaaHliOENMWXZWOFV0akJ4ODNVUE1CbDAzVlZPVHVDaGdyNzNnRG95MjVwc0ltUWZjbmRsbGswUk1XN2xLLTdKeV91V2RTa3p4S3N4S3d3WGsxMTFOcWN5T29YWUR1akdaaFZLYW1LQV9JcmFYN2dBZmZZUE1YVllVbTM1dmU?oc=5"
+            },
+            {
+              "source": "finance.yahoo.com",
+              "title": "Jensen Huang Declares “AGI Has Arrived” — Powered by 100,000+ Nvidia Grace Blackwell GPUs",
+              "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxOOVVkWkxDUEF0RjIwMW45ZUQyTjR0N1U5M2RIcGNlaG80a09KdG85X0NqdjhxTjVOY1dGOTVveW0wMW5jdWtkcFNUTVdaUWpDTG9POHlqLUpTcnBNN3Q4MTFJY2E4OTRhX0FuU25mMWZTd241MUotVXlfLUVuWTZ1TnhITmhvaktEdm5uNW80UXYycWJiSEhWc0QtYTdtZw?oc=5"
+            },
+            {
+              "source": "businessinsider.com",
+              "title": "Nvidia's Jensen Huang Says 'AGI Has Arrived' and Congratulates OpenAI",
+              "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPYVlPMC1CNnpsZ1VBRTAzTlJZU2RzWk92WGRmSUhQY3dwa3d1a1YtMXNwRDJ2UURBRy1vZkh3NnVzbHkxdko0TEFONXR6UnVBeUE1enZaQXhwRlJyVEZ2eWZPelIxME4wM2Z6XzZBMTJYYzM2eWN1SDYxcF9BQ25jdEtBd1Y?oc=5"
+            }
+          ]
+        },
+        {
+          "title": "Seoul region draws AI data center demand despite power shortages",
+          "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5lbktFdEhrSzY4ME1uSm9nOFZKUTN0bWVNQXRzLTlyLW9Dei1pbmJrNFBwQXRESWszTGtqLTEzcmFlNE1ELTdHQzJ4eGlJSV9oMU9oOQ?oc=5",
+          "date": "Tue, 08 Sep 2026 04:58:38 GMT",
+          "summary": "Seoul region draws AI data center demand despite power shortages 매일경제",
+          "publisher": "mk.co.kr",
+          "_via": "news.google.com",
+          "source": "mk.co.kr",
+          "_hash": "c7b13ea6b83a7d80",
+          "_ageHours": 0,
+          "_inWindow": true,
+          "_score": 62.89035555555556,
+          "_corrob": 3,
+          "_cluster": [
+            {
+              "source": "mshale.com",
+              "title": "Vertiv Chairman Dave Cote: AI Data-center Demand ‘very Positive’ For At Least The Next Five Years Al Nassar (Fhnyu2XwHh)",
+              "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9UNGk3OFBXV1YtY0ItSG9NVDRFdWVjT3lKcGNYVEhpa1JVTy1vYXlGa3UtU3dqaEpyaXdUaHZBcE1TTy1BbG9hQWV4b25HeUw0X2tvLTJpd0ItOFE?oc=5"
+            },
+            {
+              "source": "finance.yahoo.com",
+              "title": "XLU’s AI Power Story Crumbles as Texas Freezes Data-Center Demand",
+              "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNTVNXcHdqNXVuRmljbGlXSVNsT013Mk02N1RIQVZPUHAtN3ZJZDBEOWhRMWFOdmFHTzJjeENRVG5RekwyZGxHN1VWRDhYVmVOX3h6ZnpLMTFwa1poX1lzbUdTN1M2bkhWcmlld2t4ZUdEZVVoV3RnMzRIOFdFTUhoZFI1c1JscS1iX3YyMlFSdmp5Q3ZNUXMw?oc=5"
+            },
+            {
+              "source": "247wallst.com",
+              "title": "XLU’s AI Power Story Crumbles as Texas Freezes Data-Center Demand",
+              "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNZ0JyalpHbDFtQVp4SV9vaWtRNERPMnd2d29RamYzZzhBZmhqV21seHQ2LVJOaHZ1RlRGcm9UVnJ4ZTdBbFZoUDViM1g1OGg0ZlJndi0zV2NsaXdrNUpDdW0xTTBwdEp6UVV1cWFwN2FoUEtUbW10bUlKRHpITEVrcG9tcjY2bjc4aVZ3T2o3dzFBTk9rWlpGQjhZd04zeGE4T1k1b3p6Q2VaX3pNb1g4Z01R?oc=5"
+            }
+          ]
+        },
+        {
+          "title": "Australia's Firmus inks compute deal with OpenAI for Malaysian data centers",
+          "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNdjZBWmM3TDRaVjhRbDFKOXAzR2hIZlhqcnlEWVNUTDM3UDhBT3pyVGVsSlR5T2w0aFRMT1lIWnU0RmNpR2lFM3BwTmFiSXpJczBZbkg5dlFxcTBjSlQzQUxnb3l2RGRJU0oxNlZCYXhGZU9qN01tSkNZR0o1eVJJNU1IV0RuUlpjeTlnYmVPNXkwMkhyUHhxRlQzZnJOZmRJWGtjanEzMXV0RDcxYmV1V1Q5NmtRNVdzcTVF?oc=5",
+          "date": "Tue, 08 Sep 2026 03:18:00 GMT",
+          "summary": "Australia's Firmus inks compute deal with OpenAI for Malaysian data centers Nikkei Asia",
+          "publisher": "asia.nikkei.com",
+          "_via": "news.google.com",
+          "source": "asia.nikkei.com",
+          "_hash": "59066d4239ec85ae",
+          "_ageHours": 2,
+          "_inWindow": true,
+          "_score": 61.21313388888889,
+          "_corrob": 3,
+          "_cluster": [
+            {
+              "source": "theaustralian.com.au",
+              "title": "Firmus inks massive OpenAI deal ahead of ASX float",
+              "link": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxPUmlZZWI5WWxTRUtyWW9aem4xMEhfaXRYT0ExWC1GblhEUG0ydnNubUNlM1ZpX0d5NTMyZy1iVm9zNGd6TmctWFpRLW51cEE3Y3ZiTnRmUV9lQ3lIUzJiQmI5WFFVY0J3bzBwc19BdzFBaXUyNzhDLXpNY3BsQ2V1VTRjZVZPMTB6dHVDY2dCNjlJZ0FQMkw5QVVFMUZMQzRUdE1wSE05VDQzV3hfb2VsMlRyczBJTXNwV2UteVlEOVQwNldOM3k0N2p6R0RQSGl2ZkZHYW1qeW9pZDJGZmV3X2dwRWlKUVRER0twMFl0aGhyUEpqTmNUQ0twSVdEcUXSAYQCQVVfeXFMTWQ5Y21POW5aZjQtQ0xQekd5NG5XRDBUZGF3dTFINXM1d19VdUJSZjBNSGJVUEpJNm5YRkJBUWRFZkNtUXQxbmlTNzNtQjI4WTUwVDB5Und1NHpseWRaU3h4c0JwNjUyQ0d3RU43Zlo5LWdvZkwwaFUzMFY3UzlwQzNNT2hJVFplVUNzS05jcUtBOFdGbm5lY1lhVndZQnVud1Q2ZHRtNDg4MTJCaHBVVHQtcjduazhETGR2bGxDUzFtT29BNk9QM3ROSUJKRnh6R2lmMHJaUGdnMmpJSFhnYldaQ1EtOG9HLW53NDVaVFNwU3VjMUw3aHZyVkxFN1IyZ3BUTEc?oc=5"
+            },
+            {
+              "source": "reuters.com",
+              "title": "Nvidia-backed Firmus signs deal with OpenAI for Malaysia data centre capacity",
+              "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNTEl5UFVvaWZBUmFEZkVObFBBRVk3MHRBV29pSnoxSDJXSFVxUTl0SGR6NjdlamEyWUF5WF9LQW5nWVFRUTZhTnRjalplVWVEc3NPTEk4NllZR1B6VWVJbE1UaDlPLUFycVpRenZNRWRnUGlvREIyNy1kLUYyVTl0WU9IaG91MlV2dFpfYnpUNk1idFVMbmI0T2pmWHRWalY3UHRvMU1aazJhejh2eGJnS1pqUXpnNWdXY2k4THEzdV82OURFWjFz?oc=5"
+            },
+            {
+              "source": "afr.com",
+              "title": "Firmus lands OpenAI deal for Malaysian data centres",
+              "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNTHhfWHFHTVVyUTJfV2ZDbGxZWTVCQ0NkRkRfajZFaVhjNWdURDVvdml0T0NzQV9iRzY3UzhOcTBQbEtLWVJodkNSRkNWLUVTWFdmamEwQUVGeVlVRzdaVkxjMENIbXcta2JzZEtKSnBwX0pZWjBUaHVpeDJwWVhwSXRRVjBITXJHV1plRmFCODBaZkthMWpTYkpMcVgwOWM?oc=5"
+            }
+          ]
+        },
+        {
+          "title": "Did OpenAI Agents Also Hack German DseWiki Page?",
+          "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9tUzBEeXlFLU81bG5xVU5HVi1lbXlFUEZLZDZmSV9QLW9HM05mN3lSY3UyM1hmS0tJa0NRVDRnYkplYlU5ZG0wemhPYXNiWDZ1OFlWa3h2MU9ZTUlHcmQ2bERsVUd3eDNITVNTS0p4U3g4bWVZU2FJemNvVk1QZw?oc=5",
+          "date": "Mon, 07 Sep 2026 20:24:13 GMT",
+          "summary": "Did OpenAI Agents Also Hack German DseWiki Page? Cyber Magazine",
+          "publisher": "cybermagazine.com",
+          "_via": "news.google.com",
+          "source": "cybermagazine.com",
+          "_hash": "0a62fe37f1ad3a07",
+          "_ageHours": 9,
+          "_inWindow": true,
+          "_score": 59.31674527777778,
+          "_corrob": 4,
+          "_cluster": [
+            {
+              "source": "forbes.com",
+              "title": "OpenAI AI Agents Hijacked A German Wiki To Share Sandbox Escape Tricks",
+              "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQSjlIbVRJZndNY0c4RU5FSFFlNDVzZ0ktVng3S2lBVHlxQnVCWHd3cW1YRm5JQmJqeUF4ZlN4bnNSU1dmT1QwTzNCTjBtMXBlQnN2VnFaWEhiS0UwdjM4NFpUX3dPMFE2UnN5eWpud05Tcl9SUkFsTy1vazFkT0NBY1JJdXpPVHF3VUtDTjlYYlNvcm4wdms1SGlkdU5JaXUtckNQX3A0Zk1MZFhvNFAwYXNaUzFWNnpSOEhvaEllYw?oc=5"
+            },
+            {
+              "source": "fortune.com",
+              "title": "OpenAI’s AI agents secretly used a German wiki website as a message board. OpenAI stayed quiet about it for weeks.",
+              "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPeUFUajdmanVrUFlzZkRfSHhoZGhHVXdaQVBlaVNadmRTa1pkWDA5bFpOZEhJVWYyc1NNVUdIZFI3bVlTamhkTkNWdmNpWjVYbVVOZ3FuNTdQSGJfVmpYZjU3a0FqQzV1U0JpQ0VuRGV4RzhmVnMxc0d2VC04T2J6VXpxNEdOUm9HdnByYlFvQUNhdw?oc=5"
+            },
+            {
+              "source": "techxplore.com",
+              "title": "EU probes OpenAI agents' takeover of German site",
+              "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBDYnJUWVotb3k3SDBETS05OXByQjNCc1c0Z1MzMWYxLUY2N1VHN3JiT0RCazliQVlxaW1IUkZGMXl2ZjJYSC0ySEZfZnAwMTFyV1ROd3JjNWgwSjk2MTA2T0tLaDdoRTgyQVhYWFV1elptX1BuWThTWXkzSzV1QQ?oc=5"
+            },
+            {
+              "source": "securityweek.com",
+              "title": "OpenAI Agents Hijack Another Victim Website",
+              "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBUc3JpeERvOG9nYnZkelpIUU5SbGtkVEV4T1ZqQ3pnTzRGMGtDbEVQOEc3dFZFUnpYbEJVcWtTLU1rN2xITzVPc2d6Q1piZWV5Z3dmaXBSWTdXOHpnejBBbWNLTV9Vamx1U1otd1VubFNrbkZkZGhYbnpaU2F2QdIBgwFBVV95cUxOVEh0em01YjhCdG9iM1RzYV9KMEtKdU1TQ1l0UVVpbjgwMkt4SHVVOU5aUk93VGI4UlFSYUdQeFhGcktjYjVLSUFCelI0OFMxWkVwN1NhYkpNVTZjS2FTT2hTT3hjU0FxMDA1XzdaQXpaODV3YUUycHJ6RjFOckUwTzZuUQ?oc=5"
+            }
+          ]
+        },
+        {
           "title": "OpenAI chief scientist argues for AI research slowdown",
           "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNdWltMVNub3BseUhsOHdheTNGZ3lxS3ZXRWdJcks2a0M0UnVlSnBuelA5T3JFdWNGVnF1NmdIM2ZkV3diNFhBWHExLWd6LXdyak9XZkpZYkx5VElGdUJRSFVoMnJKa1gzaHM3dkFyaWxkLTV1X1dpbjN6WGVvb0Y1XzJTelZMSmtWUFJoOXRuLTcwM0V6ZGc?oc=5",
           "date": "Tue, 08 Sep 2026 00:35:00 GMT",
@@ -50,9 +230,9 @@
           "_via": "news.google.com",
           "source": "siliconangle.com",
           "_hash": "7cc1570cef41f4a8",
-          "_ageHours": 3,
+          "_ageHours": 5,
           "_inWindow": true,
-          "_score": 60.073010555555555,
+          "_score": 58.4964675,
           "_corrob": 3,
           "_cluster": [
             {
@@ -73,75 +253,59 @@
           ]
         },
         {
-          "title": "ORCL Stock Rallies Into Earnings Week: OpenAI GPT-6 Astra Buzz, Morgan Stanley’s Big Target Give Bulls A Boost",
-          "link": "https://news.google.com/rss/articles/CBMigwJBVV95cUxOYU5wMnFvck9Db2RxTHZfYVdBbHRPMDVOVUw4TEN5clE1ZUJ0SU90R2dpZ2VOa1JiTHdrZVFtZldEeVRmYlFJdDFQbzJHak5kcWVPdlBWWmtRN2FvMUYyMXE5bXVrcWI4bUZJZGxDSndQbHNTZHFlYWo5T1Nac3JvTDZBODBLblUzSENEWTQxaHdWRXdGQlhCQS1sUDFMWk0ySlAxanJNaDRtajI0Q25ydTBTTmc4dHNyU2lnTjZkQ2ZPYVdyVXdPX011SUpQcHpxcVlPXzhoYzU0Mjk5QzRlZEpoaGw4M3JMM00xT0tFM1NNbVZVR1h5VzBib0JGRlpzU1Zz?oc=5",
-          "date": "Tue, 08 Sep 2026 03:11:00 GMT",
-          "summary": "ORCL Stock Rallies Into Earnings Week: OpenAI GPT-6 Astra Buzz, Morgan Stanley’s Big Target Give Bulls A Boost Stocktwits",
-          "publisher": "stocktwits.com",
+          "title": "OpenAI, Anthropic bankers seek investment-grade credit ratings post-IPO, FT says",
+          "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxNc29RUG5mSmZIZWNtY0VtQU1JdlRENl9jZXduQzZpOTNQMHRpYnJaNDlWUWNtcTJTQzhISnpaSkp3WGpRbjlpWDFpYzNNbmJfS3lmTGFGQ3kydDhKMlRxLWE1Yy1ycldNZGVXMkVyQjNhdWxRWlVXWHo3RUFVcWN2RkRxbGQtWERIRHdiazcwejFKbnBnM3NuMG5BbnhqRHcwWUtNZEczMkZNV2lWajNLVXVUc2lzOTJOdmhWNWEwb0ZuU2lnazRGOGhWNTZBRFZkWDlXUGpoamxkNDgySXJRWVRR?oc=5",
+          "date": "Tue, 08 Sep 2026 04:13:00 GMT",
+          "summary": "OpenAI, Anthropic bankers seek investment-grade credit ratings post-IPO, FT says TradingView",
+          "publisher": "tradingview.com",
           "_via": "news.google.com",
-          "source": "stocktwits.com",
-          "_hash": "ab707ca083a715cc",
-          "_ageHours": 0,
+          "source": "tradingview.com",
+          "_hash": "81388db31535099f",
+          "_ageHours": 1,
           "_inWindow": true,
-          "_score": 57.67301027777778,
+          "_score": 57.129800555555555,
           "_corrob": 2,
           "_cluster": [
+            {
+              "source": "tradingview.com",
+              "title": "Anthropic And OpenAI Bankers Push For Top-Tier Credit Ratings Post-IPO - FT",
+              "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxORnY1TDNRUUNmSmRPakx4UTZBVzlWOTdHSGd4djF3enFBUjFQTWM3UUlFYU5yU0I3N2NURjhaWEc3YVZJWUZ4R0tKOFp1QzM1MXlGUDU2WFB4NVFsV21Jd0JXMkRkNktvZXlGQTl4eDlZOWVLSmlNQm9CcG85dFJrcGNUVlZFRWlQVVBYaFNGV2FTRGRKYVhnSnlGaDk1aXVySEhVY1dZTkxETmhFaEtFNHJYNUgtcTVETmlDRHVOeVRhSkZudUVrUldaTmJ2YUdhVUkxZG5FQ3lqcjA?oc=5"
+            },
+            {
+              "source": "ft.com",
+              "title": "Anthropic and OpenAI bankers push for top-tier credit ratings post-IPO",
+              "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPd3Z6TmVsNklaVTFJUzRYNkxMQjFoN2ZvSnJjbHlmX0JzTzgwUTRGVUlXR3NPM08wemRmUlItRGlBVzZNSlh0cXBiN1BsRW5LRzYtQUZ2QktPSF9ZQUY5SFRNalJYb0puYmtjQVFiQjZWWkNpQ2hQd1ZBUFRRZDhrdVBhbkk?oc=5"
+            },
+            {
+              "source": "koreaherald.com",
+              "title": "Samsung SDS to expand partnerships with OpenAI, Anthropic to drive AI transformation",
+              "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE80VmViSHUxUlZ1eXNFdGtYZVZ2clZGQ1o1dS0ydzhidi1Yb1B6RlhwVHlWdXh5YnZjU0JxTF9La0pzTkJ6aHdwZWRsdFN6S2twWDVtZlM5SQ?oc=5"
+            }
+          ]
+        },
+        {
+          "title": "OpenAI's GPT-6 Astra Beats Portal Without Human Controls, Burns $571 In Tokens",
+          "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5HVUFqVEVBVFpuT0FZNTJUY2xkcnotaHVPSThJZDdlTEZ6RFJpc3FaWkVQUnBuN1V0dFpKWnFWclAzX2VEVGM5elV0ekdiVHA2YUNZd3RGcWVGcm9BY0Q1aw?oc=5",
+          "date": "Tue, 08 Sep 2026 03:36:31 GMT",
+          "summary": "OpenAI's GPT-6 Astra Beats Portal Without Human Controls, Burns $571 In Tokens yellow.com",
+          "publisher": "yellow.com",
+          "_via": "news.google.com",
+          "source": "yellow.com",
+          "_hash": "bb4b10492720f157",
+          "_ageHours": 1,
+          "_inWindow": true,
+          "_score": 56.521745,
+          "_corrob": 2,
+          "_cluster": [
+            {
+              "source": "finance.yahoo.com",
+              "title": "ORCL Stock Rallies Into Earnings Week: OpenAI GPT-6 Astra Buzz, Morgan Stanley’s Big Target Give Bulls A Boost",
+              "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxPZEx6TFFYVUZWTFk2VDVMVy12LXh5Ujh0dXBTX0V1aHBuWVFSM09jTm5wUDJSb01ZclcwT00tZVpfUTI4TjIybUdwQzJnTE9ncGZjbWVlUVQwZlB6cGtNQkpudzA2TXpXRzFFQmlPNlVEVUpLZ3g0V0VyajdGTnhBQjFmN2Z5TnJJNUE1MGxKOF9TNW1wZ1VWVzJUSEtsQQ?oc=5"
+            },
             {
               "source": "tomshardware.com",
               "title": "OpenAI’s GPT-6 Astra model autonomously completes Portal in 24 hours — feat cost just $571 in tokens",
               "link": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxPZHp0YWJlbTRTUmVFaHZ3MXJTdzkybG5RODExMEFRMW92TC1KLWM4bzB5ZlBuLWIwdkUxUkhra21oaE8yWXVvUTRoQWUxTEdoVmJnZzJJeVAyVTl2UVNDUGRJQWFtanhGZTViejd0NGF0NWVYRTNRRC1UQXRtLWZpaEpRdDdtd0FkR29Id1FDSDc5VmVzMWRuZEZsaS05X2pYV2duc21BLThrSGRSSlQ5UHN3TWdULUdJd3FjX3hqNmg3clJOTUZSNVRBdG9uQ3FsNHdKdThBU0JOcUxqSjduNWNYNWFRRl9tT2hLcHlWelhmLU9EVkcwMmtR?oc=5"
-            },
-            {
-              "source": "businessinsider.com",
-              "title": "Morgan Stanley breaks down the midterm races it's watching with implications for AI and the data center boom",
-              "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOejhRZHo5Y191ZnFxbGg3bWc0bHBlbWRHLWpscEhOR1pZUjBveEF4WlZteDV5ZXNnTFlKem1kUEp2V2xua0M3Q2wxeFM5M3JKRmU4Zm5hVzVTVGE4S0VIbjB5aGNyTUVMdUYtUU9mQ3FiVTNVdy1jelVBOUpFTmdaNU04MFBqM1g1bWJLZ05IakpUdmk2eE9fVmdNMktpTU1QM3FCYg?oc=5"
-            }
-          ]
-        },
-        {
-          "title": "Anthropic drops plan to acquire AI startup Decart, Bloomberg reports",
-          "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQUzR1UUs3UVN3SDNIbjJ6TTA1eTRtLVQ1WDF6eEdhQUcyZHZVQ1pYbktiNW1GNm83NUY2OGhFVHhxQmlSY29mZVI3MXBoVnA5UnlsZG1BNDBMcUpyWUwyTmNVazlIbXlPeS1ZbzVkbmp4YXNxY0V1c1JBSDVUVXhXRHNkTWtiN3liWlRVZHFLY051WlNBV1FZYW5XdFhfS3NOdklwVUQxb3lNMTZ0ZF96TDdRYjFsbGU5OWptOHA4RVBLUQ?oc=5",
-          "date": "Tue, 08 Sep 2026 02:06:58 GMT",
-          "summary": "Anthropic drops plan to acquire AI startup Decart, Bloomberg reports Investing.com",
-          "publisher": "investing.com",
-          "_via": "news.google.com",
-          "source": "investing.com",
-          "_hash": "87ee852b673059e6",
-          "_ageHours": 1,
-          "_inWindow": true,
-          "_score": 57.60578805555556,
-          "_corrob": 1,
-          "_cluster": [
-            {
-              "source": "tradingview.com",
-              "title": "Anthropic drops pursuit of AI startup Decart, Bloomberg News reports",
-              "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPMk5Ddkl5ZHFwM09QcEc1akxvR1N3Q2REa1pmWEUwXzZHRnkwc1ltMWdVTVdKTmxrRXZpNDMySE9Ra3A4RlZnMWwxc1Fub2lVNzcwODNtM0p0Tmg2S0NBXzd1X2FOSnNFUTRsb0ZfeFJodHY3WEZ6Z0tjamdrZUdwTWhhbGE1dnNJYkJSb2wwMTVVNHdDUTFweFIxaTc0QmxNMDluOFBId3UwMnFXRWQ1amp5Y0l6c0wtZVFuYTR0LWhsM0sxdmh1c0lrY3ljQzBRUklR?oc=5"
-            }
-          ]
-        },
-        {
-          "title": "Malaysia Considers Huawei Chips for Sovereign AI",
-          "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOZXR3VGRudWtYcnhFM0hSN0hQckYydThUNVRBazI2QmFmNXVzSl81cXBkN1FaaVhvOE9GWmNOaUtGMGdNTHplZ0oxYWFMZUNFMHFkQUxYR2tGXzRGQ0twVm0wOFhkZC1DbTJTQ1BUWGtudDE2ZkVpVUI3OEdkYVN0ek1VMWQtUQ?oc=5",
-          "date": "Tue, 08 Sep 2026 02:47:53 GMT",
-          "summary": "Malaysia Considers Huawei Chips for Sovereign AI Briefs Finance",
-          "publisher": "briefs.co",
-          "_via": "news.google.com",
-          "source": "briefs.co",
-          "_hash": "e48fd8ac76d0b409",
-          "_ageHours": 1,
-          "_inWindow": true,
-          "_score": 57.287732222222225,
-          "_corrob": 2,
-          "_cluster": [
-            {
-              "source": "globalsources.com",
-              "title": "Malaysia considers Huawei's Ascend 910C processors for a RM2 billion national AI program",
-              "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOcFVlbHdxQTI5SzJFZUpFUkJra3hGV2FEMXRBQl9leHZNN1BGQ2wxQmdoVXQ1Ymk0YzhjWm52RENnaWtUc0xQZlhHOS1QdGdnQWg4bl9jV01VQjQzS0c1VG5GQW8tc0YtT1diZUtKTHdWNEY2X2YybjB6d2VmbU9aZEFRN1hMSzJEbnRjbDJsdVpKbVp4WnBjT2ZqM3hMRWhfSDNoNEt3RGI1S2VMVzlCTEowMnNOQVNGYVEwWHZBZlItNTJ5cTlmUA?oc=5"
-            },
-            {
-              "source": "bloomberg.com",
-              "title": "Malaysia Considers Defying US With Huawei Chips for AI Projects",
-              "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOdUdHQWlzUUxxaFFBUl9SZElMT08ta2RWZ1ZHNm1Fb0pGeFZDOXA1REY5TUFtVWI0aFBRQjJoSGxVLTBzN09POGdROExMMmxSQVZLa3RrNDF5LTFEUlhWTk4tcHJCeGkzcWdQX0Fyai1DMEE5ZlNkYlRac0xCUVVUYTRIOTlPMXBycXNURkoyaGQxNXlVUUpXV2hDUkxDLXFQSWVxLWstSmNuNDBSbmllMWhHeUpQYjB5?oc=5"
             }
           ]
         },
@@ -154,9 +318,9 @@
           "_via": "news.google.com",
           "source": "briefs.co",
           "_hash": "4363c7c089750581",
-          "_ageHours": 1,
+          "_ageHours": 2,
           "_inWindow": true,
-          "_score": 57.24801,
+          "_score": 55.67146694444445,
           "_corrob": 2,
           "_cluster": [
             {
@@ -172,63 +336,6 @@
           ]
         },
         {
-          "title": "Firmus inks massive OpenAI deal ahead of ASX float",
-          "link": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxPUmlZZWI5WWxTRUtyWW9aem4xMEhfaXRYT0ExWC1GblhEUG0ydnNubUNlM1ZpX0d5NTMyZy1iVm9zNGd6TmctWFpRLW51cEE3Y3ZiTnRmUV9lQ3lIUzJiQmI5WFFVY0J3bzBwc19BdzFBaXUyNzhDLXpNY3BsQ2V1VTRjZVZPMTB6dHVDY2dCNjlJZ0FQMkw5QVVFMUZMQzRUdE1wSE05VDQzV3hfb2VsMlRyczBJTXNwV2UteVlEOVQwNldOM3k0N2p6R0RQSGl2ZkZHYW1qeW9pZDJGZmV3X2dwRWlKUVRER0twMFl0aGhyUEpqTmNUQ0twSVdEcUXSAYQCQVVfeXFMTWQ5Y21POW5aZjQtQ0xQekd5NG5XRDBUZGF3dTFINXM1d19VdUJSZjBNSGJVUEpJNm5YRkJBUWRFZkNtUXQxbmlTNzNtQjI4WTUwVDB5Und1NHpseWRaU3h4c0JwNjUyQ0d3RU43Zlo5LWdvZkwwaFUzMFY3UzlwQzNNT2hJVFplVUNzS05jcUtBOFdGbm5lY1lhVndZQnVud1Q2ZHRtNDg4MTJCaHBVVHQtcjduazhETGR2bGxDUzFtT29BNk9QM3ROSUJKRnh6R2lmMHJaUGdnMmpJSFhnYldaQ1EtOG9HLW53NDVaVFNwU3VjMUw3aHZyVkxFN1IyZ3BUTEc?oc=5",
-          "date": "Tue, 08 Sep 2026 01:50:39 GMT",
-          "summary": "Firmus inks massive OpenAI deal ahead of ASX float The Australian",
-          "publisher": "theaustralian.com.au",
-          "_via": "news.google.com",
-          "source": "theaustralian.com.au",
-          "_hash": "fafb6ecfaa0a6b99",
-          "_ageHours": 2,
-          "_inWindow": true,
-          "_score": 56.333843611111114,
-          "_corrob": 2,
-          "_cluster": [
-            {
-              "source": "afr.com",
-              "title": "Firmus lands OpenAI deal for Malaysian data centres",
-              "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNTHhfWHFHTVVyUTJfV2ZDbGxZWTVCQ0NkRkRfajZFaVhjNWdURDVvdml0T0NzQV9iRzY3UzhOcTBQbEtLWVJodkNSRkNWLUVTWFdmamEwQUVGeVlVRzdaVkxjMENIbXcta2JzZEtKSnBwX0pZWjBUaHVpeDJwWVhwSXRRVjBITXJHV1plRmFCODBaZkthMWpTYkpMcVgwOWM?oc=5"
-            },
-            {
-              "source": "economictimes.indiatimes.com",
-              "title": "Oracle earnings: AI growth, OpenAI deal and $20 billion funding plan",
-              "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxOc21venl2TDJYNXZsQTVzd0FqYW9FT0tIR3g4QThncUxXM0RaaGtucTQ3VHhsdE1sd2NPalMtcE1ZSDNXcTFMeW56akZXR18yUUF4M2hKS2pmYlJvVnBHLXFXVTk2QmZsMjgxUXZWZWd4VWNfbENGaVBwQUFhSzJGWVdYWDY2aGdUSXVmZGlIc3VYbzV5NTUyemFmWTEtbEpXazR6XzJRUGRzbXFPMUR6VTNxZmNiN1dId04tcUpxWTBTYVRaYzNxZFRhOWxmbnNReDRKdVNtVFJiSWJEWkZkZnprNA?oc=5"
-            }
-          ]
-        },
-        {
-          "title": "CPI | OpenAI Files EU Report After AI Agents Hijacked German Website",
-          "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQVVM2R0dJU2paYUtPYWE0SmhsZGNMSS0xcFdSWm5QSzZZczdxYXM2UVJfdW5hTEhKZlpwQ28wU05wUDkwZ2Z2ZnZkc3gyazB5Vl9rVHctNk5VSWJDVUt5OHFiWFRpLVVYVHN6VjBIZjAxdHZjeXpEeTlCbXI4WDVOZHdCQ3dDaXJYSzhzZXFSZlA4YWU2REYyNk5WN0M?oc=5",
-          "date": "Mon, 07 Sep 2026 20:10:29 GMT",
-          "summary": "CPI | OpenAI Files EU Report After AI Agents Hijacked German Website PYMNTS.com",
-          "publisher": "pymnts.com",
-          "_via": "news.google.com",
-          "source": "pymnts.com",
-          "_hash": "44731321102f6b11",
-          "_ageHours": 7,
-          "_inWindow": true,
-          "_score": 55.66439916666667,
-          "_corrob": 3,
-          "_cluster": [
-            {
-              "source": "forbes.com",
-              "title": "OpenAI AI Agents Hijacked A German Wiki To Share Sandbox Escape Tricks",
-              "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQSjlIbVRJZndNY0c4RU5FSFFlNDVzZ0ktVng3S2lBVHlxQnVCWHd3cW1YRm5JQmJqeUF4ZlN4bnNSU1dmT1QwTzNCTjBtMXBlQnN2VnFaWEhiS0UwdjM4NFpUX3dPMFE2UnN5eWpud05Tcl9SUkFsTy1vazFkT0NBY1JJdXpPVHF3VUtDTjlYYlNvcm4wdms1SGlkdU5JaXUtckNQX3A0Zk1MZFhvNFAwYXNaUzFWNnpSOEhvaEllYw?oc=5"
-            },
-            {
-              "source": "fortune.com",
-              "title": "OpenAI’s AI agents secretly used a German wiki website as a message board. OpenAI stayed quiet about it for weeks.",
-              "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPeUFUajdmanVrUFlzZkRfSHhoZGhHVXdaQVBlaVNadmRTa1pkWDA5bFpOZEhJVWYyc1NNVUdIZFI3bVlTamhkTkNWdmNpWjVYbVVOZ3FuNTdQSGJfVmpYZjU3a0FqQzV1U0JpQ0VuRGV4RzhmVnMxc0d2VC04T2J6VXpxNEdOUm9HdnByYlFvQUNhdw?oc=5"
-            },
-            {
-              "source": "reuters.com",
-              "title": "OpenAI has sent EU incident report on hijacked German website, Commission says",
-              "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNSzJFOUNDZWR2SV9UcEdYdGV3Ql9RNnkwZFg1ZHZNV3VSSWllaldEUjhYNi1wZVBmOXZITXlEbGtldWhvdjJtUVZoejJ0UUFIZDNVd2ptUFdCRDB4ejVtRmcxTUNQMVNuSE9kWUxUS2xLenAzY2ZQeF9JVUZMWUlZZ0o4VktuUEhiTFZnRm40Vld0NGF5SFRMRHZqN0NtYUh6UW5FRFB5N1pnMU85Z3B5SFhaQXVVMXFHNE1j?oc=5"
-            }
-          ]
-        },
-        {
           "title": "UH launches free ‘AI for Hawaiʻi’ course for everyone",
           "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPUUMxQktFZHpBcGlaX3lCNWN5QVIydHBLQjZHUTlCaDd0b2F4QVdUSmxDRkFUWDRKR2xQSC1YLUMtNGJENkpueDNsVnBJZHc3R0RhbkJGd1RXQS1KT09qTWRHeF9qbVFEV2VXRER3NmZrWFgzYjA5UTBWS2o4ektGUUVCRzFfNzVxSHg2Ym9xSGU3dw?oc=5",
           "date": "Tue, 08 Sep 2026 00:00:00 GMT",
@@ -237,9 +344,9 @@
           "_via": "news.google.com",
           "source": "mauinow.com",
           "_hash": "588d8d2fa66bd035",
-          "_ageHours": 4,
+          "_ageHours": 5,
           "_inWindow": true,
-          "_score": 55.48967611111111,
+          "_score": 53.913133333333334,
           "_corrob": 1,
           "_cluster": [
             {
@@ -258,9 +365,9 @@
           "_via": "news.google.com",
           "source": "simplywall.st",
           "_hash": "df1ff3ccd4e4b973",
-          "_ageHours": 3,
+          "_ageHours": 4,
           "_inWindow": true,
-          "_score": 55.15939916666667,
+          "_score": 53.582856388888885,
           "_corrob": 2,
           "_cluster": [
             {
@@ -279,53 +386,6 @@
               "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPeUtJRWdCR0V2dXFIZEF2alBBY1hFMUVyc1kwT1JRRm9NRVF0TGFBQW8tUFVWaUlvZC15SFR6ZExCaUVUVlhYSjJkYm00VF9lZ0dvTWZueDFXazVTTExvX21NaXJZZzZCWGZleF9SLXJZd2plcXo0NU42cjA3d0x0ei1ad2xuN0lrcWJsZS16XzRYU0hrbVdIMThwMjBJeEF5T25N?oc=5"
             }
           ]
-        },
-        {
-          "title": "Malaysia weighs Huawei AI chips despite a US warning",
-          "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQVUJnTEl3THpwVHNXdHZlT2ppUUZMYlRVQWQ4bU9vRDN2ZHR3YVVHU193dTYzRlNock9jdXpSZkl2WG5LUDhSaE5ZSkFrbTg1aUVGQTFkYVVJRU4zelFSelJ2X1FaVnR1Ujh5d1N3cHVkVWY5c3JLRjU1NnFzaC1CT1pJZ0RZajY4V3NF?oc=5",
-          "date": "Tue, 08 Sep 2026 00:13:07 GMT",
-          "summary": "Malaysia weighs Huawei AI chips despite a US warning The Next Web",
-          "publisher": "thenextweb.com",
-          "_via": "news.google.com",
-          "source": "thenextweb.com",
-          "_hash": "145f213c06653294",
-          "_ageHours": 3,
-          "_inWindow": true,
-          "_score": 54.70828777777778,
-          "_corrob": 2,
-          "_cluster": [
-            {
-              "source": "thestandard.com.hk",
-              "title": "Malaysia eyes Huawei AI chips despite US warning: Bloomberg",
-              "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQWVdEeWs3Nk45d0YzMmVyREFIY29fZnFuazZoRDhTRVhZdWlWbHM5R2FfU01FbnlIYk1GdGNTeHhoMHowX1dtWW1saGFFRXo1eWFCdnI3WUJ2VVZjazFZaVZCYXkyQ2p1M0pfZUhCOXhMNkZLYnhnd1JnbDJxMFZXSWtRakx0MWVMX24yUHhVUURRSGd5Y05jd0VuaHR4U2dWcWxwZUotejRZakNYanl4c013?oc=5"
-            },
-            {
-              "source": "en.sedaily.com",
-              "title": "Software Giants Bet on Custom AI Chips Despite Hardware Gap",
-              "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOMm5Nd1FicTJMSjRhS0QyRXJCVUVWN1FCMGlfX0Zya294WkNZdzNwempCZ215RWtuM1N5Ynk5WExxR2UxZUV1R3dNcjlzeFNkZ1IxVmVSd0dDS05HWFpjX1J0U0FWSC1rZzg3VGsyNmU4NUtuWWo1blh1cmpUeE16ZnRGSFhWODlKNDVpVm9aNkp5TkoxU3VfWGVMYnhpdF9GMkN1a1Y2ZVVfZWs?oc=5"
-            }
-          ]
-        },
-        {
-          "title": "From One GPU to an AI Factory: Deep Dive into NVIDIA’s Six Hot Chips 2026 Presentations",
-          "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxORm9wVWJFaFBETkR2cFNfRk5EMmxkR05PbTJYbG5yeERLaWxTdkRPbExhRzFvbWEwZk1Kc2VQREFWb2FtTFd3UGhyVnhBYTFoZDlBNDlYOVZLYmJuTEp1UmdTT2VlSHg4d2J0cElBVE16X0xibVQ1S0lrRXAtS2M5M3dFLVBycll4Vy1CclVlM0diTVAwc0NLaGViWWRaRTNZYTRnSHNKUGp4NExVNEdHaG5ENEl0aXBKMmQwZXpRXzNVMEc2VS1OS3ZFYWZOaEVlaERLNl9JOTZaQ2c?oc=5",
-          "date": "Tue, 08 Sep 2026 02:30:27 GMT",
-          "summary": "From One GPU to an AI Factory: Deep Dive into NVIDIA’s Six Hot Chips 2026 Presentations tspasemiconductor.substack.com",
-          "publisher": "tspasemiconductor.substack.com",
-          "_via": "news.google.com",
-          "source": "tspasemiconductor.substack.com",
-          "_hash": "428a2725b3f462f3",
-          "_ageHours": 1,
-          "_inWindow": true,
-          "_score": 51.99717694444445,
-          "_corrob": 1,
-          "_cluster": [
-            {
-              "source": "thenextweb.com",
-              "title": "The US paid for a peace deal in Nvidia chips",
-              "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOMmNXQlU1b2NRY0hzTEZmVUE5aV90MWNDMXRyUE5lbDlkS3Zzbnl2cW9oZmZwbUs0RzJSU0lpT2p4ZHRRNGVTSVpaemdRa25nbk80czJnT25DV3ZvV1ZJUXk5eFBjREJkYzlpREg0TnB4dDJiRW1nY0d0MVJFd2FTV0NQZWdkOS1DUEtxT2RITVBfdw?oc=5"
-            }
-          ]
         }
       ]
     },
@@ -341,9 +401,9 @@
           "_via": "news.google.com",
           "source": "simplywall.st",
           "_hash": "1849225fd88621ee",
-          "_ageHours": 2,
+          "_ageHours": 3,
           "_inWindow": true,
-          "_score": 61.24982,
+          "_score": 59.673278055555556,
           "_corrob": 3,
           "_cluster": [
             {
@@ -364,6 +424,42 @@
           ]
         },
         {
+          "title": "APOD: 2026 September 8 – Hubble: Decagon Around Saturn’s South Pole",
+          "link": "https://science.nasa.gov/image-article/apod-2026-september-8-hubble-decagon-around-saturns-south-pole/",
+          "date": "Tue, 08 Sep 2026 04:05:00 +0000",
+          "summary": "APOD Science APOD APOD: 2026 September 8 –… Today’s APOD Archive Submissions Index Search Calendar RSS Education About Discuss APOD Astronomy Picture of the Day Discover the cosmos! Each day a different image or photograph of our fascinating universe is featured, along with a brief explanation written by a professional astronomer. Hubble: Decagon Around [&#8230;]",
+          "publisher": "",
+          "_via": "nasa.gov",
+          "source": "nasa.gov",
+          "_hash": "362ab8b910c48381",
+          "_ageHours": 1,
+          "_inWindow": true,
+          "_score": 46.99633388888889,
+          "_corrob": 0,
+          "_cluster": [
+            {
+              "source": "nasa.gov",
+              "title": "APOD: 2026 September 7 – The Pelican Nebula in Gas, Dust, and Stars",
+              "link": "https://science.nasa.gov/image-article/apod-2026-september-7-the-pelican-nebula-in-gas-dust-and-stars/"
+            }
+          ]
+        },
+        {
+          "title": "The Otherworldly Geology of Vasquez Rocks",
+          "link": "https://science.nasa.gov/earth/earth-observatory/the-otherworldly-geology-of-vasquez-rocks/",
+          "date": "Tue, 08 Sep 2026 04:01:00 +0000",
+          "summary": "Layers of sedimentary rock that jut from the Soledad Basin at surprising angles have long enthralled television and film producers, including the team behind Star Trek.",
+          "publisher": "",
+          "_via": "nasa.gov",
+          "source": "nasa.gov",
+          "_hash": "fdde433c7e7cc7c7",
+          "_ageHours": 1,
+          "_inWindow": true,
+          "_score": 46.92966722222222,
+          "_corrob": 0,
+          "_cluster": []
+        },
+        {
           "title": "Europe's space future in focus at the International Space Summit",
           "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPSFdtZlFNOVJGOEpCUzAycC1QczUxdlh4M3hCa1FRcGRmd2NDVUhBR3hmaXJ1bEN3THpMSXZxVWRvaXN5YUtJMEFXajNPa0dKMEZ1dUFrQWhvcVA1a3M5MVBUbE9kNktxcTdjYVZ4ZVFvT292UWhyNVBvZ3V6aURDN0tsanJyOVNiRkNPY3MzZkc4aU1jbVduYjQza2NXcHdEWDhjZkVLX0RpX042?oc=5",
           "date": "Mon, 07 Sep 2026 12:16:28 GMT",
@@ -372,9 +468,9 @@
           "_via": "news.google.com",
           "source": "esa.int",
           "_hash": "fac76f52ddce7343",
-          "_ageHours": 15,
+          "_ageHours": 17,
           "_inWindow": true,
-          "_score": 32.76398666666667,
+          "_score": 31.18744472222222,
           "_corrob": 0,
           "_cluster": []
         },
@@ -387,9 +483,9 @@
           "_via": "news.google.com",
           "source": "finance.yahoo.com",
           "_hash": "d82478190829174b",
-          "_ageHours": 31,
+          "_ageHours": 32,
           "_inWindow": true,
-          "_score": 28.17370888888889,
+          "_score": 26.597166944444446,
           "_corrob": 1,
           "_cluster": [
             {
@@ -400,21 +496,6 @@
           ]
         },
         {
-          "title": "APOD: 2026 September 7 – The Pelican Nebula in Gas, Dust, and Stars",
-          "link": "https://science.nasa.gov/image-article/apod-2026-september-7-the-pelican-nebula-in-gas-dust-and-stars/",
-          "date": "Mon, 07 Sep 2026 04:05:00 +0000",
-          "summary": "APOD Science APOD APOD: 2026 September 7 – The… Today’s APOD Archive Submissions Index Search Calendar RSS Education About Discuss APOD Astronomy Picture of the Day Discover the cosmos! Each day a different image or photograph of our fascinating universe is featured, along with a brief explanation written by a professional astronomer. The Pelican [&#8230;]",
-          "publisher": "",
-          "_via": "nasa.gov",
-          "source": "nasa.gov",
-          "_hash": "b8c8f75df7735331",
-          "_ageHours": 23,
-          "_inWindow": true,
-          "_score": 24.572875833333335,
-          "_corrob": 0,
-          "_cluster": []
-        },
-        {
           "title": "A Bright Spot at Mount Michael",
           "link": "https://science.nasa.gov/earth/earth-observatory/a-bright-spot-at-mount-michael/",
           "date": "Mon, 07 Sep 2026 04:01:00 +0000",
@@ -423,9 +504,9 @@
           "_via": "nasa.gov",
           "source": "nasa.gov",
           "_hash": "c38a8c3e8d10c8d7",
-          "_ageHours": 23,
+          "_ageHours": 25,
           "_inWindow": true,
-          "_score": 24.506209166666668,
+          "_score": 22.92966722222222,
           "_corrob": 0,
           "_cluster": []
         }
@@ -435,6 +516,139 @@
       "name": "Bitcoin / Crypto",
       "candidates": [
         {
+          "title": "Liquid ‘white hats’ return $270M in Bitcoin as network prepares restart",
+          "link": "https://cointelegraph.com/news/liquid-white-hats-return-270m-bitcoin-network-restart?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "date": "Tue, 08 Sep 2026 03:46:17 +0000",
+          "summary": "The actors returned 85% of the Bitcoin withdrawn from Liquid’s federation wallet following the security incident.",
+          "publisher": "",
+          "_via": "cointelegraph.com",
+          "source": "cointelegraph.com",
+          "_hash": "ed01b7022000cf83",
+          "_ageHours": 1,
+          "_inWindow": true,
+          "_score": 76.684265,
+          "_corrob": 6,
+          "_cluster": [
+            {
+              "source": "lcx.com",
+              "title": "Liquid ‘white hats’ return $270M in Bitcoin as network prepares restart",
+              "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOOGttT3ptNkNkRHdiOGdzdzNhN2ZuVjlpOURyS2hLTGJkTHludlM1bDRkSXN3QjlqeGNJWTRocEpaOHBlcmd3dXZQb1ZodFRXY3V0ejN5MWhoNmNjblQ4TWczT3hKdFJPZ25pQ082Sl9Nel9lWHdaUUNVT1k2V2t5el9XNG9zOXl0TTVhRG1QVjc2cjhRTnp0TDhmRm5RNXM?oc=5"
+            },
+            {
+              "source": "siliconangle.com",
+              "title": "Hackers steal $320M in bitcoin from Liquid Network, return most of it after patch",
+              "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNSmMzdmNwZ05nSnk0aXVWWEdDajRiTnVtRENZVDdGc1F4ZXpweVY3LTZQSGs1U2s0OTlxeWlwdkQxUzRKRU8zeG8wbmZuZk41RFhXWFdMQXpFRTU3dDk2TWpVeTZYM180R012QUtDVWJDMU5ZR0ZzWFNKWVQxZkxxaFdremhINFpLcEsyVWZ2VmM0NFQ1aHlGWFhBVFpoWGFPMmRDSnhpVmVrUDNSc1p5UTg2N0RWTmc?oc=5"
+            },
+            {
+              "source": "bloomberg.com",
+              "title": "Bitcoin Network Says $320 Million Stolen in Latest Crypto Hack",
+              "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQQXU2Ti1fdUJXNTRsQ2gzXzhtNjc4MFVjckUwenk2cl9KV3ZaaXJ3aF9kczNhblRHMVRVVEhKT1hkWGVYWVFUdXNYdlJVUXVlb3BGcmZUVFBkajRrRmxUYXJaWHZDSV82cnd2S2g0bEplQ0dxYWR3cTJacjEyM09JNEdXSWhoZFBlUTZ3dHZaZjhqUTBmVkJuUVVESkNSX3BmeVhnSUJQT19vNnFQRElkVjd3?oc=5"
+            },
+            {
+              "source": "decrypt.co",
+              "title": "Liquid Hackers Return $270M in Bitcoin After Swiping $320 Million",
+              "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFA3UmQwOTJqNWU1LWJOaGZKUEFTU1lJTTdtQnpaWDZXZkRrOHlIakdwSWpUR0NscVI1YVNxdTF2MFRXNWxaQzJnVjhvaVRXSnIyUVJnWFZaV1dBeUxXbExpREg5NkRwWE5qN3dib9IBdEFVX3lxTE9rMGNHRm1MUnpscUQ1ajBoNm81Umw3S3l3M0RnUEU3MGo2UUwyUFo0SU1qWkROaWhycUc5S21RMnhJckRpMDVWa2REU2JIU3FHOXRfU0lTYXpPNXdCSThGOUxHYVFwb05LSUM0Njd2TjZaX1Ri?oc=5"
+            },
+            {
+              "source": "finance.yahoo.com",
+              "title": "Liquid Hackers Return $270M in Bitcoin After Swiping $320 Million",
+              "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPNl9JbmtKMTV4bE9rR0VrMHp3T3BJb09wSDBOT2p1cHc1Q08wM3RkVTFDRENKM2VrSzZveFFxVzZ2cFY4Wk5lNzlmM1UxR2p5TzFLMnZQc3FaZ1B6ZXYyeWxvVzhXd1RLUm9Od0lnQUNMSkh0Y05OQlk3OVhyRGtlbmRCV3dsUElkdXIxZHg0ZExJclZ5NVd1R1RSV0swTS1x?oc=5"
+            },
+            {
+              "source": "coindesk.com",
+              "title": "Bitcoin network used by exchanges hit by $320 million exploit. Hackers claim they're the 'good guys'",
+              "link": "https://www.coindesk.com/markets/2026/09/07/bitcoin-network-used-by-exchanges-hit-by-usd320-million-exploit-hackers-claim-they-re-the-good-guys"
+            }
+          ]
+        },
+        {
+          "title": "Liquid Network Hack: $320M Bitcoin Exploit Explained [2026] - tech-insider.org",
+          "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9laHhPVDhmbmVDVFU4Q0NGNlBubnl3dnMzWGVYek9QOHV1eU5kd2ZtbnZMQW8xSVZhSXhlN3R4QW11ZXdTUHF1Ml9mQXZNaldwSXk4bm9LcDJCUUVuWC13Q2UyLUZ4NWNFdjdGSmpsMWF4RTdUU21UekJ3?oc=5",
+          "date": "Tue, 08 Sep 2026 03:46:55 GMT",
+          "summary": "Liquid Network Hack: $320M Bitcoin Exploit Explained [2026] tech-insider.org",
+          "publisher": "tech-insider.org",
+          "_via": "news.google.com",
+          "source": "tech-insider.org",
+          "_hash": "892632c0bc6032e0",
+          "_ageHours": 1,
+          "_inWindow": true,
+          "_score": 71.69482027777778,
+          "_corrob": 5,
+          "_cluster": [
+            {
+              "source": "pymnts.com",
+              "title": "$320 Million Bitcoin Hack Hits Liquid Crypto Network",
+              "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOREdidUFEaXhsY21jdG9DT2UxMTh6Qzc0elQtYVYzeVJ0WE5oS2d2SzIwWUhPRjl5alVsQVVhc25kYl80MGw2dzFtd0o0MGVGS0FZWkxCZkdWYkJFLUxZb2tGeHZDdEJoZ05abFNfbHFGTWtMdVktVnMyZjRQbGYwUHFrMzZMM193UzhhZnUwN3pGbkR4SFFkRGl5LThLTFdqMFBlNjRMSVhabHc?oc=5"
+            },
+            {
+              "source": "theregister.com",
+              "title": "Hackers drain $320M in Bitcoin from Liquid Network, claim they're the good guys",
+              "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPMXJxSU9Sc2dYYXlkNlcycHdacHFLQ3l5b0tWaUxCU1AxMDUtbU9XN1FiMGc3MjVvZEJaX0NtbFlXS0pwSTlNWlZaSVFKYWwwMS1Yd1ZLWW9QdFpJeHJ5WFVLZTBVUUpxSXZTLV9rVWFXMmE1LWQzVG9CczUyRFlfUVdJVVZnZllON1dPY0FieTNKaUVzWWNqRm9nUlRrSFpyTWo4bnlJUTdrR1VBenZZS2Y4VDJIT2tZTDI4eEp1VDQxR0Job2wxT2NqRDE?oc=5"
+            },
+            {
+              "source": "investing.com",
+              "title": "Bitcoin-based Liquid Network says $320 million withdrawn in hack By Reuters",
+              "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPZ3NPV3NPd0lZWWRpcm1LQ2xSUkFZcnhiRmtHYmxKZ1hmU0hmLUlBOWl1UWpFMG5fcFVKT2dVRDU4eGIzZUhOOFhwcUdpN0hTSkdLUFBkeHNzdHgyblZDdVhoMGFpaEJXby1LWDQxQTJmamtGcmo2cWdxYUN5V19jWVU0VGt0dHBiMHJxZ0ViZUc2TzJjeE5zVEVIcDlpemtPbV9BZ3RoT2twQzRnZWVpQm9ybzNrODJaeWFV?oc=5"
+            },
+            {
+              "source": "coindesk.com",
+              "title": "$320 million bitcoin exploit hits Liquid Network. Hacker makes conditional offer",
+              "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxNYlpMcUhFV2FjZTNKLVlzYklnVG40SHlpNWFJSFdmalNZclViQTZqSEFTVVJQY29ZZlFTLThlTTFhQ1hMVmctTnFXbGhzNVRBRUczMFFPYXJrUU5NTkc2bUktRDA2RUk1U2ljNVVrTl9fdktHRG80NmtpdHB3Z28zTU1nbEY1eVBFWjNWQkdOZTd3V2h3SmFldUdHOUtBLUpleTY4ZTA4ZkJmSVgxWFJ2R1JheGxELWJZV21FaE9oaDZ5WEpjeFY5dVI5S2lJejZlamRSdGhrTjYtV0E?oc=5"
+            },
+            {
+              "source": "reuters.com",
+              "title": "Bitcoin-based Liquid Network says $320 million withdrawn in hack",
+              "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQV1lpQVdhRENMSUQ3NnJWZkxyRlRjN0hHS2xsek1XbFo2ZEVCNnJ6RGRsNUZubmRCUURNbl9hbk5WSXJ4X0ZrTVJ3YW4wdHl5d05lOER2a1JZRUtkQmxKcy1DVjFGdFJfTGF5b1JtbE5BLVNoMGhGVEZKdm5ZZlcwQU9EQ2U4MWlmZEtNbEdxb1d1cWtSQzlLckJsdHRpWEM2TlJ2S0JYVnNySXM?oc=5"
+            }
+          ]
+        },
+        {
+          "title": "Liquid Network gets back 3,400 bitcoin from whitehat hackers; talks underway for the rest",
+          "link": "https://www.coindesk.com/markets/2026/09/08/white-hat-hackers-return-most-of-usd320m-bitcoin-taken-from-liquid-network",
+          "date": "Tue, 08 Sep 2026 04:41:17 +0000",
+          "summary": "Supposed whitehat hackers behind Sunday’s Liquid Network breach have returned 3,400 of the 4,000 BTC they took, but nearly $47 million in bitcoin is still outstanding.",
+          "publisher": "",
+          "_via": "coindesk.com",
+          "source": "coindesk.com",
+          "_hash": "7f1bdf9c0ca7d03b",
+          "_ageHours": 0,
+          "_inWindow": true,
+          "_score": 62.60093194444445,
+          "_corrob": 3,
+          "_cluster": [
+            {
+              "source": "coindesk.com",
+              "title": "Liquid Network gets back 3,400 bitcoin from white-hat hackers; talks underway for the rest",
+              "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPZ3cwaHlfV29WV2pva2otenRDOGhoajBmYkV6cFJjSVpMUm9lYUI0Ujd0ZTV0TkNCeDVZd1ZMZTJXaXo5ZVBOSWRnWWVqZFlGbDFTWThFSUtrX1ZSZ2gyTXpmUGgyZUJiTEt1a0FNcTJ6UV9vRFdtbTFKaXl4amdLVmg0WmdQWWsyZUZwa041Y051S0tZUFV3UmF0ZTNtUE95MWFSRGlsRjB6U08xUXpMaU0zbG1GQTg2WVE?oc=5"
+            },
+            {
+              "source": "bitcoinmagazine.com",
+              "title": "Liquid Gets 3,400 BTC Back After On-Chain Talks; White Hats Keep 598.5 BTC",
+              "link": "https://bitcoinmagazine.com/news/liquid-gets-3400-btc-back-after-on-chain-talks-white-hats-keep-598-5-btc"
+            },
+            {
+              "source": "decrypt.co",
+              "title": "'Purported White-Hat Hackers' Withdraw $320M in Bitcoin From Liquid",
+              "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPUThJRmZsQ2pmbkw2aDlySW80THY3c1h5bXdHcTZiNW92QVo5MTV0OUlBNjRBX3UzSkxlM1dxNFZlRUxMT2UtSzBWT1NNWlpOYkJWakgwS21MY0pMSGpkYVVuMmFFY2tmYWFVNUI1dVpGdmk5akx4YmFkU3FVMGx0YnBaNnpaZTBralJLSXR1WHpaOTFl0gGcAUFVX3lxTE1YNy1nS0NtR1hsSmtxMVhGY1NOQXdIdG1NN3dPbHdqd21nbGhmSU42Njk2bGZHMF9iTHloWklEOENlYU9ZSGxkOG8wNGZOd085QU44Ylo3dG9KcDVMWFY4MHdscVVxV3lFWWMwOHZ3Z3A5S3BVa1ROUGpHN21FVVhnckZtY3RSam44NDVuQnBZNzlibGNBVFZpODE5Zw?oc=5"
+            },
+            {
+              "source": "bitcoinmagazine.com",
+              "title": "Alleged White-Hat Hackers Withdraw 4,000 bitcoin from Blockstream&#8217;s Liquid Network Federation Reserves",
+              "link": "https://bitcoinmagazine.com/news/alleged-white-hat-hackers-withdraw-4000-bitcoin-from-blockstreams-liquid-network-federation-reserves"
+            },
+            {
+              "source": "theblock.co",
+              "title": "Liquid Network pauses after purported ‘white-hat’ hackers withdraw $320 million in bitcoin",
+              "link": "https://www.theblock.co/news/defi/2026-09-06-liquid-network-pauses-after-purported-white-hat-hackers-withdraw-320-million-in-bitcoin-413626"
+            },
+            {
+              "source": "theblock.co",
+              "title": "Liquid Network pauses after purported 'white-hat' hackers withdraw $320 million in bitcoin",
+              "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNVU9EVnRoU1lOd2RlUjJOZWNQaHd2SFY3aGxxTVNzZlZqaFR4OTJaeW1uTkl1cWxlei10OEtPTjBvQnIxRHFmdWtEZ1FCU1kxLTVTakFaajNNV3VMZVdHR0EzNlZDd3h5VHB0Z0Q1MTAzRXBMWGl4OU14T0lCTVB3NVcwNVZRM0NXbzJaeVpLODJTM1FoRzlKbWtldjNlZUFXZl9oYnQ2RkVHOTdJUWRpWDQ3Ymg0bzNpVEZiS2tFMWE3SnFvMkMtRGRlcjE4S01GN29McUN3?oc=5"
+            }
+          ]
+        },
+        {
           "title": "Bitcoin daily transaction volume approaches 900,000, marking the fourth-highest level on record.",
           "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQLUFfYXlHRmZEZkk1Y254WHY0eGhud2ZPNUw5azRpdzB0ZUNPLXRPNW0zYV90b0ZCRnZETUNFZWlHdlhmVkpPXzFDaWZPdExQdGxkbEh3NzZUeC1OVW9Ea2JYVGRzSUcxSmlkOUJXX1BKU2xMMzVjZ3hrTzNnU183dERTcW5nY0hhTVozWG1jN0NlZG5mRTdwR2RyaXM5eXhza2w2VmhoN3p3YzA3dVA0OURSZEhVV2t3TFVN?oc=5",
           "date": "Tue, 08 Sep 2026 00:27:03 GMT",
@@ -443,9 +657,9 @@
           "_via": "news.google.com",
           "source": "moomoo.com",
           "_hash": "0b7c8e419abca6bf",
-          "_ageHours": 3,
+          "_ageHours": 5,
           "_inWindow": true,
-          "_score": 60.940202222222226,
+          "_score": 59.363709166666666,
           "_corrob": 2,
           "_cluster": [
             {
@@ -461,89 +675,17 @@
           ]
         },
         {
-          "title": "Liquid Gets 3,400 BTC Back After On-Chain Talks; White Hats Keep 598.5 BTC",
-          "link": "https://bitcoinmagazine.com/news/liquid-gets-3400-btc-back-after-on-chain-talks-white-hats-keep-598-5-btc",
-          "date": "Mon, 07 Sep 2026 22:02:19 +0000",
-          "summary": "Bitcoin Magazine Liquid Gets 3,400 BTC Back After On-Chain Talks; White Hats Keep 598.5 BTC A self-described white-hat party returned 3,400 BTC to Liquid Network’s federation wallet on Monday after Blockstream said bridge nodes were patched. About 598.5 BTC, near $47 million, remains at the holder address. This post Liquid Gets 3,400 BTC Back After On-Chain Talks; White Hats Keep 598.5 BTC first appeared on Bitcoin Magazine and is written by Juan Galt .",
-          "publisher": "",
-          "_via": "bitcoinmagazine.com",
-          "source": "bitcoinmagazine.com",
-          "_hash": "94b20e4ecf891e7c",
-          "_ageHours": 5,
-          "_inWindow": true,
-          "_score": 58.52798,
-          "_corrob": 2,
-          "_cluster": [
-            {
-              "source": "bitcoinmagazine.com",
-              "title": "White Hats, A Sad-Face Emoji, And A 598.5 BTC Hacker Bounty. Liquid Big Mad",
-              "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOTjRwZWNYS1JDakhBenQ5SU9jVHZHTF9RV2xuOVNYN0JZZmttSVUxcXk1YmpxS1R4MTVweTY1ZGluSzJiM1NBM2tOeTBGZllJYk9LSUsxNHNXa1kwVDFXNzFpWUNOaFBRZE5kR1V4WDlzaWJ6Uk5IVkhIbE1sXzdxRE5pS1liVUpqMkhMVWxXV1NHaGFxMEZkZDhSWURrY3BHVnYtY253SEI?oc=5"
-            },
-            {
-              "source": "financemagnates.com",
-              "title": "Purported White Hats Pull $320M From Liquid Reserve, Putting L-BTC Peg Under Scrutiny",
-              "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQNC1Wdmx6NkJteXJLSXdXZEJyMnA5dEJTZUlJQzgxTVVhZkwxaXN4MDNVbkVaOGh5OXdJcFllZFVRWXhWbXhxSzhvYWh3bVFiQ1QwenBmaERyek9oVUQ1Vl9LQzU4R050TU9OM1FxMkdCY1VpM1daRldKMUxNN1JSbGw1MDNEWDdQUFlyem5DcDZmeFhkQjVNdDVfS3pJMVotNE55ZHgwT3JHdVNjYVlGS0tmWElZZ3ZQOVNwNjRlNjcwdVczc25kcDcybw?oc=5"
-            },
-            {
-              "source": "cointelegraph.com",
-              "title": "‘White hats’ take 4000 BTC from Liquid, ETFs see best inflows of 2026: Hodler’s Digest",
-              "link": "https://cointelegraph.com/magazine/white-hats-take-4000-btc-from-liquid-btc-etfs-best-week-of-2026-hodlers-digest?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound"
-            },
-            {
-              "source": "cointelegraph.com",
-              "title": "Bitcoin sidechain Liquid pauses after purported ‘white hats’ withdraw $320M in BTC",
-              "link": "https://cointelegraph.com/news/liquid-network-pauses-320m-bitcoin-withdrawal?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound"
-            }
-          ]
-        },
-        {
-          "title": "Hackers steal $320M in bitcoin from Liquid Network, return most of it after patch",
-          "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNSmMzdmNwZ05nSnk0aXVWWEdDajRiTnVtRENZVDdGc1F4ZXpweVY3LTZQSGs1U2s0OTlxeWlwdkQxUzRKRU8zeG8wbmZuZk41RFhXWFdMQXpFRTU3dDk2TWpVeTZYM180R012QUtDVWJDMU5ZR0ZzWFNKWVQxZkxxaFdremhINFpLcEsyVWZ2VmM0NFQ1aHlGWFhBVFpoWGFPMmRDSnhpVmVrUDNSc1p5UTg2N0RWTmc?oc=5",
-          "date": "Mon, 07 Sep 2026 22:36:00 GMT",
-          "summary": "Hackers steal $320M in bitcoin from Liquid Network, return most of it after patch SiliconANGLE",
-          "publisher": "siliconangle.com",
-          "_via": "news.google.com",
-          "source": "siliconangle.com",
-          "_hash": "ca43d211120ccd0c",
-          "_ageHours": 5,
-          "_inWindow": true,
-          "_score": 58.08936888888889,
-          "_corrob": 3,
-          "_cluster": [
-            {
-              "source": "decrypt.co",
-              "title": "Liquid Hackers Return $270M in Bitcoin After Swiping $320 Million",
-              "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFA3UmQwOTJqNWU1LWJOaGZKUEFTU1lJTTdtQnpaWDZXZkRrOHlIakdwSWpUR0NscVI1YVNxdTF2MFRXNWxaQzJnVjhvaVRXSnIyUVJnWFZaV1dBeUxXbExpREg5NkRwWE5qN3dib9IBdEFVX3lxTE9rMGNHRm1MUnpscUQ1ajBoNm81Umw3S3l3M0RnUEU3MGo2UUwyUFo0SU1qWkROaWhycUc5S21RMnhJckRpMDVWa2REU2JIU3FHOXRfU0lTYXpPNXdCSThGOUxHYVFwb05LSUM0Njd2TjZaX1Ri?oc=5"
-            },
-            {
-              "source": "finance.yahoo.com",
-              "title": "Liquid Hackers Return $270M in Bitcoin After Swiping $320 Million",
-              "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPNl9JbmtKMTV4bE9rR0VrMHp3T3BJb09wSDBOT2p1cHc1Q08wM3RkVTFDRENKM2VrSzZveFFxVzZ2cFY4Wk5lNzlmM1UxR2p5TzFLMnZQc3FaZ1B6ZXYyeWxvVzhXd1RLUm9Od0lnQUNMSkh0Y05OQlk3OVhyRGtlbmRCV3dsUElkdXIxZHg0ZExJclZ5NVd1R1RSV0swTS1x?oc=5"
-            },
-            {
-              "source": "theregister.com",
-              "title": "Hackers drain $320M in Bitcoin from Liquid Network, claim they're the good guys",
-              "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPMXJxSU9Sc2dYYXlkNlcycHdacHFLQ3l5b0tWaUxCU1AxMDUtbU9XN1FiMGc3MjVvZEJaX0NtbFlXS0pwSTlNWlZaSVFKYWwwMS1Yd1ZLWW9QdFpJeHJ5WFVLZTBVUUpxSXZTLV9rVWFXMmE1LWQzVG9CczUyRFlfUVdJVVZnZllON1dPY0FieTNKaUVzWWNqRm9nUlRrSFpyTWo4bnlJUTdrR1VBenZZS2Y4VDJIT2tZTDI4eEp1VDQxR0Job2wxT2NqRDE?oc=5"
-            },
-            {
-              "source": "decrypt.co",
-              "title": "'Purported White-Hat Hackers' Withdraw $320M in Bitcoin From Liquid",
-              "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPUThJRmZsQ2pmbkw2aDlySW80THY3c1h5bXdHcTZiNW92QVo5MTV0OUlBNjRBX3UzSkxlM1dxNFZlRUxMT2UtSzBWT1NNWlpOYkJWakgwS21MY0pMSGpkYVVuMmFFY2tmYWFVNUI1dVpGdmk5akx4YmFkU3FVMGx0YnBaNnpaZTBralJLSXR1WHpaOTFl0gGcAUFVX3lxTE1YNy1nS0NtR1hsSmtxMVhGY1NOQXdIdG1NN3dPbHdqd21nbGhmSU42Njk2bGZHMF9iTHloWklEOENlYU9ZSGxkOG8wNGZOd085QU44Ylo3dG9KcDVMWFY4MHdscVVxV3lFWWMwOHZ3Z3A5S3BVa1ROUGpHN21FVVhnckZtY3RSam44NDVuQnBZNzlibGNBVFZpODE5Zw?oc=5"
-            }
-          ]
-        },
-        {
           "title": "New Crypto: AlphaPepe Presale Announces AI DEX Update While Bitcoin Price Prediction Hits $150,000",
-          "link": "https://news.google.com/rss/articles/CBMipwJBVV95cUxORk42YjdMZFJtblFkeU9Za2JoOTN6RGllRjFuc0lVOTRUbWdSWWI2YTh0M3g3RWplR09td09UenpaYXl6cmlYUXlHckNnWnVZM3A4NUFLSFIzQzVUUUlCTGFwT3JQTm1PYXZmYktPYjVxMkVQSndKWWFKamlQV0lyOHZDRlhqbHduOXpCcFJWSmlZX2pURDFGQXp2aVdUcEs1RGJWR203cXJVVjRyLXBsZkdDckJ2OV80WlZHTmZ4Sld0T2J1MmFGUEpmTnJwU3RTZFVPQVdhYUYxaExJc0QzcXVsSm8tTVV4SUZ4ZmxOQUFoTlVYb2hCMU9CeVZyUFpIUzRINVRuNGpuX21aaEUxSGFtZk1qRVJoMXNQSjFObU9qckkxcVFB?oc=5",
-          "date": "Tue, 08 Sep 2026 01:30:00 GMT",
-          "summary": "New Crypto: AlphaPepe Presale Announces AI DEX Update While Bitcoin Price Prediction Hits $150,000 mykxlg.com",
-          "publisher": "mykxlg.com",
+          "link": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxNVzFOeTZWVmFCZkZlVVQ3OU80M3RUZWJxSGI5and3X081UmViYVpLRUZ5UWhkUUpUZVRfVXBjUDdKTXFGSk1qNFJfSjdRWnE2dGZvMnNJelo0dnFqWWFVOWo1dGFTc3gwTTdrTWtfcEd3bWhrN18zQXRjTWhUcGtCN0hXNnM3ZWtuUGhFUjRqTjUzMjBfSXoweFFyYTl4ZTRZN0N5UGxTR3dTYXhVYW0tTUJaMjkyQXlkZVAtWGE4cEFVbVM2QXdneU53QkNIWWZESjVsWXBkeVBqZlpaYVQ1d0QxbVpZWjYwVFFN?oc=5",
+          "date": "Tue, 08 Sep 2026 04:30:41 GMT",
+          "summary": "New Crypto: AlphaPepe Presale Announces AI DEX Update While Bitcoin Price Prediction Hits $150,000 markets.businessinsider.com",
+          "publisher": "markets.businessinsider.com",
           "_via": "news.google.com",
-          "source": "mykxlg.com",
-          "_hash": "9913362b379cc7d7",
-          "_ageHours": 2,
+          "source": "markets.businessinsider.com",
+          "_hash": "82a91713226c9eae",
+          "_ageHours": 1,
           "_inWindow": true,
-          "_score": 55.98936861111111,
+          "_score": 57.42426472222222,
           "_corrob": 2,
           "_cluster": [
             {
@@ -559,54 +701,95 @@
           ]
         },
         {
-          "title": "Malone Lam Faces Plea Hearing Over $245M Bitcoin Theft",
-          "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNQ1VCUTAyTlpWbGlRN204NDVYMUJGWENybWtkdldNU3FleEdUTy0xNWVLUjZfMzkxYXkySHBkQ2FHV1loM2c4ODlSQlRSNDJFcGFTOW5ZTEs1YVJIcUM3T2lxdjBsYkJYVUdUSE5DcW9ROHB3aHBfaW9ZQ0RSMkt2ZmhjWk5ad9IBjgFBVV95cUxOUnlGb0xiS3paaXptRlRhMzFUQ203NXNVRHR5RHhDSV82dXd0Z0ZpWmsyYWpvcVN3OWlTN1hELWpTUnAtQ1U0OEZEaHdSVEFuUlRyQkliM3k1VGRfOWlEWVMxd3k5M0NYRU5QaXZKR3hJQ3c5OUFBVzRSRVZnaUhmRDlidDBkcDdZbzR6WTN3?oc=5",
-          "date": "Mon, 07 Sep 2026 17:41:55 GMT",
-          "summary": "Malone Lam Faces Plea Hearing Over $245M Bitcoin Theft Decrypt",
-          "publisher": "decrypt.co",
+          "title": "Bitcoin, Ethereum, XRP Slide, but Dogecoin Gains: Analyst Says 'We're Not in a Bull Market' if BTC Doesn'",
+          "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQbDhTQUwwQXlPMDVUWDFfZnk2SndwUDRQMWxxVk8zZExFczhvVHBiZEtzSmJVcVcyODdQUDJ3WXVvYmp0bkV2SXRVS0RMM09zTUFtUWdpV1g4V251QnBMaUYxc1FpY3VYd0owaE15eGN1QW84U3JjMzVNTE1FWXVDT1Rkclhsd0hzUVB1ZDlIX3I2cmJWYWY5SnE5eGsyTlliZ0ViZjlGbTFhcmFMYUxkVzI5djE2c3NTeldEMWJHLVNmckVrczNIYzRRVDVmYWc?oc=5",
+          "date": "Tue, 08 Sep 2026 02:15:38 GMT",
+          "summary": "Bitcoin, Ethereum, XRP Slide, but Dogecoin Gains: Analyst Says 'We're Not in a Bull Market' if BTC Doesn' benzinga.com",
+          "publisher": "benzinga.com",
           "_via": "news.google.com",
-          "source": "decrypt.co",
-          "_hash": "51b7df5786e185c2",
-          "_ageHours": 10,
+          "source": "benzinga.com",
+          "_hash": "243b197841125cf4",
+          "_ageHours": 3,
           "_inWindow": true,
-          "_score": 53.187979999999996,
-          "_corrob": 3,
+          "_score": 55.173431388888886,
+          "_corrob": 2,
           "_cluster": [
             {
-              "source": "foxnews.com",
-              "title": "Alleged cryptoscam ringleader set for plea hearing in $240M bitcoin theft",
-              "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNd2REekdhZnNTdlBRSnF0T3Z6NFZkLUVjbEdGbURqSU1aSVh0S0YtV3AzQUNBZUdhUTh4aFJPRGhyMENYWXJZR0pjZm1WQmljMWk4OGppTGc5OHl4cjJyME9qdXVBRXhoMEJFQ1VUS09iRC1VLThtTUhkVE14VzY3MGZtWTEwTUZiZkEyZkVpQlJ1X3JzeTI40gGcAUFVX3lxTFBkcUNKanRCRS1wTW1xVnJYajFrRGt5bGphbUNEVHd4a2NFM3luSTJMUW1zRzZwM1RucGkzLWZKVW94dzVOekpjVzBHa3diemc4Rl9sTkN5X0pVS0xOMTVVM2lNN0tPcnBPclcwVDNuZk9GQVlVZTh4UzNnM2xSaVJEOUdRcU1BT3NlR2dtT0I3M25xMktncTVQdmpkVA?oc=5"
+              "source": "pluang.com",
+              "title": "Bitcoin shows signs of a bull market setup simi...",
+              "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNQ3k1TG5ISWQyS0k4YTczOVJaaFl3djJ3OVJoMm5OVG9YV1NENTlwUnlVbWhDamotNDRGdmpYREdFRmN4Y20xQS1KblM5RFpjZGJlcWNlMHIwdDhrSDQ3R1Bya09qdjMtRDRITnNjSldFSkIxVEdpN1pqSnhiaWxkMFUzRnE1Zw?oc=5"
             },
             {
-              "source": "apnews.com",
-              "title": "Party's over for crypto scammers who went on a spending spree after a $240 million bitcoin theft",
-              "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxQNVVQNk43RTYyQ09EWXRRUDBuZmZwQ0VBWUh3eFRmcnQxdlpINnowQTJabnd4NkdNeDlaM1l0bTR0akZ4eWV4akFyNFAzd1dTVmMxaE5Hd2dKcjl4TGdmdEc2cjZ3bmRHR290QThLbXcwdWtja1dWVzNHenV2ZFNkUWo5QWo3TkJ1elJLVEhVWGlOd04wanRSeHA5OGJFdw?oc=5"
-            },
-            {
-              "source": "journalgazette.net",
-              "title": "Party's over for crypto scammers who went on a spending spree after a $240 million bitcoin theft",
-              "link": "https://news.google.com/rss/articles/CBMihgJBVV95cUxQQk0ydGpLNUJDSHBEZS1BTjZSNHM5V2pBaXJqR3JubzRJN0xCR0JoX2FwMUFITE1SYlJmMVlBTjQtT2dka1NhRjJfYkQxRm9OWDZfejM5QThrZHYwM3RwMF9lVnJFZjMtWWttYlVTa3BqVDJCLTRfNVBGR2pHUTZHVGZnTXV5a3l1WGMzblJxNFlWTWNSaTN6M3Z6S2hRZEFIV3RSdVQza0FLYWFYR2tJMWFsemhhcTJ4WC1oWnF5M0FkQWstb2tlMVNDWTdPNkFpeGxxbmcxXzFhMS01Nk5sczNfQ0pfLW1JLVdyYjBwUVh3blBBQzZQb3dreWZRMWIzWjgwMk1B?oc=5"
+              "source": "finance.yahoo.com",
+              "title": "Bitcoin and ethereum prices today, Monday, September 7, 2026: Crypto investors on rate watch",
+              "link": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxOUUJSR2lrNHNxVzNfVFg2cEZzNEI5emlGWGJYNjAzTnVwNmIzd2Q2dVBxd2hWM3plbmhmNENOcXZlLVdRdlRhTDlOb1l0STFDY0JsUzRZaEQ5UHVPbEw2U0kzUkxMcEI4eWw2bVBxUDN0d0hGaFF4dXBNT0ZTQUlXMVhOMW5MaUhTcFRuZUQ4dWhUQ0czVEdWNXRqRVRZZHIxNzBVUUVzNGs1SUlvRVhRdDg2WklKUWpyeEdRLUtoelhtQWx3d1lvZDNwUXZIT0ZWTUY5MWl6dDVtdGJEdkNuMU1DTnNQazV2dFp2M2tNSUNqNHpBU1I0?oc=5"
             }
           ]
         },
         {
-          "title": "Bitcoin Wallet Moves 600 BTC After 16-Year Dormancy [2026]",
-          "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9ubC1CQUNiTFFWcDY3eEhlS2Uzc1R6Yzd5OTV3UXEzb3RzaGpaYnZ2RjBBbHZVZVdLYXJmc2NIOUcxS1BYenpmU3dDVWlKNkh0UG0zNW9qa3JxS0JwTDUxNk1LTzQ3Z3dEOVFHQ2EzQkZZemtqLWNfTU9PbGg?oc=5",
-          "date": "Tue, 08 Sep 2026 00:54:10 GMT",
-          "summary": "Bitcoin Wallet Moves 600 BTC After 16-Year Dormancy [2026] shattered.io",
-          "publisher": "shattered.io",
-          "_via": "news.google.com",
-          "source": "shattered.io",
-          "_hash": "241d5232677eae27",
-          "_ageHours": 3,
+          "title": "Bitcoin slips under $79,000, Zcash leads losses as Fed hike odds hold near 60%",
+          "link": "https://www.coindesk.com/markets/2026/09/08/bitcoin-slips-under-usd79-000-zcash-leads-losses-as-fed-hike-odds-hold-near-60",
+          "date": "Tue, 08 Sep 2026 04:40:57 +0000",
+          "summary": "Every major token fell on Tuesday, though most keep weekly gains, with traders pricing a 60% chance of a Fed hike next week.",
+          "publisher": "",
+          "_via": "coindesk.com",
+          "source": "coindesk.com",
+          "_hash": "b4c867683a8e4636",
+          "_ageHours": 0,
           "_inWindow": true,
-          "_score": 50.39214666666667,
+          "_score": 52.59537611111111,
           "_corrob": 1,
           "_cluster": [
             {
-              "source": "tradingview.com",
-              "title": "Satoshi-Era Bitcoin Wallet Moves 600 BTC After 16 Years",
-              "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQYkRyNl81YVF6Z0dvaXJlaHU1RGlUejg2cUpkallYLVkyU2xuV1BmOHFScXljMTA3b0dyOVo1X2RFdmpncGE2R3FfWmZDMDlYcURaTVgxTFBURnV4VVVvb1dWX1UzMUdKSHNNMGRYWVB1YnhiTzZZMzBodVhUd2R5ZHFiV3Q1ZTJtVEUtWXMwQmJzXzdTOEFGUTZ2XzZfeHlLMTM5cWFVbC1oV3FoNjZrOHZVYw?oc=5"
+              "source": "lcx.com",
+              "title": "Bitcoin slips under $79,000, Zcash leads losses as Fed hike odds hold near 60%",
+              "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOYzVZMnl1a0E5aWdEZkNWdzF0QmYtMS1GM1V6N2VEUS1CdnZSQk11ODNrWDdmWmF6RG0tN1N5UHJXSy1PbDktQmtabFQtQTBGbEdsWVFuRU9ibG0yMldFN1dzWGxwMW5jWHRraGRJSnFNRXVWYXBuZjQweVhtd18zVkx3TkZGRGZBbTVjLWZNVnNvM3BfTnBZN2tTY3pRTmVwWVVESDNfTQ?oc=5"
+            },
+            {
+              "source": "coindesk.com",
+              "title": "Bitcoin slips under $79,000, Zcash leads losses as Fed hike odds hold near 60%",
+              "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNektSNVlCR2QyTUo2VjJSb1ZRckcxUEFkN0lGc0ZsM2h3NFVnNjVVSkpCUnI4WGVCWEdKM2NrOFlscXNsVHZNcHhYbng4dmF6YkFsdy1PanpmMFJRb0FBWWhMLXJWUlZxcDlkQUFBYUtlekFZTXRKSUhSd3pmdFNxSzlfbU55d0VGMi12U3QzZ0Z1NTVrYl81T2dHLU4yZmhwN1ltZl9ZcDZTZXRnMGlTb0tEUmhqSVl0cUVjVi01OA?oc=5"
+            },
+            {
+              "source": "coindesk.com",
+              "title": "Weekend altcoin rally runs out of road as bitcoin slips",
+              "link": "https://www.coindesk.com/markets/2026/09/07/weekend-altcoin-rally-runs-out-of-road-as-bitcoin-slips"
+            },
+            {
+              "source": "coindesk.com",
+              "title": "Weekend altcoin rally runs out of road as bitcoin slips: Crypto Markets Today",
+              "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQa1c1emFnM1oxTjlaaXgtSW9valJ5Q3g2dDJyUzJ0M3pmazVraEZNQ2FJbDJtQmxwYXZJVTljN0ZDakk4eUNIbmZDQko0RF9NWXg4QXFKLUtnbFVveUxVd2hmUXc4YmI4OGFCUXA1eUQzdVZEWWhta1BnYk5TN1ZnSGNQOEUycGw4LUV5T0JkNkNaVGR5d25iNTFfam0xb1Zj?oc=5"
+            },
+            {
+              "source": "coindesk.com",
+              "title": "No, Friday's jobs report hasn't materially boosted Fed rate hike odds",
+              "link": "https://www.coindesk.com/markets/2026/09/07/no-friday-s-jobs-report-hasn-t-materially-boost-fed-rate-hike-odds"
+            },
+            {
+              "source": "coindesk.com",
+              "title": "Live updates: Bitcoin holds $79,000 as hike odds climb, zcash runs 45% in a week",
+              "link": "https://www.coindesk.com/business/2026/09/07/live-updates-bitcoin-holds-usd79-000-as-hike-odds-climb-zcash-runs-45-in-a-week"
+            }
+          ]
+        },
+        {
+          "title": "Ethereum aims for quantum-safe L1 by 2029 as Hegotá upgrade takes form",
+          "link": "https://www.theblock.co/news/ecosystems/2026-09-08-ethereum-foundation-quantum-resistance-2029-413716",
+          "date": "Tue, 08 Sep 2026 04:17:21 +0000",
+          "summary": "Ethereum is targeting full post-quantum security by 2029, starting with account abstraction and censorship resistance upgrades for Hegotá.",
+          "publisher": "",
+          "_via": "theblock.co",
+          "source": "theblock.co",
+          "_hash": "93f7b67b390121c4",
+          "_ageHours": 1,
+          "_inWindow": true,
+          "_score": 52.20204277777778,
+          "_corrob": 1,
+          "_cluster": [
+            {
+              "source": "cointelegraph.com",
+              "title": "Ethereum Foundation names 2 ‘must ship’ EIPs for Hegotá upgrade",
+              "link": "https://cointelegraph.com/news/ethereum-foundation-names-2-must-ship-eips-for-hegot-upgrade?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound"
             }
           ]
         },
@@ -619,9 +802,9 @@
           "_via": "cointelegraph.com",
           "source": "cointelegraph.com",
           "_hash": "725aaf4f9bf37c1c",
-          "_ageHours": 9,
+          "_ageHours": 10,
           "_inWindow": true,
-          "_score": 50.385758055555556,
+          "_score": 48.809264999999996,
           "_corrob": 1,
           "_cluster": [
             {
@@ -640,9 +823,9 @@
           "_via": "theblock.co",
           "source": "theblock.co",
           "_hash": "bf9526508f36c6f6",
-          "_ageHours": 14,
+          "_ageHours": 16,
           "_inWindow": true,
-          "_score": 49.500479999999996,
+          "_score": 47.92398722222222,
           "_corrob": 2,
           "_cluster": [
             {
@@ -666,9 +849,9 @@
           "_via": "cointelegraph.com",
           "source": "cointelegraph.com",
           "_hash": "a2e738bb8d4b7a73",
-          "_ageHours": 10,
+          "_ageHours": 11,
           "_inWindow": true,
-          "_score": 49.45603583333333,
+          "_score": 47.87954277777778,
           "_corrob": 1,
           "_cluster": [
             {
@@ -687,9 +870,9 @@
           "_via": "news.google.com",
           "source": "fool.com",
           "_hash": "b82f706726496b33",
-          "_ageHours": 4,
+          "_ageHours": 5,
           "_inWindow": true,
-          "_score": 49.23936888888889,
+          "_score": 47.66287583333333,
           "_corrob": 1,
           "_cluster": [
             {
@@ -703,59 +886,33 @@
               "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOTm5pdXRQN3B4Q0RDN2dKTHRpTWJGU1ltcy1xcWliUGpVQ0trelVvOExrcjJpR1dDZFFZc29fOWo1ZXh4TUJtSVBpT3pxOUUyNXN1aTZSV1hvbWZNTkRZMk9EYThJalJDei1lOHZYdUhqSFBleDF3bjQtVzZmZkVFbi1tc1dQZ3VvWklrbms5ZmhYV19EVWpEMXJJUWl4RXZZSFM2bw?oc=5"
             }
           ]
-        },
-        {
-          "title": "UK financial watchdog weighs lifting prediction markets ban: Report",
-          "link": "https://cointelegraph.com/news/uk-financial-watchdog-prediction-markets-ban?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-          "date": "Mon, 07 Sep 2026 20:40:17 +0000",
-          "summary": "Companies offering binary options for retail investors have been barred from selling, marketing and distributing products in the UK since 2019 following a directive from the FCA.",
-          "publisher": "",
-          "_via": "cointelegraph.com",
-          "source": "cointelegraph.com",
-          "_hash": "e7759271e614fee9",
-          "_ageHours": 7,
-          "_inWindow": true,
-          "_score": 46.160758055555554,
-          "_corrob": 1,
-          "_cluster": [
-            {
-              "source": "coindesk.com",
-              "title": "UK regulator weighs easing financial prediction market ban: Times",
-              "link": "https://www.coindesk.com/policy/2026/09/07/uk-regulator-weighs-easing-financial-prediction-market-ban-times"
-            },
-            {
-              "source": "coindesk.com",
-              "title": "Prediction markets inch closer to the Supreme Court: State of Crypto",
-              "link": "https://www.coindesk.com/news-analysis/2026/09/06/prediction-markets-inch-closer-to-the-supreme-court-state-of-crypto"
-            }
-          ]
-        },
-        {
-          "title": "Bitcoin Is Stuck Under $82,000. What Does That Mean for XRP, Ethereum and Solana?",
-          "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNbmVRSlgtTF9uLVZOcEdxUHlua2pOZjJ2OHZQQzNuNUpRb1JDdXlDcnFod3dmNkRuc3lYSG9LNGhETkdvaEc4Um4wVWNxOFBIOWJXUWlpMmJnMnlkaFlMMW56Wi1uZEk2cXUxX3RQaFpHSmxXdW1qdzZVb2pyMHdBUXZOZ3R0eEpHb3Fwd2lhOWlnSF96SkE?oc=5",
-          "date": "Mon, 07 Sep 2026 19:06:25 GMT",
-          "summary": "Bitcoin Is Stuck Under $82,000. What Does That Mean for XRP, Ethereum and Solana? Yahoo Finance",
-          "publisher": "finance.yahoo.com",
-          "_via": "news.google.com",
-          "source": "finance.yahoo.com",
-          "_hash": "8e74b658463f8c08",
-          "_ageHours": 8,
-          "_inWindow": true,
-          "_score": 44.596313333333335,
-          "_corrob": 1,
-          "_cluster": [
-            {
-              "source": "247wallst.com",
-              "title": "Bitcoin Is Stuck Under $82,000. What Does That Mean for XRP, Ethereum and Solana?",
-              "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQcEhORUhZUEd0VVgwV1MyZlZoUHUyeDdIek1sM2JqQklKcXMyWkxnSGhhU0xjTmM5dF9xS2s3VTR4UXhScnlENlltVVRFbktub2k5ekZsWkMxaUowcVQyZU1SMElZQTJiWUluQnBuTXNwOGIwN0ljVjhWZ2F4VmpUMXJjZ0ZTVldibmUzQlk3bG16TGNNRDRiSVpfWHplSEl3SGhQOTY5YjBzYkNOVVFIMjY3Y0JNa1A5MC1BdkdSc2t2OFQxNWE4dTF4VXdsTnAt?oc=5"
-            }
-          ]
         }
       ]
     },
     "biotech": {
       "name": "Biotech & Longevity",
       "candidates": [
+        {
+          "title": "Longeveron to present cell therapy progress at HC Wainwright conference",
+          "link": "https://longevity.technology/news/longeveron-to-present-cell-therapy-progress-at-h-c-wainwright-conference/",
+          "date": "Mon, 07 Sep 2026 13:46:10 +0000",
+          "summary": "Longeveron will present at the H.C. Wainwright 28th Annual Global Investment Conference, running from 14 to 16 September 2026 in New York City, with the company’s presentation scheduled for Monday, 14 September, from 1:00 to 1:30 p.m. Eastern Time, and a webcast available via the company’s events and presentations page. Longeveron is a clinical-stage biotechnology [&#8230;] The post Longeveron to present cell therapy progress at HC Wainwright conference appeared first on Longevity.Technology .",
+          "publisher": "",
+          "_via": "longevity.technology",
+          "source": "longevity.technology",
+          "_hash": "9a4a403791ad4656",
+          "_ageHours": 15,
+          "_inWindow": true,
+          "_score": 49.67854027777778,
+          "_corrob": 1,
+          "_cluster": [
+            {
+              "source": "chemanager-online.com",
+              "title": "Northway Biotech Opens €61 Million Cell Therapy and Personalized Medicine CDMO",
+              "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOZEVrUXZ1ZHRabGNCME93Uzd6Q0VIZFFpTFRjWmhFbG9Qa0RvbHZyVC02WlZYa0RfMEVuVVZLV3Eyc0NWcFVIeW80SnZmZ3E4Y3ZSdi1wa25ESGNkT0g0RHphM0FCbGlNQ1EwRHFOeWdaOU5mc3NtaWtrSDl4ekhCOWFJV0p1eU9IUXVjcEp4Skh4di1JajlvYWpvbXRySzRzQllJamF0bThBckZieXhnTzRGYmZHdw?oc=5"
+            }
+          ]
+        },
         {
           "title": "STAT+: Novo Nordisk stops two cardiovascular trials of drug aimed at lowering inflammation",
           "link": "https://www.statnews.com/2026/09/07/novo-nordisk-heart-studies-inflammation-ziltivekimab/?utm_campaign=rss",
@@ -765,57 +922,15 @@
           "_via": "statnews.com",
           "source": "statnews.com",
           "_hash": "705d2965b33d5004",
-          "_ageHours": 16,
+          "_ageHours": 18,
           "_inWindow": true,
-          "_score": 42.720287222222225,
+          "_score": 41.14020722222222,
           "_corrob": 1,
           "_cluster": [
             {
               "source": "endpoints.news",
               "title": "Updated: Novo Nordisk cans 2 more trials of IL-6 heart drug for futility",
               "link": "https://endpoints.news/novo-nordisk-cans-two-more-trials-of-il-6-heart-drug-for-futility/"
-            }
-          ]
-        },
-        {
-          "title": "Kazakhstan, Hong Kong ‘can build biotech unicorns by linking talent and capital’",
-          "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxPN0RoUjZDUzlGZEREMmRMMFNwTl9WRUYzSHhVYTAxdDBubzZVZlVudkhmcHFyTFdhZEJERVRBRVY3RDNvWWVwV05QWWNuS2RnUUpOeU5TQkc2V19iRm56LTlFZFNuS1ltbnFPMzRmY3VmRlpRVFVuTm9PZTUyVElUU2tMc1RoTVVyQUU5VFEycGVjaXFvQ2twTHlHOVNIbF9xLVBISklrNFAzcExxbUszejd0U2haSloyaEZBYjg0R1Y5ZzFFdFFGRFBXRGNKLV90TmhRVHZWTkdIZ2Jv0gHcAUFVX3lxTE1LUncwdk5QYWdhbWsxaE9tU1FheVB5SXZxSU40djR2RTdyYjBzbjFvWDVhNVBKb0IxMFFtLWtuQ0tzOGFXQ0pBOFpFVmVoVzl0YTVNTjF1R2hGaVk1b2E5ODVvR19XWGtmajJOZXM5dkc3SEs1X0R1SzR3WmZDYmRTYmwxOHFFcnVvZ3ByUUFkMVZlS0ZfNnV4aVlEN3dBVDRmTVJMTUxMVWJFY3NNWjBjMFhIQVFlZ0gtS0NCSUNvNHlvSVFpQzVBOW9QallzNWJvSG02RjRqSDlxWmg?oc=5",
-          "date": "Mon, 07 Sep 2026 15:53:57 GMT",
-          "summary": "Kazakhstan, Hong Kong ‘can build biotech unicorns by linking talent and capital’ South China Morning Post",
-          "publisher": "scmp.com",
-          "_via": "news.google.com",
-          "source": "scmp.com",
-          "_hash": "0db3bf89d5b633f7",
-          "_ageHours": 12,
-          "_inWindow": true,
-          "_score": 41.3883425,
-          "_corrob": 1,
-          "_cluster": [
-            {
-              "source": "finance.biggo.com",
-              "title": "David Craig: The $70,000-a-Month Plan to Build a Biotech Without VCs",
-              "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5XSWhOX3hVRmI1aWF3TE9hZGZGYVNEQ05IZVZyMTd1R19PV0w4VUxuMU5CSjUybU9iMmFmS1pKNkFFQVBReGVvMWwxWXM4akUtdXZXbE9LRFE1SFk?oc=5"
-            }
-          ]
-        },
-        {
-          "title": "Australian biotech Immuron takes gut health treatment to the US market",
-          "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQWW1GSm9wTGlaMEM4SGtDeW01XzExckVNQ1NGNV9SZFJOQXd2Wlh4TjVwaG41YWpEUlRXMHc4eDlJNk4zbUVXYTZ0dHFpMDREeWNBY1dSVl95cGQxU2tGTmFaS19oakRxU0xuVkZqUm9ybFZFTzk4WGxhLXprWFp4UVhKUEVnTkJQdWlkZWFxRERVaUg0TFMtRkQyRWZXSTVyTVliNkpQSmZuUQ?oc=5",
-          "date": "Mon, 07 Sep 2026 02:33:35 GMT",
-          "summary": "Australian biotech Immuron takes gut health treatment to the US market BiotechDispatch",
-          "publisher": "biotechdispatch.com.au",
-          "_via": "news.google.com",
-          "source": "biotechdispatch.com.au",
-          "_hash": "54a174b7ab240a16",
-          "_ageHours": 25,
-          "_inWindow": true,
-          "_score": 28.04889777777778,
-          "_corrob": 1,
-          "_cluster": [
-            {
-              "source": "afr.com",
-              "title": "Big pharma eyes Australian biotech as $300b patent cliff looms",
-              "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPYUJEcjJmRUlTS1BNaEZ6SVlhaGFOYUZhSkdwMnZIOWl4cmVuelBNOHY3NXBUaHIzZ042UXo3X3hrZ0VPcjllS1AtQnlDX3V6dUdKbDFjNFdwN2J2MkV2MmFtVi1PRDRkVGRwV2F2R0RVQWdzbzZCU1lyZjdEZGRrcmdkNGlId1Z3aHBVbDZGT0p4cUV1TjhDbnhGcVRDc2Z4ZUhUSWJuOG5GVExBY3lVXzRhUHYtMENDUHR2MlBDTV9qRlg0c0Vjb1F3?oc=5"
             }
           ]
         },
@@ -845,6 +960,27 @@
       "name": "Energy",
       "candidates": [
         {
+          "title": "RFAs: First Nations Clean Energy Projects – Pilot Grants (Australia)",
+          "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOd2E0aHc4Y0ZycUZ0ek0yaG91SDJkWlhaeWFTR2MxZUlLdUtyQ3pGUW1zSDM4dkZ3dFd0RUdfNVFJOEQyQXlxLWo0WTZRY3JHcDh2TnJRdzBLY01IQlljSDczSW1xUWpZRFJfQ0J3X0pOOW5DNHJDU080VG5mdGxvRE4tSnhhWVlBRk5YeUQ1YnR0Sm5OampDdkVzbGtwRG9vT2Fad1FZdW5oS3lV0gGyAUFVX3lxTE5ZZEdqTFdfdHNyM1EwdXppR3VEVFZkell2TmNXLThuS3dBUTNtUnN1SzBVVTNDN1VVZll5eTlsSTd0SVQ1bzc1bm1GYUdWY0lWWGJoRmF5VW96RzZJU2VmbW1TTXFJeWpsTGt1YzJCc0FLMFZRU0Z2Y242dUxvX0VqaF9XZGk1bTlma1Y3cGxyZHN5MDA5bnlCM0hRV2podHB4U3ZDTFRLWEctMm9fc0FnSFE?oc=5",
+          "date": "Mon, 07 Sep 2026 16:19:07 GMT",
+          "summary": "RFAs: First Nations Clean Energy Projects – Pilot Grants (Australia) fundsforNGOs",
+          "publisher": "www2.fundsforngos.org",
+          "_via": "news.google.com",
+          "source": "www2.fundsforngos.org",
+          "_hash": "360d0b392c045242",
+          "_ageHours": 13,
+          "_inWindow": true,
+          "_score": 46.22731111111111,
+          "_corrob": 1,
+          "_cluster": [
+            {
+              "source": "theclimatewatch.com",
+              "title": "CGN showcases global clean energy projects at Shenzhen sustainability conference",
+              "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQUkdtdXEtd3BRdXppYzVoWE5sY01DNHYwV0lTNlM5UXcydnZUVzdWQ1lsVWxnUWxydXdpVEpYOEhpMFBGZl9YQVN2bVJ0djZMR2V1WnpOb2E1RmxtUzNvTm8tdzE0NlM5R2J3VkNuWkRJUi1qV0F5VE96NHg4WFVDNnJsWjR4NmpfTUtxcnR4SFVFS3d6dkxfMEZOSG1QWXQ0X0ZJUkZlZkRQNnRXYmc?oc=5"
+            }
+          ]
+        },
+        {
           "title": "2 Nuclear Energy Stocks to Buy in September",
           "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxObGNPanBkUExDMmVnQnNxRUc4cnViOHY3b2t3dEpNSHFlOTlBdWpGQW1wazdoWXNPTEZTUklpeXg4MWJ4VTdFblU1QXk4eklRWFN4SmFkR0RVbEhiQ2Fhc2dWa25ZaDNTMFpNUXJfQnl5dzN4UGo4SGdyajljZVllYjUzeVlwUkJFRTFTQzRCTQ?oc=5",
           "date": "Sun, 06 Sep 2026 13:00:00 GMT",
@@ -853,9 +989,9 @@
           "_via": "news.google.com",
           "source": "fool.com",
           "_hash": "ee6af04a908829b8",
-          "_ageHours": 39,
+          "_ageHours": 40,
           "_inWindow": true,
-          "_score": 14.488836388888892,
+          "_score": 12.908700000000003,
           "_corrob": 1,
           "_cluster": [
             {
