@@ -1,6 +1,6 @@
 {
   "date": "2026-09-12",
-  "generatedAt": "2026-09-12T03:30:37.910Z",
+  "generatedAt": "2026-09-12T04:54:56.184Z",
   "pillars": {
     "ai": {
       "name": "Artificial Intelligence",
@@ -14,52 +14,11 @@
           "_via": "openai.com",
           "source": "openai.com",
           "_hash": "8b98ffa290de39a3",
-          "_ageHours": -44,
+          "_ageHours": -43,
           "_inWindow": true,
-          "_score": 98.48928305555555,
+          "_score": 97.08420277777778,
           "_corrob": 0,
           "_cluster": []
-        },
-        {
-          "title": "Researchers say OpenAI agents were behind May hacking campaign targeting RubyGems",
-          "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9lcy1xZi1weWVGMWJNTmowUVgtTUZmekRPaXY0YkhtUU8zaTNkRWwwTnc0c3NOck80NW85dEdrZ1ZZN0RGbkUxYnllVjJmVmhEcVNkaWRPNU8zb3pBcjVzWjhMbkpxTEJTZkV3SndIdzd0VU0?oc=5",
-          "date": "Sat, 12 Sep 2026 01:50:32 GMT",
-          "summary": "Researchers say OpenAI agents were behind May hacking campaign targeting RubyGems CyberScoop",
-          "publisher": "cyberscoop.com",
-          "_via": "news.google.com",
-          "source": "cyberscoop.com",
-          "_hash": "e698be6fc3a78ccf",
-          "_ageHours": 2,
-          "_inWindow": true,
-          "_score": 71.33150805555556,
-          "_corrob": 5,
-          "_cluster": [
-            {
-              "source": "siliconangle.com",
-              "title": "Researchers link another hacking campaign to OpenAI agents",
-              "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQLWNjc1NvUzJGbi1aZ205SHFjV2hBVUt6LUhhZXpkOUZYQXp4Z19FVWREbUNnZnJyaFVYOEFWSE9Gb3ZBdU5FLUdUTUxSaW9aUldXazRUY2hwdHRYUTdDenQ3RnFoWjhxRzR4QmVNaW0tNkxGZUlCcTAyX2N4OXBhTFVBLW1iMG0yOHdfVU01NWxaS1dDel91RUlZSQ?oc=5"
-            },
-            {
-              "source": "newscord.org",
-              "title": "OpenAI Says 10,000 AI Agents Solved Navier-Stokes, Sparking Credit Dispute With Tristan Buckmaster",
-              "link": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxOYnphTkV3TVJ2c1RablBLdkMxSFFnTXhmWlVqbGpsY2EtTVpIRWlUTm5oMWY5eDBHQTVGZHFyZ1RuOHVMdFhyTEh4eDdBc3JhY2Ezd2NOT2FMc1E0SEsxVUoxcnlleGdMTWVDODhoZ2ZSanJUcFRCWEEzS0V3RnliX0FZVElNdTQ4WlNTSGdwblBTNVVGMmcwWHIxenNkZkxTSVVsaksxdHVLZEU3aUdEWGFiRDhxOUQ0ZHEwR3hzeTdtN1I0UlZpcEQ5enpxNDJzcHkzczlLVGwtOTFiaWJ6cW9xTTFOWDhUbGc?oc=5"
-            },
-            {
-              "source": "washingtonexaminer.com",
-              "title": "Rogue OpenAI agents hacked another software service months before Hugging Face cyberattack",
-              "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOM3BoaDY3em5ON2hIdmhQT2NmYzl4NnJISFVEV3l5Z2swZ1VBYW93cmpFS2NrV29sRnk5WDM2bHd3VW9kWDF5NnVvbzZvNlRWZ3lXTkNRQkl1T2lHY1B2aVhieEUzWll6VzYzRTh2VkN3ZnVMamtKcWJKMEpSRm04RWJZbjNsVk94Yl91SV9ESDBaLVh0S0ZhcWU0QnVCdnJWOHYwMFd2MWE?oc=5"
-            },
-            {
-              "source": "ksl.com",
-              "title": "OpenAI agents attacked RubyGems before Hugging Face incident, researchers say",
-              "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNaXBfX04tY3hGNnVwa3U0enkzSGZDanZRQ0loVVVHRVpGRW9VaEtuN0xlUVE0ejVzVWh2RzZMNTlGSXhocWRLaDRVRWdXVlh1d0FVbjhDMVlUYkNrN2FPV2FWR2dkQlFwcWl4ZFJkbDRxT3Z1NFhwVjRUblpHazVpQTc4ZEhXa05yTDZZcjdZdnJvX3VvVUtVVHdkLTdvU0taSDc0WlhpRVVkM3BKRzN3YmFfdw?oc=5"
-            },
-            {
-              "source": "reuters.com",
-              "title": "OpenAI agents attacked RubyGems before Hugging Face incident, researchers say",
-              "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNV2F3RkRiVXZra3BTMExtX3lNVHBEV0xTbkxBMXNwaDVIOGtkeXJEWXRxeEd3dDlLbW5kOUdrQlFnXzVZTk9YRXMxdFRRVGpfR0puUjkyYXozVHJsVXVHTlhSNDVyZjlxMkVwNnU0a2pMMzdOSTdsaTJ4d2E2R1FLbU8wb0VVbW9GUzRsa0VTYUJhN24yRDNTTmtnYkpRUHVlN002SG54czB5UzRsTEtMLUxSSVgyN19xcnRwaGowODRJMXk3ZVNwRDNB?oc=5"
-            }
-          ]
         },
         {
           "title": "Anthropic Says Iran-Linked Actor Used Claude to Compile U.S. Navy Targeting Data",
@@ -70,9 +29,9 @@
           "_via": "news.google.com",
           "source": "gcaptain.com",
           "_hash": "2551bf2d51ffaaf8",
-          "_ageHours": 6,
+          "_ageHours": 7,
           "_inWindow": true,
-          "_score": 67.3734525,
+          "_score": 65.96837111111111,
           "_corrob": 5,
           "_cluster": [
             {
@@ -111,9 +70,9 @@
           "_via": "search.cnbc.com",
           "source": "search.cnbc.com",
           "_hash": "f8fd15248a50153e",
-          "_ageHours": 11,
+          "_ageHours": 13,
           "_inWindow": true,
-          "_score": 63.59789472222222,
+          "_score": 62.192814444444444,
           "_corrob": 3,
           "_cluster": [
             {
@@ -139,38 +98,33 @@
           ]
         },
         {
-          "title": "An Anthropic researcher’s doomsday warning comes at a very interesting time",
-          "link": "https://techcrunch.com/podcast/an-anthropic-researchers-doomsday-warning-comes-at-a-very-interesting-time/",
-          "date": "Fri, 11 Sep 2026 18:41:49 +0000",
-          "summary": "An Anthropic researcher resigned this week,&#160;warning in a post on X&#160;that the company is “racing straight to self-improving superintelligence and gambling with our lives”.&#160;The company&#8217;s own alignment&#160;lead&#160;even&#160;co-signed the message&#160;rather than walking it back.&#160;It&#8217;s&#160;the kind of&#160;doomer&#160;warning the AI industry has flirted with before, but the timing, with Anthropic reportedly&#160;preparing for&#160;an IPO, makes it land differently.&",
-          "publisher": "",
-          "_via": "techcrunch.com",
-          "source": "techcrunch.com",
-          "_hash": "65317af4191f048b",
-          "_ageHours": 9,
+          "title": "Researchers say OpenAI agents were behind May hacking campaign targeting RubyGems",
+          "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9lcy1xZi1weWVGMWJNTmowUVgtTUZmekRPaXY0YkhtUU8zaTNkRWwwTnc0c3NOck80NW85dEdrZ1ZZN0RGbkUxYnllVjJmVmhEcVNkaWRPNU8zb3pBcjVzWjhMbkpxTEJTZkV3SndIdzd0VU0?oc=5",
+          "date": "Sat, 12 Sep 2026 01:50:32 GMT",
+          "summary": "Researchers say OpenAI agents were behind May hacking campaign targeting RubyGems CyberScoop",
+          "publisher": "cyberscoop.com",
+          "_via": "news.google.com",
+          "source": "cyberscoop.com",
+          "_hash": "e698be6fc3a78ccf",
+          "_ageHours": 3,
           "_inWindow": true,
-          "_score": 59.18622777777777,
-          "_corrob": 4,
+          "_score": 59.926426666666664,
+          "_corrob": 3,
           "_cluster": [
             {
-              "source": "ien.com",
-              "title": "Anthropic Researcher Resigns with Warning About Dangers of AI Development",
-              "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPTUNZVk5YUjA4TlhWWkNlRkczWF9TT3dUakpPTW5UVzRxOFNvWHpiM2M5ckdnbElIdHNsZzljTXR0MUw5MF93RUFvQ01nYlhFdGhsUnVxSVlXT0lsaC16ZVExYjA5NEczSl8zX1RydEZNOEtlUnk3Wl9BZlRZQm91MUFuNFBLZ1pzU1FPS0sxSTFOMTJDRld1QUkzMTRuS2hyODhSMkxsRzVNY1RjaThyRDdoTTNIMXE2X0xZeDNxVlJ6QmdfQlEycmczWQ?oc=5"
+              "source": "siliconangle.com",
+              "title": "Researchers link another hacking campaign to OpenAI agents",
+              "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQLWNjc1NvUzJGbi1aZ205SHFjV2hBVUt6LUhhZXpkOUZYQXp4Z19FVWREbUNnZnJyaFVYOEFWSE9Gb3ZBdU5FLUdUTUxSaW9aUldXazRUY2hwdHRYUTdDenQ3RnFoWjhxRzR4QmVNaW0tNkxGZUlCcTAyX2N4OXBhTFVBLW1iMG0yOHdfVU01NWxaS1dDel91RUlZSQ?oc=5"
             },
             {
-              "source": "yahoo.com",
-              "title": "Firestorm ensues after Anthropic researcher resigns over fears AI could 'kill us all' in 10 years",
-              "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQTjY5OG5ITVZCejZtWm5PQ2p6bjE5b0JjZkN4VTlUZnVYZ1hIblVkQl91SWw1MWFhM05Dd3ZMVTZTWDRseDV3LVZMWmxNQlR3TUNfTlh4UUtiYWVDSUJrRFVlcEV3RHdoaGM3NWJmU2V4Z3A2dGpuNzl4czAxRFlvNWFtMGRQZ21iOTM2MTd0MGVyYzV5Ql8tcWM1dGVIN2h4M3ZaMHpvYw?oc=5"
+              "source": "newscord.org",
+              "title": "OpenAI Says 10,000 AI Agents Solved Navier-Stokes, Sparking Credit Dispute With Tristan Buckmaster",
+              "link": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxOYnphTkV3TVJ2c1RablBLdkMxSFFnTXhmWlVqbGpsY2EtTVpIRWlUTm5oMWY5eDBHQTVGZHFyZ1RuOHVMdFhyTEh4eDdBc3JhY2Ezd2NOT2FMc1E0SEsxVUoxcnlleGdMTWVDODhoZ2ZSanJUcFRCWEEzS0V3RnliX0FZVElNdTQ4WlNTSGdwblBTNVVGMmcwWHIxenNkZkxTSVVsaksxdHVLZEU3aUdEWGFiRDhxOUQ0ZHEwR3hzeTdtN1I0UlZpcEQ5enpxNDJzcHkzczlLVGwtOTFiaWJ6cW9xTTFOWDhUbGc?oc=5"
             },
             {
-              "source": "amherstindy.org",
-              "title": "Anthropic Researcher Quits, Citing Internal Fears That AI ‘Could Kill Us All’ This Decade",
-              "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOMUNsUFE5YTA0TFhlbjN6QXhvS2d6Tnc5aWQxNHVLZ2IyV1lfcXpWVjdVbHZLNDZ4aG9Xekxvb3haalphVnZDemw4YlVJU2UwRFJhQ0k3M3FWU0t4dDNGbXpuVU1oSFl3Y0oxUHZHYnhIeTNTUEtrZzJiNEZJbFFqRDhfeklZYzVfUThkcU1makVWeWl2ZUlPSTFWZEI1UmwxTEs1UENSOGZzRGRyUkg5ei1oMHF2cDREdjhjOE1aY2ZRcnEz?oc=5"
-            },
-            {
-              "source": "businessinsider.com",
-              "title": "Hugging Face CEO on Anthropic researcher's AI warning: 'Like asking your AC guy about climate change'",
-              "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNUzFCUmNvWE5fZ21VMHNUOXY1NmVWUmlMMVV4eVI4Z0IxYmZ4RjdpSk1OMXlmWkduZnVUc0YwNFlUMWh6Vnc0SUh5RzBiRTFtUDlPcFBwQkJlc2dqNVh1WUREQVU2Y2pVTnBlWW95YVZZc1JyYzZlckF4R3ZkQmJmc183LU9WdGdOcUlfel80R04?oc=5"
+              "source": "reuters.com",
+              "title": "OpenAI agents attacked RubyGems before Hugging Face incident, researchers say",
+              "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNV2F3RkRiVXZra3BTMExtX3lNVHBEV0xTbkxBMXNwaDVIOGtkeXJEWXRxeEd3dDlLbW5kOUdrQlFnXzVZTk9YRXMxdFRRVGpfR0puUjkyYXozVHJsVXVHTlhSNDVyZjlxMkVwNnU0a2pMMzdOSTdsaTJ4d2E2R1FLbU8wb0VVbW9GUzRsa0VTYUJhN24yRDNTTmtnYkpRUHVlN002SG54czB5UzRsTEtMLUxSSVgyN19xcnRwaGowODRJMXk3ZVNwRDNB?oc=5"
             }
           ]
         },
@@ -183,9 +137,9 @@
           "_via": "news.google.com",
           "source": "kdvr.com",
           "_hash": "5b45f7bc55ac58f7",
-          "_ageHours": 4,
+          "_ageHours": 5,
           "_inWindow": true,
-          "_score": 58.97261805555556,
+          "_score": 57.5675375,
           "_corrob": 3,
           "_cluster": [
             {
@@ -214,15 +168,46 @@
           "_via": "wired.com",
           "source": "wired.com",
           "_hash": "c22b229daab029da",
-          "_ageHours": 9,
+          "_ageHours": 10,
           "_inWindow": true,
-          "_score": 56.47956083333334,
+          "_score": 55.07448083333333,
           "_corrob": 1,
           "_cluster": [
             {
               "source": "techcrunch.com",
               "title": "Mecka AI nears $500M valuation in Sequoia-led deal amid rush for robot training data",
               "link": "https://techcrunch.com/2026/09/11/mecka-ai-nears-500m-valuation-in-sequoia-led-deal-amid-rush-for-robot-training-data/"
+            }
+          ]
+        },
+        {
+          "title": "Hawley Opens OpenAI Probe Over Hugging Face Security Incident",
+          "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQaXRUNkstVGE1QVpPZGp5NVJodlhMMlpDdVJQUlFZOHhsbTdtT2VFYWpUal9IRjBNVVI2cFR2OFVybWlnZ18xbkFCQ29BeEdrZ3lxTmk2clExM2lwX2w2WXNXY016WXlBejJCWVpYeUVvdnFmNzZLUTlRMG42YmJNTkZIaFB1clpSRV93RUN3RDhGSTN6THBfbWJ1Njk?oc=5",
+          "date": "Fri, 11 Sep 2026 20:09:35 GMT",
+          "summary": "Hawley Opens OpenAI Probe Over Hugging Face Security Incident MeriTalk",
+          "publisher": "meritalk.com",
+          "_via": "news.google.com",
+          "source": "meritalk.com",
+          "_hash": "206ead798d4ceeb8",
+          "_ageHours": 9,
+          "_inWindow": true,
+          "_score": 54.24392666666667,
+          "_corrob": 3,
+          "_cluster": [
+            {
+              "source": "stltoday.com",
+              "title": "Josh Hawley adds OpenAI to his probe of artificial intelligence",
+              "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQVUxnVlVDbW9uWGR1WFFPLTNtR2RNUFJmTGpCNzBseldGajFUNExKSEc0SjEtUE9PSkFZT2lKUGhFNjZlNjVpVU83QXBIUlpsV2wyTHlIcmNfTTZCQVMzcElaODRBYVhjekF3VjNjWTEwWHpTLW9fb1c5SXo5XzJWM3NEQ2IyUjZ3bTB4d0g1TW10d0c0VjZILTdqNTJhcmNWZG9VZXI2Y3U?oc=5"
+            },
+            {
+              "source": "pbs.org",
+              "title": "Senators from both parties question OpenAI on breach of AI startup Hugging Face",
+              "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPb3BaMFRFbXBRVUVEZndyS2E3SjNUc2R1QkJrTmVHMmZ5akVNQ3A2YlBNVDIxbUxOU21Zb2xRMVV1WjNsRWZJTXB3dEVuYm9FaUNUUlhrZkJPUzVxbEtyempTYUxFdEk1dGFGQ2pmSkFFejhuZkg3TDFZOXotS0VFaDNna01FVGctdExlSmFzMzh3NEJHRUpMb01DNEhGWDR5eXd6ckJBQlNhV2tEVFRscVY4cXNmYkdh?oc=5"
+            },
+            {
+              "source": "axios.com",
+              "title": "Scoop: OpenAI faces GOP-led Senate investigation into Hugging Face breach",
+              "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPUzAxcDNBRHlrZTNxWHFxenpIaHNmUjBkaUZhRjc1Mm9DNU44TE5DMzNTUDNZTDc0YmJqTmJVQzE2VFhNY1d6OVVhU2RZN0xXem1tU0VrdlF3UVBOOWc0dG5GdWhURllfTDBtRFY4dGMzZndZOE45bWdnZDh2SmVzY1lLM1Eta00?oc=5"
             }
           ]
         },
@@ -235,9 +220,9 @@
           "_via": "news.google.com",
           "source": "finance.biggo.com",
           "_hash": "c0a0d673087e31fc",
-          "_ageHours": 9,
+          "_ageHours": 10,
           "_inWindow": true,
-          "_score": 55.25595111111111,
+          "_score": 53.85087055555556,
           "_corrob": 2,
           "_cluster": [
             {
@@ -253,6 +238,69 @@
           ]
         },
         {
+          "title": "OpenAI confirms AI agents disrupted software service during testing: Report",
+          "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNUWFfSktQcXEtM1haQ0FVVEE4UU15QXc2NnZFUkdpcmpELW9qUkNUUFRzeThjcV9uWEZyWVVUZlVhNVhNRGZKNU9nb3VHa1AyX09CdlRiQ0didGVvNHBMbXVHNk50RWZlT1c2VEFDZlg3VmxzR2dLbXZKVFBRUFdXU0lqemZhVjNtT3ZqWFByd3NhbThySDVBWjFYejdLM1BTcTJxWE5GVnN5Z3pVTTg2UXljZ1lWUGROM1p3bHJBa3dvWHcxNWN1MUxISQ?oc=5",
+          "date": "Sat, 12 Sep 2026 04:13:19 GMT",
+          "summary": "OpenAI confirms AI agents disrupted software service during testing: Report Anadolu Ajansı",
+          "publisher": "aa.com.tr",
+          "_via": "news.google.com",
+          "source": "aa.com.tr",
+          "_hash": "06e345ca8f511024",
+          "_ageHours": 1,
+          "_inWindow": true,
+          "_score": 52.30614888888889,
+          "_corrob": 1,
+          "_cluster": [
+            {
+              "source": "washingtonexaminer.com",
+              "title": "Rogue OpenAI agents hacked another software service months before Hugging Face cyberattack",
+              "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOM3BoaDY3em5ON2hIdmhQT2NmYzl4NnJISFVEV3l5Z2swZ1VBYW93cmpFS2NrV29sRnk5WDM2bHd3VW9kWDF5NnVvbzZvNlRWZ3lXTkNRQkl1T2lHY1B2aVhieEUzWll6VzYzRTh2VkN3ZnVMamtKcWJKMEpSRm04RWJZbjNsVk94Yl91SV9ESDBaLVh0S0ZhcWU0QnVCdnJWOHYwMFd2MWE?oc=5"
+            }
+          ]
+        },
+        {
+          "title": "Oracle Adds $700 Million to Restructuring Bill as AI Data Center Spending Strains Cash Flow",
+          "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9vY25XLWZfdENiRUxOU2xJQ0ZiVUU3VUcwMERyMmdxeXE2TEctSlFpVVpHN2x4QW83cV9BeFVIR245V192akQxZTE4TFd1NHJuQXUzeGVWb2ZkcnZuLWZNQlRpS0JHeXQyVEJNc2VhY1hSRDVyV2c?oc=5",
+          "date": "Sat, 12 Sep 2026 04:05:00 GMT",
+          "summary": "Oracle Adds $700 Million to Restructuring Bill as AI Data Center Spending Strains Cash Flow finance.biggo.com",
+          "publisher": "finance.biggo.com",
+          "_via": "news.google.com",
+          "source": "finance.biggo.com",
+          "_hash": "e03ddd16ed3ec2d8",
+          "_ageHours": 1,
+          "_inWindow": true,
+          "_score": 52.16753722222222,
+          "_corrob": 1,
+          "_cluster": [
+            {
+              "source": "finance.yahoo.com",
+              "title": "Oracle Reportedly Expands Restructuring Plan by $700M As AI Data Center Costs Mount",
+              "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPcVM3TFR1bkFrVjJFWXlsa1ZnbVgtNTVwVnNNT2lVcjVfT1Z0bThlVXhnUG14TVJqLWV0cE9pOEhFNHFXQ1g1RTIxVFFPdXBkVy1MUVQ3cXo0akJua0o0YnJCRXlRQkpNZDFqbU8wdG9xZHRZeE5SMWU0SWVPaEVDeTRsSEZIUHZEM3dwZy1STWs2cUhiTWF1cEFxWGlCWTFQeGRfWXoyVFdIbWVU?oc=5"
+            }
+          ]
+        },
+        {
+          "title": "[Insight] Why Nvidia Is Bringing Rival AI Chips Into Its Ecosystem",
+          "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE56bmF6bUxVUzVMUHYzSERuU290eWpHa2hIYTNQYjJwYnJPcmFJMTRNQzROSkhScUV0UmdueTRXVGs5cm1yUExnREtFZ2N3ZjRWTWo4eFNkemlsOEc3dDRBeGtGVVFyZmZUSmF5bUFjTjQ?oc=5",
+          "date": "Sat, 12 Sep 2026 04:01:00 GMT",
+          "summary": "[Insight] Why Nvidia Is Bringing Rival AI Chips Into Its Ecosystem Korea IT Times",
+          "publisher": "koreaittimes.com",
+          "_via": "news.google.com",
+          "source": "koreaittimes.com",
+          "_hash": "93b7d67f95e07cb6",
+          "_ageHours": 1,
+          "_inWindow": true,
+          "_score": 52.10087055555555,
+          "_corrob": 1,
+          "_cluster": [
+            {
+              "source": "finance.yahoo.com",
+              "title": "Nvidia Is Letting Rival AI Chips Into Its Racks. Astera Labs Could Be the Quiet Winner",
+              "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPQkRNUnVZc0JGMVdRZVUtWW5aX3FIbGFUa2F4SlE5LUFyc0ttQ2E3WktDMktsY01mNWl6d2dTbC1RQWhlVXF2QU1GN0s4Zk1iRGo5MXZMTDBmRWtRc0lvRUVYMjJoS2R2RXo2SUlxdWg3Y2NpZkRnd0R2bFFiSW1haTNMcldaSTh5cGRPU3hGQVcwMXpQbjRHZw?oc=5"
+            }
+          ]
+        },
+        {
           "title": "Anthropic says it blocked potential AI bioweapon misuse",
           "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxONmpDUGdRRWdXOWY2bUphX3p5clo2M2JQd2NmX2JqSG5ILVRBUjJkWEk0VXp6TXVCeXRGa0JVV0RaQWl6ZXZnWlhja2g5YkNYbjhSeEdPWlZMMHByTDVsUzM4VEFnNTBSX2VxclZzYmhnWXV5akoyQ196MHNOTzl2dFM1RncyQWg2X09QdW9ra3FValRLb2pseVZOREktV3MzNEFlSk42MmotcG1GTl9CMkFMUQ?oc=5",
           "date": "Fri, 11 Sep 2026 22:44:33 GMT",
@@ -261,9 +309,9 @@
           "_via": "news.google.com",
           "source": "ruralradio.com",
           "_hash": "29e0c7117ba5e9fb",
-          "_ageHours": 5,
+          "_ageHours": 6,
           "_inWindow": true,
-          "_score": 53.231785555555554,
+          "_score": 51.826704166666666,
           "_corrob": 2,
           "_cluster": [
             {
@@ -275,74 +323,6 @@
               "source": "abcnews.com",
               "title": "Anthropic says it blocked potential AI bioweapon misuse - ABC News - Breaking News, Latest News and Videos",
               "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNcHNiU2w4UlN0ZmswWlFZZHBCTFpzZW02U3RNQ29wVUJKQ2NsM2xjV1d4U0dtYjVhWUpmM1N3dm5HYkg3a1ZaMWlYUVdSMFN1SjlfOEt1bVZGNWdMLXFNcGpIZnhjT1FqNVZHdWR0QU40YWs5NlFzY01aekNoaTBja2lfUjRlODJ0c29ObjU2b2c2OHc0OTZQTzFZNNIBoAFBVV95cUxNdFdUcWN0blhrMU85WE55cGo2aldZRTIwT1lxZlA1a2tSS3lUNnJPTFlwRktnZlR0alhrNjlCX1J4T21CMlUwZEItRGhuVTZOajNpNHRoczNsek5nS2RuSTQ4MFFzZUFHRl9Ja01UVUg2VTlUVVozWFA3TVExSWp3d0daZm5KNWY1OHJWNTZEdHZ4ajlYdVF2aFJjVFRTcHZn?oc=5"
-            }
-          ]
-        },
-        {
-          "title": "California breaks ground with first AI and social media laws curbing teenage use in the nation",
-          "link": "https://news.google.com/rss/articles/CBMiowJBVV95cUxPdXF3R0xxeGV5NHJQNXJRRHBndFdhVHR2WFFyLVNuaU1mRlpxVWc3djNzT0pnRlRTRkRjYTNFTzIyUTlJaTFtSUJYZG15UlJiZG5HVlI1b3c3RTNLWG00UGtYcmRqQ3F0Zmt4cV9obF96UEJCQXFwSXJlOW9jcllHeVowZ09lTE1IaDJyWDV5YkpQbV9JU08tMUNfV2xGRURpNXlqYkxrSmJQajB6NHUxd2E3Mnl3Ymwzb29MT19JRVhuRVBHWmp6SFFUOGFQNmFPSTFGby02amwzM0xYQ1JBMWpDT18zMHBMcWRjNUYzZm5LTTNOM2ZINk1IQ0V3T2V1cWt6S1R0dkN3QVBobWZkZ2hwcy1IQU5vX1MyTFhFdnB5TFU?oc=5",
-          "date": "Fri, 11 Sep 2026 21:00:00 GMT",
-          "summary": "California breaks ground with first AI and social media laws curbing teenage use in the nation CaloNews.com",
-          "publisher": "calonews.com",
-          "_via": "news.google.com",
-          "source": "calonews.com",
-          "_hash": "0618eedf69007357",
-          "_ageHours": 7,
-          "_inWindow": true,
-          "_score": 52.489284166666664,
-          "_corrob": 1,
-          "_cluster": [
-            {
-              "source": "riograndeguardian.com",
-              "title": "Fluidstack Breaks Ground on $4 Billion AI Data Center Campus in Cameron County Under Strict Protections",
-              "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOUUQtYkF1UEFkMFJtS3FKRUFJb1ZzOFdnUG15c2VNcGdhckxQcXlZOVdIZk9CU2t1TF92VVVwUjdXNUlXMTdqMzNhbVpxbGUyNVBkSmtzd2FsUm0wOWNiTVNIYjNwWkkteDFIVm5YcDJWSzFfenRGcHBIeElPODZJSFFvc0RtWjdsdUdhWmU1bXE4Q1N3MGF3MkYtVXpFakQ5ZFpNRWx3OS1zQjdveU1hREdndUxPSUdNYlp1aFl3U1pUYjh1YlJRMDltWW5oeVE?oc=5"
-            }
-          ]
-        },
-        {
-          "title": "Y Combinator&#8217;s Garry Tan wants US open-weight AI labs to &#8216;distill&#8217; frontier models, too",
-          "link": "https://techcrunch.com/2026/09/11/y-combinators-garry-tan-wants-u-s-open-weight-ai-labs-to-distill-frontier-models-too/",
-          "date": "Fri, 11 Sep 2026 20:59:47 +0000",
-          "summary": "Tan wants smaller, American open-weight AI labs to use the same kind of training techniques on American frontier AI labs, giving the U.S. a more robust set of open-weight options that aren’t Chinese.",
-          "publisher": "",
-          "_via": "techcrunch.com",
-          "source": "techcrunch.com",
-          "_hash": "6486f8fc21ebc6d9",
-          "_ageHours": 7,
-          "_inWindow": true,
-          "_score": 52.4856725,
-          "_corrob": 1,
-          "_cluster": [
-            {
-              "source": "mistral.ai",
-              "title": "Making sovereign, open-weight AI the technology frontier",
-              "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNRzU0cTlwNHctb0FiY092UVlJZFh4UmxsQ2lPLTdkVEU2SlRzVU12VzI2RGRYWEFqS2NMcVlXdXNTUGczTjFTbjZGMXY4bHhZYXN6bVpGQ0M0cndmMmthYjhUcGhPWlZsb1ZWeHhHOUdZWE93bTdUMjBNMzZQNTR6Mw?oc=5"
-            }
-          ]
-        },
-        {
-          "title": "Ayar Labs Expands 2026 Funding to $650M to Scale Manufacturing-Ready CPO for AI Scale-Up Beyond the Rack",
-          "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxON3FKaEJJZEVwTE9vdHFkdmhjWXg5bU9QSjhsNDhtZ2lFdmVtM1FGYTE5ejh0X1g2b2dDU2l5TVJVR2pJdThCZzczaHhQN3FHLUhFNFFwOHJqbDNYY1YtbEJBeDY5WjVrc3JiV0UzNU5xam1nXzNzX2VEMEo0Ukt0bkdaVHY1U1RybmV6dTUyclZlVG16YTY3MjdlN0NGbDZSajFiWi0xRUFSMTFSMVk0VjBOTlgxOWZFaVhGVXExMUNnQ3lyWktHa1E4TGdVY2NwMXpIZGNOX3c?oc=5",
-          "date": "Fri, 11 Sep 2026 15:39:48 GMT",
-          "summary": "Ayar Labs Expands 2026 Funding to $650M to Scale Manufacturing-Ready CPO for AI Scale-Up Beyond the Rack AI Insider",
-          "publisher": "theaiinsider.tech",
-          "_via": "news.google.com",
-          "source": "theaiinsider.tech",
-          "_hash": "4f1ed486116d8fb3",
-          "_ageHours": 12,
-          "_inWindow": true,
-          "_score": 52.15261805555556,
-          "_corrob": 2,
-          "_cluster": [
-            {
-              "source": "pulse2.com",
-              "title": "Ayar Labs Raises Additional $150 Million, Bringing 2026 Funding To $650 Million, To Scale AI Co-Packaged Optics",
-              "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPN0VJMGg1WW9tVzFrOHRlMGFkN25aSVo2V1VfOUNFMGhZZkswNFRBX0ZLMzJCdk1IZUNvM3hKWDRDVkRKclZPcjM2OW52S1FGakp5YV9saXRfcEt3eGdOWXkxUUh4dWJ2Ml9aMjFWMURxYVNOZU1WT2JWbHdPS05LYTRfVlFUMjJVMjJOQUdJeTVyOXB4ZWJTeTdYYkN6VUJLMUVWWDVvbkN2b0pJWDVEa04wZHV5TlZKdjlJVUt2RlRodVVTYkHSAcsBQVVfeXFMUFhQSHBjbUU0bzFKT0NSQk1jR2xwNFZVSjBnQ3o0RWNOV3hUazJScklsb3ozekFMak5DbDA5eU9XQVZhTi0yemxrMDBwdTRzQ05mZElrYl9EQzhqOFdYdGdkdndlTThnbnczR1RJa2dYeml3NGZmSzhmeS1PQWdXZ2VFZnVsUU5LaXN0V1BibEJFdXhjNnRjN01pekhIN3c1bHJvaTJuTTZHVUtJaDFFcWU4WmVlQUZEbHRveENVeHU0S1Q2aTFaNWtOVVk?oc=5"
-            },
-            {
-              "source": "siliconangle.com",
-              "title": "Ayar Labs bags $150M in additional late-stage funding to help make bigger AI chip clusters",
-              "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNV2drWlNHM2JkVE9IV0VPWHRna2JZU29NTV92YXJBdENOYVRmMWFtMFlTLW8ySmFzZE5HTlllMzZPcXhrblVSbjR3cXREbkJGMVdLZ0dUVlZTTGkya2pCWFRmb0tmV2pYZ3hBZU1JN1R0Ry0zUUdVM25pWUd1RXRRVTk2dFh3Wk9MNkRVRy1DdUZReWdZcnEtNnVsR0RQZ3ZWTm9VZXFyT3ctVVJRXzlJVmVDSXU1M3hYcW9qVllrY0VNQQ?oc=5"
             }
           ]
         }
@@ -360,9 +340,9 @@
           "_via": "news.google.com",
           "source": "moomoo.com",
           "_hash": "296f158a3fd096de",
-          "_ageHours": 3,
+          "_ageHours": 4,
           "_inWindow": true,
-          "_score": 81.07160166666667,
+          "_score": 79.66653722222222,
           "_corrob": 6,
           "_cluster": [
             {
@@ -411,9 +391,9 @@
           "_via": "space.com",
           "source": "space.com",
           "_hash": "01a13c8d1e676374",
-          "_ageHours": 5,
+          "_ageHours": 7,
           "_inWindow": true,
-          "_score": 53.600768611111114,
+          "_score": 52.195704166666665,
           "_corrob": 1,
           "_cluster": [
             {
@@ -437,9 +417,9 @@
           "_via": "nasa.gov",
           "source": "nasa.gov",
           "_hash": "993e21291f89e29d",
-          "_ageHours": 10,
+          "_ageHours": 12,
           "_inWindow": true,
-          "_score": 43.818824166666666,
+          "_score": 42.413759722222224,
           "_corrob": 0,
           "_cluster": [
             {
@@ -458,9 +438,9 @@
           "_via": "nasa.gov",
           "source": "nasa.gov",
           "_hash": "af34eeb066158715",
-          "_ageHours": 13,
+          "_ageHours": 14,
           "_inWindow": true,
-          "_score": 41.42937972222222,
+          "_score": 40.024315277777774,
           "_corrob": 0,
           "_cluster": [
             {
@@ -479,9 +459,9 @@
           "_via": "nasa.gov",
           "source": "nasa.gov",
           "_hash": "f2261deec6e647a2",
-          "_ageHours": 8,
+          "_ageHours": 9,
           "_inWindow": true,
-          "_score": 40.291601944444444,
+          "_score": 38.8865375,
           "_corrob": 0,
           "_cluster": []
         },
@@ -494,9 +474,9 @@
           "_via": "nasa.gov",
           "source": "nasa.gov",
           "_hash": "a0c03d8b3602a3f8",
-          "_ageHours": 12,
+          "_ageHours": 14,
           "_inWindow": true,
-          "_score": 35.57799083333333,
+          "_score": 34.17292638888889,
           "_corrob": 0,
           "_cluster": []
         },
@@ -509,9 +489,9 @@
           "_via": "news.google.com",
           "source": "eu-startups.com",
           "_hash": "165f06586042d085",
-          "_ageHours": 20,
+          "_ageHours": 21,
           "_inWindow": true,
-          "_score": 33.04410166666666,
+          "_score": 31.63903722222222,
           "_corrob": 1,
           "_cluster": [
             {
@@ -530,9 +510,9 @@
           "_via": "news.google.com",
           "source": "france24.com",
           "_hash": "c46e9d7ce7d23def",
-          "_ageHours": 30,
+          "_ageHours": 32,
           "_inWindow": true,
-          "_score": 32.583268333333336,
+          "_score": 31.178203888888888,
           "_corrob": 3,
           "_cluster": [
             {
@@ -566,9 +546,9 @@
           "_via": "nasa.gov",
           "source": "nasa.gov",
           "_hash": "68c00ca0420c7c82",
-          "_ageHours": 23,
+          "_ageHours": 25,
           "_inWindow": true,
-          "_score": 24.572435277777778,
+          "_score": 23.167370833333333,
           "_corrob": 0,
           "_cluster": []
         },
@@ -581,9 +561,9 @@
           "_via": "nasa.gov",
           "source": "nasa.gov",
           "_hash": "13579a4ea5729a66",
-          "_ageHours": 23,
+          "_ageHours": 25,
           "_inWindow": true,
-          "_score": 24.50576861111111,
+          "_score": 23.100704166666667,
           "_corrob": 0,
           "_cluster": []
         },
@@ -596,9 +576,9 @@
           "_via": "nasa.gov",
           "source": "nasa.gov",
           "_hash": "9ffa6d3a6dbba64c",
-          "_ageHours": 31,
+          "_ageHours": 32,
           "_inWindow": true,
-          "_score": 22.936879722222223,
+          "_score": 21.53181527777778,
           "_corrob": 0,
           "_cluster": []
         },
@@ -611,9 +591,9 @@
           "_via": "nasa.gov",
           "source": "nasa.gov",
           "_hash": "76ec7e23092a16f7",
-          "_ageHours": 34,
+          "_ageHours": 35,
           "_inWindow": true,
-          "_score": 13.959379722222224,
+          "_score": 12.554315277777775,
           "_corrob": 0,
           "_cluster": []
         }
@@ -631,9 +611,9 @@
           "_via": "bitcoinmagazine.com",
           "source": "bitcoinmagazine.com",
           "_hash": "58eb0c27c3f5a9ca",
-          "_ageHours": 6,
+          "_ageHours": 8,
           "_inWindow": true,
-          "_score": 57.71890527777778,
+          "_score": 56.31384722222222,
           "_corrob": 2,
           "_cluster": [
             {
@@ -654,47 +634,6 @@
           ]
         },
         {
-          "title": "Bitcoin Price Spikes, Shrugs off Hot US Inflation Data",
-          "link": "https://bitcoinmagazine.com/markets/bitcoin-price-spikes-on-hot-inflation-data",
-          "date": "Fri, 11 Sep 2026 15:46:05 +0000",
-          "summary": "Bitcoin Magazine Bitcoin Price Spikes, Shrugs off Hot US Inflation Data The price of bitcoin is up, despite the fact that an interest rate hike could be just around the corner. This post Bitcoin Price Spikes, Shrugs off Hot US Inflation Data first appeared on Bitcoin Magazine and is written by Mathew Di Salvo .",
-          "publisher": "",
-          "_via": "bitcoinmagazine.com",
-          "source": "bitcoinmagazine.com",
-          "_hash": "be05fc827fd0efe9",
-          "_ageHours": 12,
-          "_inWindow": true,
-          "_score": 57.25696055555555,
-          "_corrob": 3,
-          "_cluster": [
-            {
-              "source": "theblock.co",
-              "title": "Bitcoin, ether rise as inflation data does little to alter Fed interest rate outlook",
-              "link": "https://www.theblock.co/news/markets/2026-09-11-bitcoin-ether-rise-inflation-data-does-little-alter-fed-interest-rate-outlook-414287"
-            },
-            {
-              "source": "theblock.co",
-              "title": "Bitcoin, ether rise as inflation data does little to alter Fed interest rate outlook",
-              "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxONExiODJNOEwyWmprLUJJeDJKMG5qbG81M2U2SVNUTlFNVTgtZlhXUjZuUTdLVlo3N3lZa3RFZ0d1V1J1Nzd2b3hvWlI2cHpQNmFDRVFURGpZVVJybkNBQkdGQUJmQ0hYRkZNV1RxbjVUbU9yNFNNS29qUG8tSEE0QjVTazVZelF6Z0dvcjIyc0dmLUNFSnp3b0U5SUh0VVZpalhKQlp0RHJzZFcwbVIwSEZhX2NYdm1SUXJpV3RCaWdTLWRoekdvdjFVS0M?oc=5"
-            },
-            {
-              "source": "bitcoinmagazine.com",
-              "title": "Bitcoin Price Spikes, Shrugs Off Hot US Inflation Data",
-              "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNQXhreVgtNFY2YVV3eUtzX0ExeXlyanZFVXBvdUtQZ0s3MjdyamJBUEdzRk9RYk95Y0lIR21UNHVrb3FaODVJMm1yUUdGcGtuYml2eHNzVU1qc2tXOTFfN21pQW9hTUtMVWJuNVpnc1VUZkExYTRlalg0bWhURHp6bEcwUW0?oc=5"
-            },
-            {
-              "source": "decrypt.co",
-              "title": "Bitcoin Rises as Markets Digest Inflation Data Ahead of Fed Rate Decision",
-              "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE54dWdXS2NJQlhRSDNSODdjWTN1aDA3Mkx0ZXVLVmQ3UWVYenhuaXNKUUZzLVBsZzZNLU1JMU9ERV9WMVFrdzlCSHB5MUVMS0pVckh1TWFnTEhpeGFHaE5Xb1dldzJWcjNxR1ZBbmY5ODBoVUN1YXZvUDd5d9IBgwFBVV95cUxPYmY2ZjZOLUszQ0RqWG1Jdm44c3ZseV9Zc0xydkpCV1NtWG1VY3oxdzlVN053QkJQa0twLWstMl9MNmhRQklYb2xocmd2Tmc3cTYyX0xjSzBRUHNMd2RXUVBuZjNKdkdHcExGQVVrbEtnYkVsSmpPQWxYOUZ6X1BUNnJkRQ?oc=5"
-            },
-            {
-              "source": "finance.yahoo.com",
-              "title": "Bitcoin and ethereum prices today, Friday, September 11, 2026: Bitcoin falls below $77,000 with key inflation data on deck",
-              "link": "https://news.google.com/rss/articles/CBMinAJBVV95cUxOUDUtd29hQ1Vra3IzWDFybVpaUUtJZG5Da3R6RDFpT002ckJ0VkdLcjV5V0VBNTFneHhjOVdLNlZORUU2U1plZkd0bWdQOFRmZjJTcWFEbEMwSnlfWm5TZ0J6eGctdkgzVUtRNVQ1alNLdTN3aFRCVGhvN2NsQVl0RW16dkRNd1VtNEljdFhQU2lOMDlvd0FsNks3UTlfaVo5R3Z6cnM4RTNVYmI4V0dCWUxENUtJMDM1aUhhOF8zdzRLSTdselJsTEphTDZJRlhfQUYtTjB3VkVjT09leGVEaVRZM0ZtZ016YjZIZmh5SlctYTc0V0F5ZzIwQmtaeC0zUEF2eUIxUFZ3aTd0emwteDNlUUQyeFVLVVdkYw?oc=5"
-            }
-          ]
-        },
-        {
           "title": "Bitcoin Price Prediction: We Asked ChatGPT and Grok Where BTC Trades by the End of September",
           "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOTmM0SnBBQTJSeEdmV1IyYzhUYzZWQ3NXdnBoeHdGa081X2Q3TVRrUmh3LW8xR0xydWtaM1VTOUxzY19iaHRpWjdXaksxU0NURmYzTGlkOG1iRHJFSE8zSlJmUWhMc2hYMUhzRXFDNVNsUTNkQ2xYMnlEQ09NVk45SHF6b3VpelRCVUg3UFBCcEdmWGFqNnIxalhNTmJyd3ZGM1VjSmJ3?oc=5",
           "date": "Fri, 11 Sep 2026 22:25:43 GMT",
@@ -703,9 +642,9 @@
           "_via": "news.google.com",
           "source": "finance.yahoo.com",
           "_hash": "30cf3403062e0b1b",
-          "_ageHours": 5,
+          "_ageHours": 6,
           "_inWindow": true,
-          "_score": 52.91751611111111,
+          "_score": 51.512458055555555,
           "_corrob": 2,
           "_cluster": [
             {
@@ -749,14 +688,14 @@
           "title": "1 Popular Cryptocurrency Cathie Wood of Ark Invest Sees Soaring in Value by 1,490%",
           "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQUHlaTXVOTXhLeXVtSjQxcnl1bkVIeFRFVHZmVWhXRnZvOThFZDYxdjBKa21IWjE3RmZHekVXMWhMelU0MU1tRFlUSTJ0aGoxaXQzcDFKbFNLc05UX2pqaGhpQjlzeVBpMXJrQ2swRHNIOGNkRTNjN3BtQWMyUHJzSmhUNmZLaEtrUndhZ1ZTVnBneTlFeGxaaQ?oc=5",
           "date": "Fri, 11 Sep 2026 22:19:00 GMT",
-          "summary": "1 Popular Cryptocurrency Cathie Wood of Ark Invest Sees Soaring in Value by 1,490% The Motley Fool",
+          "summary": "1 Popular Cryptocurrency Cathie Wood of Ark Invest Sees Soaring in Value by 1,490% fool.com",
           "publisher": "fool.com",
           "_via": "news.google.com",
           "source": "fool.com",
           "_hash": "f623bb441f055148",
-          "_ageHours": 5,
+          "_ageHours": 7,
           "_inWindow": true,
-          "_score": 52.805571666666665,
+          "_score": 51.40051361111111,
           "_corrob": 2,
           "_cluster": [
             {
@@ -785,9 +724,9 @@
           "_via": "bitcoinmagazine.com",
           "source": "bitcoinmagazine.com",
           "_hash": "f1cbda39367f213f",
-          "_ageHours": 9,
+          "_ageHours": 10,
           "_inWindow": true,
-          "_score": 50.274183055555554,
+          "_score": 48.869125,
           "_corrob": 1,
           "_cluster": [
             {
@@ -806,9 +745,9 @@
           "_via": "cointelegraph.com",
           "source": "cointelegraph.com",
           "_hash": "a080f33fc4de39d3",
-          "_ageHours": 8,
+          "_ageHours": 9,
           "_inWindow": true,
-          "_score": 50.26223861111111,
+          "_score": 48.85718055555556,
           "_corrob": 2,
           "_cluster": [
             {
@@ -832,9 +771,9 @@
           "_via": "bitcoinmagazine.com",
           "source": "bitcoinmagazine.com",
           "_hash": "b285a0e0a8722655",
-          "_ageHours": 10,
+          "_ageHours": 11,
           "_inWindow": true,
-          "_score": 48.964460555555554,
+          "_score": 47.55940277777778,
           "_corrob": 1,
           "_cluster": [
             {
@@ -853,9 +792,9 @@
           "_via": "news.google.com",
           "source": "finance.yahoo.com",
           "_hash": "7dff159088e670ba",
-          "_ageHours": 5,
+          "_ageHours": 6,
           "_inWindow": true,
-          "_score": 48.13362722222222,
+          "_score": 46.72856916666667,
           "_corrob": 1,
           "_cluster": [
             {
@@ -874,9 +813,9 @@
           "_via": "news.google.com",
           "source": "finance.yahoo.com",
           "_hash": "5adf63753a78caa0",
-          "_ageHours": 5,
+          "_ageHours": 6,
           "_inWindow": true,
-          "_score": 47.98251611111111,
+          "_score": 46.57745805555555,
           "_corrob": 1,
           "_cluster": [
             {
@@ -895,9 +834,9 @@
           "_via": "cointelegraph.com",
           "source": "cointelegraph.com",
           "_hash": "7435889bc2c5c861",
-          "_ageHours": 20,
+          "_ageHours": 21,
           "_inWindow": true,
-          "_score": 45.27584972222222,
+          "_score": 43.87079166666666,
           "_corrob": 1,
           "_cluster": [
             {
@@ -911,14 +850,14 @@
           "title": "Bitcoin ETFs Are Roaring Again. Is Bitcoin a Buy at $80,000?",
           "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOU2hfWmJDTVZ3dTlVRjg1M2JzcE9aYlNnMk9vcjJqSjVwRDFQcTJiajVhMnVUZy1mb0ZQTDJJZ2REenNkakV2UFpyejZJV1J1SVY5UE1HRktXSlBsUldCT3hpcWpocVBZTDQ5Wm42SkNPNk14Q2ZOTUt1bm5QS0o1S0RDRnBNLTZFZ3RRN01PVFc5OGxUNjZmbA?oc=5",
           "date": "Fri, 11 Sep 2026 13:23:00 GMT",
-          "summary": "Bitcoin ETFs Are Roaring Again. Is Bitcoin a Buy at $80,000? The Motley Fool",
+          "summary": "Bitcoin ETFs Are Roaring Again. Is Bitcoin a Buy at $80,000? fool.com",
           "publisher": "fool.com",
           "_via": "news.google.com",
           "source": "fool.com",
           "_hash": "a31172435e7fdf69",
-          "_ageHours": 14,
+          "_ageHours": 16,
           "_inWindow": true,
-          "_score": 44.872238333333335,
+          "_score": 43.46718027777778,
           "_corrob": 1,
           "_cluster": [
             {
@@ -937,15 +876,41 @@
           "_via": "coindesk.com",
           "source": "coindesk.com",
           "_hash": "4b5ed07622e3b30c",
-          "_ageHours": 21,
+          "_ageHours": 23,
           "_inWindow": true,
-          "_score": 43.78084972222222,
+          "_score": 42.37579166666667,
           "_corrob": 1,
           "_cluster": [
             {
               "source": "moomoo.com",
               "title": "Bitcoin Volatility Anchors Wall Street: 24-Hour Market Aligns with Traditional Trading Hours",
               "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQajk1UU8zRlVUaDFNcDJhMmRLaS1NdWNOUVVOU0JNTDY0cXR5dzNWckMzYUdVajc5Qmc0RDNBdzZxcDBtQW5EQXdOcktDZS1fTFpKX3doRE1yeTdNUzQ0RmNUZGg2SGpuejBsLXZNSmU3eXB5NXllSUpoNjFTeHRJbEx5MUUtMG1QNVludnEwS3F4TzJIUUprZ3JWVFAxY3BlVVJJVUh4aU1odTA?oc=5"
+            }
+          ]
+        },
+        {
+          "title": "Bitcoin, ether rise as inflation data does little to alter Fed interest rate outlook",
+          "link": "https://www.theblock.co/news/markets/2026-09-11-bitcoin-ether-rise-inflation-data-does-little-alter-fed-interest-rate-outlook-414287",
+          "date": "Fri, 11 Sep 2026 17:40:54 +0000",
+          "summary": "Bitget analyst Lewis Huang noted the divergence between headline inflation accelerating on energy while core inflation continues to ease.",
+          "publisher": "",
+          "_via": "theblock.co",
+          "source": "theblock.co",
+          "_hash": "f9d91474ec4d6418",
+          "_ageHours": 11,
+          "_inWindow": true,
+          "_score": 41.76551388888889,
+          "_corrob": 1,
+          "_cluster": [
+            {
+              "source": "theblock.co",
+              "title": "Bitcoin, ether rise as inflation data does little to alter Fed interest rate outlook",
+              "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxONExiODJNOEwyWmprLUJJeDJKMG5qbG81M2U2SVNUTlFNVTgtZlhXUjZuUTdLVlo3N3lZa3RFZ0d1V1J1Nzd2b3hvWlI2cHpQNmFDRVFURGpZVVJybkNBQkdGQUJmQ0hYRkZNV1RxbjVUbU9yNFNNS29qUG8tSEE0QjVTazVZelF6Z0dvcjIyc0dmLUNFSnp3b0U5SUh0VVZpalhKQlp0RHJzZFcwbVIwSEZhX2NYdm1SUXJpV3RCaWdTLWRoekdvdjFVS0M?oc=5"
+            },
+            {
+              "source": "qz.com",
+              "title": "Bitcoin, Ether rebound as short liquidations hit $427 million",
+              "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBwS21sQ0RlNWhYREVhTjVEdGhnekF0SVVIZ3V3VUxoSXMtS0t6dUlDMGVYenpPeTZEM1ItdDhNZGdNLWlQa2pvQXhYcXVfNjRPOFNLYXFiYS1PY2ZreHVMajRQUHhSNlJ2UUVIcmktOA?oc=5"
             }
           ]
         }
@@ -963,9 +928,9 @@
           "_via": "news.google.com",
           "source": "finance.yahoo.com",
           "_hash": "e82ed6f56a51f66d",
-          "_ageHours": 2,
+          "_ageHours": 4,
           "_inWindow": true,
-          "_score": 70.50194972222222,
+          "_score": 69.10039499999999,
           "_corrob": 5,
           "_cluster": [
             {
@@ -996,53 +961,17 @@
           ]
         },
         {
-          "title": "Genflow’s gene therapy turns back aging in dogs",
-          "link": "https://longevity.technology/news/genflows-gene-therapy-turns-back-aging-in-dogs/",
-          "date": "Fri, 11 Sep 2026 16:54:19 +0000",
-          "summary": "A SIRT6 gene therapy trial in senior beagles hit its primary endpoint, lowering biological age and offering a test bed for human medicine. Old dogs make surprisingly good stand-ins for aging humans. They live in our homes, eat roughly what we eat, breathe the same air and develop many of the same age-related conditions we [&#8230;] The post Genflow’s gene therapy turns back aging in dogs appeared first on Longevity.Technology .",
-          "publisher": "",
-          "_via": "longevity.technology",
-          "source": "longevity.technology",
-          "_hash": "bcc7cbca85b9f730",
-          "_ageHours": 11,
-          "_inWindow": true,
-          "_score": 65.39056916666667,
-          "_corrob": 2,
-          "_cluster": [
-            {
-              "source": "longevity.technology",
-              "title": "Genflow’s gene therapy turns back aging in dogs",
-              "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNYUh6b3NwajY3ZDhxSmxzRkluWDB1ZUxUM283Rlp4cmxnd2gydjc4YjhSTmpxaFZMbGFmSjNGUlRKLVl1MWtlc2swV21XUHJiYzBEcW1Bb1BWX2lLNnZTM3ZtejhjTGp3ejROcXowM1NubWRyV2hRVzBxTzIzTWpkRllGczNtZjMt?oc=5"
-            },
-            {
-              "source": "longevity.technology",
-              "title": "FDA accepts review for Nanoscope’s one-time vision loss gene therapy",
-              "link": "https://longevity.technology/news/fda-accepts-review-for-nanoscopes-one-time-vision-loss-gene-therapy/"
-            },
-            {
-              "source": "newsfilecorp.com",
-              "title": "Frost & Sullivan presents the \"GLOBAL GENE THERAPY CRDMO TECHNOLOGY INNOVATION LEADERSHIP AWARD\" to PackGene Biotech Inc.",
-              "link": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxPNkd0X2RhRF92Y3dvWXdPYXY2UzZSZk02Y205NGY5cFNPMmpNeXprV1gyWHc3ZUNZN0F2dWZWaVJPdlBnSFZyNXBWT25Rd3BiY0JmR1hSRmlZalRIbV82VzJNNlRROGZZMG4tazh2S1hoRDE1b2EwVjBPYzEzTHNvSGRUb3llN093Z2c2N2xiajJ6TWE2d2p5dHRtTjBDMlZyMEVIbHVKZ1pSUzQ1Q0ZPb0ZwdWthZHlrSllWazVHRGlhQkZWaloySUNhRjlUTjdxYXZiWkh0c2xrZFNuM3pESG9mcl96R0F5cm1LWUo2VkhzUQ?oc=5"
-            },
-            {
-              "source": "statnews.com",
-              "title": "What to expect from UniQure’s upcoming Huntington’s gene therapy readout",
-              "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQUWFYd2w5cTVSbllfWnAzT0l4ODVpaG5kclF4clhFTGVpX2ttVmRubVZNZXJreGdZTWRCbXc5enNqaDNJWXZpRUhJSEhDZWF0SDVLY3pkZFhZeWJUMjU0WGhtOWNvSl9BWVVhbHpiM1dXVWN6YlIwMGtta2ZfeFdfbkEzemN0RjVhWGNJ?oc=5"
-            }
-          ]
-        },
-        {
           "title": "US study examines link between bat longevity and immunity",
           "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNcUtra3F3TUJFTXd6RF9VZEVob08zNE1TQzhPWU9aMEQwVFRNOVVHUWFyNzJQeVh0bVdIWVItc1I2TXRxVDFRV19GWEFmYTNfUXl5aVdtUzRZR0J0LUNkWXdZc0FRVG1oaF9paEtFMXU0bVV1TFFmcW12MjM2SU1zekxrUGliZ2kwM3FUTg?oc=5",
           "date": "Sat, 12 Sep 2026 00:46:38 GMT",
-          "summary": "US study examines link between bat longevity and immunity UA.NEWS",
+          "summary": "US study examines link between bat longevity and immunity ua.news",
           "publisher": "ua.news",
           "_via": "news.google.com",
           "source": "ua.news",
           "_hash": "7ce8ae095357b3f9",
-          "_ageHours": 3,
+          "_ageHours": 4,
           "_inWindow": true,
-          "_score": 56.262505,
+          "_score": 54.86095,
           "_corrob": 1,
           "_cluster": [
             {
@@ -1053,17 +982,17 @@
           ]
         },
         {
-          "title": "Biotech Startups Qualify for R&D Tax Credits More Often Than They Realize, K-38 Consulting Reports",
+          "title": "Biotech Startups Qualify for R&D Tax Credits More Often Than They Realize, K-38 Consulting Reports - daily-tribune.com",
           "link": "https://news.google.com/rss/articles/CBMimAJBVV95cUxOd0d6aGJGVDM3OHlfYWNxYTE3Q05RX050RlVGNmE3OUJNOEk2WmhjYTdhVlJlSDQtS29LVjhuQXpSX0VlblF2Y0lhdTJlY004czhHRFFuTE1jMXBnOUZSVlZ6aXFmcWJ6MENCZkNCd3dudzJoaG5BWV9pZ01pcjRkVllYM3ljLUlpMzZHZFBGc0RRZVhiaGNZN3BRNjNNcURUT1BnOXRuUE83bkdDcFR5cTRVT1FLSUVGTHVfTjFqbnlUZkpLUVNJMTlieEc1aUJSbFdYR2JEbnp0bDBtcE9KWDVlekZvYmFjRVNVMlN1VTBERG9fTk5nbTNORlJ5ckxyT1JuUk1iek0xTVlMSXBjbG4tMlpHelBE?oc=5",
           "date": "Sat, 12 Sep 2026 01:20:02 GMT",
-          "summary": "Biotech Startups Qualify for R&D Tax Credits More Often Than They Realize, K-38 Consulting Reports The Daily Tribune News",
+          "summary": "Biotech Startups Qualify for R&D Tax Credits More Often Than They Realize, K-38 Consulting Reports daily-tribune.com",
           "publisher": "daily-tribune.com",
           "_via": "news.google.com",
           "source": "daily-tribune.com",
-          "_hash": "dce9042fbda816dd",
-          "_ageHours": 2,
+          "_hash": "3a6c7b62379f6ef6",
+          "_ageHours": 4,
           "_inWindow": true,
-          "_score": 55.81917194444444,
+          "_score": 54.41761694444445,
           "_corrob": 2,
           "_cluster": [
             {
@@ -1079,6 +1008,32 @@
           ]
         },
         {
+          "title": "Genflow’s gene therapy turns back aging in dogs",
+          "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNYUh6b3NwajY3ZDhxSmxzRkluWDB1ZUxUM283Rlp4cmxnd2gydjc4YjhSTmpxaFZMbGFmSjNGUlRKLVl1MWtlc2swV21XUHJiYzBEcW1Bb1BWX2lLNnZTM3ZtejhjTGp3ejROcXowM1NubWRyV2hRVzBxTzIzTWpkRllGczNtZjMt?oc=5",
+          "date": "Fri, 11 Sep 2026 16:54:46 GMT",
+          "summary": "Genflow’s gene therapy turns back aging in dogs Longevity.Technology",
+          "publisher": "longevity.technology",
+          "_via": "news.google.com",
+          "source": "longevity.technology",
+          "_hash": "5363ec10618660f4",
+          "_ageHours": 12,
+          "_inWindow": true,
+          "_score": 51.99650555555556,
+          "_corrob": 2,
+          "_cluster": [
+            {
+              "source": "newsfilecorp.com",
+              "title": "Frost & Sullivan presents the \"GLOBAL GENE THERAPY CRDMO TECHNOLOGY INNOVATION LEADERSHIP AWARD\" to PackGene Biotech Inc.",
+              "link": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxPNkd0X2RhRF92Y3dvWXdPYXY2UzZSZk02Y205NGY5cFNPMmpNeXprV1gyWHc3ZUNZN0F2dWZWaVJPdlBnSFZyNXBWT25Rd3BiY0JmR1hSRmlZalRIbV82VzJNNlRROGZZMG4tazh2S1hoRDE1b2EwVjBPYzEzTHNvSGRUb3llN093Z2c2N2xiajJ6TWE2d2p5dHRtTjBDMlZyMEVIbHVKZ1pSUzQ1Q0ZPb0ZwdWthZHlrSllWazVHRGlhQkZWaloySUNhRjlUTjdxYXZiWkh0c2xrZFNuM3pESG9mcl96R0F5cm1LWUo2VkhzUQ?oc=5"
+            },
+            {
+              "source": "statnews.com",
+              "title": "What to expect from UniQure’s upcoming Huntington’s gene therapy readout",
+              "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQUWFYd2w5cTVSbllfWnAzT0l4ODVpaG5kclF4clhFTGVpX2ttVmRubVZNZXJreGdZTWRCbXc5enNqaDNJWXZpRUhJSEhDZWF0SDVLY3pkZFhZeWJUMjU0WGhtOWNvSl9BWVVhbHpiM1dXVWN6YlIwMGtta2ZfeFdfbkEzemN0RjVhWGNJ?oc=5"
+            }
+          ]
+        },
+        {
           "title": "Takeda's R&D chief Andy Plump to retire; Novo Nordisk appoints global research head",
           "link": "https://endpoints.news/takedas-r-novo-nordisk-appoints-global-research-head/",
           "date": "Fri, 11 Sep 2026 11:00:06 +0000",
@@ -1087,9 +1042,9 @@
           "_via": "endpoints.news",
           "source": "endpoints.news",
           "_hash": "cf14c26d399b5985",
-          "_ageHours": 17,
+          "_ageHours": 18,
           "_inWindow": true,
-          "_score": 47.486958333333334,
+          "_score": 46.085395,
           "_corrob": 2,
           "_cluster": [
             {
@@ -1113,14 +1068,14 @@
           "title": "Russell Crowe Talks Career Choices & Longevity: “I’ve Mismanaged My Relationship With Hollywood But Always To My Benefit” – Venice",
           "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9MZjFLaHhYSjV5bnkwaHdHRi0xWjc0UmhSc2gzUWF5OWlOSTcxX09xMUFSRkNaUXdnenk2UjBpeC1mQVNmbl9vSzIzd2stVC0wSmxmaEJfLTA0STdBR2lnelVuV09ENFk?oc=5",
           "date": "Fri, 11 Sep 2026 15:59:40 GMT",
-          "summary": "Russell Crowe Talks Career Choices & Longevity: “I’ve Mismanaged My Relationship With Hollywood But Always To My Benefit” – Venice imdb.com",
+          "summary": "Russell Crowe Talks Career Choices & Longevity: “I’ve Mismanaged My Relationship With Hollywood But Always To My Benefit” – Venice IMDb",
           "publisher": "imdb.com",
           "_via": "news.google.com",
           "source": "imdb.com",
           "_hash": "0519b095220d8aeb",
-          "_ageHours": 12,
+          "_ageHours": 13,
           "_inWindow": true,
-          "_score": 47.47972722222222,
+          "_score": 46.07817222222222,
           "_corrob": 1,
           "_cluster": [
             {
@@ -1139,9 +1094,9 @@
           "_via": "news.google.com",
           "source": "houstonpress.com",
           "_hash": "7312d3e36cd11d72",
-          "_ageHours": 12,
+          "_ageHours": 13,
           "_inWindow": true,
-          "_score": 47.39389416666667,
+          "_score": 45.99233916666667,
           "_corrob": 1,
           "_cluster": [
             {
@@ -1160,9 +1115,9 @@
           "_via": "endpoints.news",
           "source": "endpoints.news",
           "_hash": "a9e784f989495494",
-          "_ageHours": 12,
+          "_ageHours": 14,
           "_inWindow": true,
-          "_score": 46.85445833333333,
+          "_score": 45.45289527777778,
           "_corrob": 1,
           "_cluster": [
             {
@@ -1181,9 +1136,9 @@
           "_via": "endpoints.news",
           "source": "endpoints.news",
           "_hash": "850402915db24afb",
-          "_ageHours": 11,
+          "_ageHours": 13,
           "_inWindow": true,
-          "_score": 46.52334722222222,
+          "_score": 45.121784166666664,
           "_corrob": 2,
           "_cluster": [
             {
@@ -1222,9 +1177,9 @@
           "_via": "news.google.com",
           "source": "azfamily.com",
           "_hash": "0ed6eaa71faf2cb4",
-          "_ageHours": 24,
+          "_ageHours": 25,
           "_inWindow": true,
-          "_score": 45.10194944444444,
+          "_score": 43.70039444444444,
           "_corrob": 3,
           "_cluster": [
             {
@@ -1253,9 +1208,9 @@
           "_via": "statnews.com",
           "source": "statnews.com",
           "_hash": "ae05e5320e933404",
-          "_ageHours": 16,
+          "_ageHours": 17,
           "_inWindow": true,
-          "_score": 43.20751416666667,
+          "_score": 41.805950833333334,
           "_corrob": 1,
           "_cluster": [
             {
@@ -1266,28 +1221,27 @@
           ]
         },
         {
-          "title": "Alzheon outlines plans for major fundraising round despite Phase 3 miss for Alzheimer's drug",
-          "link": "https://endpoints.news/alzheon-outlines-plans-for-major-fundraising-round-despite-phase-3-miss-for-alzheimers-drug/",
-          "date": "Fri, 11 Sep 2026 15:01:59 +0000",
-          "summary": "Alzheon, a biotech that has been attempting to treat Alzheimer's with a checkered drug candidate for more than a decade, is plotting a major fundraise. The Framingham, MA-based biotech outlined an up to $500 million ...",
+          "title": "Frazier Life Sciences nets $1.1B in long-running fund aimed at small, midsize biotechs",
+          "link": "https://www.fiercebiotech.com/biotech/frazier-life-sciences-rallies-11b-aimed-small-and-midsize-public-biotechs",
+          "date": "Sep 10, 2026 9:45am",
+          "summary": "Frazier Life Sciences (FLS) has stacked up another sizable biotech-focused capital commitment, netting more than $1.1 billion for its long-running public fund.",
           "publisher": "",
-          "_via": "endpoints.news",
-          "source": "endpoints.news",
-          "_hash": "b4a8ea2b58aeeea1",
-          "_ageHours": 12,
+          "_via": "fiercebiotech.com",
+          "source": "fiercebiotech.com",
+          "_hash": "56ed2fa182b29f1d",
           "_inWindow": true,
-          "_score": 40.51834722222222,
+          "_score": 17,
           "_corrob": 1,
           "_cluster": [
             {
-              "source": "longevity.technology",
-              "title": "Alzheimer’s drug now comes as a home injection",
-              "link": "https://longevity.technology/news/alzheimers-drug-now-comes-as-a-home-injection/"
+              "source": "biospace.com",
+              "title": "Frazier adds $1.1B+ to small and mid-sized biotech fund",
+              "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPTTNhRVQ3WXVEVUNieU8wZmlSZ21ZUmM4NjZVak5ENXV0cG4wUHBQNmlDYWU0ZEdDYndRWHVGUFNaeFU1WGJhRi1ETG83dXNKWUNTQkEzdUZtT21tUUMtNTlxangxVUZUT3dPZ2dGS3o3U2ZEWWxtcjNmcU9RMW1XZnNuOTU5UFdhYXZ2U21SRkw?oc=5"
             },
             {
-              "source": "longevity.technology",
-              "title": "Alzheon reports Phase 3 win with an Alzheimer&#8217;s treatment targeted at high-risk genetic carriers",
-              "link": "https://longevity.technology/news/alzheon-reports-phase-3-win-with-an-alzheimers-treatment-targeted-at-high-risk-genetic-carriers/"
+              "source": "fiercebiotech.com",
+              "title": "Frazier Life Sciences nets $1.1B in long-running fund aimed at small, midsize biotechs",
+              "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxObXVXSDF3cXBLWi1iODlHZWJHMGNqMEVpdFlQVE15QjFMZklaczJza3dZcU5CZnZfUUhIX003VmQtemZ6aGdSUDZnMGJmal9aMFAzb29tc0dwNDh6TTlabWRxMUM4dGd2SXRPSk1LNTJBZFo1ZldIdjJ5SzNhVVBlQ0hXeWU2R0VXVDlZaEQ4R29HM1gwR3l6QXp3ZFdoM29IUHBhMXpVSG9wbkw1RWZ0dw?oc=5"
             }
           ]
         }
@@ -1305,9 +1259,9 @@
           "_via": "canarymedia.com",
           "source": "canarymedia.com",
           "_hash": "49b872c1df876b1c",
-          "_ageHours": 6,
+          "_ageHours": 7,
           "_inWindow": true,
-          "_score": 73.48492416666667,
+          "_score": 72.08333277777777,
           "_corrob": 5,
           "_cluster": [
             {
@@ -1346,9 +1300,9 @@
           "_via": "news.google.com",
           "source": "simplywall.st",
           "_hash": "14451770f4d7b8cf",
-          "_ageHours": 6,
+          "_ageHours": 7,
           "_inWindow": true,
-          "_score": 57.02603388888889,
+          "_score": 55.62444305555555,
           "_corrob": 3,
           "_cluster": [
             {
@@ -1372,14 +1326,14 @@
           "title": "Community Focus: Col. Steven O’Donnell on RI’s Fusion Center",
           "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOSlJ4LUlWSUpTS0lVd1MtT0s4dmdJcW1CX0djOGkxLUFIbmlrUC04YUJlbnJpckZObU96MzRMZFB4ZEF6OFYya3BNUHdUV2JPYmZGWC1mTTV2b3UyeWx0UHFJekV5aDRaNFp6dXY0VGZJcHh2TExpeURucF9XS2dNWTdGVWhpbFpMMEVFUlVZaXBVc0UxYTE2VmpYbnplaTdPRE9DS1JDQXN2bW5zcTlV0gG0AUFVX3lxTFBNTlo1clY0cWV1WG9GZ2FSNnlWOERFOVpEaGRnYXVGSXh2TlRNZExoVWI2V2lwYnRNa0JTM0p1ZnJQd3ZrdWNTeGw3d0NfMTBtX0g4TDdVNWlJYW5Cd1JSWVRCNFlGQnFrbGstZmF1SV9ucGpzLW9mSzkwSDRUWU5zbEZZRXZtRW1tSVNQV3pxaG1uaThNeFVzUDBxSElmeVgxcWlBejlzZGlaXzNXXzFNY1N4Rw?oc=5",
           "date": "Fri, 11 Sep 2026 22:30:30 GMT",
-          "summary": "Community Focus: Col. Steven O’Donnell on RI’s Fusion Center wpri.com",
+          "summary": "Community Focus: Col. Steven O’Donnell on RI’s Fusion Center WPRI.com",
           "publisher": "wpri.com",
           "_via": "news.google.com",
           "source": "wpri.com",
           "_hash": "642108e7af893abf",
-          "_ageHours": 5,
+          "_ageHours": 6,
           "_inWindow": true,
-          "_score": 53.99325611111111,
+          "_score": 52.59166527777778,
           "_corrob": 1,
           "_cluster": [
             {
@@ -1398,9 +1352,9 @@
           "_via": "news.google.com",
           "source": "globenewswire.com",
           "_hash": "a8fdf1069e7f23fc",
-          "_ageHours": 5,
+          "_ageHours": 6,
           "_inWindow": true,
-          "_score": 53.984922777777776,
+          "_score": 52.583331944444446,
           "_corrob": 1,
           "_cluster": [
             {
@@ -1413,15 +1367,15 @@
         {
           "title": "Experts Gather in New York to Debate Geoengineering, Clean Energy, and Science Funding",
           "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNbUNLZVVKcW96c19ycXl1YUoxWjFHalFZZHNXdG5EMzVkcDBXRVlIcUNsZWNxVS10NGtCSS02Q0l5M2MwQjBHWTVKcm1rYkhnTW8xX29HOUxqUFdFV3VNX19mYXJJazg0VFlNbEt2eS1mRldtVTlBM2NCVWpIQlRxLXJCbjZBd1g0djhmempzdFl3TVJkMnJpUF81Z1c1R3cxWGo2WE40ODlVd1RvREE?oc=5",
-          "date": "Fri, 11 Sep 2026 22:24:48 GMT",
+          "date": "Fri, 11 Sep 2026 22:29:19 GMT",
           "summary": "Experts Gather in New York to Debate Geoengineering, Clean Energy, and Science Funding Bioengineer.org",
           "publisher": "bioengineer.org",
           "_via": "news.google.com",
           "source": "bioengineer.org",
           "_hash": "df4c879dd151bce9",
-          "_ageHours": 5,
+          "_ageHours": 6,
           "_inWindow": true,
-          "_score": 53.89825583333334,
+          "_score": 52.57194305555556,
           "_corrob": 1,
           "_cluster": [
             {
@@ -1440,9 +1394,9 @@
           "_via": "cleantechnica.com",
           "source": "cleantechnica.com",
           "_hash": "041b7744acbf35ac",
-          "_ageHours": 11,
+          "_ageHours": 12,
           "_inWindow": true,
-          "_score": 48.091589722222224,
+          "_score": 46.68999888888889,
           "_corrob": 1,
           "_cluster": [
             {
@@ -1461,9 +1415,9 @@
           "_via": "utilitydive.com",
           "source": "utilitydive.com",
           "_hash": "99608e25ee96f576",
-          "_ageHours": 11,
+          "_ageHours": 12,
           "_inWindow": true,
-          "_score": 42.1838125,
+          "_score": 40.782221388888885,
           "_corrob": 1,
           "_cluster": [
             {
@@ -1482,9 +1436,9 @@
           "_via": "utilitydive.com",
           "source": "utilitydive.com",
           "_hash": "c75d1c93ab8cb371",
-          "_ageHours": 13,
+          "_ageHours": 14,
           "_inWindow": true,
-          "_score": 40.44936805555555,
+          "_score": 39.04777694444444,
           "_corrob": 1,
           "_cluster": [
             {
@@ -1503,9 +1457,9 @@
           "_via": "news.google.com",
           "source": "krqe.com",
           "_hash": "2225ee0588f0e0b8",
-          "_ageHours": 24,
+          "_ageHours": 25,
           "_inWindow": true,
-          "_score": 35.217978333333335,
+          "_score": 33.816387500000005,
           "_corrob": 1,
           "_cluster": [
             {
@@ -1524,9 +1478,9 @@
           "_via": "news.google.com",
           "source": "wabi.tv",
           "_hash": "e3a5f4f3ea65540c",
-          "_ageHours": 29,
+          "_ageHours": 31,
           "_inWindow": true,
-          "_score": 23.601589444444443,
+          "_score": 22.199998611111113,
           "_corrob": 1,
           "_cluster": [
             {
@@ -1545,9 +1499,9 @@
           "_via": "news.google.com",
           "source": "blogs.nvidia.com",
           "_hash": "f10b1c77d0fd97da",
-          "_ageHours": 38,
+          "_ageHours": 40,
           "_inWindow": true,
-          "_score": 20.528533888888887,
+          "_score": 19.126943055555557,
           "_corrob": 1,
           "_cluster": [
             {
