@@ -1,97 +1,10 @@
 {
   "date": "2026-09-16",
-  "generatedAt": "2026-09-16T03:30:35.649Z",
+  "generatedAt": "2026-09-16T05:07:29.213Z",
   "pillars": {
     "ai": {
       "name": "Artificial Intelligence",
       "candidates": [
-        {
-          "title": "AI and data centers are incredibly unpopular in every poll",
-          "link": "https://www.theverge.com/ai-artificial-intelligence/995917/data-center-nyt-midterm-poll-september",
-          "date": "2026-09-15T19:34:25-04:00",
-          "summary": "Poll data released Tuesday by the New York Times and Siena University confirms what we've already been seeing, and what politicians are responding to - AI and data centers are incredibly unpopular. Asked if they support or oppose the construction of data centers to power AI tech, 61 percent of the 1,503 likely voters surveyed [&#8230;]",
-          "publisher": "",
-          "_via": "theverge.com",
-          "source": "theverge.com",
-          "_hash": "c991f7d64fddb785",
-          "_ageHours": 4,
-          "_inWindow": true,
-          "_score": 75.06349583333333,
-          "_corrob": 5,
-          "_cluster": [
-            {
-              "source": "ksbw.com",
-              "title": "Santa Cruz County supervisors reject proposal for voter input on AI data centers",
-              "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQYzZoTzdPQlhIVmNUUTBWaDRYUkI3OHYtUTVjT2QyaUJVdk1aWTVobUFhM1VHWmFpNGRFUnJRM0ZOcHVrMWNUMHZGcnNSR2QycGNZVFh6R2s3TFh1SDJQT3lOMEtEdURGNWY2MTI0eUJsSGxOTW56anRMZ0lzRXlSRkJXcm5hSWVvT0JQWQ?oc=5"
-            },
-            {
-              "source": "barrons.com",
-              "title": "Forgent Stock Soars as Earnings Show AI Data Centers Are Still In Demand",
-              "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOeElUdVpkaUcwUjdEd3ZxS002YWx0S3FpcG9iZ3dUcnBtTE1SOEt2N25CcVZQSmhVLTZaMWY4dF9nRGpmNC1YRE5PY2kwNzVQRy1RbGxzbVg4SVpjWVdXNklldkNPblRGNkdlUVgtLXNmdGhaSURYX18xNHY3YllUV0pSbTRDU1Q0NTRZbDhvbUVEdUVubzZ2NGdLTGg?oc=5"
-            },
-            {
-              "source": "news10.com",
-              "title": "New data centers could pay $1M per megawatt to towns in New York",
-              "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1ERFI4REV6VGZiUmhld3RDUEptSWg2SFlsQXRzRnlUVGxLRWhoUGZZQl9wOFRUZXNQYzZaTzZ4SXdfUnl3TXA1SmdFWVJoVkhkdGdlTzNmVHZkdGUxbG1LMVowR1I3OUQyajYwNFJ4RWFFSWd6Z1M3VU9KZTFYSGPSAYQBQVVfeXFMTklwM2lxaFhNaXh4cXNIUlhHUnU0a1JXbGZDSVI5WXRicEoyUThUb0hiaEJZSmI3NHl4M2ZZSWdOVVlTNm1BMUloVDBDQnVNWC1fTzd2eEQ3T2h1SnhuRlkwbWlWQ2t5bFIwaGI2SzN3a3lHNmRCMnZMdDQtcmhCY09TVy1Y?oc=5"
-            },
-            {
-              "source": "techcrunch.com",
-              "title": "US data centers could consume more natural gas than Germany and Japan combined by 2035",
-              "link": "https://techcrunch.com/2026/09/15/us-data-centers-could-consume-more-natural-gas-than-germany-and-japan-combined-by-2035/"
-            },
-            {
-              "source": "latimes.com",
-              "title": "Inside Meta’s custom AI chips slashing energy bills in data centers",
-              "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOVXdpZDdiY19ZRGlMaEw5V19ydTVZMFNSVW1wdTI1OWp2VkVFS0d6RlNTZ0VqOHV1TldXUnR4eV9ZX0h1LVBuRmx6eTBOSVlMRWM0WTdNR29lY0h0OHZaUTM2a1dzQUxDT3IwdnlUeDgxOGVYWXktal8wQkp5NFRBekYtYUw4ek92T3VqWGR6SkdaWEpQa3lfY3ZsSVpkaW9OMlF5UDk4LWpXMFluVHc?oc=5"
-            }
-          ]
-        },
-        {
-          "title": "AI progress and responsibility: Nvidia, Anthropic and OpenAI CEOs weigh in at Salesforce’s annual event",
-          "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQYUdNU3BlTHljVHRFclRVUjVZelBqbVJXZU8wOVc1QzNJdjdkYlp5SWpMVWNJS3h1Z3JZZ0dtRXNkbGpkZTRJV0poTktzLXl6U0lYZ1NwR21WOEY0ekNQd19OQ2dpNjFBVHpNOHg0WWpMZExjSVJuZlVTZk1PUDZqT1M3cGo5T0JIMVkyNDczUTh5T1dpT3k0SDNLbG5MbzREUVZZMS14UjdoTjFCSUFjUVBrdlNtSE1xMmNJaW9wUE5YTzI1M3NxVFcxeGlxd3ZWanF3?oc=5",
-          "date": "Tue, 15 Sep 2026 23:46:00 GMT",
-          "summary": "AI progress and responsibility: Nvidia, Anthropic and OpenAI CEOs weigh in at Salesforce’s annual event SiliconANGLE",
-          "publisher": "siliconangle.com",
-          "_via": "news.google.com",
-          "source": "siliconangle.com",
-          "_hash": "eefde713b1fc4c3d",
-          "_ageHours": 4,
-          "_inWindow": true,
-          "_score": 74.25655305555556,
-          "_corrob": 6,
-          "_cluster": [
-            {
-              "source": "theinformation.com",
-              "title": "Anthropic, OpenAI ‘Pacing’ Spooks Some Startup Customers",
-              "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQaHlOdzd3cFlwYVBZTnhEbkJSZlh2cnlZeHdmaExVWjY2Q1FtWTk2aWFiMHBza3lKeWtDRktZbVdBOUIwdl9iYWNFYXo2VTU4clJsSzdCNk5sMGpfUk5MSjRBTHMxaUZIRWpKSzJoeDc0RThRM0ZKY29DLWFfS2xzYnN3cVY1anhrOFRYanFlRXdWVEpfbm5WVnNfeTN1NEUtaldZ?oc=5"
-            },
-            {
-              "source": "bloomberg.com",
-              "title": "Anthropic, OpenAI Safety Push Risks ‘Regulatory Wall’ for Rivals",
-              "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPTU0zd1VVbVhsbUZVb29HWWlqY1dpc1lydktHWWZYcE1SM2dZd1ppenkzN2toRGtZSlY5dkRsUFg0U0taTlo4RzBzZldLX2JIV3liRjlVUVVSSE0ySF9YR3dtNllFdThlWTZBcDNlbUlXZHoxU2xYaXA4NjVSS2M0eEotenlQMEp5MWoxZlZvY3hBZjhCVVJob3dVb19LUG04YThOM010SjRSSG9rRDdOY0FR?oc=5"
-            },
-            {
-              "source": "cnbc.com",
-              "title": "Nvidia's Huang diverges with CEOs of Anthropic, OpenAI on AI safety at Dreamforce",
-              "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxNamhBSWgtcmZwTVRVOXlnbGZMN2R1bDFlMWEtV21wUXFmUGVoWW5vQWNVbU55OEE0T0lWMUFlMXFZVGdvNmN0TElFUGNkQUlwQ01hU09aUEZIZlBjd0lMbGJMOVJHbmhOSTNRaHU0cXBnNmRVQ2lTb21odDUzOGlRQ1phSTRDUDVucThHQjNncjI1Q1pMOVV0WlotdDVpUdIBowFBVV95cUxNQW5ST21vbGJyUWYzcHVFZFJOZUgzTEJ3TWFkS3Y4Nm9fQ2w3c3puMnJqaFBpbl9CVG5Gd1RSZUVGQmJqLVZaN0dBZ0dOWEZNb3IxMDBtaGhWNGllb29aZERqeGxibHhnakZJRDgxeF9oa1NDSGV2YzYwa3plQ0dhZU43aHJNb1MyUlZRRm1hb1BZRVpZRVF4LUd1OWNQXzJpZFpr?oc=5"
-            },
-            {
-              "source": "finance.yahoo.com",
-              "title": "Nvidia’s Anthropic Investment: Securing AI Demand Amid Rising Competition",
-              "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPb3hZa2RPWnlPbUwwV2hVbUVRTTl2akRidzc5aG5CMzB4Vl9TSmlucEowRjJEXzJXeUd1anZFeUlCOGpndDJCTHdPcHZ5UXRBc2xQVjdHSmxPdWxSS0Y2aVYzT1JITFNvOHJsUzNBak9TUl8tYzliOEhvV014OU9pLUM4dkwydVRZMnpGNXJRZmtISFNCaTJNWEdlWVBRRUtVclZRTUd3?oc=5"
-            },
-            {
-              "source": "fool.com",
-              "title": "Anthropic, OpenAI, and xAI Want to Slow Down Artificial Intelligence (AI) Development. These 2 Stocks Could Be the Biggest Losers.",
-              "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPYzBUb0dHWEdKblJtdW9MdHc3YUgtZ09nTnVZLVFiYU96c0Ewc1QxQzBUWnJqNzlkUmxxc3hwR3BKR2pGMnNGUGJ3WERrYXdIaTI3WVVUZWlFOF9GRVZVYmxHOXc4eVJSVGpHZkdfNnd6MXpMeUdwM2VCVEh4Um1xTldLN1JGZXNnd1cxbm83Nnl1NGRYV0N3aw?oc=5"
-            },
-            {
-              "source": "scmp.com",
-              "title": "DeepSeek AI engineer slams Anthropic, OpenAI over ‘pacing’ calls, invokes Hitler",
-              "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPOW9lMmI2MVFjTmJlcXBmYXd4MURnZDllNF9qZXlGN3plMWlXZUtsS09EZl9PMzFrM2gwRHQwVXNWM1JucmRCNVREVEg1X0xwUFJPM204M0VPUUdPTzRPRDhfREhjeEQ4MXpsNzVHY0tYaENmZVlhUTZOZHdyLTAwU0hrNFpoSUM2Rzg0SHAybFZhY2lTVW9TWkVrd0dKbTdkWGJvZmpDREhIQlZmdkpDcE9sZVJHNGFTSHRNVTZsT2EtQdIBwgFBVV95cUxPcFJHc3JJdHpOeVdNS2psYTh2TFpDdFpoSE9LeXZwYkxoMmt0aDFfMnpOcmhRZDF3Uk9SOGtCU1I3SWNJUFhmTUEyYmZ0eXRhZ0FhSzZIT2x5MEpVTUM3ekJXQ3ZkWHFkb0dGT0E1YU53TnlHSHNjQWs5d2FjU3Jjc1VRT2UyZ0RPN052YlByYnBoWFN3Mll6bk5nNFE4ODBadmE1dm1heERibXlXeE5kRF9TS2M5eWtuTnFOQUw0d0dtQQ?oc=5"
-            }
-          ]
-        },
         {
           "title": "OpenAI Considers Pre-IPO Funding Round at More Than $1.2 Trillion Valuation",
           "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPOG5icnlZd1cwaTlZMEhpSkF6UnJ5VTcxNHBTdjFROXpFS3ZjX3dINXZHeWtDWHpCRjJOeVFyMlJ3c1ZpbGFBbGlKbXM0Q19wbldsbWRULTZjR2F6Z05OTkd1VmV2QWZjUnJLV3UyM0FobnhMc1dRSkh5aFZEeGJidHpyZjVUSWJPMzVsSXVCcDdlZU0tNXRmbjdrR3liN0hwNzFiVGpzelJvajZuUXpGTg?oc=5",
@@ -101,61 +14,25 @@
           "_via": "news.google.com",
           "source": "wsj.com",
           "_hash": "bbc47373bbdb1c58",
-          "_ageHours": 1,
+          "_ageHours": 3,
           "_inWindow": true,
-          "_score": 68.07321972222222,
+          "_score": 66.45825166666667,
           "_corrob": 3,
           "_cluster": [
+            {
+              "source": "bloomberg.com",
+              "title": "OpenAI Weighing Funding Round at Over $1.2 Trillion Valuation",
+              "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOeDNxSXBBRlR1elJkWkRRc0NuRm1kMzJqeVNNWHJGbThRaXgzR0VUOXE3UjFRYVpubzJ6ZEVCZXVjLVJiUGNuYzhtUnZid2l4UmNwY0pCMnBMTDZzdjV4MXViRlJ6emszRDJJbTNNeEh1MmhhcDZrY05VaDZwb21yLW5pbVdxWURtcDhYZlBGLWVwYlpDSkF4Q09OMzUzX2pkVmt5akhQMjZCUFdvaGFwQg?oc=5"
+            },
             {
               "source": "reuters.com",
               "title": "OpenAI mulls funding round at $1.2 trillion valuation ahead of IPO, FT reports",
               "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOc3hqMlQtdi1BT1QzTGs4U1BVXzcxb05pRnpHMjI4RjBFekZBQ2lQSVZRTURaN1h3eGlZN0pCdmY1UzdwQzlNeldrMXh0YTFkZmxsdVBmV211YmdwZWIxTTAya1VpLUdtbGNRZkZZbFBVUklUVnVzd1NZRHpSTkpTZ3pWUGhQMmVzaW1qZDYydE83eTBNb3c4T2duTEw2dWx5WUVjZXVTX1Ixb25LR2ExRHlQTDltNWVrLW5KOExsdjJCaFE?oc=5"
             },
             {
-              "source": "theinformation.com",
-              "title": "OpenAI in Early Talks for New Funding Round at $1.2 Trillion Valuation",
-              "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNeGw4M3VuVFg1M3lmVlZvdHZabUlWczFOQXBiNVNhY2dfSTZlaEUwczBtcGZ2WGcwLWxUSG0zTnJPNmNwRi1qWEFsMHJXSzVYbUowZUV0MTU1TU9NdGV1dEY0Z1Z0c2wyd2RXRmIxVk4zT09ySzQyXzRWSFpMNUlYRDJQTXNfU0pfUlRxWUwxYnZEN2FQdE5XRk9BUllpWjI0MVE?oc=5"
-            },
-            {
-              "source": "bloomberg.com",
-              "title": "OpenAI Weighing Funding Round at Over $1.2 Trillion Valuation",
-              "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOeDNxSXBBRlR1elJkWkRRc0NuRm1kMzJqeVNNWHJGbThRaXgzR0VUOXE3UjFRYVpubzJ6ZEVCZXVjLVJiUGNuYzhtUnZid2l4UmNwY0pCMnBMTDZzdjV4MXViRlJ6emszRDJJbTNNeEh1MmhhcDZrY05VaDZwb21yLW5pbVdxWURtcDhYZlBGLWVwYlpDSkF4Q09OMzUzX2pkVmt5akhQMjZCUFdvaGFwQg?oc=5"
-            }
-          ]
-        },
-        {
-          "title": "Anthropic researcher quits, calls AI an existential threat to humanity",
-          "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE8tengyUVFUb0w0X2lha3NqWXhWWGM3bGpfMENGY1NOU3UzREtoOXJvbXBjLXc3VmJLUlMxSWF1a0VOWXRpRFZoaVJEbVBZUGg2bHNjTmVGRTB2SEVSd3Y1Qkt3VkFSaUdOX3psdjVUOXNVc3ZSZmpJ?oc=5",
-          "date": "Tue, 15 Sep 2026 23:09:10 GMT",
-          "summary": "Anthropic researcher quits, calls AI an existential threat to humanity Mashable",
-          "publisher": "mashable.com",
-          "_via": "news.google.com",
-          "source": "mashable.com",
-          "_hash": "776102679c0eaf04",
-          "_ageHours": 4,
-          "_inWindow": true,
-          "_score": 63.64266444444444,
-          "_corrob": 4,
-          "_cluster": [
-            {
-              "source": "wistv.com",
-              "title": "Is AI a threat to humanity? USC expert, Columbia users separate doom headlines from daily reality",
-              "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQcGluSGVCczR4UzN6U2d2QlFWazBPYUJjVFYwblBSblhzNjJTYTAyZmtwcG5ZaUFYZUd1STkzb2NneDYtek90V2VuQjB3ZDN5VHJyVFRLMjRlckhBVG9ZdXFNZl9HNWQzTlkxMjBrM1M1bmUwZ1N3ekczQjYtUjlWVlJXVXdVNXhEUHEtYzFBcnlVMnBSTGlzb2tNa2hKOHZPcXdTZm1FOEUtdGhYVEsyOUlDQUF3bXFwaFNR0gHPAUFVX3lxTE1uMmdNci1mSkFmSnV4MUw5bWpNRW5nM1JjbVB0UUxCZEh1Q1UybnVjWVp6SWI1X1BGRUVYY2F5STdBWmxVd1F4bUpxNl9BODdjUkZMeVdRWlhidVRMVHFlZWRnSHRTb0pKQjBOWTlqaWt2cnpzbXgwSHROdEd2VWVaeVJjczhQMi1ocXE4SG5mNlVMWlllMVZ4ZTY3ZExLTUh4bWxqdXp5WTZQLVIxVkNlSXpTaHBLemFqVkVHQzhERkx6eFQzejlVVTNYdVFhaw?oc=5"
-            },
-            {
-              "source": "thecentersquare.com",
-              "title": "Senator focuses on AI 'threat to humanity' as data center fights continue",
-              "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPRXFtWlVuUmhMM1F1UkgyX3VSN09HejBWTDc3d1NibUpXTVRFUERwaFBIUWxnUEJpUFk3RDJKenJqVUV3RkFUalVBUnNzc0FUREJSeGVZSTBPT1BvOXl3dWtOakx2cXl0Zll4WXBFLU5IeThkeTVmSTdSY2NXbVRVSjZIVFVfTjlBWFVFaVFhc0VSaDRaQUdVLUJB0gGfAUFVX3lxTE12MG14VW5ndFpPVzg2N0p4b2txRWstdFNwVFJlSUo3YjlYeDJiSzJkWmRnN0RYeS02QzFJcHJjd3g2cTBOUWdaODFlbVZlV1NEcWhtVHdGLVJWUTE5YU1VSm1GMTVTSkFiQWhWX3dPa2xCZmdVOEptX0JlLVJoeHh4Y2FIX19BMExXbE03WG9RS2tVT0RDWlhyWFBHZGFMRQ?oc=5"
-            },
-            {
-              "source": "nypost.com",
-              "title": "Google DeepMind researcher quits with chilling AI warning: It could ‘kill us all’",
-              "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQVHMzamNJWENEOGozNkI4Q2ZYRWxuSmhfbWVrdVlVbGx6ZEUzNHhSeS1UUjFtSWNybjNxckJndHZ3WVh2WkI4Z29vMFItMmI0NWxMLTF6T3Ntcy1sMERZVVVHemtkbElxejNQUUhjdEp4U09WRWtzVU1tTXdGeE5GRl9uVzVGRW5FU1A4VllRVTM1T0tiOWRxVTVKRkx4SEpuYkp3aWRUeDRzWmVKSmE5bU5CczlZSHFMc2c?oc=5"
-            },
-            {
-              "source": "theguardian.com",
-              "title": "Why this AI doomsday warning from former Anthropic researcher broke through",
-              "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNal9ETWZpRkdzdzEwSmpRcWdsVVFsaldpR0E5WXFma3BMOFJBSTRDQlE4SlcyTHl5UzNuekhEMzdiVVp0RGN6NDVOYk5XeGFnQmFWTFFMcTllSzI1d25uWnhrR3lURk1MZ2lfcldzYUZvNjZmdFY3Y2x6OW9mQjdXNGRSVGlGOFFrOGpPS2dCdnNDQQ?oc=5"
+              "source": "nytimes.com",
+              "title": "OpenAI Considers New Financing at a $1.5 Trillion Valuation",
+              "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQYjV5VWtDWkRfOXhoRV9IX3ktTl80WGZGR2w5enR5QmZUS0tYLU5qM0VkLTZ0MUtBNC1tWktUXzFOTl9hQVVtaVk5SE15VFVIdnc4ZlhVTTU4bGtiUGVLMlVyU0NSTFZ0a3YtM1NLRGJ6QUhfVXhaUmNub200SGs1VFpvOFo0Y2lNS2c?oc=5"
             }
           ]
         },
@@ -168,9 +45,9 @@
           "_via": "search.cnbc.com",
           "source": "search.cnbc.com",
           "_hash": "94d08a73677ab546",
-          "_ageHours": 5,
+          "_ageHours": 7,
           "_inWindow": true,
-          "_score": 62.59432944444444,
+          "_score": 60.97936138888889,
           "_corrob": 4,
           "_cluster": [
             {
@@ -196,105 +73,79 @@
           ]
         },
         {
-          "title": "AI agent startup Instinct in talks for $1 billion funding at $10 billion valuation - The Information",
-          "link": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxOdUh6Tll6Q09XeUdKbHphWGVOeVUweThvVnZJb183dVIxRlNkNG5DUlFnd1ItWnlWQm54RGlqYy1McG5jN1dSQ0kwU1poeEJkemoxenYyVm9XdWNnS18zM04zdUk5SFlfQVdvbURZZnJybFNEUHE5UHN2R2F0ejEyWUhJTlFmV2ZDLWZJeDlHUHlkcW9Wa0J3bS1VVmdKcElRTHF6eTAyS2hMUGxsM0NLbHhPOEFZVnBVSmNXcWRkQ2RXcFdRLTNVeUVvRnh1TTdYVnhSLUI3U3A5U0Z2dzlaVzhIZkxFVzVwYVU2OElCVU5TNncxUEU0YlVn?oc=5",
-          "date": "Wed, 16 Sep 2026 01:59:00 GMT",
-          "summary": "AI agent startup Instinct in talks for $1 billion funding at $10 billion valuation - The Information TradingView",
-          "publisher": "tradingview.com",
+          "title": "Senator focuses on AI ‘threat to humanity’ as data center fights continue",
+          "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNb2xmVndIeVRSTkVvUWJzdW1fb3BaNXVBNUljdnZna0xEU00yT0dXSEhPRkZ4RmpkdnJnRVU1MDNCRmN3b2ZFaEREMzlJV3RnQ2JVamFRSkJydThuX2U2Tk96NENDc2hqSjBDaEVGNTl5LTNLOTJSaHlXd0FGbWJ6V0N3eEo3bEItQkEtNnF3YmVJRnY1TmYybFVjZzJXYTJ4SjYyWWd2STcwUQ?oc=5",
+          "date": "Wed, 16 Sep 2026 01:43:22 GMT",
+          "summary": "Senator focuses on AI ‘threat to humanity’ as data center fights continue The Black Chronicle",
+          "publisher": "blackchronicle.com",
           "_via": "news.google.com",
-          "source": "tradingview.com",
-          "_hash": "df76013d4a9fe5bb",
-          "_ageHours": 2,
+          "source": "blackchronicle.com",
+          "_hash": "06e9d0d257f3d8ca",
+          "_ageHours": 3,
           "_inWindow": true,
-          "_score": 62.47321916666667,
-          "_corrob": 2,
+          "_score": 59.59769527777778,
+          "_corrob": 3,
           "_cluster": [
             {
-              "source": "finance.yahoo.com",
-              "title": "Nokia Oyj (HLSE:NOKIA) Is Tied To A $3.5 Billion AI Funding Test",
-              "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOMFdWNU4xQ2lpdnR6ekNpVG4yNklBN1BwRjVzeURVLTJlVWktUGRNZEZkS1JfNTRKakV6UEY0U2lYN19BSkNLTXN3NUpMd2FsNkJyUWFMV2pGN1FGSzRZS0p1NlRKVUJXLUNYY1EtaEJCVjJ4V2FjdER4ZUNJU0I5ODVDN2NBSk84X25jNHRfYVJWaEE?oc=5"
+              "source": "mashable.com",
+              "title": "Anthropic researcher quits, calls AI an existential threat to humanity",
+              "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE8tengyUVFUb0w0X2lha3NqWXhWWGM3bGpfMENGY1NOU3UzREtoOXJvbXBjLXc3VmJLUlMxSWF1a0VOWXRpRFZoaVJEbVBZUGg2bHNjTmVGRTB2SEVSd3Y1Qkt3VkFSaUdOX3psdjVUOXNVc3ZSZmpJ?oc=5"
             },
             {
-              "source": "reuters.com",
-              "title": "AI coding agent startup Factory triples valuation to $5 billion in latest funding round",
-              "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQNG85U1M2Y1MtNHBfZmxIS3FNNWZELW5UeVM4dzFvQUI3R1VxZ1hCS1NPMnZZM3pNZXRWNE5HcG9XNXVvbzFXLVJQRG0zYXE0bHRoZy1kVmdsSFloX0ZWa1lDM1owQWs2NTNsTmo2OE1JemRFd3dPSXFGVzZuc1NBdnNNR3BHemVlSk51OVFwcUIyVGxJZGs5clZ2cGVoT1Ruc29OeFMydExnc3cyQWQ0TTRMN3ItM25YbkRkSXFyWkVRRHc?oc=5"
+              "source": "wistv.com",
+              "title": "Is AI a threat to humanity? USC expert, Columbia users separate doom headlines from daily reality",
+              "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQcGluSGVCczR4UzN6U2d2QlFWazBPYUJjVFYwblBSblhzNjJTYTAyZmtwcG5ZaUFYZUd1STkzb2NneDYtek90V2VuQjB3ZDN5VHJyVFRLMjRlckhBVG9ZdXFNZl9HNWQzTlkxMjBrM1M1bmUwZ1N3ekczQjYtUjlWVlJXVXdVNXhEUHEtYzFBcnlVMnBSTGlzb2tNa2hKOHZPcXdTZm1FOEUtdGhYVEsyOUlDQUF3bXFwaFNR0gHPAUFVX3lxTE1uMmdNci1mSkFmSnV4MUw5bWpNRW5nM1JjbVB0UUxCZEh1Q1UybnVjWVp6SWI1X1BGRUVYY2F5STdBWmxVd1F4bUpxNl9BODdjUkZMeVdRWlhidVRMVHFlZWRnSHRTb0pKQjBOWTlqaWt2cnpzbXgwSHROdEd2VWVaeVJjczhQMi1ocXE4SG5mNlVMWlllMVZ4ZTY3ZExLTUh4bWxqdXp5WTZQLVIxVkNlSXpTaHBLemFqVkVHQzhERkx6eFQzejlVVTNYdVFhaw?oc=5"
+            },
+            {
+              "source": "thecentersquare.com",
+              "title": "Senator focuses on AI 'threat to humanity' as data center fights continue",
+              "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPRXFtWlVuUmhMM1F1UkgyX3VSN09HejBWTDc3d1NibUpXTVRFUERwaFBIUWxnUEJpUFk3RDJKenJqVUV3RkFUalVBUnNzc0FUREJSeGVZSTBPT1BvOXl3dWtOakx2cXl0Zll4WXBFLU5IeThkeTVmSTdSY2NXbVRVSjZIVFVfTjlBWFVFaVFhc0VSaDRaQUdVLUJB0gGfAUFVX3lxTE12MG14VW5ndFpPVzg2N0p4b2txRWstdFNwVFJlSUo3YjlYeDJiSzJkWmRnN0RYeS02QzFJcHJjd3g2cTBOUWdaODFlbVZlV1NEcWhtVHdGLVJWUTE5YU1VSm1GMTVTSkFiQWhWX3dPa2xCZmdVOEptX0JlLVJoeHh4Y2FIX19BMExXbE03WG9RS2tVT0RDWlhyWFBHZGFMRQ?oc=5"
             }
           ]
         },
         {
-          "title": "Delos Data raises $100 million to develop chips for AI networks",
-          "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOS2duck9vVl83RHBEckxkWDZxbUJ2Z193NFMyRk53U1JFNFpiakJGSG9RaFpROGRGNVAxOE5OWm5aSmtTN1lXMFhIVzR6cmsyRGJwV080WnNWd2c0VUJjb3c2ektKZ2EyNEJrZVp1eXBzWXpaalVIbkdHOV9TTnNhYk5jNlVPY2d1aWFBTVNNMUg1REJwVGMxOUhRczhaWExGRnJHamp1Q0RjUkIxWXcybGZ2bkg?oc=5",
-          "date": "Tue, 15 Sep 2026 21:07:41 GMT",
-          "summary": "Delos Data raises $100 million to develop chips for AI networks The American Bazaar",
-          "publisher": "americanbazaaronline.com",
+          "title": "Meta to Install In-House AI Chips Next Year",
+          "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQQzRWWmJDSjBjanVFanRWV2JXLTJyVHZBQUZxMlJhcXBJc3NSNWV4SUROZW4tRnpTdDM4UERLQURJT3VMRmJ4QmtpenVMV01ZVkJ1NVRBQ1VyVldxZF95RkNBaVFCeDh3UHdiOG50ME1IcTg5bUZ0aFJWRlU0d2FyX1BQUWRrZlMza3lRcEdxbEM?oc=5",
+          "date": "Wed, 16 Sep 2026 00:14:31 GMT",
+          "summary": "Meta to Install In-House AI Chips Next Year Briefs Finance",
+          "publisher": "briefs.co",
           "_via": "news.google.com",
-          "source": "americanbazaaronline.com",
-          "_hash": "a1cd0d4cdb00e9e5",
-          "_ageHours": 6,
-          "_inWindow": true,
-          "_score": 61.61794138888889,
-          "_corrob": 4,
-          "_cluster": [
-            {
-              "source": "datacenterdynamics.com",
-              "title": "Dutch AI chip startup Euclyd raises $231 million in funding round co-led by Samsung",
-              "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOSTJOUm56ajl2RUg4c2J6Q3dNQVNIbmFZVkRPRTBqWWJsOXZFWkRUUzZ5TVFSWGlTRGpDUmtESzNIdFhmTGhZcFZESjhMWlZGS0VxVTlTYUc0SGJGQ3VtY3BJdDVEQkhnM05tOTk3bWtheE0xbktuVWllUFdxVXlxbUVibUIzbE45eTQ5Q0NqSnV5Z1pZS09lc1BJODFTNmV3LXh5SnNyUmg2MzV6OVNTSVB4eDNYb3F5WV9YcFp6Y0VrdHFO?oc=5"
-            },
-            {
-              "source": "siliconangle.com",
-              "title": "Euclyd raises $230M+ to develop chips for AI agents",
-              "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQSjRZdks4dXBkUGtmWHMyNFVQTG1zZEc5R2ZCSmRIc2dkTzdtajlkXy1LWFE5Q0hiamU3aFdJajBaV1hkYXF3Vk5Obm9QbjdweHBBOC1GMjhaMkJnQnhwS1NUTFE1SVFFNzV2VmUyNE8zLTh3QTdlZ0JUQVRMcm9fUWtSQTJqYXYwS1NnODAwVQ?oc=5"
-            },
-            {
-              "source": "mezha.net",
-              "title": "Delos Data Raises $100 Million to Build Faster AI Data Center Networks | Ukraine news - #Mezha",
-              "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1sdUlrOFFwSHdKUG1NR3R0WWc1aVdzMTdDUWRURXVibHNVMHpGekY0SnlYc1pET2hGTjlOZlZsZnZQR0RHYzBMZ2ZJNTBoQ0g5SDNwOC11cUNWWEhwWklmNm9MNFc?oc=5"
-            },
-            {
-              "source": "app.dealroom.co",
-              "title": "Delos Data raises $100M to keep AI data center chips from idling",
-              "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxQN0hCaWF0d0dSSEVNUmpHLTlJYXVvQXpfS3JCQ0U0VnhZdjVhSmRTb1IyYkt0YnVkM2paTFdXWGFEZGNCeUhwXzJTeEVjZVh1WVBKYjFzVWdlcWpuMmtjTEpIOVQ4eDlhVkhybUpGcWFIVHFGTWxKaUVsWFcySDVISVhITjN6TllGNGU1bXlqbjNmUFZnMmE2MkdrZjJCQQ?oc=5"
-            }
-          ]
-        },
-        {
-          "title": "Nvidia's Huang rips Anthropic's proposal for AI safety antitrust waiver: 'Completely unnecessary'",
-          "link": "https://www.cnbc.com/2026/09/15/nvidia-huang-ai-slowdown-antitrust.html",
-          "date": "Tue, 15 Sep 2026 22:13:52 GMT",
-          "summary": "Nvidia CEO Jensen Huang pushed back on calls to give AI companies antitrust exemptions to coordinate slowing the development of advanced models.",
-          "publisher": "",
-          "_via": "search.cnbc.com",
-          "source": "search.cnbc.com",
-          "_hash": "1856e726bfc58f96",
+          "source": "briefs.co",
+          "_hash": "17423be4afdf41bb",
           "_ageHours": 5,
           "_inWindow": true,
-          "_score": 58.72099611111111,
-          "_corrob": 2,
+          "_score": 58.116861944444445,
+          "_corrob": 3,
           "_cluster": [
             {
-              "source": "cnbc.com",
-              "title": "Nvidia's Huang rips Anthropic's proposal for AI safety antitrust waiver: 'Completely unnecessary'",
-              "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE44RHpQWkxyODlqZFVxWEs5TjRrN2ZWMktZUGRyWERQMURrUEZSWk53QXRpRURxcmJtMVJvcmIzWTY5Unk3VVBlRThad2J0YVhJcFRkSVdOUlNvU3Jvbzh1anRPTGU3SGZnUXZOOE5GcWtQOXpPMldaR1hCTdIBgAFBVV95cUxNZ1VaYzZvQzNWOHQwX3Vfc1BraXpSRU91R2E5ZWVoSUhaZjNZQ1BfT1hUaFU5aEI5cF95UHE1V3VWX1ExcGpQR2NXc2JsSUJzWGFGRjU3TC1waW1hM0FmbTNRS2c2UlZVcWk3bmxudUNBbXBVYWJDVHRLRm9meG1zQg?oc=5"
+              "source": "marketscreener.com",
+              "title": "Meta to Start Deploying New In-House AI Chips in Data Centers in 2027",
+              "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQS1ZnZlpMLXJqSW5DdWp4aktEMDM5MmNiZEZyU3Bsb3NOUVl4N0FSWUJIUkltaXo4dGk2eDgwTWVhdkc3VHJuc21MQU1fN0JYOU8wdGtPaEcyaVczeE5mUjlIeGxwM2RXWlRybEpaaWJMekVSZTIwYlN2WFZmNmtTdml5X2ppeExrUmxCSEp5Q1d2RlZEV09CZzNxOFNFQWpyQzh3bDNhRkJJMVV1YnpWdmNvYTFZNEt1cnkyUlVwSQ?oc=5"
             },
             {
-              "source": "gizmodo.com",
-              "title": "OpenAI, Anthropic, and Google Join Forces for Safety as Antitrust Concerns Mount",
-              "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQbEZ1RS1uWTZudkprVEx5clFzYUFoQnhjSGkxRDEySmxrQTBEZFBLaU9qRmhDX2N3Mkd2blNGQm5jejB2NXhsbzNQQW5COEhoZU9RM1pkNFVHa2xLOEE3OGIzaURZbnFzb055bHZCVzZ4cHRKb1dFTzlsQzFCYjBKSXF3VjdObk81b0JycElvSENVeVBRNk5BLVRlSnQ2cWZGSFdSVTFFM2tpdTJlOUE?oc=5"
+              "source": "seekingalpha.com",
+              "title": "Meta plans wider use of in-house AI chips as it targets lower costs (META:NASDAQ)",
+              "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNNGVTdS1jLVdYcHJBaW1sejRzckVncW5LTkUyejdMeGxwbjNpZDMzT2Q0R3loRmV0U0VsajNibGZGdFFBU0FCdjJ4d2tZVlo0WlJkeEtvczdGdVdSeWRuTHg1amJ2RlBqb3A2dDVXTHF5MEMybUJ1NFpTTUNlM1JfekNDXzcxYmJ2V1hEMHIwQ0JVVy1maFBUbFhZSUJqWEVaMzh6U19PTmQ?oc=5"
+            },
+            {
+              "source": "bloomberg.com",
+              "title": "Meta Touts the Cost-Saving Benefits of Latest In-House AI Chips",
+              "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNeUZCZk9JODh6eDF4RVB6Q3lGSkt5Ul9IOGRSVFROQ2lxTFAxY21rUmk3WHVsbnBYcTg2eHBuTTk4STNVRkliTEF5azVXZUs0M09yM0J4bW5ManFRMC1yckY1UTh4N2xEX2V6S3NFZ09UdTZnSm01a24xVDYzb3JRd1Zla1BUZDQtQ0JaTERnOVlQS3ZJSTRNamxtNnFFa2hKVmVxNnJicVFoNHBYSHltUlFLUEg?oc=5"
             }
           ]
         },
         {
           "title": "Robust Demand for AI Computing Continues Alongside Calls to Slow the Technology",
           "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNaVJYVmN2NlE1RUhsZW84aWM5bm9SaXRxTlRfNlJ0SVZEaUFwYmpUdXRCQ3dwSGZDdmFEc3NPcjg0SDBmSXNTaEJsOVFxN2FPdmh2ekYybE5PWktoMURhMzV1alBBY2otdmlCbm1UdmVUdUU3TkRYSGY5LXlVbEZWanBkaDlpSVZDWGxKclRJM0hJNnFrY0xSR3FfSEdkd2xGLVhSQ0lWMm1uM1U?oc=5",
-          "date": "Wed, 16 Sep 2026 02:03:18 GMT",
+          "date": "Wed, 16 Sep 2026 05:03:19 GMT",
           "summary": "Robust Demand for AI Computing Continues Alongside Calls to Slow the Technology Bloomberg.com",
           "publisher": "bloomberg.com",
           "_via": "news.google.com",
           "source": "bloomberg.com",
           "_hash": "9ff735e0f4594870",
-          "_ageHours": 1,
+          "_ageHours": 0,
           "_inWindow": true,
-          "_score": 56.54488611111111,
+          "_score": 57.930195833333336,
           "_corrob": 2,
           "_cluster": [
             {
@@ -315,6 +166,120 @@
           ]
         },
         {
+          "title": "AI assistant startup Instinct targets $10B valuation in new funding talks: Report",
+          "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1YV09STkR4MUNsNHMxSEMtMndzX0laN3VnOHdxMTM5TS1yVEkwSi1pYkh2MVMxcVNCaVZSZEJKNE1SY0ROdXJRTGdmLW1hbGVZY2VDcjA2a04?oc=5",
+          "date": "Wed, 16 Sep 2026 03:47:04 GMT",
+          "summary": "AI assistant startup Instinct targets $10B valuation in new funding talks: Report Cryptonews.net",
+          "publisher": "cryptonews.net",
+          "_via": "news.google.com",
+          "source": "cryptonews.net",
+          "_hash": "22f3e133731a2187",
+          "_ageHours": 1,
+          "_inWindow": true,
+          "_score": 57.65936166666667,
+          "_corrob": 1,
+          "_cluster": [
+            {
+              "source": "tradingview.com",
+              "title": "AI agent startup Instinct in talks for $1 billion funding at $10 billion valuation - The Information",
+              "link": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxOdUh6Tll6Q09XeUdKbHphWGVOeVUweThvVnZJb183dVIxRlNkNG5DUlFnd1ItWnlWQm54RGlqYy1McG5jN1dSQ0kwU1poeEJkemoxenYyVm9XdWNnS18zM04zdUk5SFlfQVdvbURZZnJybFNEUHE5UHN2R2F0ejEyWUhJTlFmV2ZDLWZJeDlHUHlkcW9Wa0J3bS1VVmdKcElRTHF6eTAyS2hMUGxsM0NLbHhPOEFZVnBVSmNXcWRkQ2RXcFdRLTNVeUVvRnh1TTdYVnhSLUI3U3A5U0Z2dzlaVzhIZkxFVzVwYVU2OElCVU5TNncxUEU0YlVn?oc=5"
+            }
+          ]
+        },
+        {
+          "title": "Two Google DeepMind AI Researchers Resign Over Safety",
+          "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQeVdIUmJiNllaNlRYVWdqSUxuNEVZOGEwM3pEejBCcUthZ0xwYTVNY1l5TXNINnF5MEU4VmUydmNab1k0SDIxU0tFLWZWMWpGa29yRkpka1VOUEljMGpadUNaQzBsQ1pMc3Iza3c0WG0yY0dUWHRweTlhTVZRU21EdDEweXhCSHJWc0lNb3M5cFpURlE?oc=5",
+          "date": "Wed, 16 Sep 2026 03:29:58 GMT",
+          "summary": "Two Google DeepMind AI Researchers Resign Over Safety theinformation.com",
+          "publisher": "theinformation.com",
+          "_via": "news.google.com",
+          "source": "theinformation.com",
+          "_hash": "51f91dd004e44b20",
+          "_ageHours": 2,
+          "_inWindow": true,
+          "_score": 56.3743625,
+          "_corrob": 2,
+          "_cluster": [
+            {
+              "source": "nypost.com",
+              "title": "Google DeepMind researcher quits with chilling AI warning: It could ‘kill us all’",
+              "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQVHMzamNJWENEOGozNkI4Q2ZYRWxuSmhfbWVrdVlVbGx6ZEUzNHhSeS1UUjFtSWNybjNxckJndHZ3WVh2WkI4Z29vMFItMmI0NWxMLTF6T3Ntcy1sMERZVVVHemtkbElxejNQUUhjdEp4U09WRWtzVU1tTXdGeE5GRl9uVzVGRW5FU1A4VllRVTM1T0tiOWRxVTVKRkx4SEpuYkp3aWRUeDRzWmVKSmE5bU5CczlZSHFMc2c?oc=5"
+            },
+            {
+              "source": "businessinsider.com",
+              "title": "Former Google DeepMind researcher says he resigned because 'I earnestly believe that AI has the potential to kill us all'",
+              "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOZmFRb3Fwd3V3cFlNaHlZVTFpbk9TdnFrbW55UTIyWHA5a1BCNGdMZXVmcUVvOWNfQUNkSFdiYjJBNDFveWg2LXBLUl9zVms0dEQzV0ItcTcxMGN4a0I2aHRQd053UGsyN3FoeUJEMkhpQjBaMVJpRTMxNlMwVXRzUko1ZUNhQ3N2bzlqaDkyQ0lEZw?oc=5"
+            }
+          ]
+        },
+        {
+          "title": "The AI data center boom is colliding with cities scarred by big industry",
+          "link": "https://techcrunch.com/2026/09/15/the-ai-data-center-boom-is-colliding-with-cities-scarred-by-big-industry/",
+          "date": "Tue, 15 Sep 2026 21:47:38 +0000",
+          "summary": "National outcry against data center construction has spread to Philadelphia, where officials suggested possible construction in a neighborhood already impacted by a now-defunct oil refinery.",
+          "publisher": "",
+          "_via": "techcrunch.com",
+          "source": "techcrunch.com",
+          "_hash": "bffdf9eb558759ab",
+          "_ageHours": 7,
+          "_inWindow": true,
+          "_score": 55.66880583333334,
+          "_corrob": 3,
+          "_cluster": [
+            {
+              "source": "briefs.co",
+              "title": "AI Fuels Data Center Boom Despite Market Jitters",
+              "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQVFlLZ29PMDR5RnJ1RGlEZVhhUld2OGpILVNzek92ZGstOEFxT2dlX01GaUg3bjVPVjRPb1EwaF81UUVZMHdmbGRaNUZqb3NYSzducHpZT1pkN1NvVm95TGlMYjIzTEZLbEF5NlpTc1pjT2c3alVhSUpXckpGVHFBclBXb0xmY3NzcnUzN0lpYjU2dw?oc=5"
+            },
+            {
+              "source": "techcrunch.com",
+              "title": "The AI data center boom is colliding with cities scarred by big industry",
+              "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQSUhjREhxYkhIVTU2WXZVNHplQ09DM2Vlbzg4VXF0OHpjcFFSY2lPSHRqNDRxd0pwUkZHYTZyakNMem9QdThDdkNET0RsU2JobmVPWFN2cHM3QmlJdk56UE9iMF81bXE1aTJVbG95UUg3MDhDalBXZUh2RU9GSi05dUN1X295YU9zSDB2SzlhS2hVYzJDWmFzNHpKLTFIbW9Wa0dmS3M0Q0FvR28?oc=5"
+            },
+            {
+              "source": "investing.com",
+              "title": "Why AI Doomsday Fears May Not Derail America’s Data Center Boom",
+              "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOdmpEWGFhM0tqRnRWOHpPanNiX1IyNC11MWZEbmJVYUxHVDZacldONnhNRVVKMzZqbWNqVndMRThTV1NKbldpTGRVY0xGTi1TZE5Vc0xxSlJ1RmRzbzRRNmJYV2ZnNy1TWURlV3dXRjk0bjZTSlhSNGdhMlNwaHhjLXZ6Y0pTNTMtcTVpcGJvYjFKQnZNNzE4R3NZd0JLckpIQWpSd3hDMWlpMVU?oc=5"
+            },
+            {
+              "source": "insurancebusinessmag.com",
+              "title": "AI data center boom is concentrating risks brokers haven't fully mapped",
+              "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNOFhXblRoR3FObVRlOTF6ekZNM240cWVkNUhnd1pkTmxOV3JZUUEwUzltVTZlLTNHN1AyR3JnS1dxM2JsLTJUd3RXckJNYXlzVXUzR2h0MXVQaWVNQTR3UXpOR2oyeU80ZUE4NzBoTkF1eHh6WE5DQS1qSmlnR1UwY0ZGRGFrT0ZtQVM2QTQ0YktqTGNhLUd6QkdmMTl2T2JVaXJPVzUzZFFxazRLNVFpTDBKN3NQY3Noa2J4SFYwUDNWei1zeEREYV9Ea2dtalBrdUN2QUVNQQ?oc=5"
+            }
+          ]
+        },
+        {
+          "title": "Delos Data raises $100 million to develop chips for AI networks",
+          "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOS2duck9vVl83RHBEckxkWDZxbUJ2Z193NFMyRk53U1JFNFpiakJGSG9RaFpROGRGNVAxOE5OWm5aSmtTN1lXMFhIVzR6cmsyRGJwV080WnNWd2c0VUJjb3c2ektKZ2EyNEJrZVp1eXBzWXpaalVIbkdHOV9TTnNhYk5jNlVPY2d1aWFBTVNNMUg1REJwVGMxOUhRczhaWExGRnJHamp1Q0RjUkIxWXcybGZ2bkg?oc=5",
+          "date": "Tue, 15 Sep 2026 21:07:41 GMT",
+          "summary": "Delos Data raises $100 million to develop chips for AI networks The American Bazaar",
+          "publisher": "americanbazaaronline.com",
+          "_via": "news.google.com",
+          "source": "americanbazaaronline.com",
+          "_hash": "a1cd0d4cdb00e9e5",
+          "_ageHours": 8,
+          "_inWindow": true,
+          "_score": 55.00297305555556,
+          "_corrob": 3,
+          "_cluster": [
+            {
+              "source": "siliconangle.com",
+              "title": "Euclyd raises $230M+ to develop chips for AI agents",
+              "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQSjRZdks4dXBkUGtmWHMyNFVQTG1zZEc5R2ZCSmRIc2dkTzdtajlkXy1LWFE5Q0hiamU3aFdJajBaV1hkYXF3Vk5Obm9QbjdweHBBOC1GMjhaMkJnQnhwS1NUTFE1SVFFNzV2VmUyNE8zLTh3QTdlZ0JUQVRMcm9fUWtSQTJqYXYwS1NnODAwVQ?oc=5"
+            },
+            {
+              "source": "mezha.net",
+              "title": "Delos Data Raises $100 Million to Build Faster AI Data Center Networks | Ukraine news - #Mezha",
+              "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1sdUlrOFFwSHdKUG1NR3R0WWc1aVdzMTdDUWRURXVibHNVMHpGekY0SnlYc1pET2hGTjlOZlZsZnZQR0RHYzBMZ2ZJNTBoQ0g5SDNwOC11cUNWWEhwWklmNm9MNFc?oc=5"
+            },
+            {
+              "source": "app.dealroom.co",
+              "title": "Delos Data raises $100M to keep AI data center chips from idling",
+              "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxQN0hCaWF0d0dSSEVNUmpHLTlJYXVvQXpfS3JCQ0U0VnhZdjVhSmRTb1IyYkt0YnVkM2paTFdXWGFEZGNCeUhwXzJTeEVjZVh1WVBKYjFzVWdlcWpuMmtjTEpIOVQ4eDlhVkhybUpGcWFIVHFGTWxKaUVsWFcySDVISVhITjN6TllGNGU1bXlqbjNmUFZnMmE2MkdrZjJCQQ?oc=5"
+            }
+          ]
+        },
+        {
           "title": "Meta CEO Mark Zuckerberg sides with Nvidia's Huang on AI safety and slowdown debate",
           "link": "https://www.cnbc.com/2026/09/15/meta-mark-zuckerberg-with-nvidia-huang-ai-safety-slowdown.html",
           "date": "Wed, 16 Sep 2026 01:56:47 GMT",
@@ -323,9 +288,9 @@
           "_via": "search.cnbc.com",
           "source": "search.cnbc.com",
           "_hash": "115b508921014df0",
-          "_ageHours": 2,
+          "_ageHours": 3,
           "_inWindow": true,
-          "_score": 56.43627388888889,
+          "_score": 54.821305833333334,
           "_corrob": 2,
           "_cluster": [
             {
@@ -346,54 +311,79 @@
           ]
         },
         {
-          "title": "OpenAI CEO Sam Altman addresses concerns over AI safety",
-          "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE4zLVJFS1BxU044WEJOd2ZnNDd1aXhSUk1kY2hpRFkxRWJ6a1JDaEFSdE14a21oV3laWjRaS1hIVUxaWVJ2RGZ2N2JnbEQ1QmpDUDNMRzM1QnNPMEHSAWBBVV95cUxQb1RnZW0zeFBmTnNKWk94QjlZUzRpNl9zQ2RUc0hxR2RwU0t4Vk1Vem1yZFg3UWVWbFY1Z1pwV3M2czNGdUVGR0RkcUN2RGJHV1JFSmJEd2k1bEVabnluWEY?oc=5",
-          "date": "Wed, 16 Sep 2026 00:23:48 GMT",
-          "summary": "OpenAI CEO Sam Altman addresses concerns over AI safety KTVU",
-          "publisher": "ktvu.com",
+          "title": "3 Resilient Artificial Intelligence (AI) Stocks That Did Well the Last Time the Fed Raised Interest Rates",
+          "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxPZ2huOGRXd2RFX0JvbWVZVlQ3T1E2N1F1ekNYYmpNTTdLLTlLWEFsZnBNQXE4eTQzRHItc0NhTXQwRTNteXhFYkxoU3lHMlNhMF9CT2tKdkNjakYxTzVYTl83OHY5M2IwNHNLU1YySGRwVFM1M2h4VUljTkFCbXhVU2F2MFdqOHNNSzhZb3ZieHd1aklYWEZ2SUJ1OTlYd005NXVTWnNaSUotT0VCZkM2b3dsNnh0NFZpdkprWTAyeXJnNTN5dXh3aGZXSGlla1VGQlVLM2MwYTBCUGkxUjU4?oc=5",
+          "date": "Tue, 15 Sep 2026 20:51:00 GMT",
+          "summary": "3 Resilient Artificial Intelligence (AI) Stocks That Did Well the Last Time the Fed Raised Interest Rates The Motley Fool",
+          "publisher": "fool.com",
           "_via": "news.google.com",
-          "source": "ktvu.com",
-          "_hash": "dc66a3bc65ae7d62",
-          "_ageHours": 3,
+          "source": "fool.com",
+          "_hash": "f84c56f27d4f20cc",
+          "_ageHours": 8,
           "_inWindow": true,
-          "_score": 54.88655277777778,
-          "_corrob": 2,
+          "_score": 54.724917222222224,
+          "_corrob": 3,
           "_cluster": [
             {
-              "source": "bloomberg.com",
-              "title": "OpenAI’s Sam Altman ‘Confident’ Industry Can Police AI Safety",
-              "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPREsxS043ZndzeDFHVGJKREZnN0ZSWVZBUUhJaGIzZHhvR2oxVHNrbmc3eThpRGVpb01qUjVjZXhEeWJlaTVjUnljSWlwSmYzWUdMMFZwYXZyN2JjVFQyNC1IcWJMX3I5d1JuLUpRbjRJRDg0OVpocHE5eXQyTURrMUdxU1AzNWVFZldJcUVoeHRoUGpLSTV2aUw2ZDB1c0xsaG04RkFCRl9UVlVuWmg4?oc=5"
+              "source": "theglobeandmail.com",
+              "title": "3 Resilient Artificial Intelligence (AI) Stocks That Did Well the Last Time the Fed Raised Interest Rates",
+              "link": "https://news.google.com/rss/articles/CBMijwJBVV95cUxNLXVvSS1iUXFJWm95RFozdmFtZ2NJMFFPZThTbUcxVnBWWThZOXhZaDFHNjdfRFprTzVZWWlWSjV0UXBGRGRYMWhyQVVDUW5fWnpnems5ajZjSG1WdUNFRkRjdlZMQVh1ZnNzUnpEcURVMUVvVk9JcVlHZS15UW5TZ3dlbkVSNmdiUU9kN280cEtCSGFlZVd4YS1WUFFSdTcxSmJPVVUyYThwdHR2X203cVpuUVdIajRpTU5CN3ZGNVpIakpDN3JGZHVObDFSS2xUWU5ZLTJQTjhxeGp1Q1VzdWNmejBFZ2toTkZ5cWRpLThDcDJwNVAybk12b24xOXFpcDJtMDBlWlJTNGQyWHJz?oc=5"
+            },
+            {
+              "source": "currently.att.yahoo.com",
+              "title": "3 Resilient Artificial Intelligence (AI) Stocks That Did Well the Last Time the Fed Raised Interest Rates",
+              "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNcGJoQ3FFeW5rMmR6bFFnWUpNVHBEelpLVXp5UDVrMmV6RTFxNlVMdGRkSVRDVjBIek1oaVNCQ2VaTVlmX0g2YjRfTTJ5M2VxOTh3dVMxQ01LTVRrYzB0NHNnQXRuMl9tbnNmUUo4VThTS250SkdReHdyUmJvdFF6LVRMRExLa2NZa3ZLZHMzRi0xc3c?oc=5"
+            },
+            {
+              "source": "fool.com",
+              "title": "3 Artificial Intelligence (AI) Stocks That Turned $10,000 Into More Than $100,000 in 5 Years (Hint: They've All Outperformed Nvidia)",
+              "link": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxNWVJfd2w3cWlTMW5hLXhxOENQLTFldUJUamtuMWhkV0pfMGJuUW9KZGJmelB3UXd2ckNqWnV4akdHdFZkWWhBV0VfcjJRRXZEXzlERVljNW94Z0YweFlrNG1lc0JyUGxRYTdsX1VoZ2VYTUpLMVJyQVQtX2pBQXk3UEYxNm1EZ3VSQ0xkdlQ0OGlMR2RzLTFRd2RjYUs1QzZ6N0JyVThXZjNRbVFlR3BudU5feGpSaGpjTjdLWmM2OTRTSlJfMkRpMzN4dVZBdzZfa2l4RVVON0oxYnpEbzdvQWxSX2FYVWJnQWRIbTVEeWpBZjdpd05fZF93Z1k?oc=5"
             },
             {
               "source": "finance.yahoo.com",
-              "title": "OpenAI’s Sam Altman ‘Confident’ Industry Can Police AI Safety",
-              "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOc1ZEdkRYZm9mVzRtRTJkbWtMZmU2MVVVek9BN0pMWU5HRldWT05XNk5zY0FQc2pmS09LbDlHN19nLVRwM0ZFb1VRdFpLa21VMEh4TDdPa3EyREswU1Axc29jaGVPU0RRUHNZSG1rQnVDSFBZQ3p6ajBfWkRMMWdiSmp3S1JsSUEtWHA0TXRoRFJtbGIxbXQ2S3MwT2NUeVcxOXc?oc=5"
+              "title": "3 Artificial Intelligence (AI) Stocks That Turned $10,000 Into More Than $100,000 in 5 Years (Hint: They've All Outperformed Nvidia)",
+              "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOUzk0RHRlTG41VVpUcjdSYW16N3FZZUNWMFhhNTdtaENBc1B0Vk1LUlZZemd3cmt0N2JEYzFrRVo3dUxSb3RfVndCOUJmdHMxaDRPTjRGVG5ZSzZBRC1tdUJoNldRWTY4VVQweUVET2lmWTFNSXdMNTJQTDdSSnlrZ1IwSlVxaEp3VlpnZ25rRVJHbmhZMzdtTnlhc1VPU2FNWXc?oc=5"
             }
           ]
         },
         {
-          "title": "Meta to Install In-House AI Chips Next Year",
-          "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQQzRWWmJDSjBjanVFanRWV2JXLTJyVHZBQUZxMlJhcXBJc3NSNWV4SUROZW4tRnpTdDM4UERLQURJT3VMRmJ4QmtpenVMV01ZVkJ1NVRBQ1VyVldxZF95RkNBaVFCeDh3UHdiOG50ME1IcTg5bUZ0aFJWRlU0d2FyX1BQUWRrZlMza3lRcEdxbEM?oc=5",
-          "date": "Wed, 16 Sep 2026 00:14:31 GMT",
-          "summary": "Meta to Install In-House AI Chips Next Year Briefs Finance",
-          "publisher": "briefs.co",
-          "_via": "news.google.com",
-          "source": "briefs.co",
-          "_hash": "17423be4afdf41bb",
-          "_ageHours": 3,
+          "title": "OpenAI, Anthropic, Google have been in talks on AI safety for weeks",
+          "link": "https://techcrunch.com/2026/09/15/openai-anthropic-google-have-been-in-talks-on-ai-safety-for-weeks/",
+          "date": "Tue, 15 Sep 2026 15:47:03 +0000",
+          "summary": "OpenAI confirms weeks of AI safety talks with Anthropic and Google DeepMind, as Trump's team dismisses safety concerns and pushes to keep pace with China.",
+          "publisher": "",
+          "_via": "techcrunch.com",
+          "source": "techcrunch.com",
+          "_hash": "1b2cef2768c179fa",
+          "_ageHours": 13,
           "_inWindow": true,
-          "_score": 54.731830277777775,
-          "_corrob": 2,
+          "_score": 54.659083611111114,
+          "_corrob": 4,
           "_cluster": [
             {
-              "source": "seekingalpha.com",
-              "title": "Meta plans wider use of in-house AI chips as it targets lower costs (META:NASDAQ)",
-              "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNNGVTdS1jLVdYcHJBaW1sejRzckVncW5LTkUyejdMeGxwbjNpZDMzT2Q0R3loRmV0U0VsajNibGZGdFFBU0FCdjJ4d2tZVlo0WlJkeEtvczdGdVdSeWRuTHg1amJ2RlBqb3A2dDVXTHF5MEMybUJ1NFpTTUNlM1JfekNDXzcxYmJ2V1hEMHIwQ0JVVy1maFBUbFhZSUJqWEVaMzh6U19PTmQ?oc=5"
+              "source": "siliconangle.com",
+              "title": "OpenAI, Anthropic and Google secretly joined forces to collaborate on AI safety",
+              "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOZWVrV3ZseTFWNnBPUXRoUEx3YXNlYW5GQ1RUNENlc0taSzRfc0tSY3p2TFpWYTB4MDJXcDFJdWRCbFluaVBxeEVQSnlnNFV6dzk2Y01LMEpmSE05RENNbDNzZWNWdHFya3p2WkFSUW5oUmxCQVNOUVVLZF9rU2RVQVMyRWYxYzNjRWxnMkhFX3ZsYVhwbWNGMmNubVdrd2FqQkwyV0YycFkwd3o1OUNmSi04ZHE0dw?oc=5"
+            },
+            {
+              "source": "france24.com",
+              "title": "OpenAI, Anthropic and Google in talks to create a standards body as AI fears rise",
+              "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQc296M0FwQXpjNXhFRTFabWdOZU5vMWFLdEZ0ZGFuX0Z5cXJESENRYWdROUh0X3VJWlhScmtub0tXclU5aHhZYVZxSDIyY1duQUF5YnBxdXFCNzFnYUZMNXUxRnRwUEV1bDBMd0N6Umwxei0wbjkwVDZuNmJfVmh1MGlHd3RNeHBEXzVHUm9RWkg1NjFBQlFfRFM2cXNIanBrNDZNRl82RzVhQlRBUl9CeFlnU1R0THNqakdMZEdNS0dWYVN1UDhr?oc=5"
+            },
+            {
+              "source": "techcrunch.com",
+              "title": "OpenAI, Anthropic, Google have been in talks on AI safety for weeks",
+              "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPaEsxMFYwMkNyVXR5cjZjNERGREFUenN6YWNuOU5oTEpkZElOdlQxMVQ0Q0ZUMF9aNlFqSmNYWUVOZ2VHS0pBYmM3bnhFbjhHYXB1eUQ1TDg3NE55blEtdEU0eDZ2SXM2OVFWbHp3X05fdEtEazI0SmxhSmJ0R040WGRralJxTFZXQjlKV2tOT2pKamUtNmNmc1pFZTAxdzJRd3c?oc=5"
+            },
+            {
+              "source": "reuters.com",
+              "title": "OpenAI is working with Anthropic, Google on AI safety, Bloomberg News reports",
+              "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPaENkNHlJX1lkYlJtRzRtZ0NEaFpfbkxub0F1VkVUVHBvVTdMaHV1NjRDMnY5N09TTnIzRzFQZmFYcnY3ZkplMmxGQ1Y2OFRXT1kyTkNlWnZ0SjFsWHdHMWl6RklJeTFmMjVfYVN0ZTlidzhmR090TVdzRFRQd1ZmSFB2dXIyM1BLYVJDNlZMYy1PYnpTdTR0bHBYR2JwYWpMczAzSm5jU0JqYkJwb2V1SmhmMVJxSzRILXBZ?oc=5"
             },
             {
               "source": "bloomberg.com",
-              "title": "Meta Touts the Cost-Saving Benefits of Latest In-House AI Chips",
-              "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNeUZCZk9JODh6eDF4RVB6Q3lGSkt5Ul9IOGRSVFROQ2lxTFAxY21rUmk3WHVsbnBYcTg2eHBuTTk4STNVRkliTEF5azVXZUs0M09yM0J4bW5ManFRMC1yckY1UTh4N2xEX2V6S3NFZ09UdTZnSm01a24xVDYzb3JRd1Zla1BUZDQtQ0JaTERnOVlQS3ZJSTRNamxtNnFFa2hKVmVxNnJicVFoNHBYSHltUlFLUEg?oc=5"
+              "title": "OpenAI Says It’s Working With Anthropic, Google on AI Safety",
+              "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQU2hNbVd5RVh6MTNQU3RjMVBLdnZmbzhRTVhHSnJ0dko1ZnVNeUw2Tm1xLXk3VE5xa3phZTB3TmFHYjJ2emlUZHgyc0NSbEV1RFpGY3JCODFCNW52WjJfdFhVNzFFbExIY1lDS3BwalhUUllSWEtYNm1KM1ZJRHdVVTc4QnlhcFRiX2NnWUZmSlRwdmc4Z0FvQnNucW9GTXlqZW5PREhzWVlWTllxTHlJ?oc=5"
             }
           ]
         }
@@ -411,9 +401,9 @@
           "_via": "news.google.com",
           "source": "finance.yahoo.com",
           "_hash": "25de1202849d7c14",
-          "_ageHours": 11,
+          "_ageHours": 13,
           "_inWindow": true,
-          "_score": 62.71720833333333,
+          "_score": 61.10227305555556,
           "_corrob": 4,
           "_cluster": [
             {
@@ -447,9 +437,9 @@
           "_via": "space.com",
           "source": "space.com",
           "_hash": "79b9cb672a4d0b12",
-          "_ageHours": 8,
+          "_ageHours": 9,
           "_inWindow": true,
-          "_score": 56.40526388888889,
+          "_score": 54.79032861111111,
           "_corrob": 2,
           "_cluster": [
             {
@@ -480,6 +470,27 @@
           ]
         },
         {
+          "title": "APOD: 2026 September 16 – Webb’s View of M64",
+          "link": "https://science.nasa.gov/image-article/apod-2026-september-16-webbs-view-of-m64/",
+          "date": "Wed, 16 Sep 2026 04:05:00 +0000",
+          "summary": "APOD Science APOD APOD: 2026 September 16 –… Today’s APOD Archive Submissions Index Search Calendar RSS Education About Discuss APOD Astronomy Picture of the Day Discover the cosmos! Each day a different image or photograph of our fascinating universe is featured, along with a brief explanation written by a professional astronomer. Hubble + WebbHubble [&#8230;]",
+          "publisher": "",
+          "_via": "nasa.gov",
+          "source": "nasa.gov",
+          "_hash": "9303911a0953c9ad",
+          "_ageHours": 1,
+          "_inWindow": true,
+          "_score": 46.958106666666666,
+          "_corrob": 0,
+          "_cluster": [
+            {
+              "source": "nasa.gov",
+              "title": "APOD: 2026 September 15 – A Daytime Eclipse: Moon Occults Venus",
+              "link": "https://science.nasa.gov/image-article/apod-2026-september-15-a-daytime-eclipse-moon-occults-venus/"
+            }
+          ]
+        },
+        {
           "title": "Celebrate International Observe the Moon Night with NASA",
           "link": "https://www.nasa.gov/centers-and-facilities/goddard/celebrate-international-observe-the-moon-night-with-nasa/",
           "date": "Tue, 15 Sep 2026 16:15:12 +0000",
@@ -488,9 +499,9 @@
           "_via": "nasa.gov",
           "source": "nasa.gov",
           "_hash": "cf8d602e5f71bfef",
-          "_ageHours": 11,
+          "_ageHours": 13,
           "_inWindow": true,
-          "_score": 47.74304194444444,
+          "_score": 46.12810666666667,
           "_corrob": 1,
           "_cluster": [
             {
@@ -514,9 +525,9 @@
           "_via": "news.google.com",
           "source": "floridapolitics.com",
           "_hash": "6a7de9800d9fc32f",
-          "_ageHours": 6,
+          "_ageHours": 8,
           "_inWindow": true,
-          "_score": 46.98026361111111,
+          "_score": 45.36532861111111,
           "_corrob": 1,
           "_cluster": [
             {
@@ -535,9 +546,9 @@
           "_via": "space.com",
           "source": "space.com",
           "_hash": "8c02f5c4193fee1e",
-          "_ageHours": 6,
+          "_ageHours": 8,
           "_inWindow": true,
-          "_score": 46.89998611111111,
+          "_score": 45.28505083333333,
           "_corrob": 1,
           "_cluster": [
             {
@@ -561,9 +572,9 @@
           "_via": "nasa.gov",
           "source": "nasa.gov",
           "_hash": "d9947366c5c0b72b",
-          "_ageHours": 4,
+          "_ageHours": 5,
           "_inWindow": true,
-          "_score": 44.25943083333333,
+          "_score": 42.64449555555556,
           "_corrob": 0,
           "_cluster": []
         },
@@ -576,9 +587,9 @@
           "_via": "nasa.gov",
           "source": "nasa.gov",
           "_hash": "4a2d971a90c78247",
-          "_ageHours": 11,
+          "_ageHours": 13,
           "_inWindow": true,
-          "_score": 36.729708333333335,
+          "_score": 35.11477333333333,
           "_corrob": 0,
           "_cluster": []
         },
@@ -591,24 +602,9 @@
           "_via": "nasa.gov",
           "source": "nasa.gov",
           "_hash": "e0e606017ccede10",
-          "_ageHours": 14,
+          "_ageHours": 15,
           "_inWindow": true,
-          "_score": 34.138597222222224,
-          "_corrob": 0,
-          "_cluster": []
-        },
-        {
-          "title": "APOD: 2026 September 15 – A Daytime Eclipse: Moon Occults Venus",
-          "link": "https://science.nasa.gov/image-article/apod-2026-september-15-a-daytime-eclipse-moon-occults-venus/",
-          "date": "Tue, 15 Sep 2026 04:05:00 +0000",
-          "summary": "APOD Science APOD APOD: 2026 September 15 – A… Today’s APOD Archive Submissions Index Search Calendar RSS Education About Discuss APOD Astronomy Picture of the Day Discover the cosmos! Each day a different image or photograph of our fascinating universe is featured, along with a brief explanation written by a professional astronomer. A Daytime [&#8230;]",
-          "publisher": "",
-          "_via": "nasa.gov",
-          "source": "nasa.gov",
-          "_hash": "7bcf9adedc2a667f",
-          "_ageHours": 23,
-          "_inWindow": true,
-          "_score": 24.573041666666665,
+          "_score": 32.52366222222222,
           "_corrob": 0,
           "_cluster": []
         },
@@ -621,9 +617,9 @@
           "_via": "nasa.gov",
           "source": "nasa.gov",
           "_hash": "0556c5a7604ac83f",
-          "_ageHours": 33,
+          "_ageHours": 34,
           "_inWindow": true,
-          "_score": 20.489708333333333,
+          "_score": 18.874773055555558,
           "_corrob": 1,
           "_cluster": [
             {
@@ -642,9 +638,9 @@
           "_via": "nasa.gov",
           "source": "nasa.gov",
           "_hash": "15468424eb196a6d",
-          "_ageHours": 35,
+          "_ageHours": 36,
           "_inWindow": true,
-          "_score": 19.258319444444446,
+          "_score": 17.643384166666664,
           "_corrob": 0,
           "_cluster": []
         },
@@ -657,9 +653,9 @@
           "_via": "nasa.gov",
           "source": "nasa.gov",
           "_hash": "1712d581dce71272",
-          "_ageHours": 30,
+          "_ageHours": 32,
           "_inWindow": true,
-          "_score": 17.55748611111111,
+          "_score": 15.942550833333335,
           "_corrob": 0,
           "_cluster": []
         }
@@ -669,52 +665,6 @@
       "name": "Bitcoin / Crypto",
       "candidates": [
         {
-          "title": "Senate blocks cryptocurrency regulation as Democrats push back on Trump investments",
-          "link": "https://news.google.com/rss/articles/CBMimAJBVV95cUxQOFNOT19uR19HTUEyX3N2VnpvWXFxTEh5b3ViUmNWMUQ4SF9XWndwaWoyNGcxc05VNmpqQWdKcUJoSnljOVJJekpLYjFhVnZhV2dTa3VhTm1SQVpnQkZ3QTM2NTllUTd5MTExNm1HOGliQndYNEZISmxXb1Z6MDNGZE1Wc2EwMmVjS1FUc2ZtRjVmWWtQUXFQTGxNR0U4eFVCamtCbnFxZnBQc25EZXRaaWt2d3QwdmtCRXVvbm5aSTgtWm5UR3l6cUhGVFhIMTRiQ3FzZzZvNDJHVmNXczJVQXN5NE5zMmlNSkI4OHE0VUNVNmxNQXpYT1RVWE1aV3NpSlRRQzZJSEZPbnpKdUpPNElib1lyMk5i?oc=5",
-          "date": "Wed, 16 Sep 2026 02:54:43 GMT",
-          "summary": "Senate blocks cryptocurrency regulation as Democrats push back on Trump investments Toronto Star",
-          "publisher": "thestar.com",
-          "_via": "news.google.com",
-          "source": "thestar.com",
-          "_hash": "72af34baa8a4e68e",
-          "_ageHours": 1,
-          "_inWindow": true,
-          "_score": 77.40153111111111,
-          "_corrob": 6,
-          "_cluster": [
-            {
-              "source": "wyofile.com",
-              "title": "Lummis blasts Democrats after Senate blocks cryptocurrency regulation she long touted",
-              "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQR2hrTXhyR3BJSEZqYXJHUWU3TVkzWm5rUWpaS3YzQnhBalVrNW5acHpHci1hUmE5N2h3QkZSTmpZclZnX1NwQ0xTR05IcGdXdjd3R2hUN21oZ3JGMnVrTUxIaDdGNHNWeXFyalk5NDU4SE83Sm9PakpZRWVNX0xTSWUtYnlITnZtYVlmNUk1RGVHZEVtdEdSTkdicVk0OTVLQU1lNGFLekpsQQ?oc=5"
-            },
-            {
-              "source": "ottumwacourier.com",
-              "title": "Senate blocks cryptocurrency regulation as Democrats push back on Trump investments",
-              "link": "https://news.google.com/rss/articles/CBMikAJBVV95cUxNN3ppLXoxV0hqUTBPaUZsQmhUajFQdjdIOXdFNVFEc2M4SWxWaWNNWG9CeWJreGEtOEJwbEU2WmFQYWY5Y0lsSGY4NHBTUkFoamx2Nlk2cEtTN0gwZ3BrMHdSUUxoSHQwQ1BuZk9CWWJpdkZtTWg0SXNQa25KaVljOU15eEZMajVzNTVxOTJ5ZzBTcjk1dHBqR1pqUHVNOGJTb3VtVFRuY2dNX3V3aVNzakozbm1LeXI4X1hsTTZrNV9vMWItRW03YmtZTWRwVHg3VHJRZVZ4MnZPQnRESnlPclhXc19LaWRVVmhLX0NUcldwQVY2X210QmN0YWxxZDBTQW1YS2YzQ0V4UmpuYU1Reg?oc=5"
-            },
-            {
-              "source": "apnews.com",
-              "title": "Senate blocks cryptocurrency regulation as Democrats push back on Trump investments",
-              "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQeXdoSFh5N1BoSHFEVHJRVUVnRXpXV1ZaMG1aMHJnT3lFczVCZHU1Y2tuclFOVWtQangxbVVXZEpLc3p3MWZYc2ROZnpiaFlvcFhkbGI5dzhrMG44UUF0bnQ5am1GXzFwVkJFeUo3Qm5kNGcwM05tbGdpVi15QUtHSW9vXy1uTjgyLWpjVEEtaTA3Uml3VGJ2R2xmbzhqWlExMHc?oc=5"
-            },
-            {
-              "source": "santafenewmexican.com",
-              "title": "Senate blocks cryptocurrency regulation as Democrats push back on Trump investments",
-              "link": "https://news.google.com/rss/articles/CBMiggJBVV95cUxNc1FWVWJxQWdrSFRKaEJLRXVRUGFxOXBwa2pXMlp2dU9aaW9kbFBzdk5hV2lZU1VDRjVNdHhMOFBxNWp5WGxEeXdhSTZLSU1ISnVsbTZfZmxwb25faHhKR2NWaXB3NkdPY0FWTmtKOE5Hc1FNbmstZENBdEdvYlh0bFRQNzFwVWY3MWxFdFNPSndZSkprS3RJdkdXSVBFWlNablh1Mm5kMUxBNk52cGk1aHlmNnpUWWd2b0FaNHlOT25XT2k1b1FHSXJocUZzTFFKNWdIdjNrbXQ4TkJ2elJtX3lKSUlVd3ZzZDByQTUxamhldWlJRjM0TzZ1cGI4ZjkyM1E?oc=5"
-            },
-            {
-              "source": "waow.com",
-              "title": "Senate to decide on cryptocurrency regulation as Democrats push back on Trump investments",
-              "link": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxQUERiMEJOOGp3VGhlZGtYdmtDSW51UXJWNVRHMjlYWHFlRkZWdmJLMm9KakpfdVNBVkNTc09xbDBRX2FhUmtIRUFXTnFqSDVDRnJmZVZ6TFFyRzQ3VW5YZkJhbklwdE81b3NtV2JPX2xuakF2aWRrV2N1RmItc3JPSk5fUXpTUnFpTHp3NGNsOTFaVjVzeGpQUUV0WG5sbVA0ZndLYms1ajFQS1VJN3VpeHdCSUJKR01iczNxZjJyWS00a1A5ZHZqQUJzNWRKd0VxQkwtWDRVTzgxM0tKM3pHSzlZdGVtYUtBT3AxQ19jSVNkenZEVGIycQ?oc=5"
-            },
-            {
-              "source": "fox59.com",
-              "title": "Senate to decide on cryptocurrency regulation as Democrats push back on Trump investments",
-              "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQcHdBWnNFU0d0Zm5zVUppdGdpZTlfanZUV2ExVXFWTHFtVUVCVGdQdDJGZHFaVUZ6S0RVRnVlaDhsUkZEb2VRODFEUEY1S0tzblBCa3lsZm4taG1vOEdMbjRpMHpTWDB6LU9MWVRiV3lSVGstckxzSzhmVzN3XzZ3SUdIcURRMHNXNUpTNk1Bd1V1LWFFUzVBM054MEhsRkRzUVNVUWlJbFJ4MWM2VVZJb0doNXBCakVxZ2hySXcwRkRXdU8wYTZjbTJTUmExZ9IB0wFBVV95cUxOcF9naWd3VGlUM2JhTlR2LVRWUjlZVndTTE15akY2RmdGMzlKTWFjM29NMy1UWWhlbmRrdDdKQ3J6YndqV3VWTFRNb0hxYWYzd2JCaVd4UTBGWjJaZU0zX1ROSTY4c1d4TTRabzQyYkpZVGxwekFSR0FlaUtFLXZRLUtGNEdXajBEdmQ4Ul8xWXFOS0J6Q1BTZ1FPWThycC02QTdPRnpBcjhUeEFGNUVmWVBlOW5rN2I2U1FrdXNDNE5FcmlpUG5zSGQwNTF6VnUtUGxZ?oc=5"
-            }
-          ]
-        },
-        {
           "title": "U.S. Senate fails to advance sweeping cryptocurrency bill in blow for industry",
           "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPYUhORzJXTWtQN2pucVl3Y3pNd2hpSGtQckRPWjlZMVA0TUI5dElEYXNqOTE0YzdEcHFacXpmOUg4V2lJd0FhdHduWDhIbjVRRlRxa0NjVEo4Qnd1UkVLdkR4ZUZpTUJLUmlWcHkyU3lmak1ZU2UxdVR2UzBKU2JYbGtRdUZSV01sNmVMTw?oc=5",
           "date": "Wed, 16 Sep 2026 03:25:00 GMT",
@@ -723,9 +673,9 @@
           "_via": "news.google.com",
           "source": "japantimes.co.jp",
           "_hash": "7b42124a77bef4fe",
-          "_ageHours": 0,
+          "_ageHours": 2,
           "_inWindow": true,
-          "_score": 72.90625333333332,
+          "_score": 71.29127472222223,
           "_corrob": 5,
           "_cluster": [
             {
@@ -756,6 +706,42 @@
           ]
         },
         {
+          "title": "XRP sinks 10% as the Clarity Act fails and bitcoin slides toward $76,000",
+          "link": "https://www.coindesk.com/markets/2026/09/16/xrp-sinks-10-as-the-clarity-act-fails-and-bitcoin-slides-toward-usd76-000",
+          "date": "Wed, 16 Sep 2026 03:37:45 +0000",
+          "summary": "The Senate's 49-50 procedural vote left the crypto market structure bill 11 short of what it needed, and every major token fell.",
+          "publisher": "",
+          "_via": "coindesk.com",
+          "source": "coindesk.com",
+          "_hash": "80b38029c21a1f94",
+          "_ageHours": 1,
+          "_inWindow": true,
+          "_score": 61.503774722222225,
+          "_corrob": 3,
+          "_cluster": [
+            {
+              "source": "moomoo.com",
+              "title": "XRP Sinks 10% as the Clarity Act Fails and Bitcoin Slides Toward $76,000",
+              "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNMV9YWTNYQXJ3WURMZmZuQU95MkxOSXRydUhibjlwZ01RRXZGN2kyTnZZcEFqMEw1em1vcmJ6cDYxajczTXdleEpJQVdZMUJ5QlhfckVqT2VDd0pVMnF6Si0taGQ3LTJWbWVjcmhjWmJNN2hoc3ZwdWpUbk9fRlA3ODRNWmY4UkdEb0ZRWHRNYmZMbkJyR1E?oc=5"
+            },
+            {
+              "source": "coindesk.com",
+              "title": "XRP sinks 10% as the Clarity Act fails and bitcoin slides toward $76,000",
+              "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNeWZuTVJCQnJESWstbTdxUFB0MkZseV9hYXFHWENQMHhiNUZsM2ZHV2VrdU9OUGU2bHdFbW5BVnBlVDhxeHZ4SzdKSzh1dHV2THZmajJ1b0dva0FmX2JxU1ZfVmR4SGlRU2Q2M3RjbHpXVVNtVHpCSGdNYjFLSlhvWVdPYWdmSTgwVmdBQkp0Vjg5R00xNUxzYWM2ZUhodlVIOEl0aUYzWWc0SFJ1V3RGVWd0YzVBcDU1?oc=5"
+            },
+            {
+              "source": "finance.yahoo.com",
+              "title": "Bitcoin Slides, Crypto Stocks Decline As Trump-Backed CLARITY Act Fails To Pass Senate Vote",
+              "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNaFR2T2tBdVktcFlfUDB5TFpnM2ZwZHhXb3p5ZUNMLVlMV2ZKSlJVOG9pdHMxNTFvTnpwY01tREdpdDBoSEphVy1VYzFDR0o5QXRWN0NSdmc4TWQyUm1aa3liSFhvZDF0RjN2UG5uUmg0YUhIWVdGQnJiV0hnZWUxVVUwVFVhRWViVTBPc21MMmM5VEQ3MVB3WVBOVC12NzZmN00w?oc=5"
+            },
+            {
+              "source": "decrypt.co",
+              "title": "Crypto Reacts: Bitcoin Slides as Clarity Act Fails to Clear Senate Vote",
+              "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxORHp4YldtSElzRTg1bWkzMWFLWkg4SHQ2Z1pzZlNIRUNnbVlEeWJDSjJoeE5TalZ5R2k4RmRDbTFkVkg2TFJlUXBFc2ItUE1LR1pTWHpQdjZnckNZTWhSQUQ0TGtBbmRUcGV5eHZkYnE1YnVBM1dfemY3ZHowSm5jSUZocWXSAYwBQVVfeXFMT2FWM3pKX3UxdVBYSTRmcTBZaDRFaGhUMWVkVXo5REptNWxjOUc5MEdVc1Bsa0FCTmZUN0tOZGt3T0h2aUtvZV95SlVzM3BtOU9CRkp5S3pTZVdCRmMxTEZvUFJ5RzhmQ1c2cm5VNnFzQ2FVX2RzX09vRFBwSzBKVGJsSlctWktucUd1c3E?oc=5"
+            }
+          ]
+        },
+        {
           "title": "‘This one stings’: Clarity Act fails procedural Senate vote — is crypto’s biggest regulatory push dead?",
           "link": "https://www.theblock.co/news/regulation/2026-09-15-this-one-stings-clarity-act-fails-senate-is-cryptos-biggest-regulatory-push-dead-415135",
           "date": "Tue, 15 Sep 2026 21:24:18 +0000",
@@ -764,10 +750,10 @@
           "_via": "theblock.co",
           "source": "theblock.co",
           "_hash": "f8a53936c34a04dd",
-          "_ageHours": 6,
+          "_ageHours": 8,
           "_inWindow": true,
-          "_score": 66.89458694444444,
-          "_corrob": 5,
+          "_score": 60.279608055555556,
+          "_corrob": 4,
           "_cluster": [
             {
               "source": "gvwire.com",
@@ -775,9 +761,9 @@
               "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPTVkyTXRlVUhTbGpZQXNZcmxQSHNfQjlvWjBvTm9qeC1NbUJhZlV3QS1wTVJxallNZk1QZ0hLdjFQNXFieE93cEc0UElucllHX2tuSm0tNlIwVEZiT3dSeV9PSFpYanp0VGF0aHNLOVhXcVBRMFZrVXVHVE9RNVNJXzBxQ29qaHE0R0dVbUJVdXExQ2Y1X0pybFQtdjNwcTZLcFpoalE2VWlFSmRYOWFvc0tNTnI?oc=5"
             },
             {
-              "source": "lufkindailynews.com",
+              "source": "reuters.com",
               "title": "Bitcoin and crypto stocks remain down after US senate fails to advance regulatory bill",
-              "link": "https://news.google.com/rss/articles/CBMilAJBVV95cUxNYlc2U1d6SUdiOGRDMzkxSV93eWpnMGVscUk3a0o3MXZqT0U4RzRkbG85T0NfZUhOcXlIdU1URDZDX0lBUUZRU2JMN2pnNkV0N2NBc0VTcjJqSXhjYWx3VXF1TGVETDB6anFFajF0RUFhbjZOOHZDZ3JZWUpyZldrWjBqeTcxdkNaaWU1SlpaRzlKMy05V0ktLTYxQjJGbVVPdkQxLXZkZk5OR2syVFhEZXhNd29MUXZTVzNkTFlqWmZIbXY5cHNkYkFaa1FfUHlEQWpOYmZPY01KR1l4LS1CVjkwdnA5R0FMZDFTYlNkWERmbDdReDJkNlltR3Vpb3d4TUVhQTdNeVpxNUVBRjB6Q1ZoR3Y?oc=5"
+              "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNT3ljdUI5OWpZMmJxc2NzRjhKVnpuYXdVZWFRU3RlMTlhdXNOaXhfU3BXS093YndRd0pXaHdLV2JfRUJ6c05va2FwemdfODVsVEZoVU9rRTRTNVZtRU9lRnNQbWg5SnZybkkwUThrT1JHZjJXYzRBdWZuR0hrc0Myc1ZQM3V5bWZCdFg2UlA2WnNlcVRwMlpwcHR1U0FDTnhzb3JqQ1lLVmZpQWxaeEt5VWpnTGctWDdHMjBlRmluSFh2QQ?oc=5"
             },
             {
               "source": "money.usnews.com",
@@ -788,11 +774,42 @@
               "source": "moomoo.com",
               "title": "Bitcoin, Crypto Stocks Fall as Clarity Act Fails to Advance Past Procedural Vote -- WSJ",
               "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQQzJzNV9QSl9HM1pzV1lWYjB0QjBsaGtjUy1SemszbFZzdVpEVGw4dHZ1R2FLZUlRQlFHb3NXMVhiM3B5Y0NFMDRYWXhLYUZjSHVudzdLN053R295WDNHRmViSGJVTEFzRFdoS1h5dEZleGpPRTBHbmJ4UTNsanhTZVZmUlJMSFFTWWpWeEowbTRicDljMFdoWjBBQ3hzbG9SUmc?oc=5"
+            }
+          ]
+        },
+        {
+          "title": "Lummis blasts Democrats after Senate blocks cryptocurrency regulation she long touted",
+          "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQR2hrTXhyR3BJSEZqYXJHUWU3TVkzWm5rUWpaS3YzQnhBalVrNW5acHpHci1hUmE5N2h3QkZSTmpZclZnX1NwQ0xTR05IcGdXdjd3R2hUN21oZ3JGMnVrTUxIaDdGNHNWeXFyalk5NDU4SE83Sm9PakpZRWVNX0xTSWUtYnlITnZtYVlmNUk1RGVHZEVtdEdSTkdicVk0OTVLQU1lNGFLekpsQQ?oc=5",
+          "date": "Tue, 15 Sep 2026 21:21:04 GMT",
+          "summary": "Lummis blasts Democrats after Senate blocks cryptocurrency regulation she long touted WyoFile",
+          "publisher": "wyofile.com",
+          "_via": "news.google.com",
+          "source": "wyofile.com",
+          "_hash": "6b3678a11f185685",
+          "_ageHours": 8,
+          "_inWindow": true,
+          "_score": 60.225719166666664,
+          "_corrob": 4,
+          "_cluster": [
+            {
+              "source": "apnews.com",
+              "title": "Senate blocks cryptocurrency regulation as Democrats push back on Trump investments",
+              "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQeXdoSFh5N1BoSHFEVHJRVUVnRXpXV1ZaMG1aMHJnT3lFczVCZHU1Y2tuclFOVWtQangxbVVXZEpLc3p3MWZYc2ROZnpiaFlvcFhkbGI5dzhrMG44UUF0bnQ5am1GXzFwVkJFeUo3Qm5kNGcwM05tbGdpVi15QUtHSW9vXy1uTjgyLWpjVEEtaTA3Uml3VGJ2R2xmbzhqWlExMHc?oc=5"
             },
             {
-              "source": "finance.yahoo.com",
-              "title": "Bitcoin Drops Below $77K Ahead Of Potential Fed Rate Hike – CLARITY Act Vote Set To Add Crypto Volatility, Says Analyst",
-              "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPTVpPUGpxUlhNNmpVLV9yVk5KVmNpaDNRX3QxZ2JIanh3Uk1kdDcxMEpqZlFJQWxMNkpxT1BaLVlTLVlaV043c1FoS09sNWV6ekN5TndOQjVWM2J1WlV3STNLdHRtekxuZE8xdmxMdUx1YUFsZ09YX2xTaEJDbXFLV3pGelVNUG1CdXMzSkw1NkRYVEpwa2FoczV3?oc=5"
+              "source": "santafenewmexican.com",
+              "title": "Senate blocks cryptocurrency regulation as Democrats push back on Trump investments",
+              "link": "https://news.google.com/rss/articles/CBMiggJBVV95cUxNc1FWVWJxQWdrSFRKaEJLRXVRUGFxOXBwa2pXMlp2dU9aaW9kbFBzdk5hV2lZU1VDRjVNdHhMOFBxNWp5WGxEeXdhSTZLSU1ISnVsbTZfZmxwb25faHhKR2NWaXB3NkdPY0FWTmtKOE5Hc1FNbmstZENBdEdvYlh0bFRQNzFwVWY3MWxFdFNPSndZSkprS3RJdkdXSVBFWlNablh1Mm5kMUxBNk52cGk1aHlmNnpUWWd2b0FaNHlOT25XT2k1b1FHSXJocUZzTFFKNWdIdjNrbXQ4TkJ2elJtX3lKSUlVd3ZzZDByQTUxamhldWlJRjM0TzZ1cGI4ZjkyM1E?oc=5"
+            },
+            {
+              "source": "kdhnews.com",
+              "title": "Senate blocks cryptocurrency regulation as Democrats push back on Trump investments",
+              "link": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxPSUdMRUtycEtETGFCTE0yYUhyaU0xUXRMLU91dE5Ic0FxYzU3NkVVR3Q2aDhzeGw1aWptVmRKOGZCWmxYUWNoQW55Y1YwYjMyRVdBVjJQdWxIdk5FWUo4ZE5uZHZVeHd1QUhGTTZkUEhnV0hTN0pDRnJoclB3OXVlQVl6WUNvMFVmVVplUk5RNi1nRmVmdU9wWjE3MTB4cVYyWTR2aFotUVNEOWIza0NFMjdZeUNuN3Byd1NDMkl1RzlodndSWGNQUW9tTk5WWm5xdXdXWWc2U3RwVURIdFBuSWF1MllKOUVPMTBScElpYVJJQWtk?oc=5"
+            },
+            {
+              "source": "bozemandailychronicle.com",
+              "title": "Senate blocks cryptocurrency regulation as Democrats push back on Trump investments",
+              "link": "https://news.google.com/rss/articles/CBMikwJBVV95cUxOblN2bkUzR1N4MjFOSkg4X3VnNWxJOU1reVg3TjBZUVhTSXd1YU5yLWVDV2NiWHBoVHVDamlqYW50T2lEOFNLLWZYWlk0bGhYS3RibHc5UEFlOWE1MlJwcnhyT2Fsd3c3a1VhZHlnX2FVXzJJSVQxUnpMV2NjaFgyaTljX185ODFNX2hzbDN0TUhnSVRJWExGcFUtdmEwZVVTd0llc3F2clFtcTBRN1ZZQjlUWWNLcVpqMnNmTy15aVhxbGRtRFJJTlhCWnRZV2hJMjB4Xy1lcng5WXFkaHFXWmd6b1RzVHJwc2J3emFtSmdIcFZnLXdXbmtyNzBKOHhYMzU3bGVVSFM0dUhmRjJMM2ZrRQ?oc=5"
             }
           ]
         },
@@ -805,9 +822,9 @@
           "_via": "news.google.com",
           "source": "forbes.com",
           "_hash": "b03e83a23615d90d",
-          "_ageHours": 6,
+          "_ageHours": 8,
           "_inWindow": true,
-          "_score": 61.70986444444444,
+          "_score": 60.094885833333336,
           "_corrob": 4,
           "_cluster": [
             {
@@ -841,11 +858,16 @@
           "_via": "news.google.com",
           "source": "moomoo.com",
           "_hash": "6f40bb28feb98af3",
-          "_ageHours": 3,
+          "_ageHours": 4,
           "_inWindow": true,
-          "_score": 55.42458666666667,
-          "_corrob": 2,
+          "_score": 58.80960805555556,
+          "_corrob": 3,
           "_cluster": [
+            {
+              "source": "wealthmanagement.com",
+              "title": "Senate Blocks Crypto Market Bill as Bitcoin Stocks Fall",
+              "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOLUF2Nm9sZE5pa0VtNW45bHFVZDBlaG9yYTAyZTJlMlhkX09EbjJ2Y25CMjdGUEp5ZVBZbGNaRWgwdVZseUd5MWhJbW4xeE00NFJoQW1BMGdDMkViRnZNUTRNUUxKQkhTMDR1bm5mMTRJandGX1Jhd1ZKOUJtMTdPdWdUN0RITkFmSWxJNFZJb1cwRjVuVzhiUWNKTEVnNnJvMmc?oc=5"
+            },
             {
               "source": "fool.com",
               "title": "Why Is Bitcoin Down Today?",
@@ -859,6 +881,27 @@
           ]
         },
         {
+          "title": "Bitcoin ETFs shed $450M in biggest outflow since June",
+          "link": "https://cointelegraph.com/news/bitcoin-etfs-shed-450m-in-biggest-outflow-since-june?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "date": "Wed, 16 Sep 2026 04:05:39 +0000",
+          "summary": "The $450 million withdrawal came as Bitcoin fell 2.5% and the CLARITY Act failed to advance in the Senate, with Fidelity and BlackRock funds leading the outflows.",
+          "publisher": "",
+          "_via": "cointelegraph.com",
+          "source": "cointelegraph.com",
+          "_hash": "d3d637f49499fda7",
+          "_ageHours": 1,
+          "_inWindow": true,
+          "_score": 57.96877472222222,
+          "_corrob": 1,
+          "_cluster": [
+            {
+              "source": "bloomberg.com",
+              "title": "Bitcoin Drops the Most Since June After US Senate Blocks Bill",
+              "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOcXR5VjNOS090QVl2LTlkbEVqeS1YaWlrZmZhS0Q4eWF1OTZMSW1ZSklkT1VRdXVfWktTeVNPSmRKWUlGMnRodWI2ZmpDYjBSbm00bmk1a244eG1meDU1M1pfS3JWbDJIMWIxLVl2dEtUSVdEeWJkREJ6UDhpU1NTRUVadEFZS0pPRnFfZ21CR2RnRG1VMzg1TDdmSmJiVFRIZmMxb1p4QUdFSF9vbGsxZHBLMGY?oc=5"
+            }
+          ]
+        },
+        {
           "title": "Crypto industry reacts after Clarity Act fails Senate vote",
           "link": "https://www.coindesk.com/policy/2026/09/15/clarity-act-fails-in-senate-here-is-how-the-crypto-industry-is-reacting",
           "date": "Tue, 15 Sep 2026 19:06:31 +0000",
@@ -867,15 +910,20 @@
           "_via": "coindesk.com",
           "source": "coindesk.com",
           "_hash": "4641824b88591b4d",
-          "_ageHours": 8,
+          "_ageHours": 10,
           "_inWindow": true,
-          "_score": 54.59819805555556,
+          "_score": 52.983219166666665,
           "_corrob": 3,
           "_cluster": [
             {
               "source": "atlantanewsfirst.com",
               "title": "Cryptocurrency regulation bill fails in US Senate",
               "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNcjBtWmhGaGYtdnpnWGpVVHRfekNSbFlZV3NDWTJsTnpnMi1RV2dvbFV0ZlB5ZDJ5UlpQc3ZpalhQaXhnUm9XSU45c0Rvdk1MbnA1T0hLZk50aUhPZTVubHVEM0tvM2pJWXJZM1V1Y2Nqd1E4MDI0SlllTzFTaWR0S1UwbEJjakxOSDZCU3JCUS1lTXFRN2pFaFhob3ZUbEVHUWlHOHdR0gG6AUFVX3lxTE13cjREU0FFdWY5dE1QTi01TkZNak9Cek9yVDRyOXZGVGpYbHFUYWZzTGRnMmN5OTM5UDNOUjNMVEkyZlRsTDJwVl9sOGRxWFRkdk51Nko3Mkc1WlBTS21BZl9ORHdnSHpRdV9oaG44eHVDaFh4QmU1QTRUcEcxQ3ViYUZBZXJkYms0Vm8wLTF5XzlRaXFvVzFpZkNFUmd5TlUxRlN2d21aNW95MFZEZGR1SzFvdTVRMFBSZw?oc=5"
+            },
+            {
+              "source": "atlantanewsfirst.com",
+              "title": "Cryptocurrency regulation bill fails in US Senate",
+              "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxOdVVjREpJeHp1aGJ2MEQ5dzJlZFZfeTM3RFBrTlVyY0tCRUp3bW9SaU1kUVZwVklFc3haMndsSURCQjhKLWhlMEhpMVQ5ZV9LOXdWQXowa1p0YU1uWmdFVE1RelFTQ3c2cnZWd1NDNzZwVWxpc2Z4YWdKaElqUU02b1FHTWtxNVg3VXl2YkVxWEdzUWFlNHNybU5oN016dw?oc=5"
             },
             {
               "source": "investing.com",
@@ -895,6 +943,27 @@
           ]
         },
         {
+          "title": "US charges ex-Robinhood engineers over alleged pre-listing crypto trades",
+          "link": "https://cointelegraph.com/news/robinhood-engineers-hyperliquid-listing-trades-charges?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "date": "Wed, 16 Sep 2026 04:48:20 +0000",
+          "summary": "The former employees allegedly earned more than $50,000 each by trading Hyperliquid perpetuals ahead of Robinhood token listings.",
+          "publisher": "",
+          "_via": "cointelegraph.com",
+          "source": "cointelegraph.com",
+          "_hash": "c25422df32df2b80",
+          "_ageHours": 0,
+          "_inWindow": true,
+          "_score": 52.68016361111111,
+          "_corrob": 1,
+          "_cluster": [
+            {
+              "source": "theblock.co",
+              "title": "DOJ charges Robinhood former engineers with front-running crypto listings on Hyperliquid",
+              "link": "https://www.theblock.co/news/regulation/2026-09-15-doj-charges-robinhood-engineers-front-running-crypto-listings-hyperliquid-414865"
+            }
+          ]
+        },
+        {
           "title": "House committee releases sweeping crypto tax bill ahead of Wednesday markup",
           "link": "https://www.theblock.co/news/regulation/2026-09-15-house-committee-crypto-tax-bill-414824",
           "date": "Tue, 15 Sep 2026 11:52:36 +0000",
@@ -903,9 +972,9 @@
           "_via": "theblock.co",
           "source": "theblock.co",
           "_hash": "7643e51a448b04af",
-          "_ageHours": 16,
+          "_ageHours": 17,
           "_inWindow": true,
-          "_score": 53.36625361111111,
+          "_score": 51.75127472222222,
           "_corrob": 3,
           "_cluster": [
             {
@@ -919,14 +988,40 @@
               "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOOFVkZXVwWVFYQ3h4Vm9lMDJlQ3ZkVDBqcFh4YllJSG1VWTdzQTN2dHJ3RkllbjdfU1lSWVk3a0NPQ2lDOXFoMXM3U0NMMThSRDJLUzhNODllc2w0bUFDNGdxWDZueGU4UldBeF9tYVZnNnJfWDVmTmkwbHFWNWxYYg?oc=5"
             },
             {
-              "source": "coindesk.com",
-              "title": "U.S. House panel shares crypto tax bill ahead of hearing later this week",
-              "link": "https://www.coindesk.com/policy/2026/09/14/u-s-house-panel-shares-crypto-tax-bill-ahead-of-hearing-later-this-week"
+              "source": "bloomberg.com",
+              "title": "Bitcoin Rally Stalls as Optimism About US Crypto Bill Wanes",
+              "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNUmZMSzVFeWhfc1M5dnJnVkh0dlhqNTRUbFVvOUZCQzItb1lyOThLMFhOc0VISkpGUm0xQTZvWk1OOXZjYzlxQy0xV2ZfNHNQcUhsVGM5YjlNV3dDVUwyaV9SX3dwU3hRVWpmQm5hbThtWXkzb2h1LXU0V1pqYllwQzZEYkkxR0F0YVZoQVQ2aFBxTGRibnhHQmJPV0VrSGd6NS1xQXp5VUpUdnVXSUdB?oc=5"
             },
             {
               "source": "apnews.com",
               "title": "Trump agreed to new ethics rules to get a crypto bill across the line. But that might not be enough",
               "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNLUl3SGtuVDNwTXZndFA3QmNfZlNZREVkUHA0MWJVcVlDQmJ0bXMxWkdXcEU2czBoVWg1YmxsQ0Ntd2hSY196Zjk0M3o2elBESnRrWFhORFhMdk8zYk53UkU5R1ZMeXNyYVBvM1BGV1RONTlzaEhCenZKUzgwa2Qya1RpNTNKQlRKZ1Jjekt4OUt0ZUhoOGVKT0NR?oc=5"
+            }
+          ]
+        },
+        {
+          "title": "Wall Street Bets on Fed Rate Hike: Here's What It Means for Bitcoin, Bonds and Trump",
+          "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE82bXF6R1ozYVJ1Q0xyYl84XzktR1pNbDdtZWMwNVNKMUgzN2pvTU8tbE1mMHVDVzdVZGQwdTR2SDdhQ185QnFKX2c4Z3lvV0Jha0hCWFIydUh5OWhQb2hQTTk4MHk3bjBrRnlRbF9aaXJsY2kwMldieDg1SdIBgwFBVV95cUxPYjJBQThNc3I4aVROQ2dEZjNDWndLaDFCRmQ2aXV0RkdXYTNZcUZuQUp0MkptanlCQlBIaDYyOXhFN25PT0pFQU1Ja3lsRV9DWHotMDlHTVFwWUN3Ql91N2JKMTJHSW9Hd0xNREliYVJwdE1Fc0Y5eHdpRlFWSlRQSEdmYw?oc=5",
+          "date": "Tue, 15 Sep 2026 21:46:03 GMT",
+          "summary": "Wall Street Bets on Fed Rate Hike: Here's What It Means for Bitcoin, Bonds and Trump Decrypt",
+          "publisher": "decrypt.co",
+          "_via": "news.google.com",
+          "source": "decrypt.co",
+          "_hash": "c4b7ee42fafef08c",
+          "_ageHours": 7,
+          "_inWindow": true,
+          "_score": 50.64210777777778,
+          "_corrob": 2,
+          "_cluster": [
+            {
+              "source": "cnbc.com",
+              "title": "Robinhood’s JB Mackenzie: Bitcoin, Fed rate hike odds are gaining traction in prediction markets",
+              "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQaWlPMDNxcDRqQi03ZHBOQUhoY28talo2REtnTjA5YWU1eW54T284amJtSXNTd1M0VWxtZUIxR1ZIbjBGTTJVTXhQQndZY3pRek1aQlpycHp1TkVEUXU4cER0Vk1XeGdWVlNxTExqZVFpQS1FLU81X09GbTZNQjRjam8xMHE2S3JFNHhPMExid0RMMTZ3b2RhM1F1OHhLbHhCZU9WNDRmUXcxZHBGaHh6emtqQ1ZIanhselJoajZ5c2hsSFZLeHg5bEtMOWtDejFXdHdz?oc=5"
+            },
+            {
+              "source": "finance.yahoo.com",
+              "title": "Bitcoin Drops Below $77K Ahead Of Potential Fed Rate Hike – CLARITY Act Vote Set To Add Crypto Volatility, Says Analyst",
+              "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPTVpPUGpxUlhNNmpVLV9yVk5KVmNpaDNRX3QxZ2JIanh3Uk1kdDcxMEpqZlFJQWxMNkpxT1BaLVlTLVlaV043c1FoS09sNWV6ekN5TndOQjVWM2J1WlV3STNLdHRtekxuZE8xdmxMdUx1YUFsZ09YX2xTaEJDbXFLV3pGelVNUG1CdXMzSkw1NkRYVEpwa2FoczV3?oc=5"
             }
           ]
         },
@@ -939,9 +1034,9 @@
           "_via": "news.google.com",
           "source": "fool.com",
           "_hash": "72c7f116a2a1c3ec",
-          "_ageHours": 6,
+          "_ageHours": 8,
           "_inWindow": true,
-          "_score": 51.98958666666667,
+          "_score": 50.374608055555555,
           "_corrob": 2,
           "_cluster": [
             {
@@ -953,110 +1048,11 @@
               "source": "fortune.com",
               "title": "Current price of Bitcoin for Sept. 15, 2026",
               "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9GYi10RWVRejA1MTJXa1BObC01ck1iNC00YkwwaWtMSXdUdnkxZVpZY0I0ZE83czItSkllYkFvQ1hyY1pLa2JLcFdXRlpXS0JDNVBQdnBHU21PdFZfcW1aNWI2M25NSDQ?oc=5"
-            }
-          ]
-        },
-        {
-          "title": "Crypto industry turns to US regulators after CLARITY setback",
-          "link": "https://cointelegraph.com/news/crypto-industry-turns-to-us-regulators-after-clarity-setback?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-          "date": "Wed, 16 Sep 2026 02:24:07 +0000",
-          "summary": "The CLARITY Act still has a procedural path after Senator Thom Tillis moved to reconsider the failed cloture vote, though industry executives are divided over whether Congress has enough time left.",
-          "publisher": "",
-          "_via": "cointelegraph.com",
-          "source": "cointelegraph.com",
-          "_hash": "b808b8689d70815f",
-          "_ageHours": 1,
-          "_inWindow": true,
-          "_score": 51.891531388888886,
-          "_corrob": 1,
-          "_cluster": [
-            {
-              "source": "cnn.com",
-              "title": "The crypto industry saw Trump as its savior. His crypto business just snagged a key bill",
-              "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPaDg2RnFwVTJqcTJ6VVdfeEVVM0dQOW5UVEdjSHJHRnl5TzlNblItb3dSeU5tbVVMRFFkY2FjYTVSRk0tM0daeFEwM3FPR043ZmFxbGxwa3Z6R2lXcEVzMkZWaWlJYUtJXzJnU0hOd2ZPa3QxZEp4aXZ4bU80dXRJYVA1MHVoTHVBb0UwMQ?oc=5"
-            }
-          ]
-        },
-        {
-          "title": "Standard Chartered says Arbitrum could outperform Bitcoin, Ether through 2030",
-          "link": "https://cointelegraph.com/news/standard-chartered-arbitrum-arb-price-10-2030?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-          "date": "Tue, 15 Sep 2026 15:50:49 +0000",
-          "summary": "Standard Chartered sees Robinhood Chain as an early sign that tokenization could transform Arbitrum’s economics and drive ARB sharply higher by 2030.",
-          "publisher": "",
-          "_via": "cointelegraph.com",
-          "source": "cointelegraph.com",
-          "_hash": "ce1a306fedd26813",
-          "_ageHours": 12,
-          "_inWindow": true,
-          "_score": 51.336531388888886,
-          "_corrob": 3,
-          "_cluster": [
-            {
-              "source": "coindesk.com",
-              "title": "Standard Chartered predicts Arbitrum's ARB to rise 70-fold to $10, citing Robinhood Chain revenue",
-              "link": "https://www.coindesk.com/markets/2026/09/15/standard-chartered-expects-arbitrum-s-arb-rising-70-fold-to-usd10-as-robinhood-boosts-its-revenue"
             },
             {
-              "source": "theblock.co",
-              "title": "Standard Chartered sees Arbitrum at $10 by end-2030, up 70-fold",
-              "link": "https://www.theblock.co/news/markets/2026-09-15-standard-chartered-sees-arbitrum-at-10-by-end-2030-up-70-fold-414821"
-            },
-            {
-              "source": "investingnews.com",
-              "title": "Today's Crypto News: Bitcoin, Ether and Altcoin Insights",
-              "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9PU3pBdGY0NWJMSWFUTFRDUGx3RklNQlNENWdlQjBiNG9meUo5andqSHFER0lkNlhEaFVwOXpLYWZseVJ1YVZsU2Q4RzBWT1RoeUhTM19YaFljM2ZHcm5yMHYxTlc?oc=5"
-            }
-          ]
-        },
-        {
-          "title": "Crypto stocks sink after Senate rejects Clarity Act",
-          "link": "https://www.coindesk.com/markets/2026/09/15/crypto-stocks-sink-after-senate-rejects-clarity-act",
-          "date": "Tue, 15 Sep 2026 20:03:17 +0000",
-          "summary": "Coinbase, Circle and Galaxy lead a broad crypto stock selloff after the U.S. Senate failed to advance a long-awaited market structure bill.",
-          "publisher": "",
-          "_via": "coindesk.com",
-          "source": "coindesk.com",
-          "_hash": "155a3363f44015ce",
-          "_ageHours": 7,
-          "_inWindow": true,
-          "_score": 50.544309166666665,
-          "_corrob": 2,
-          "_cluster": [
-            {
-              "source": "dig.watch",
-              "title": "US Senate rejects cryptocurrency CLARITY Act by 49–50 vote",
-              "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTFBudFl3cnd2Y0lLV01Qc0JaVzVOV2dLc1hSY2syU0QwMFV1MU5HX0tueU1sR1l3SUMzRHhVb21McWlXaEpPNlA4d2RmVG40V2U5M05RSUh1ekxlWWx1Rnd2aFotTVd4N09DWVJETmt2VU04aGU1Sm8zamNR?oc=5"
-            },
-            {
-              "source": "theblock.co",
-              "title": "Lead Senate Republican Lummis rejects Democratic counteroffer as Clarity Act vote nears",
-              "link": "https://www.theblock.co/news/regulation/2026-09-15-senate-republican-lummis-rejects-democratic-counteroffer-clarity-act-vote-414850"
-            }
-          ]
-        },
-        {
-          "title": "Will the Clarity Act Pass the Senate? &#124; Connor Brown, Bitcoin Policy Institute",
-          "link": "https://bitcoinmagazine.com/videos/will-the-clarity-act-pass-the-senate",
-          "date": "Tue, 15 Sep 2026 12:59:39 +0000",
-          "summary": "Bitcoin Magazine Will the Clarity Act Pass the Senate? | Connor Brown, Bitcoin Policy Institute The Clarity Act reaches a make-or-break moment as the Senate holds a cloture vote that requires 60 votes from a chamber Republicans hold 53 seats in. This post Will the Clarity Act Pass the Senate? | Connor Brown, Bitcoin Policy Institute first appeared on Bitcoin Magazine and is written by Patrick Green .",
-          "publisher": "",
-          "_via": "bitcoinmagazine.com",
-          "source": "bitcoinmagazine.com",
-          "_hash": "c344c8938fa0d270",
-          "_ageHours": 15,
-          "_inWindow": true,
-          "_score": 49.48375361111111,
-          "_corrob": 2,
-          "_cluster": [
-            {
-              "source": "finance.yahoo.com",
-              "title": "Bitcoin Slides, Crypto Stocks Decline As Trump-Backed CLARITY Act Fails To Pass Senate Vote",
-              "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNaFR2T2tBdVktcFlfUDB5TFpnM2ZwZHhXb3p5ZUNMLVlMV2ZKSlJVOG9pdHMxNTFvTnpwY01tREdpdDBoSEphVy1VYzFDR0o5QXRWN0NSdmc4TWQyUm1aa3liSFhvZDF0RjN2UG5uUmg0YUhIWVdGQnJiV0hnZWUxVVUwVFVhRWViVTBPc21MMmM5VEQ3MVB3WVBOVC12NzZmN00w?oc=5"
-            },
-            {
-              "source": "decrypt.co",
-              "title": "Crypto Reacts: Bitcoin Slides as Clarity Act Fails to Clear Senate Vote",
-              "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxORHp4YldtSElzRTg1bWkzMWFLWkg4SHQ2Z1pzZlNIRUNnbVlEeWJDSjJoeE5TalZ5R2k4RmRDbTFkVkg2TFJlUXBFc2ItUE1LR1pTWHpQdjZnckNZTWhSQUQ0TGtBbmRUcGV5eHZkYnE1YnVBM1dfemY3ZHowSm5jSUZocWXSAYwBQVVfeXFMT2FWM3pKX3UxdVBYSTRmcTBZaDRFaGhUMWVkVXo5REptNWxjOUc5MEdVc1Bsa0FCTmZUN0tOZGt3T0h2aUtvZV95SlVzM3BtOU9CRkp5S3pTZVdCRmMxTEZvUFJ5RzhmQ1c2cm5VNnFzQ2FVX2RzX09vRFBwSzBKVGJsSlctWktucUd1c3E?oc=5"
+              "source": "fortune.com",
+              "title": "Current price of Bitcoin for September 14, 2026",
+              "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBxd3FEOXZGUEFXMEFhWmN4YlhuaE9jNUp6OU4wMmwzRU9LZjFBSDJ6VjBlcDhHRS1FbklHajcwdmJIWVZaUHB3SF9oeWs2cmRpRmtRX0NWSlRhT1ZkanpmZXhrVjk3ZGM?oc=5"
             }
           ]
         }
@@ -1074,9 +1070,9 @@
           "_via": "news.google.com",
           "source": "firstwordpharma.com",
           "_hash": "64e686978cb36520",
-          "_ageHours": 7,
+          "_ageHours": 9,
           "_inWindow": true,
-          "_score": 77.56712222222222,
+          "_score": 75.95212972222222,
           "_corrob": 5,
           "_cluster": [
             {
@@ -1115,16 +1111,11 @@
           "_via": "news.google.com",
           "source": "allsci.com",
           "_hash": "72aedcb01602489f",
-          "_ageHours": 9,
+          "_ageHours": 11,
           "_inWindow": true,
-          "_score": 63.66656666666667,
-          "_corrob": 5,
+          "_score": 57.05157416666667,
+          "_corrob": 4,
           "_cluster": [
-            {
-              "source": "european-biotechnology.com",
-              "title": "Cellectis scraps CAR-T pipeline in gene editing pivot",
-              "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNY29Rcjg1WndhcDVsQmUxd0QtXzY2TklTQjVFTkF2cWZOTFRvT3RMc0dOV0oxZWNZRFR2T0NTVDdmeDgtUDVqM05TOFR0TlJyb1BfdU9KVlE4ZlExeHYtS2xrdWtneHR0b05ZMWtsaGRHUUlHbkpzUVhQbzBYT092RGZyclBpRGlxZGMycmZCS0RjZHBuTUx2bEpacmNONHdnNnhj?oc=5"
-            },
             {
               "source": "biopharmadive.com",
               "title": "Cellectis quits CAR-T and pivots to ‘in vivo’ gene editing",
@@ -1148,6 +1139,32 @@
           ]
         },
         {
+          "title": "Insilico Launches AI-Driven Longevity Vaccines Research Program",
+          "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQTjd5Ui11STFxT2xCU1FVblp5a19yU3d6d2JGa2JTN2NsQjdxbENmZnpqUGVZdDR5SHh0amFCS2xoQWV3MXh6ZlhaSFJuTnNKS1gyVi1ZQ2dfQ0QzaWg3NzNwMkFKeHpBUXdXcHE0MEl6dmhiRFdMRHU5ZjhRQkRjV2N1elJlMGZRNWtpWmFuTUhSeGs?oc=5",
+          "date": "Tue, 15 Sep 2026 15:41:42 GMT",
+          "summary": "Insilico Launches AI-Driven Longevity Vaccines Research Program biopharminternational.com",
+          "publisher": "biopharminternational.com",
+          "_via": "news.google.com",
+          "source": "biopharminternational.com",
+          "_hash": "1019eb6ed88e14dd",
+          "_ageHours": 13,
+          "_inWindow": true,
+          "_score": 56.56935194444444,
+          "_corrob": 2,
+          "_cluster": [
+            {
+              "source": "neurosciencenews.com",
+              "title": "AI-Designed “Longevity Vaccines” Target the Earliest Culprits of Cellular Aging",
+              "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5OVnJTMEhBWk5SYWc2ZU1GUDZxdnFTSVZ0TWZwOXJTVU1qWFdibFhaUVFVbkpmTjhWSHF2bVA0OHhwOHVqVXB1U3VYeExqbVZ1X3p4Y2RBbVIyWW9iQWU4Q25IM2piNzQ2LVRwc2hnYk9mRHF6M1FTVnNxTQ?oc=5"
+            },
+            {
+              "source": "insilico.com",
+              "title": "Insilico Launches AI-driven Longevity Vaccines Research for Aging-related Diseases and Human Longevity",
+              "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE0wSU5QTXNUdmtaaGl0RTVlTW9zUzE0ZnRfQ0U5NGNIUUJaWXQwWnVVZkIxRXlkc0tWUjk2OHR2cW1vMnNPR3hJT0k5TVZDVXZqcUlFa3FndmxxTDZMYnc1R2ZJbk0ycTgybF8zQXRBd2tXYUxr?oc=5"
+            }
+          ]
+        },
+        {
           "title": "Sionna cuts nearly half of staff as it lines up second attempt at cystic fibrosis",
           "link": "https://endpoints.news/sionna-cuts-nearly-half-of-staff-as-it-lines-up-second-attempt-at-cystic-fibrosis/",
           "date": "Tue, 15 Sep 2026 15:34:08 +0000",
@@ -1156,9 +1173,9 @@
           "_via": "endpoints.news",
           "source": "endpoints.news",
           "_hash": "6cd7d9bf0506844b",
-          "_ageHours": 12,
+          "_ageHours": 14,
           "_inWindow": true,
-          "_score": 57.05823361111111,
+          "_score": 55.443241111111114,
           "_corrob": 3,
           "_cluster": [
             {
@@ -1187,9 +1204,9 @@
           "_via": "news.google.com",
           "source": "politico.com",
           "_hash": "66ae0b23f7b74a3d",
-          "_ageHours": 8,
+          "_ageHours": 10,
           "_inWindow": true,
-          "_score": 55.80601111111111,
+          "_score": 54.19101861111111,
           "_corrob": 2,
           "_cluster": [
             {
@@ -1213,9 +1230,9 @@
           "_via": "news.google.com",
           "source": "fool.com",
           "_hash": "7cc89136900df932",
-          "_ageHours": 4,
+          "_ageHours": 5,
           "_inWindow": true,
-          "_score": 55.222677777777776,
+          "_score": 53.607685277777776,
           "_corrob": 1,
           "_cluster": [
             {
@@ -1234,9 +1251,9 @@
           "_via": "news.google.com",
           "source": "ksl.com",
           "_hash": "c14732d5ba4d4955",
-          "_ageHours": 5,
+          "_ageHours": 6,
           "_inWindow": true,
-          "_score": 54.36851111111111,
+          "_score": 52.75351861111111,
           "_corrob": 1,
           "_cluster": [
             {
@@ -1247,38 +1264,17 @@
           ]
         },
         {
-          "title": "Insilico Medicine launches AI initiative to develop longevity vaccines - News-Medical",
-          "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOTS1CMTRQUm9QM0RlcTVyVXdmWGxheUJkRDBqU29yYVIyRnBocGJvckRic3FOcUVXdkh2U2VfbVRISWtyVDJsOC11RFNfVUEzczY1Ny1GRDhZUm4ybUpJZmVYZTJVcS1HVnFrWGwxSlg3UDZsVkE4QXlmR1JvUlU5U0kyQmtrVWRwZjZvenh5RnhQeHZHWGxIUWYyTkhKcjFyMzlDR09NdkVxVVNtWGtBSlRBOWJYaS1GRXc?oc=5",
-          "date": "Tue, 15 Sep 2026 16:40:00 GMT",
-          "summary": "Insilico Medicine launches AI initiative to develop longevity vaccines News-Medical",
-          "publisher": "news-medical.net",
-          "_via": "news.google.com",
-          "source": "news-medical.net",
-          "_hash": "85124e3a4972dfc0",
-          "_ageHours": 11,
-          "_inWindow": true,
-          "_score": 54.15601111111111,
-          "_corrob": 1,
-          "_cluster": [
-            {
-              "source": "biopharminternational.com",
-              "title": "Insilico Launches AI-Driven Longevity Vaccines Research Program",
-              "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQTjd5Ui11STFxT2xCU1FVblp5a19yU3d6d2JGa2JTN2NsQjdxbENmZnpqUGVZdDR5SHh0amFCS2xoQWV3MXh6ZlhaSFJuTnNKS1gyVi1ZQ2dfQ0QzaWg3NzNwMkFKeHpBUXdXcHE0MEl6dmhiRFdMRHU5ZjhRQkRjV2N1elJlMGZRNWtpWmFuTUhSeGs?oc=5"
-            }
-          ]
-        },
-        {
           "title": "Biotech Midweek Pulse: XBI Loses Steam After Hot 2026 Run — Here Are The Stocks And Catalysts To Watch Next",
           "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQcmtjX1gzQUZxMmhwS21nYVpjWEYzRnFTQVQzVThsT1g0TUdON0FGY3VuSGJzYnRQT202UV8wbmZQVDNUdXd6VEV2aUVmVDFseFZlcThtLU5RTW5FZUtBYXEyUkhGellXQndEVTRHbXlSYVZSSFVUTEMtV19KMlU2dXFvZlBLQ0hYTGJCOUd5dWozRmRxako3ZEdEbUZ4OUdvbGtCUC1SYjFOdDNpbllwc3p0T3d1ZnNIWWlYRXpha3hOWjVsWEVDWlFJTTd3QQ?oc=5",
           "date": "Wed, 16 Sep 2026 01:54:56 GMT",
-          "summary": "Biotech Midweek Pulse: XBI Loses Steam After Hot 2026 Run — Here Are The Stocks And Catalysts To Watch Next Stocktwits",
+          "summary": "Biotech Midweek Pulse: XBI Loses Steam After Hot 2026 Run — Here Are The Stocks And Catalysts To Watch Next stocktwits.com",
           "publisher": "stocktwits.com",
           "_via": "news.google.com",
           "source": "stocktwits.com",
           "_hash": "7d399975c319ef75",
-          "_ageHours": 2,
+          "_ageHours": 3,
           "_inWindow": true,
-          "_score": 51.4049,
+          "_score": 49.7899075,
           "_corrob": 1,
           "_cluster": [
             {
@@ -1297,9 +1293,9 @@
           "_via": "news.google.com",
           "source": "cbs19news.com",
           "_hash": "8c5aea850ac62308",
-          "_ageHours": 3,
+          "_ageHours": 4,
           "_inWindow": true,
-          "_score": 50.189344444444444,
+          "_score": 48.574351944444444,
           "_corrob": 1,
           "_cluster": [
             {
@@ -1323,9 +1319,9 @@
           "_via": "news.google.com",
           "source": "tradingview.com",
           "_hash": "0aa78ad45b140dff",
-          "_ageHours": 9,
+          "_ageHours": 11,
           "_inWindow": true,
-          "_score": 49.91128861111111,
+          "_score": 48.29629638888889,
           "_corrob": 1,
           "_cluster": [
             {
@@ -1344,9 +1340,9 @@
           "_via": "news.google.com",
           "source": "contractpharma.com",
           "_hash": "46a7bae5b7c244ca",
-          "_ageHours": 9,
+          "_ageHours": 10,
           "_inWindow": true,
-          "_score": 49.46017777777778,
+          "_score": 47.84518527777778,
           "_corrob": 2,
           "_cluster": [
             {
@@ -1364,15 +1360,15 @@
         {
           "title": "PBE vs. RSPH: Is a Biotech ETF or Equal-Weight Healthcare ETF the Better Choice for Investors?",
           "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNY1JIa2h4VEh6eVJxdmdiNlE1UTZocGNBUkpzMjNBbzRkd2xKYnhOQWtfdGZJLWdtOU0yOTdueGVmZVB3c05lQkRTNmRldEMwX1ZnSVdkTDcxVFdLbUtPUHVqT21oVm9TSmpOSDlsNDZCWGk3NnY2WG5rUDNKbDJHdnQ3aHEyMVhJSVd6a0otS2hMRFhhU09YM1Y5ejlNTFl6d3NtekdSb1V2R20zSi1qVXI3NlNWMUFqN1NuajZPX3AxTzVwYzRBODRfdFdISTY3OXN0Tw?oc=5",
-          "date": "Tue, 15 Sep 2026 16:56:33 GMT",
+          "date": "Tue, 15 Sep 2026 17:23:00 GMT",
           "summary": "PBE vs. RSPH: Is a Biotech ETF or Equal-Weight Healthcare ETF the Better Choice for Investors? The Motley Fool",
           "publisher": "fool.com",
           "_via": "news.google.com",
           "source": "fool.com",
           "_hash": "cdaffb0cd194fbc9",
-          "_ageHours": 11,
+          "_ageHours": 12,
           "_inWindow": true,
-          "_score": 48.431844444444444,
+          "_score": 47.25768527777778,
           "_corrob": 1,
           "_cluster": [
             {
@@ -1396,10 +1392,10 @@
           "_via": "news.google.com",
           "source": "local3news.com",
           "_hash": "990ad71ed8214619",
-          "_ageHours": 7,
+          "_ageHours": 8,
           "_inWindow": true,
-          "_score": 67.32224694444444,
-          "_corrob": 4,
+          "_score": 60.70727,
+          "_corrob": 3,
           "_cluster": [
             {
               "source": "timesnews.net",
@@ -1415,11 +1411,6 @@
               "source": "wsmv.com",
               "title": "Tennessee, TVA and United Kingdom advancing commercial fusion energy in expanded partnership. Here’s what to know",
               "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQdGZwbU1WaWxJWlN0OU5CSlRBX1NZcHQ0OWZZaDBQZjZ1Y1lCYmVKTFRTTHlGT2FxOGFNTzN1dkdjajdONlFfd1FMbDhNU3J1N3hPSTctRWJDQUpSN0VEbGF1ek1CcXJBUTlqTERleHpWcnF4QkNmUTBZNmRsbTlpaGJPY05SN2NvdzNCbkNnY0RwLWNnRGxmc3pmdFoxOUttRWVnUFBxU29QY3B3T2pjQ1lTRVhkUXg4cUVXa1hPOTViVWp3Z0NnaGZFMHhsUQ?oc=5"
-            },
-            {
-              "source": "euronews.com",
-              "title": "Billions are spent on nuclear fusion energy. Will it be worth it?",
-              "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNUzZoaDI1ZnZ6THg0ekdOekViZDZBUzQway1zTUZzRzd5VEhHYTlJWk9uWmlMdHZpNldWUjh3cTNVOEVjZlJSU0RiREN4MlgyQmZMX0lGTFFPRW56Z3REYk5uQnk2bXpoUzJ3X2FaSU1oZFF2RTRrdjJodGpvdkFKU3BMQklnbUFWR05SSDg4c0NRX0pSdkY1blpPTlBNRFFxYVd0Rk9BbnFhdE0?oc=5"
             }
           ]
         },
@@ -1432,9 +1423,9 @@
           "_via": "cleantechnica.com",
           "source": "cleantechnica.com",
           "_hash": "6d34ce421152b581",
-          "_ageHours": 6,
+          "_ageHours": 7,
           "_inWindow": true,
-          "_score": 59.20030277777778,
+          "_score": 57.585325555555556,
           "_corrob": 1,
           "_cluster": [
             {
@@ -1453,9 +1444,9 @@
           "_via": "news.google.com",
           "source": "thecooldown.com",
           "_hash": "1a54442f0ed60b8f",
-          "_ageHours": 8,
+          "_ageHours": 10,
           "_inWindow": true,
-          "_score": 56.98891361111111,
+          "_score": 55.37393638888889,
           "_corrob": 1,
           "_cluster": [
             {
@@ -1474,9 +1465,9 @@
           "_via": "news.google.com",
           "source": "energiesmedia.com",
           "_hash": "24a4310e4715ee20",
-          "_ageHours": 13,
+          "_ageHours": 15,
           "_inWindow": true,
-          "_score": 51.72752472222222,
+          "_score": 50.11254777777778,
           "_corrob": 1,
           "_cluster": [
             {
@@ -1495,9 +1486,9 @@
           "_via": "news.google.com",
           "source": "quantumzeitgeist.com",
           "_hash": "c0a19582037d8a09",
-          "_ageHours": 8,
+          "_ageHours": 9,
           "_inWindow": true,
-          "_score": 51.45169111111111,
+          "_score": 49.83671416666667,
           "_corrob": 1,
           "_cluster": [
             {
@@ -1516,9 +1507,9 @@
           "_via": "news.google.com",
           "source": "finance.yahoo.com",
           "_hash": "99e3c40968ce91ec",
-          "_ageHours": 13,
+          "_ageHours": 14,
           "_inWindow": true,
-          "_score": 51.295858055555556,
+          "_score": 49.68088083333333,
           "_corrob": 2,
           "_cluster": [
             {
@@ -1542,9 +1533,9 @@
           "_via": "news.google.com",
           "source": "wcluradio.com",
           "_hash": "3c8fca1a7be6acbe",
-          "_ageHours": 8,
+          "_ageHours": 10,
           "_inWindow": true,
-          "_score": 50.515302500000004,
+          "_score": 48.900325555555554,
           "_corrob": 1,
           "_cluster": [
             {
@@ -1563,9 +1554,9 @@
           "_via": "news.google.com",
           "source": "energycommerce.house.gov",
           "_hash": "935355d0985aabad",
-          "_ageHours": 4,
+          "_ageHours": 6,
           "_inWindow": true,
-          "_score": 48.85113583333333,
+          "_score": 47.23615888888889,
           "_corrob": 1,
           "_cluster": [
             {
@@ -1579,14 +1570,14 @@
           "title": "British, US Fusion Supercomputers To Be Linked Across Atlantic",
           "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNVHFCR0NuN3ZyNDJsZzdWSUluZFVGSlBIdXl3N1UtYWxBOGZCRWNDdmhBbWV4T0UxY0V2aXJoa0NZbEVaWXJIZHBLTkRtTkJBdEJFTWlONEtyVk5sZFV4MWh6aGRyQ1VIVnlobGNfNGFBcXpBNUI1aUg4dFpELVZTV2g5djBMVHdfX0gzbUpILUxLZlpmVE03em5FQjM4bEE?oc=5",
           "date": "Tue, 15 Sep 2026 12:18:00 GMT",
-          "summary": "British, US Fusion Supercomputers To Be Linked Across Atlantic RTTNews",
+          "summary": "British, US Fusion Supercomputers To Be Linked Across Atlantic rttnews.com",
           "publisher": "rttnews.com",
           "_via": "news.google.com",
           "source": "rttnews.com",
           "_hash": "6f50b881b85e5cb0",
-          "_ageHours": 15,
+          "_ageHours": 17,
           "_inWindow": true,
-          "_score": 48.78891361111111,
+          "_score": 47.17393638888889,
           "_corrob": 2,
           "_cluster": [
             {
@@ -1610,9 +1601,9 @@
           "_via": "utilitydive.com",
           "source": "utilitydive.com",
           "_hash": "d9ef6a4630a16eb9",
-          "_ageHours": 11,
+          "_ageHours": 12,
           "_inWindow": true,
-          "_score": 48.49363638888889,
+          "_score": 46.878659166666665,
           "_corrob": 1,
           "_cluster": [
             {
@@ -1636,9 +1627,9 @@
           "_via": "news.google.com",
           "source": "autonocion.com",
           "_hash": "98cef7cc35b0d680",
-          "_ageHours": 17,
+          "_ageHours": 19,
           "_inWindow": true,
-          "_score": 41.99669111111111,
+          "_score": 40.38171416666667,
           "_corrob": 1,
           "_cluster": [
             {
@@ -1657,9 +1648,9 @@
           "_via": "news.google.com",
           "source": "fool.com",
           "_hash": "a1710f0d006aa742",
-          "_ageHours": 12,
+          "_ageHours": 13,
           "_inWindow": true,
-          "_score": 41.30558027777778,
+          "_score": 39.690603333333335,
           "_corrob": 1,
           "_cluster": [
             {
