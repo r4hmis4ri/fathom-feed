@@ -1,84 +1,58 @@
 {
   "date": "2026-09-19",
-  "generatedAt": "2026-09-19T03:30:40.168Z",
+  "generatedAt": "2026-09-19T04:55:25.678Z",
   "pillars": {
     "ai": {
       "name": "Artificial Intelligence",
       "candidates": [
         {
-          "title": "Google's Gemini becomes latest AI model to break out and hack computer systems",
-          "link": "https://www.cnbc.com/2026/09/18/googles-gemini-becomes-latest-ai-model-to-break-out-and-hack-computer-systems.html",
-          "date": "Sat, 19 Sep 2026 01:41:49 GMT",
-          "summary": "The disclosure comes as scrutiny over misbehaving artificial intelligence intensifies in Washington and Silicon Valley.",
+          "title": "Virginia governor creates an AI task force and moves to restrain data centers",
+          "link": "https://www.theverge.com/policy/997573/virginia-governor-spanberger-data-center-ai-task-force",
+          "date": "2026-09-18T14:29:17-04:00",
+          "summary": "Virginia Gov. Abigail Spanberger ordered the state government to take steps that could empower local communities to have a larger say in data center development and slow down approvals in a state that is already home to the data center capital of the world. Executive Order 22 bans executive branch officials from signing nondisclosure agreements [&#8230;]",
           "publisher": "",
-          "_via": "search.cnbc.com",
-          "source": "search.cnbc.com",
-          "_hash": "8922dba2930fee11",
-          "_ageHours": 2,
+          "_via": "theverge.com",
+          "source": "theverge.com",
+          "_hash": "22fc0d3a23276f5b",
+          "_ageHours": 10,
           "_inWindow": true,
-          "_score": 77.1855586111111,
+          "_score": 68.56403666666667,
           "_corrob": 5,
           "_cluster": [
             {
-              "source": "wyff4.com",
-              "title": "Google Gemini AI model hacks three other companies",
-              "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBUQmFEbWp4dHhKWnNfcnJnQUdwTzdJVC1wbWJUTXZZX1lWRHhMbFNzVm5qcXZCVTlwOFB5RWRJVFdUZWpHMGJJejVqYzRQSWlVa055NXdUUHpUMXVxMHhyTngxbHJwQjNsci02WmlXRHFpX0xnQzlKSVlYVQ?oc=5"
+              "source": "wtkr.com",
+              "title": "Virginia Governor Unveils Sweeping Data Center Crackdown and AI Oversight Plan",
+              "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOVWU1a3QzVENyVk1XellWbnl5SnQ2ckpzUFpZeXlXdmU1ZHBjdkM5T29SYWFPbG9Bb2JCY0JuX1dTMl9BTU5EUERmZ1dONl94YTF4cnJiZnNVX19mSS1FdFNSNG5aWVBFd3dnYnZfR0lhaktqZ2ljYWFHM0UteERIV1F6Qk9WVVF5SXNNZ1BDUEhJMk91U1R3Y2Z4VEliMm9jVHdieXgxWlpzWlpFYU5tVQ?oc=5"
             },
             {
-              "source": "wsj.com",
-              "title": "Exclusive | Gemini Hacked Three Companies in First Known Breakout by Google’s AI",
-              "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQWjdUWU9tYzBhcjAwR1AzWkhVczUyUG9SUThfTFNuWEl0VFdHVUFzR1pDb3l3amRZWktfRUtvOFp3a0xZellIODVSTGdJOGd0dnQ2NlNoeVE5OHNEY0swRXJPcDhxSDI5bmJlV29icV91dXYxZGNRdDA2LTV3OTlnQUp6RldkYTJKT1IydVgtTnk5QXRUVkFGdEl3WFp1OVlOMWVaeHpEcw?oc=5"
+              "source": "fcnp.com",
+              "title": "Spanberger Unveils Sweeping Virginia Data Center Rules, AI Task Force - Falls Church News-Press Online",
+              "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPX05KNGdOb3NHVV9pSHB1aldKdkh2LWcxb1ExbWtoU2hCb3Y0b0pDZjFXMDZxaUVhVUlXbE5SQkJWMlRBbmNrZ216WnM2ckZxZFRzQXJaNkg3cV9iRXVVMEJ5R3QtU3oyZTh3OHZ6ZkgydnlrM3pkd3NBLVBjRGtjSnRVNXZvb19zRzZWeVk3cHpGdVNSY0Y5bnkwRFBVR2tSU2VB?oc=5"
             },
             {
-              "source": "aljazeera.com",
-              "title": "Google’s Gemini AI hacks 3 companies in security test, then stops",
-              "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOSWZPMlZuOVJIUXh6RWxndUJmdmVUVEhpa0E4NGZ1WWlQWHZ5alkxbmhwWmRRU1VLQjRSZEYzanA3M2Z1MXFoVDJiSFNCWGw4dWNuVXB0UEJFWDBBQ1FWMDhsVUVYWDZfTlRuUE1pYUVlOHpQTFdaX19vV3NpMTZDd2hwQWJubXc2WW83RWZTNDhYLTZDNGgwZGZyVjRIbGwxdnBQZE5Eb9IBrAFBVV95cUxPaUxhcXdfcWc1RUFfQWhiX2JNS0hhbGlMQ0s5VzRYV0NHdjNVRXJOSkVjQ0xYTlpfMndoeVZDdHVWWDNQMTg2YkhmUkNIY3VYV1dDTUFYaU1UU0E4SzU5eVR3UHMzR3Zla0NtUmxLaFo0QWcxeXhLMU1yeTJsbmlsSjBZNGJ5RWZJUVdYQWtMVVpDcDlPVGNwWFdXd0dhVmVWSVhNREcyTEhVR2FN?oc=5"
+              "source": "mlex.com",
+              "title": "Virginia governor releases AI data center 'accountability framework'",
+              "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQVGhySXhWM2YzWThCMGlwVFl3bGlVVnRtb2hJRDEtQ0JwMURVdTBveVR5YlhaX25UZVluOUxvaGExNkNlOThqRVY5OExmWVA5UjJPaVlhYkxiMUg5bFhwbGs2c1hxMDRXQVVFWm12MGJ5WTNDZjFSR1k3Y05zbGdpZkowZFBkX1h5UHBrbDBPOHJHTFR4alMxMHY2M29ucWZFWEhwc0JRS0d5eFIxazF1VkQtYV9YSWItT2xDRGNsYkdjdnlMQy1vSk0yZDY0Y0XSAVpBVV95cUxNSUFtSTl6OUxyci02c21XYmZfMHFhSjRpNHNKYm1SbS12T2lGSTJLUDdSbl9oZDU4VnQ1V2tvdE5TRFRib3pMVzVBaGNYZXNObTJXVnU1b2xMbHc?oc=5"
             },
             {
-              "source": "nytimes.com",
-              "title": "Gemini AI Hacked Three Companies in a Testing Breakout, Google Says",
-              "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1oVmRjQVgxMHR6VnBZbUIxamFSQ1lXanpuU080VEhkWFVDNHlXbDJhMHBNNWo0MFBsd2lMSTMwcjJpREJTZUozVzVQLWUzUkdUUG9RbDJtY3hjSVhnR2ZFTFlEOFc1aVNNeTFOZHdTTzNDWHFCNlE?oc=5"
+              "source": "mlex.com",
+              "title": "Virginia governor releases AI data center 'accountability framework'",
+              "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1JQW1JOXo5THJyLTZzbVdiZl8wcWFKNGk0c0pibVJtLXZPaUZJMktQN1JuX2hkNThWdDVXa290TlNEVGJvekxXNUFoY1hlc05tMldWdTVvbExsd9IBWkFVX3lxTE1JQW1JOXo5THJyLTZzbVdiZl8wcWFKNGk0c0pibVJtLXZPaUZJMktQN1JuX2hkNThWdDVXa290TlNEVGJvekxXNUFoY1hlc05tMldWdTVvbExsdw?oc=5"
             },
             {
-              "source": "bloomberg.com",
-              "title": "Google’s Gemini AI System Hacked Three Systems in Safety Tests",
-              "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNbmN1NFNDNEZ6STRONFMyMVR2T0ZVN0gtSkM5RjZGbllCX0VfMzgxdTdpNXlNNlAtMFB1RTdaT05TLTFIRmo5Wk1lakJQV01SeGswT0hBeVVZVmpSTDgxNzJhc2Z6dEJ1bGNyUlZiLVZUeFdqdnFwNEpzYnB3cHFqcFEzc0VCTmt5ZUw5RHNVN0VYUEhyYTRFdmZtZndmR01ndXRtX05UN1hWSFRWSlNRNVBLdw?oc=5"
-            }
-          ]
-        },
-        {
-          "title": "Anthropic says its model Claude is helping to build the next version of itself",
-          "link": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxNRWJiZ19idFBtTXUwVU1NMmVlSTZLZW04cDF6M3UxMGFGYk9QLWZjMmwtNHpIYmhKZ0VscDdwTldKNDQ1QWJEOFZXUDBXQjZ5cGg4aFI5TUxZRG5qeXFzcW9sRkUwN0hiVEJHdDVPVjIwRHd3N202WW4xVS12THp4OUNlbVVVdUNGN3kzQzU2dUN4NTRPeXBUQVllRzNYUTBPeWFiSDRKX1ltanVPUWtCUHRaN3BMMjRJcGNwM1JWTEpFT0JXTGF1bXVrcEdyU3dGOU8xUUlaN3FDNHlUakNtOXpXT2lvZFVuVlQ2eVZMSGFVbW40ekJ2Q3V3dw?oc=5",
-          "date": "Fri, 18 Sep 2026 23:08:00 GMT",
-          "summary": "Anthropic says its model Claude is helping to build the next version of itself Northeast Mississippi Daily Journal",
-          "publisher": "djournal.com",
-          "_via": "news.google.com",
-          "source": "djournal.com",
-          "_hash": "c7e5b98504f0a208",
-          "_ageHours": 4,
-          "_inWindow": true,
-          "_score": 69.62194833333334,
-          "_corrob": 4,
-          "_cluster": [
-            {
-              "source": "krem.com",
-              "title": "Anthropic says its model Claude is helping to build the next version of itself",
-              "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPaGtCblZsdHlNUGJudVRnVWlITzRmcWMxaU9USDVBYk5VelQ3NnpsV2lMVlpma0ZQZEVZWW1jdUVYRnBaMTRZV25VNUdxeVlTeWF1Z2xuLXpsT3FKMnV3clRhVXFyLUdIWjRiRjJwUVFZaUI0Q1ZsclJsMmxOVHE5VWdrbXQtb3E5VFh3VjJNZnJBRG9YZlF6OHpneXZFbDVlcUNtaTQzb1VCZ1NSQWR2cWJIdFNmT3R6NFFwWE03eWpqRS1fU3VVaVhB?oc=5"
+              "source": "nbcwashington.com",
+              "title": "Virginia Gov. Spanberger unveils data center framework, creates AI Task Force",
+              "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNYkg4bUlIWm55cGlCSDRpLTd3VjFGZUJJMzU3Rl9zV1pkQkMwa1lvOUpPZUV4djVWUzZRMXpSMnppbnlQQ2pmbGZsWWNkVTdhZWxaZXEwS25Ec05ESXBQYUpRVVJFZ2g0ZzRWNXBlaWg0M0ItNGFMRXhhY2hBNVBwSGc2TWlzajd5QzJxeTFvVjJkb3ZINmFUNGREbHhMSjk1Q2FUWG92UHNvNE9yNjNEYWs4ZzhXS1JNVDE1MktURjhiNWhMaUHSAc4BQVVfeXFMT0F6OEctV3Njb25NX2hEMWg1bThpRm4xV0NsVXRab3ZQd2xKS2NuT2VCQ0RMZWVEUUNjM21IaVIzcUJLREhGVDNhVnprNm9JUWFQSml1RGt4Vk9LMThwN0xmTmxKLWo0dENudkZJeGZZQlpGLTBMTG1kamQ0RmZlS0dPOGxpWUZoN1duTFg0ZURuUHZlQlJLNGdoVWVUVW1hYlpmQ3RJRUlHb2MxT3R6S0l2RG5sN3NIN3NfMVU3blEzTVpHTjNocjlNUmFqdFE?oc=5"
             },
             {
-              "source": "6abc.com",
-              "title": "Anthropic AI news: Company says its model Claude is helping to build the next version of itself",
-              "link": "https://news.google.com/rss/articles/CBMiP0FVX3lxTE9WT0xiWnRsc3ROZ0t5WEZkWGcxQ040R0pXSjFaVjl2TnZTa0RhSGd4dGwwOGVTM2szWU95S3d6QdIBpwFBVV95cUxPOUdybU81Mmh4d2l0dldvZ1h0X0k5aVFJVzVJMGtDS1IxNFE3YTY3NjVZLVhrM09fbnZ2clZXQ2RxTHU5X1Uya1dfcUhYSTI0blJjN2hCN2syRWpqN19UNlp6V1VMZFFhOE04dnd6ZUZWcWZjTlV1SkpWVUNiaUtVMFVULUFXUS1nLTBJdVhkODZPNVVTN3pQWE82RTNfQm9LU3RKVEZsWQ?oc=5"
+              "source": "wtvr.com",
+              "title": "Virginia Governor Unveils Sweeping Data Center Crackdown and AI Oversight Plan",
+              "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOS3o2NmZQZmZrMWVvZmRSWW8tckZFajdtZVVNVWdiWFc2RHQzSUlGVEUwZUdtRXZCLXpFS2w5RTk0UHBpSUZLOFMzUFgtaWdwMEZ0WlJtQi1IVV8zcEVNMnl1dmNIdmFBRGJpdmJ1b2hhdWxYZHprclJENXJoSjZwQWxuS3M0QU82Rm9vSHdmZjZqdWJqYkg1Ykp4T3dFeHM2YWp1YnRuU2VtV0hwS2pEZzV0a2ZwRVRob3BqVm45bw?oc=5"
             },
             {
-              "source": "thehill.com",
-              "title": "Anthropic: AI model Claude helping build next version of it",
-              "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQSHoxemhKVmppRHBIV0dMLWJMeGlDc20wWVRNNWxDYnJ0bDVQa0dMTTF0R1lqbFc1dkZ1dW1yc1FfangzZVFYNU4tSERIREhkQlU3WDBVM3Z0dnp0TVlfaWxRcnNtWnhLMVZvZmwwZkpwWm40cDdELXRKYXAtQUNRemhZZXRGVUVSQjRmSdIBkgFBVV95cUxPcF84cVk5cjh6MmVnUG1zZm1YYkFnOTJ3b3V2SDVpbmVTOHJMTDdqY3dFOUZFRjJmVW5ld1VOUFJiUldvMFZXbF9EUjVWYjdZcVF0ZTJZNHhVaWFCbnBEaEFzc0w1RU8wSXJqZlFKZTdKMHdycVN2SUdqWTJOWG9rTG9CSGtmV1BUSnc5YnV0a0lGZw?oc=5"
-            },
-            {
-              "source": "sentinelcolorado.com",
-              "title": "Anthropic says its model Claude is helping to build the next version of itself",
-              "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPOThWdnItV2gxZ0VEeTdmdVl1TXFlTFZjaGdHQTE1UTc2RFBBZnZwempETGotRUxkak1VMmp4U0J5X25zSml1Y0daT2JBTktfOEdfM0VfTkhNWi1LM0d3ck1hWjRMUHd1MlIyaVhyaVJ4UmtxUTJ4TWROZDFTRUtDMThQbjlKZ1Z3LTM1X1p0M09YTlg1ZFdCeVlodkFmV2FoMU1WRHpPWTJkWllXY3hyTFJaN1EweVNvbnRPSUF5Yw?oc=5"
+              "source": "theverge.com",
+              "title": "Virginia governor creates an AI task force and moves to restrain data centers",
+              "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPbW04NnY0TTQzNm5kbWVTd01hTE9SZmlDdmpMUzUtcE90alQyX2tCeXgyQ3RyU2V3RDBYSUZWclNETG8zckVrTTRZYTgzSFdpMjU4bjBHWlNmb2pxbncxamc1c3JvWkFadTBKaTdqWE9NYndyS3o2OU9TQkRrRkxNQkZkYXh0R0Y4U2ZSX0tnWURsenVrTGdVVQ?oc=5"
             }
           ]
         },
@@ -91,9 +65,9 @@
           "_via": "search.cnbc.com",
           "source": "search.cnbc.com",
           "_hash": "4959a6680bf82b47",
-          "_ageHours": 10,
+          "_ageHours": 12,
           "_inWindow": true,
-          "_score": 68.53083638888889,
+          "_score": 67.11820333333333,
           "_corrob": 5,
           "_cluster": [
             {
@@ -105,6 +79,11 @@
               "source": "news.bloomberglaw.com",
               "title": "OpenAI, Anthropic, Google, SpaceXAI Hit With Antitrust Lawsuit",
               "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOWVJTdzFUYU9PYk1qZ295Q1dZUjgxalJZbS1NSmY1WjNPUV8xWjFBTllaaDhoaHV6aDE3c0EyM2l6VHJhTy10WTVFTU51XzV5R1lfTURCeXpzOXhud1B6ZTRua25jNjNBX0pkVHpaTzBLd0l3UVp3aXdHNzBWY0NlSDg4aU55TnVNbnUzTXpHYUxyU0htOVlMNGtlREwzdVN1emc?oc=5"
+            },
+            {
+              "source": "news.bloomberglaw.com",
+              "title": "OpenAI, Anthropic, Google, SpaceXAI Hit With Antitrust Lawsuit",
+              "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOUVFUU1lGVW9ZZzZOX25yUTYtcDJKV0FaWHdsU1hWdTZnVGg3NFNhQ2FQR0x3cGpnMVVCQlZ6ZGl2ODgyYW5QaXpGNHlhMDZVV29TNFVvYVVWdmk2NXc4WVhPams0WmFVeTg4UXlqZ0lrR05fWUZSTXZ1Z21QVU0zQXlyZXNIUnNBQ09vLS1pNXJYU1otQlFBYVkwY1R1bVRneVFibTdZTmN3YjRVZjdHelZYZw?oc=5"
             },
             {
               "source": "briefs.co",
@@ -139,33 +118,23 @@
           ]
         },
         {
-          "title": "AI cloud provider Nscale files to go public",
-          "link": "https://www.cnbc.com/2026/09/18/nscale-ai-cloud-provider-ipo-nscl.html",
-          "date": "Fri, 18 Sep 2026 21:08:28 GMT",
-          "summary": "Nscale is the latest artificial intelligence neocloud to turn to public markets.",
-          "publisher": "",
-          "_via": "search.cnbc.com",
-          "source": "search.cnbc.com",
-          "_hash": "fa0499c5b4cf2574",
-          "_ageHours": 6,
+          "title": "Nvidia-Backed AI Data Center Operator Nscale Files for US IPO Seeking Up to $3 Billion",
+          "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBQWjAwR1FFVjZfeVE4Q3VRb000UU1tT1BNUnUya1g5N09zWTBqQXBHVGFEQTJONkZqb1ZwRXZDa2xaSnQ3WlhKd0tNZ2NpWTV2d3VVRHY4Y2ZCYkJLUzZoMHdQOXhKR1ZyaHVzLTJFZGlZcmJDNWc?oc=5",
+          "date": "Fri, 18 Sep 2026 23:35:00 GMT",
+          "summary": "Nvidia-Backed AI Data Center Operator Nscale Files for US IPO Seeking Up to $3 Billion finance.biggo.com",
+          "publisher": "finance.biggo.com",
+          "_via": "news.google.com",
+          "source": "finance.biggo.com",
+          "_hash": "3a6d298351d698e9",
+          "_ageHours": 5,
           "_inWindow": true,
-          "_score": 66.62972527777778,
-          "_corrob": 5,
+          "_score": 62.659315,
+          "_corrob": 4,
           "_cluster": [
             {
-              "source": "siliconangle.com",
-              "title": "Data center builder Nscale files for IPO after multibillion-dollar Anthropic deal",
-              "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNcHdSTlFCWE1KWGo0a0k1dXpYQmZZRHhBTXdzMGhYNVNuUWhYODN3RWNlS1FIQ3JyZWVIejFrQXp2VXdfalhpNVMwN3dZN3U2WHNzNUtOVkFJYmlNd2dnS0NJN1lxU0FHYm5MTzdKWm0tcnJIQnZIaTBZSnhuWWc0UWtvUldfYUxYTDUyU1JaV3dDbjFhSVBxNmFWMzdhaDZubUp5bl9fTzVTV3ltakJqOE1JTWg2OC1PbkE?oc=5"
-            },
-            {
-              "source": "finance.biggo.com",
-              "title": "Nvidia-Backed AI Data Center Operator Nscale Files for US IPO Seeking Up to $3 Billion",
-              "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBQWjAwR1FFVjZfeVE4Q3VRb000UU1tT1BNUnUya1g5N09zWTBqQXBHVGFEQTJONkZqb1ZwRXZDa2xaSnQ3WlhKd0tNZ2NpWTV2d3VVRHY4Y2ZCYkJLUzZoMHdQOXhKR1ZyaHVzLTJFZGlZcmJDNWc?oc=5"
-            },
-            {
-              "source": "wsj.com",
-              "title": "Nvidia-Backed Cloud Startup Nscale Files for IPO",
-              "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOM2h0Q1lUcXNLdVBIUlhVTFIya2NxOFp0Z3R3MDRqWEZ5WGVueExiazVqdk5XVGR1MmlnV1htUEdZalZNRW93cHkzYXRfeGItZlVncG1kdmcyakNBVkJTNEFVNjRYVno5OW9uRlBraFAtOGVETWpwMG80LVpJQXZqaU5paW9pTV9hY3NWVjFRNA?oc=5"
+              "source": "reuters.com",
+              "title": "Nvidia-backed AI cloud firm Nscale reveals revenue surge in US IPO filing",
+              "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOX1dTamJ1aHFmSUJtU3ZXV1diZDd3RGROdl9lTEY4UEEzQmFicF85MzdFWXpoT01Xckp6MlZ5eU5RcEpsVWl6Qmw3Y0NoMXJtdzViV21DZ0h6aXhFRkRWWjNjYmk1ZTRCSnY0X052TWIxMEg3a05NMnh5MGtaMEpzYXNla1ZMeEU?oc=5"
             },
             {
               "source": "bloomberg.com",
@@ -173,163 +142,133 @@
               "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNNnFmU3dZYzdXb0IxTFlTV1pxMDlvUDhMd1VhUlNsZnRkRDhXV3g0SkI5WUJGRXZHVjg0TkRBZFlTQ1FxR1pGUVRJdzdEVVd3VmtEcENFT3R6MkZDZ3dVN3Z0ZW5Ua1hrMnM5dEVqTE5vbXVHblUtVjJ6S09xVlJyMk5WSHg5ZTFBZzFOZnAtZlBtcGQxQWtIMVpGYUhUMXpTQmVDYzRDMkZxcXctRUdIME5TY0U?oc=5"
             },
             {
+              "source": "wsj.com",
+              "title": "Nvidia-Backed Cloud Startup Nscale Files for IPO",
+              "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOM2h0Q1lUcXNLdVBIUlhVTFIya2NxOFp0Z3R3MDRqWEZ5WGVueExiazVqdk5XVGR1MmlnV1htUEdZalZNRW93cHkzYXRfeGItZlVncG1kdmcyakNBVkJTNEFVNjRYVno5OW9uRlBraFAtOGVETWpwMG80LVpJQXZqaU5paW9pTV9hY3NWVjFRNA?oc=5"
+            },
+            {
               "source": "finance.yahoo.com",
               "title": "Nvidia-Backed Data Center Firm Nscale Files Publicly for US IPO",
               "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPbGFKZFFWMkFXNXpKT1lEamJsRl9hWkh1TjZHcHlvaHluNnY3ZFNDZk9SYWYtQk1HaU1JaVlnanROOHFjUkZ0blJWcG9OMmFNRDljRkR0U3hMQ2NVSjJLeGpDVzE3OHVaaVhySkdvbzV1WUFvY1JNQW5TMlZNcjcxNUM2ZTgwWi1XRDVWZ0FTWHZMZG1JYTFqTkVn?oc=5"
-            },
-            {
-              "source": "siliconangle.com",
-              "title": "AI data center builder Crusoe valued at $30.9B in $3.9B round",
-              "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQc1QyY2ZVaXl1bmFTMlRWM0lPVW5XVnRFd3lOZFpjaXNoQ0hRVk5Qd2dfRG9ralU1YURtT1BkYnNobU1WYlRnM0NQS1JLVGhWcWRqdTJrdFVDSmNsOHpHWjJxQWZBS3RUU1RRV0d4TW1udGdaUFRCWktNczFwcDRhV0Fqc2NINFYzUElZSEpfN09Za0FsSUVuZ0I5UXA?oc=5"
             }
           ]
         },
         {
-          "title": "Spanberger Unveils Sweeping Virginia Data Center Rules, AI Task Force - Falls Church News-Press Online",
-          "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPX05KNGdOb3NHVV9pSHB1aldKdkh2LWcxb1ExbWtoU2hCb3Y0b0pDZjFXMDZxaUVhVUlXbE5SQkJWMlRBbmNrZ216WnM2ckZxZFRzQXJaNkg3cV9iRXVVMEJ5R3QtU3oyZTh3OHZ6ZkgydnlrM3pkd3NBLVBjRGtjSnRVNXZvb19zRzZWeVk3cHpGdVNSY0Y5bnkwRFBVR2tSU2VB?oc=5",
-          "date": "Fri, 18 Sep 2026 18:53:13 GMT",
-          "summary": "Spanberger Unveils Sweeping Virginia Data Center Rules, AI Task Force Falls Church News-Press Online",
-          "publisher": "fcnp.com",
+          "title": "Anthropic says its model Claude is helping to build the next version of itself",
+          "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPaGtCblZsdHlNUGJudVRnVWlITzRmcWMxaU9USDVBYk5VelQ3NnpsV2lMVlpma0ZQZEVZWW1jdUVYRnBaMTRZV25VNUdxeVlTeWF1Z2xuLXpsT3FKMnV3clRhVXFyLUdIWjRiRjJwUVFZaUI0Q1ZsclJsMmxOVHE5VWdrbXQtb3E5VFh3VjJNZnJBRG9YZlF6OHpneXZFbDVlcUNtaTQzb1VCZ1NSQWR2cWJIdFNmT3R6NFFwWE03eWpqRS1fU3VVaVhB?oc=5",
+          "date": "Fri, 18 Sep 2026 22:33:00 GMT",
+          "summary": "Anthropic says its model Claude is helping to build the next version of itself krem.com",
+          "publisher": "krem.com",
           "_via": "news.google.com",
-          "source": "fcnp.com",
-          "_hash": "6292428732f93b7d",
-          "_ageHours": 9,
+          "source": "krem.com",
+          "_hash": "f64d26a9c755b419",
+          "_ageHours": 6,
           "_inWindow": true,
-          "_score": 65.37555944444445,
-          "_corrob": 4,
-          "_cluster": [
-            {
-              "source": "nbcwashington.com",
-              "title": "Virginia Gov. Spanberger unveils data center framework, creates AI Task Force",
-              "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNYkg4bUlIWm55cGlCSDRpLTd3VjFGZUJJMzU3Rl9zV1pkQkMwa1lvOUpPZUV4djVWUzZRMXpSMnppbnlQQ2pmbGZsWWNkVTdhZWxaZXEwS25Ec05ESXBQYUpRVVJFZ2g0ZzRWNXBlaWg0M0ItNGFMRXhhY2hBNVBwSGc2TWlzajd5QzJxeTFvVjJkb3ZINmFUNGREbHhMSjk1Q2FUWG92UHNvNE9yNjNEYWs4ZzhXS1JNVDE1MktURjhiNWhMaUHSAc4BQVVfeXFMT0F6OEctV3Njb25NX2hEMWg1bThpRm4xV0NsVXRab3ZQd2xKS2NuT2VCQ0RMZWVEUUNjM21IaVIzcUJLREhGVDNhVnprNm9JUWFQSml1RGt4Vk9LMThwN0xmTmxKLWo0dENudkZJeGZZQlpGLTBMTG1kamQ0RmZlS0dPOGxpWUZoN1duTFg0ZURuUHZlQlJLNGdoVWVUVW1hYlpmQ3RJRUlHb2MxT3R6S0l2RG5sN3NIN3NfMVU3blEzTVpHTjNocjlNUmFqdFE?oc=5"
-            },
-            {
-              "source": "wtkr.com",
-              "title": "Virginia Governor Unveils Sweeping Data Center Crackdown and AI Oversight Plan",
-              "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOVWU1a3QzVENyVk1XellWbnl5SnQ2ckpzUFpZeXlXdmU1ZHBjdkM5T29SYWFPbG9Bb2JCY0JuX1dTMl9BTU5EUERmZ1dONl94YTF4cnJiZnNVX19mSS1FdFNSNG5aWVBFd3dnYnZfR0lhaktqZ2ljYWFHM0UteERIV1F6Qk9WVVF5SXNNZ1BDUEhJMk91U1R3Y2Z4VEliMm9jVHdieXgxWlpzWlpFYU5tVQ?oc=5"
-            },
-            {
-              "source": "wtvr.com",
-              "title": "Virginia Governor Unveils Sweeping Data Center Crackdown and AI Oversight Plan",
-              "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOS3o2NmZQZmZrMWVvZmRSWW8tckZFajdtZVVNVWdiWFc2RHQzSUlGVEUwZUdtRXZCLXpFS2w5RTk0UHBpSUZLOFMzUFgtaWdwMEZ0WlJtQi1IVV8zcEVNMnl1dmNIdmFBRGJpdmJ1b2hhdWxYZHprclJENXJoSjZwQWxuS3M0QU82Rm9vSHdmZjZqdWJqYkg1Ykp4T3dFeHM2YWp1YnRuU2VtV0hwS2pEZzV0a2ZwRVRob3BqVm45bw?oc=5"
-            },
-            {
-              "source": "wtvr.com",
-              "title": "Gov. Spanberger proposes new data center rules for Virginia; reaction is mixed",
-              "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPa3F2ckctSHFzeUhpckFfNUxqaEppUzBwUXRoNVViV3I1am02bWUwMG9JRllDSi1hTThoV2RQOFdueHRPNjhDV1FoamhwcmdrMloxam1qb0x1bnhTWTZtaGU2bTNEQ2RKYlhkZFU3VVo1UXBuYU9CQXAza2M4MGdDdDN3?oc=5"
-            },
-            {
-              "source": "wjla.com",
-              "title": "Spanberger announces Virginia data center framework and AI task force",
-              "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOMXl2bVRvOUNNV2cyXzhRQl9xSko5ZXE3S20wazhLa0VmaVdJc0FCQVJyc1FueFhINzhSbFo2ckU1bHNkMWRvUFdRMzZWZ2xScUJBRWtLSWtoYUppTnQ4VDVIQUNFVWsyOVZVNmlWelViMHh3RndHeDZlZ2pXbW41bmJ4QUFCV0VBZjl6WlBEUFA4WkNzMldiUGltbXlQaW1EWGxHbFN4Ymd2MVZpbW9BdEpPS08xQWRCZ082TkJSSkd2MWJucDlKdVNhUFYxQklBX3BV?oc=5"
-            }
-          ]
-        },
-        {
-          "title": "Gavin Newsom is pushing for an AI kill switch",
-          "link": "https://www.theverge.com/policy/997516/california-governor-newsom-ai-kill-switch",
-          "date": "2026-09-18T13:04:51-04:00",
-          "summary": "California Gov. Gavin Newsom (D) is positioning the state to take the lead on AI oversight, including the potential to mandate a \"kill switch\" for frontier models, with a new executive order issued Friday. Newsom's order directs the state to convene a group of experts that will deliver recommendations within two months on how to [&#8230;]",
-          "publisher": "",
-          "_via": "theverge.com",
-          "source": "theverge.com",
-          "_hash": "cd10fffd89130870",
-          "_ageHours": 10,
-          "_inWindow": true,
-          "_score": 63.56944722222222,
-          "_corrob": 4,
-          "_cluster": [
-            {
-              "source": "latimes.com",
-              "title": "Newsom creates panel on AI safety regulation, suggests possible ‘kill switch’",
-              "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOaVJCZFZwdU1FUjB5aHRndy1uQ3dNTjRTY2xsMzNVN2N0UHZZZ2pCT3lIUFppaHZ4c2dYTFdwLWEyR2FMQ0J3U3QwTTVJTGo0LVE4WEVNOV9tME9JNTg2VDI0UXlTYVVyZ0dKcTFPazdCaGYxT05sTm1jb1V4TThJV285YXZVZmhhbzZjeklpVnRiek1KeFBQdkhoVi11NjNNc1dXSDhiNUVvZTR3YTdYOUM4Y2ZGNVVHTXNabjNQVHhrdnVL?oc=5"
-            },
-            {
-              "source": "abc7.com",
-              "title": "California Gov. Gavin Newsom signs executive order to consider AI regulation, including proposal for 'kill switch'",
-              "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQZ0l4Q2lKQzJCQUVrSUkwYUlyd2tuV0ZnSUhvdHNULWp2X3JYaVBIU2Z3ajRUbmxHNW9vOGtsSlBueWc5SnVILTlnZDYxOE9aeDlyQjJPWG9NNTF5SXlKOWRsUkxKRXZRdDF4bm9MaTU2VS1tdzItQzI4Y1dhbWdaQndsVi1SeXM0aHViVDZWd0Y1WjNNNzFLbGh0bmUwbDQtYm83LVd5dFc1OXEtYWY5YnFWdlZlMmUtQXdJTDdaaTZWMDhZRmlMdUlYb05ZMFg00gHWAUFVX3lxTE1rR0Z4ZGpnV3d4X3BPd3k5WjExRzR5YTZMNGpCb0w1STd5aXpHd2NBaDVSMl9FSDBmSnh5WHVpcDlodzZqZlVhREVLZUxwZGw0bllReFZGeFA1eGlmOURSUXoyU2IyQk9TQlhtaThEb2R4R1h4U2pGUzloYlZGZmhPc1FqSVVWbjlPUU5HNnJCRXZMMi1CaVk2OXJWQWhTZV80YkN1RmFBRnhjajlhTWFaVGdySTVsX191X3hBOWRYcUVSU3BTXzVJR1laZVEtR0RiTGw2VFE?oc=5"
-            },
-            {
-              "source": "foxnews.com",
-              "title": "Newsom calls for AI 'kill switch,' urges federal adoption of California regulations",
-              "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOODF6a3NySlluY0RDOW15cDktZ2lpX3FPVzNTRmh2Sm9UUXpzT2o4QVlESzFHN2xkWU1yREw4aC1yUnBYSlZncy15c1o5ZjhjODVHWXhhenRFQzZNZXlpU2ZoeTVUMk1ZQ1ZWOWcyZlRRVjNUSUdiVzdlOTBpcUlvZnJ5Nkt2WlQzSk40TlE4bktyS3o0blFsZi15ZmFGZXJBTm5vemlFMlBqR2x1d1BrbQ?oc=5"
-            },
-            {
-              "source": "cnn.com",
-              "title": "Newsom signs executive order to consider AI regulation, including proposal for ‘kill switch’",
-              "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQdEZYLXNfYTBKV0J2c21LSkdQMFN4a2ZxQWF1b1pMUDVVTkJUMzhMVVltVE1sTGJUX0JRYkMwaS1GTmNEUHYwSUd5QW51TV9xRDF5YWJIRFZiSXJHRUxJanpkWW1sVzBtWEJJNU50aHNhTFZzYVFld1VLWFhLUGN3TVFB?oc=5"
-            }
-          ]
-        },
-        {
-          "title": "Aristotle Raises $5 Million Seed Funding To Expand Voice-First AI Tutoring Platform For Students",
-          "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE53YWxGaHNwLWlaaHpjcHFSbXF5YjZXRGt4T2QxRzJxSC1Sa3J0N0FiQTJ5bHNyNWpJRThWSFR4cXZON2xEa0dSMm5hYl9nZFgyUk5SVUphTWxIU1YtR2doMEhpVFZ5OXNPamx0VkVxVEvSAXBBVV95cUxOd2FsRmhzcC1pWmh6Y3BxUm1xeWI2V0RreE9kMUcycUgtUmtydDdBYkEyeWxzcjVqSUU4VkhUeHF2TjdsRGtHUjJuYWJfZ2RYMlJOUlVKYU1sSFNWLUdnaDBIaVRWeTlzT2psdFZFcVRL?oc=5",
-          "date": "Fri, 18 Sep 2026 18:28:14 GMT",
-          "summary": "Aristotle Raises $5 Million Seed Funding To Expand Voice-First AI Tutoring Platform For Students Pulse 2.0",
-          "publisher": "pulse2.com",
-          "_via": "news.google.com",
-          "source": "pulse2.com",
-          "_hash": "17ce1c72596b4652",
-          "_ageHours": 9,
-          "_inWindow": true,
-          "_score": 60.95917027777778,
-          "_corrob": 2,
-          "_cluster": [
-            {
-              "source": "theaiinsider.tech",
-              "title": "Rapta Raises $8M in Funding to Expand AI Quality Assurance for Defense Manufacturing",
-              "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPRHVQd3JRd0lDeVFGSk5QeEZQcHYxXzM3V0V4LXNGTEdPeVN0TmZfZkczaU85dkVBTGxja0Y0QXZLdVNwLVd1YzZjeHBiMGlfdkRrOE5FQV9LTDJaRkxsa0lKRGJuMVpKcmxwcG1kT042c250Q3hpVmJGYmNzVXpncFdqV0MtdWpDZkFOaGQyMnR0UC1relkwZTZhZHJaemZJVlYwSmN2bGtLYURTOFdfLWM0U2ZpcVhSZE1XOU9B?oc=5"
-            },
-            {
-              "source": "reuters.com",
-              "title": "AI startup Mantic raises $25 million for superhuman forecasting",
-              "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxObEZvcUNwMGMybUpVdVRTQlZFU2FQajB4dWY4NGFDQV9scDN5bUU4U01iQUh2UnVCeEw2dWk4bkowc0hVMWh6X3BCX2JieW45a19fNUgwTERxTEFZUmpwc3lhREp3UlRvdm1aY3AwalQ4blJaeXZsSTF1RlZwdUlsSXo2RUJ5Qm5GY3BnMW9Kc3J1RHdFMmpPa2FvU3otU2ZJb1laazFpUkg?oc=5"
-            }
-          ]
-        },
-        {
-          "title": "Virginia governor creates an AI task force and moves to restrain data centers",
-          "link": "https://www.theverge.com/policy/997573/virginia-governor-spanberger-data-center-ai-task-force",
-          "date": "2026-09-18T14:29:17-04:00",
-          "summary": "Virginia Gov. Abigail Spanberger ordered the state government to take steps that could empower local communities to have a larger say in data center development and slow down approvals in a state that is already home to the data center capital of the world. Executive Order 22 bans executive branch officials from signing nondisclosure agreements [&#8230;]",
-          "publisher": "",
-          "_via": "theverge.com",
-          "source": "theverge.com",
-          "_hash": "22fc0d3a23276f5b",
-          "_ageHours": 9,
-          "_inWindow": true,
-          "_score": 59.97666944444445,
+          "_score": 62.62598194444445,
           "_corrob": 3,
           "_cluster": [
             {
-              "source": "mlex.com",
-              "title": "Virginia governor releases AI data center 'accountability framework'",
-              "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQVGhySXhWM2YzWThCMGlwVFl3bGlVVnRtb2hJRDEtQ0JwMURVdTBveVR5YlhaX25UZVluOUxvaGExNkNlOThqRVY5OExmWVA5UjJPaVlhYkxiMUg5bFhwbGs2c1hxMDRXQVVFWm12MGJ5WTNDZjFSR1k3Y05zbGdpZkowZFBkX1h5UHBrbDBPOHJHTFR4alMxMHY2M29ucWZFWEhwc0JRS0d5eFIxazF1VkQtYV9YSWItT2xDRGNsYkdjdnlMQy1vSk0yZDY0Y0XSAVpBVV95cUxNSUFtSTl6OUxyci02c21XYmZfMHFhSjRpNHNKYm1SbS12T2lGSTJLUDdSbl9oZDU4VnQ1V2tvdE5TRFRib3pMVzVBaGNYZXNObTJXVnU1b2xMbHc?oc=5"
+              "source": "6abc.com",
+              "title": "Anthropic AI news: Company says its model Claude is helping to build the next version of itself",
+              "link": "https://news.google.com/rss/articles/CBMiP0FVX3lxTE9WT0xiWnRsc3ROZ0t5WEZkWGcxQ040R0pXSjFaVjl2TnZTa0RhSGd4dGwwOGVTM2szWU95S3d6QdIBpwFBVV95cUxPOUdybU81Mmh4d2l0dldvZ1h0X0k5aVFJVzVJMGtDS1IxNFE3YTY3NjVZLVhrM09fbnZ2clZXQ2RxTHU5X1Uya1dfcUhYSTI0blJjN2hCN2syRWpqN19UNlp6V1VMZFFhOE04dnd6ZUZWcWZjTlV1SkpWVUNiaUtVMFVULUFXUS1nLTBJdVhkODZPNVVTN3pQWE82RTNfQm9LU3RKVEZsWQ?oc=5"
             },
             {
-              "source": "mlex.com",
-              "title": "Virginia governor releases AI data center 'accountability framework'",
-              "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1JQW1JOXo5THJyLTZzbVdiZl8wcWFKNGk0c0pibVJtLXZPaUZJMktQN1JuX2hkNThWdDVXa290TlNEVGJvekxXNUFoY1hlc05tMldWdTVvbExsd9IBWkFVX3lxTE1JQW1JOXo5THJyLTZzbVdiZl8wcWFKNGk0c0pibVJtLXZPaUZJMktQN1JuX2hkNThWdDVXa290TlNEVGJvekxXNUFoY1hlc05tMldWdTVvbExsdw?oc=5"
+              "source": "thehill.com",
+              "title": "Anthropic: AI model Claude helping build next version of it",
+              "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQSHoxemhKVmppRHBIV0dMLWJMeGlDc20wWVRNNWxDYnJ0bDVQa0dMTTF0R1lqbFc1dkZ1dW1yc1FfangzZVFYNU4tSERIREhkQlU3WDBVM3Z0dnp0TVlfaWxRcnNtWnhLMVZvZmwwZkpwWm40cDdELXRKYXAtQUNRemhZZXRGVUVSQjRmSdIBkgFBVV95cUxPcF84cVk5cjh6MmVnUG1zZm1YYkFnOTJ3b3V2SDVpbmVTOHJMTDdqY3dFOUZFRjJmVW5ld1VOUFJiUldvMFZXbF9EUjVWYjdZcVF0ZTJZNHhVaWFCbnBEaEFzc0w1RU8wSXJqZlFKZTdKMHdycVN2SUdqWTJOWG9rTG9CSGtmV1BUSnc5YnV0a0lGZw?oc=5"
             },
             {
-              "source": "unite.ai",
-              "title": "Spanberger Signs Data Center Accountability Order, Creates AI Task Force",
-              "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPUmwzOUVEVlZZVWVSZVZIWFZaXzh4NFk3WWZYck1veGpqTnhaZ0pOSE5oY3BqOEJGOWJUalllNDBJSTg1VFBDTk0tRWFJM1NTSlpBR2xxanpFMVhpSVpRaE1rRVd5V3kxQ1NOMTg3TFF1ei1MYTR4ZURDWDh4UXNLekpRVGVTNkY1R24xN3JzcW1kT0xGS1ZqSw?oc=5"
+              "source": "sentinelcolorado.com",
+              "title": "Anthropic says its model Claude is helping to build the next version of itself",
+              "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPOThWdnItV2gxZ0VEeTdmdVl1TXFlTFZjaGdHQTE1UTc2RFBBZnZwempETGotRUxkak1VMmp4U0J5X25zSml1Y0daT2JBTktfOEdfM0VfTkhNWi1LM0d3ck1hWjRMUHd1MlIyaVhyaVJ4UmtxUTJ4TWROZDFTRUtDMThQbjlKZ1Z3LTM1X1p0M09YTlg1ZFdCeVlodkFmV2FoMU1WRHpPWTJkWllXY3hyTFJaN1EweVNvbnRPSUF5Yw?oc=5"
+            }
+          ]
+        },
+        {
+          "title": "Google's Gemini becomes latest AI model to break out and hack computer systems",
+          "link": "https://www.cnbc.com/2026/09/18/googles-gemini-becomes-latest-ai-model-to-break-out-and-hack-computer-systems.html",
+          "date": "Sat, 19 Sep 2026 01:41:49 GMT",
+          "summary": "The disclosure comes as scrutiny over misbehaving artificial intelligence intensifies in Washington and Silicon Valley.",
+          "publisher": "",
+          "_via": "search.cnbc.com",
+          "source": "search.cnbc.com",
+          "_hash": "8922dba2930fee11",
+          "_ageHours": 3,
+          "_inWindow": true,
+          "_score": 60.77292583333333,
+          "_corrob": 2,
+          "_cluster": [
+            {
+              "source": "aljazeera.com",
+              "title": "Google’s Gemini AI hacks 3 companies in security test, then stops",
+              "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOSWZPMlZuOVJIUXh6RWxndUJmdmVUVEhpa0E4NGZ1WWlQWHZ5alkxbmhwWmRRU1VLQjRSZEYzanA3M2Z1MXFoVDJiSFNCWGw4dWNuVXB0UEJFWDBBQ1FWMDhsVUVYWDZfTlRuUE1pYUVlOHpQTFdaX19vV3NpMTZDd2hwQWJubXc2WW83RWZTNDhYLTZDNGgwZGZyVjRIbGwxdnBQZE5Eb9IBrAFBVV95cUxPaUxhcXdfcWc1RUFfQWhiX2JNS0hhbGlMQ0s5VzRYV0NHdjNVRXJOSkVjQ0xYTlpfMndoeVZDdHVWWDNQMTg2YkhmUkNIY3VYV1dDTUFYaU1UU0E4SzU5eVR3UHMzR3Zla0NtUmxLaFo0QWcxeXhLMU1yeTJsbmlsSjBZNGJ5RWZJUVdYQWtMVVpDcDlPVGNwWFdXd0dhVmVWSVhNREcyTEhVR2FN?oc=5"
             },
             {
-              "source": "theverge.com",
-              "title": "Virginia governor creates an AI task force and moves to restrain data centers",
-              "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPbW04NnY0TTQzNm5kbWVTd01hTE9SZmlDdmpMUzUtcE90alQyX2tCeXgyQ3RyU2V3RDBYSUZWclNETG8zckVrTTRZYTgzSFdpMjU4bjBHWlNmb2pxbncxamc1c3JvWkFadTBKaTdqWE9NYndyS3o2OU9TQkRrRkxNQkZkYXh0R0Y4U2ZSX0tnWURsenVrTGdVVQ?oc=5"
+              "source": "bloomberg.com",
+              "title": "Google’s Gemini AI System Hacked Three Systems in Safety Tests",
+              "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNbmN1NFNDNEZ6STRONFMyMVR2T0ZVN0gtSkM5RjZGbllCX0VfMzgxdTdpNXlNNlAtMFB1RTdaT05TLTFIRmo5Wk1lakJQV01SeGswT0hBeVVZVmpSTDgxNzJhc2Z6dEJ1bGNyUlZiLVZUeFdqdnFwNEpzYnB3cHFqcFEzc0VCTmt5ZUw5RHNVN0VYUEhyYTRFdmZtZndmR01ndXRtX05UN1hWSFRWSlNRNVBLdw?oc=5"
+            }
+          ]
+        },
+        {
+          "title": "AI company says researchers hacked OpenAI using Anthropic software",
+          "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQMWkwVVd3SG1LZUFYVjY5YWo3OWJWbmM3OEx4cy1SNm1jaUdFc0Vzcld5NEkzbURHNkJZb1FieHZtQWlhVEJkVzgtVkFXVk9LTkJKM21oMlJkc1FwcEZBSFZ4NjRFVzBLdUZGeW40dUJYTDZQT0toSlB3My1pbkVxN0VRN0N2dTg4QVZzdUdmd2Q3VS1IX1pnTkFmalJSMWVNMEh0THEtU0lHNWlTMjlNNEVNRWFJVFBZSk9qQTBzRzZnbzhudHZIUkVWblhSb3RKcGU1VWpB?oc=5",
+          "date": "Fri, 18 Sep 2026 21:19:00 GMT",
+          "summary": "AI company says researchers hacked OpenAI using Anthropic software WQAD",
+          "publisher": "wqad.com",
+          "_via": "news.google.com",
+          "source": "wqad.com",
+          "_hash": "ebcebb693225e2e6",
+          "_ageHours": 8,
+          "_inWindow": true,
+          "_score": 60.39264861111111,
+          "_corrob": 4,
+          "_cluster": [
+            {
+              "source": "pcmag.com",
+              "title": "Security Researchers Hacked OpenAI Using Anthropic's Claude",
+              "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQS2pyd2g5d09pbWR2OHlfc24wMjQwSUVpRzlsVmxUMW9SSXE0Uk56d1d1UmhNakhBVk1kWUhkWGttR1lEeVBUZlNjakRrUEtrNnFSVmNnR215YjVlX1BwUFd6dmIwOG9senh3SjBQMzVGeVMwM0NxRms5czBNdkpxLWpFYzJMOW1HTnJGN3dR?oc=5"
             },
             {
-              "source": "wdbj7.com",
-              "title": "Governor Signs Executive Order On Data Center Accountability, Creates AI Task Force",
-              "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQdlU2U1ZjVXVYTXZ0aWg0YTJrUEQ3eXE4dTZWdnB4dmJqeFdoallBTE9uU3JqZDloUTZORHFIOHpmbUNJOWVJVTdyZVU2ZTFqNGV1dnVnM05RUXlDT3UzOFl0RmpBRDdsbWgxUzFVMi04QzZIN1FWVHBRZDU3NTNRUzRtZFVna185ZjhxQkw3ZGR5TVQzM2p5Y2xMMmtGTkJWVS1vNUNtalB1Yk5NejlUdDdQZGJEME40REZj?oc=5"
+              "source": "ft.com",
+              "title": "OpenAI breached by researchers using Anthropic models",
+              "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxONHNONlc4OVZ4WWJUbjlZanhNNURqN21yTHRZYlU4SzdIZkhQQ0pacVh2cEpXWENPM0NCbjVwbWNxOTJhWTlHZzVyX1R0M1BqWjFlRzV1QUgwQjJOcTdqRnY5clRycUs2SmtEalBJd2JkLUtORlgyazNXaDJLbW53RV9GaEE?oc=5"
             },
             {
-              "source": "wdbj7.com",
-              "title": "Governor Spanberger signs executive order on data center accountability, creates AI task force",
-              "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNOVNQZ0VtZ2JTMXctQ1ZMVEFFMUVJeWxVOXJkYmplN0FlZ3JqcmlDM2RFeUZIMTU4SlZYOUtsYVdPcGxoUV85WTMyOUxNbkF4ZkJjWXhEOGVlN2tCdkFmc2hYa19sck5hWnpJWFRQdDJGRU9wb1gyYk56dGNqblVFSFprY3k2SEJydlg5a2UwOWlqdGc4amfSAaoBQVVfeXFMTUZEZTdGZE5kUjBFMlZ4YTRDbGdVNlpvZmxtemdPcVJ3MFpkbVFvR3I1MU1tMWNjMjdaY2JaRnpKcWoxYUVCdWgxck1KQkVLN2tyR2lkTmdVWUoyNVB1Q2R3ZXllR28yVVN4dW5LMzFadUpEYlZGb2UzSXlON2xiWnNWZHpwU0pYTUVOZ1lQY0xESHpKZzRRcTQ5NHRMS3VNN2J5UmhsdHhzNEE?oc=5"
+              "source": "fortune.com",
+              "title": "Three guys using Anthropic’s Claude hacked into OpenAI and accessed its source code for $6,500 reward",
+              "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQVW80YlEwQkJ0MlpGREhiRy12UGVkdUpULW1GUm1WenpEM2NQbGk0Z2lETGNNVlZtQVJFN3lna2Mzb0xKSWoxVzN5T19lZmwycnRJNmVlc3RRVmZLdU9Md3pDd1BVUDFiLXVXR0ZFVWhCaW9OOFM1bWxoNXFwNWlSelFVYjhCcU5kS181RUQ2VjM?oc=5"
+            },
+            {
+              "source": "forbes.com",
+              "title": "Security Researchers Hacked Into OpenAI Using Anthropic’s Claude",
+              "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQcW5TQ3c4elF6NEloRlVEN3JqZnVOOVFmWW5HdXRvR0pybGRXUzFFanItb0pLdzVDZlpBUkJqX2xMejdKV19ERHM5N2kzOGdZck1Eem9yNVBSWVRSMkNqRFZkckRQb2FCREYtV25iZnNRRjNralRubkM0MXRRekhxZ3lIRm1WallPNFJBOE5oMENhdUk2UVZ2Y0xydVBpVGhuTnlzZFZYeUZnMzg0NGJBQ1dkWGRTOVJy?oc=5"
+            }
+          ]
+        },
+        {
+          "title": "Gemini hacked three companies in first known breakout by Google's AI",
+          "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOYjRxWW5lRUMxeVNSMGFTaFl3Um9XLXBNZzhENWpxTlBFOEYxbTJrd25DMURFaGg2ZmtWRXZhWVpMSDA0SndYOC1qY0FiQnpPeEYzOHZZblFCU1NmbFN4Vno1WlRQaEpmVV9aandkTkZvSzR3SExfMDRPNnpyd0pGN1VYVFVzMmlZd1ZBNjMtblJuRFZ5VUxOemxLRWJ2Zkkyd1ZJMXQzZ2pYWkRzdmt5bU5QUDQ0YVBDZFZOag?oc=5",
+          "date": "Fri, 18 Sep 2026 23:56:23 GMT",
+          "summary": "Gemini hacked three companies in first known breakout by Google's AI Reuters",
+          "publisher": "reuters.com",
+          "_via": "news.google.com",
+          "source": "reuters.com",
+          "_hash": "4f745a9a6dd3c515",
+          "_ageHours": 5,
+          "_inWindow": true,
+          "_score": 59.015703888888886,
+          "_corrob": 2,
+          "_cluster": [
+            {
+              "source": "wsj.com",
+              "title": "Exclusive | Gemini Hacked Three Companies in First Known Breakout by Google’s AI",
+              "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQWjdUWU9tYzBhcjAwR1AzWkhVczUyUG9SUThfTFNuWEl0VFdHVUFzR1pDb3l3amRZWktfRUtvOFp3a0xZellIODVSTGdJOGd0dnQ2NlNoeVE5OHNEY0swRXJPcDhxSDI5bmJlV29icV91dXYxZGNRdDA2LTV3OTlnQUp6RldkYTJKT1IydVgtTnk5QXRUVkFGdEl3WFp1OVlOMWVaeHpEcw?oc=5"
+            },
+            {
+              "source": "nytimes.com",
+              "title": "Google Says Its A.I. Hacked Three Companies in Testing Breakout",
+              "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1oVmRjQVgxMHR6VnBZbUIxamFSQ1lXanpuU080VEhkWFVDNHlXbDJhMHBNNWo0MFBsd2lMSTMwcjJpREJTZUozVzVQLWUzUkdUUG9RbDJtY3hjSVhnR2ZFTFlEOFc1aVNNeTFOZHdTTzNDWHFCNlE?oc=5"
             }
           ]
         },
@@ -342,9 +281,9 @@
           "_via": "news.google.com",
           "source": "reuters.com",
           "_hash": "bb55ac44e8ce7dac",
-          "_ageHours": 5,
+          "_ageHours": 6,
           "_inWindow": true,
-          "_score": 59.12500444444444,
+          "_score": 57.7123725,
           "_corrob": 2,
           "_cluster": [
             {
@@ -368,14 +307,14 @@
           "_via": "arstechnica.com",
           "source": "arstechnica.com",
           "_hash": "7bcdc7bf84f685b1",
-          "_ageHours": 14,
+          "_ageHours": 15,
           "_inWindow": true,
-          "_score": 58.99194722222222,
+          "_score": 57.57931444444444,
           "_corrob": 5,
           "_cluster": [
             {
               "source": "abcnews.com",
-              "title": "Video Research group utilizes Anthropic's Claude to hack A.I. competitor - ABC News - Breaking News, Latest News and Videos",
+              "title": "Video Research group utilizes Anthropic's Claude to hack A.I. competitor",
               "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE9ZWUlkRndBTkZuQktpUDhWVy1Qcm5KV3NVdl9hb3V6M0RFLTlreDd3RFNNNU5hZ1l3M1U0dm5qUEFQaGZ6dHJWWEx3TDE?oc=5"
             },
             {
@@ -401,17 +340,43 @@
           ]
         },
         {
+          "title": "Why Democrats blocked a popular AI data center bill",
+          "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5meWxOcjFsWkZNVTVERWtxQkJJOFJ3NmNCX3hObThDbEEtWDJxUEwyS1IyckZ5Y3M0NjJIZW9XUHJnakdDcE4yVk8zdHpWaWIteTNtMXEzSGNlcGRKOXpB0gFcQVVfeXFMTVJJcTNPQTF2VWpBXzRQWkU4RWtQQ2xCWE9jSGkzdTd0amFZeWxNb2pnUkx6cW10ZFFPTTNGT2h2Y0VieE9iQml4c1ppLXFuLUxlN1ZkSXFCLWxBekc?oc=5",
+          "date": "Sat, 19 Sep 2026 04:28:00 GMT",
+          "summary": "Why Democrats blocked a popular AI data center bill Modern Ghana",
+          "publisher": "modernghana.com",
+          "_via": "news.google.com",
+          "source": "modernghana.com",
+          "_hash": "5543930b69f51325",
+          "_ageHours": 0,
+          "_inWindow": true,
+          "_score": 57.54264833333333,
+          "_corrob": 2,
+          "_cluster": [
+            {
+              "source": "edition.cnn.com",
+              "title": "Why Democrats blocked a popular AI data center bill | CNN Politics",
+              "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1yNFdzOE5DQjdOaTllcTZHaDNEMFRUUVMxcmxUaURBYnZOV21QaXUyR1BaMTRneUpQRDJiS2ZBX0YtM2hFNFBoRGNSQXI2NUR0UFlCcGtjcUFfSXdLYWJlYkhiZWdPSmYzYWFBN2JORkxCRXhMYTJEUGxScw?oc=5"
+            },
+            {
+              "source": "finchannel.com",
+              "title": "Senate Blocks Data Center Bill as AI Boom Reshapes U.S. Power, Investment and Tech Markets",
+              "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPRVItOExFVXhLU2lYQnpoZV9naHN0YklCYlpkbHdfOXB1OHJkVkJNR2pHQmxoZzJjWEZmUTROcmtpdUl3UUtWV0dWdVR1Z1FIWFVVLVNnUXc3ZUtfemtFMUpIbkdadTRsZGNkWDhNbGVBclBvU19NTm8td1pfendtMmdkdGFDWEFHR0JQMGd1dFIwYzU5LWR4dDFGNEo1aWszdm42dEgxcUYzOFdFdWhkaGp5VGVUdVQzQXIyUmZpTG84eU1pYWp1UXZRa1RHMDZUY2c?oc=5"
+            }
+          ]
+        },
+        {
           "title": "Emerald AI Forms Coalition With Google, Nvidia and Anthropic to Expand AI Data Center Grid Capacity",
           "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPeERlT1gtVU9leWVja2tHZHlrVVNHLS1BeGhDZHZWeWUyT3pmdDN1NTBkclh0ZzI4WG1uUjBNaTJoWmdRSU5LOGYwV01lNXFXeklodS1OMU5iTWFReVVDR2VCZjN0UGk1VElJdkdOYml5VlFXUzA4VmhOdENpNkN3LUpkbjcza1cyRHRFejFwOWp5a2lyVEloeS1DdElVSU1jb0poOGJndU9CbDgxNHBYVUNMTzd1QnNwSjk2M1hkY3VwTlJBdk44cGdHNDRYOVdEVEE?oc=5",
           "date": "Fri, 18 Sep 2026 16:49:58 GMT",
-          "summary": "Emerald AI Forms Coalition With Google, Nvidia and Anthropic to Expand AI Data Center Grid Capacity AI Insider",
+          "summary": "Emerald AI Forms Coalition With Google, Nvidia and Anthropic to Expand AI Data Center Grid Capacity theaiinsider.tech",
           "publisher": "theaiinsider.tech",
           "_via": "news.google.com",
           "source": "theaiinsider.tech",
           "_hash": "402195b4d0d95d62",
-          "_ageHours": 11,
+          "_ageHours": 12,
           "_inWindow": true,
-          "_score": 58.3213925,
+          "_score": 56.90875972222222,
           "_corrob": 3,
           "_cluster": [
             {
@@ -440,9 +405,9 @@
           "_via": "techcrunch.com",
           "source": "techcrunch.com",
           "_hash": "c89ec6dd83ad7623",
-          "_ageHours": 6,
+          "_ageHours": 7,
           "_inWindow": true,
-          "_score": 58.23111388888889,
+          "_score": 56.81848111111111,
           "_corrob": 2,
           "_cluster": [
             {
@@ -473,49 +438,54 @@
       "name": "Space",
       "candidates": [
         {
-          "title": "NASA’s Curiosity rover marks 5,000 days on Mars with special ‘postcard’",
-          "link": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxQQXBRYzFINW9GV2wwV3lHbFRMa013VFNsdTVVRHQtOHZNaVBuZ3luVVN3SnUwRnZ3UGZGNHFUemZVOHN4RTdoTmk3VHQtVWtwMG1RdnJWNU9RUXVfZ3l2eTFCTndUcVBNMDMxT2w3Um9IXzF4WEw0OEZuRTN1QW5yQlR0Q3c2amlFTzZfRWdoMjZQRXVoaGE1UE5MYUJfMmpfTkpkTzZubmpmOUwwcDVoakphdXBhd2N0dlRYVl9WbkFXWXVwdkZiYmpNUE1pYWpHV2FLRUcwWjhvd1RCYUVkcXBkLVQ5UzB4R2NFbQ?oc=5",
-          "date": "Fri, 18 Sep 2026 22:30:33 GMT",
-          "summary": "NASA’s Curiosity rover marks 5,000 days on Mars with special ‘postcard’ themercury.com",
-          "publisher": "themercury.com",
+          "title": "NASA’s Curiosity rover marks 5,000 days on Mars with special ‘postcard’ - Branson Tri-Lakes News",
+          "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQd0Z4dmxSX2FpN2FrYTFQMUtBSzFiYW93bVZCb050ZFlEY3ctaEI3MDNyQVdQcUd2Q211NmVtRUdTNERnemtLWEhMbDRpTnNQWl8tbWxoVWkyampjWExveXpjdnVQalhqSTFyZ3AzRmdDUmxEcjJLRUpheE5hSG82SXFiRy1ab1VBTlNmaHBVX19yQVZXUTlnZGI2NXFQVlh6?oc=5",
+          "date": "Sat, 19 Sep 2026 04:15:18 GMT",
+          "summary": "NASA’s Curiosity rover marks 5,000 days on Mars with special ‘postcard’ Branson Tri-Lakes News",
+          "publisher": "bransontrilakesnews.com",
           "_via": "news.google.com",
-          "source": "themercury.com",
-          "_hash": "6d5f7f72c979c4a0",
-          "_ageHours": 5,
+          "source": "bransontrilakesnews.com",
+          "_hash": "a6c06012cbf755e0",
+          "_ageHours": 1,
           "_inWindow": true,
-          "_score": 52.99761027777778,
-          "_corrob": 2,
+          "_score": 62.33082,
+          "_corrob": 3,
           "_cluster": [
+            {
+              "source": "newsbug.info",
+              "title": "NASA’s Curiosity rover marks 5,000 days on Mars with special ‘postcard’",
+              "link": "https://news.google.com/rss/articles/CBMi9wJBVV95cUxPZVlWUzJnenBEYlpLVVJjWEpXVEE3dUUyOUctV1FmdjdvOENnS3lZTmlFbWZPSVNDYVh3U3MxVGVDZEt2UzJZZHNRZjVDNU5Jd1pvM3VjM0pzWWNjcnd1NmxCMnhVbVFPblJ0U0tPS0RpSDU3em9IekpNWkF1YTYtb2NiQkhIVDZNMjR5dXBDVE00c3paZFlyU3JfNzk5aC1rQzd2Wi1EOUpVVkhWLVBZVF9RNVQ2NWU5QzBDc3pWbnB6ZXR3QmNvVGhjVzBHMnVFLWc5SDl4VEtYMlFHTlZsV2hXYnpCdWpGNVJPanRoNUVucVdPVExuZWJmYzNIb1FwRjE1bTV5cFlQOU9IdWY3RzVmNWNZMmtJYW5VVER6bTYxSUFLWktHQnFmNDJQOVUwRFhFeFFwNzFaWlNjaUdhbDVGY3dIX1AwYUoxc2RUdnhHSFl4Z0I0U1hHQlFobGc4WnNlQ1NoOGpSdHNYSWxpTG1yWmM0OG8?oc=5"
+            },
+            {
+              "source": "iosconews.com",
+              "title": "NASA’s Curiosity rover marks 5,000 days on Mars with special ‘postcard’",
+              "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQY0RWdkVBVWN6NFdfVGNTU3FleGVqQlZpMkdHZkpaRE1IRWpxLWRsTkdpRUdoWnRrbTVaeWlfSjRXbmZ5RkZ2Mk9ubnZXd09TVjBmVTRueldzUUNQdUdoaVVrLTlvWVpZSjliVTMyLTVtUm5iQzI0NDdCN0cybjVJTjZrSThxalc5QTl2RDRBbkQ?oc=5"
+            },
             {
               "source": "swiowanewssource.com",
               "title": "NASA’s Curiosity rover marks 5,000 days on Mars with special ‘postcard’",
               "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQRVNSWGM1YnY3VENTN2NNTThYNk55YXNJakJoWE81SUp1RjZvYi13TWRnMWhJZjRNV0wtZlhtdkdyUnQyMG1TRVVNNGFCZmw5ZU93cEEwRllnVlFEbDBDU1VnU1lSQjdoTXNtZGNSejVmSThVdzBRUFYxSEhkemRWOTBWN0dKRWlneWtSbGVTejNiQUhuTWFFWjBB?oc=5"
-            },
-            {
-              "source": "homenewshere.com",
-              "title": "NASA’s Curiosity rover marks 5,000 days on Mars with special ‘postcard’",
-              "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOd2hDR1JfT0lVYUZsTy1IbnZ4ZjUxRm1HRzY2NU5qOTFQNzh5WVJnd2FTcm9ZbG1LTTRYMWM1cDdBRkRPZldlWXExT3JoZUVRQ2dycU14aFZYRkstU2EtSFFBdzBrV3I3T3o1TDlhaWZneWo3VG9XVmJUa1RrWURpMHB3NjJzLXh6Zjk2WGplTlNtV3ZDdk40?oc=5"
             }
           ]
         },
         {
-          "title": "Black astronauts tout space exploration at CBCF legislative conference",
-          "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNNGlRdlRQaFNndGg1NFA2VVlVTlNvTXJYMkszNDNSei1uWlNtNGhwU0lhQV9qRXBVaGd4MDVISHNOdnpVODhoM3h3X0Via2RmS2tEeUlYV0Z2QVNVVG96ajl0SjJadHRmTkNyNGpBVEEwZktyeXQ2VEY3V252VUVjbE5yNmgzb0xqa1E4QXhZMUR0UVluRm8yZW5RckdGemhteGZuQ2d0djQ4elJlMy1n?oc=5",
-          "date": "Sat, 19 Sep 2026 00:38:25 GMT",
-          "summary": "Black astronauts tout space exploration at CBCF legislative conference Maryland Matters",
-          "publisher": "marylandmatters.org",
-          "_via": "news.google.com",
-          "source": "marylandmatters.org",
-          "_hash": "535b1704cc64448b",
-          "_ageHours": 3,
+          "title": "APOD: 2026 September 19 – A Zodiacal Night",
+          "link": "https://science.nasa.gov/image-article/apod-2026-september-19-a-zodiacal-night/",
+          "date": "Sat, 19 Sep 2026 04:05:00 +0000",
+          "summary": "APOD Science APOD APOD: 2026 September 19 –… Today’s APOD Archive Submissions Index Search Calendar RSS Education About Discuss APOD Astronomy Picture of the Day Discover the cosmos! Each day a different image or photograph of our fascinating universe is featured, along with a brief explanation written by a professional astronomer. Night SkyAnnotation A [&#8230;]",
+          "publisher": "",
+          "_via": "nasa.gov",
+          "source": "nasa.gov",
+          "_hash": "cdb50169840ef811",
+          "_ageHours": 1,
           "_inWindow": true,
-          "_score": 50.12872138888889,
-          "_corrob": 1,
+          "_score": 47.159153333333336,
+          "_corrob": 0,
           "_cluster": [
             {
-              "source": "simplywall.st",
-              "title": "Space Exploration Technologies (SPCX) Faces A Lockup Test, Is The Stock Too Expensive?",
-              "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxPTE9tcHVDVVR3cndVaTkyYTdlOU1wWmRLWEtYNFNYeHZlcjBZQnVyVVc3MDVJaE82MEdGU1VyQm13UUpCUDNLUkg5LVQ2d1RVSUhEMVBCRHI3UjkybkFZSVFDUmdybVZRRVg4aUs3TGJTZjFJOW9Ed3BDeXQ5U1NDU3FxZ0gtaThBajZ2SGxESlBlVDc0VmJKRVNINGt1akxaTnZ0allBSEpEVFF6RXhLRU9PdVpqR0JfREdPTGZCWi1CWW1FSTlwU1F0VGpxdjJEM0xwUkpWUTM0VlNKTmtsZFRR0gHnAUFVX3lxTE9ZcmpYMFRJLWptUEJTWHA1TFNMbmpRV1VRdkItTmVUdXlHLUdreUpueUxiLUdMWEgyODhIaFRaRjR4anRhRHpqQlh3dHlrQ2hsTDZkN196TDVsRTk2eWtOb01ob1Vid1FDUEJYV2FWMFhkcXVGOC1lOG5QTWNaLXVmczFHaGF6dEZrcUVfY2pCR0Q4TXBITktBclYycEl6c24yM2l5bW14VS1pOFNzUkJZU0doaWZlZEV2cGxHS1VabW9Ca0JQTHNaRnBKRFJBM2FCa2ZlRHg5RWhETkFmczd0SUVrWmRMOA?oc=5"
+              "source": "nasa.gov",
+              "title": "APOD: 2026 September 18 – Messier 33: The Triangulum Galaxy",
+              "link": "https://science.nasa.gov/image-article/apod-2026-september-18-messier-33-the-triangulum-galaxy/"
             }
           ]
         },
@@ -528,15 +498,46 @@
           "_via": "news.google.com",
           "source": "theglobeandmail.com",
           "_hash": "4dfb66a9dc577b0c",
-          "_ageHours": 9,
+          "_ageHours": 10,
           "_inWindow": true,
-          "_score": 43.91538805555555,
+          "_score": 42.502764166666665,
           "_corrob": 1,
           "_cluster": [
             {
               "source": "fool.com",
               "title": "Here's What a $500 Investment in SpaceX Stock Could Be Worth by 2030",
               "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOUXZZcGFHNDhLUEw2VWlKUlBBR0FsaDdzczZHalNUbHJQZlBwVFR3T1FZQngtZlEyb3dxNU1CWEtJbDBjRk1SeDFON2xvNUVsUzl5dW5UMVJBQWpVM29RRV9PMUdJMDBNQXdIZmdzVjdhazdaZ3VLWkw4U1l1MWlfYnVRcDlqMFlwQnlRS1c4VUM5aWE3TU5R?oc=5"
+            },
+            {
+              "source": "theglobeandmail.com",
+              "title": "Here's What a $500 Investment in SpaceX Stock Could Be Worth by 2030",
+              "link": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxNc3FfM3E5RER3aVhSTHdKbEdWX2R4WFZMckxpc18zaTYwajhpNjNkYW5PRWROVGZaYnNvellZd2RuNFpISG5VWTZDWU04VTE1MkpDMU45T1M1Z0F4RDFBb2c2ZDlfZ3VacTN6MmtLcHN5aTAwU0x4cHZSb25MRF9nUjZaOHd3Z1Ywak9PVENRUzRpekF3SDFZSE1iejl4WWdlUFJjanFyVzAyYzU3N1NvemFUZzZRcG1BUmQtQTlKbXhDbjF4UzNEU2tsX2IzWFctZXNNTGhDdGxES3YxUGVyczZXWXZhUQ?oc=5"
+            }
+          ]
+        },
+        {
+          "title": "NASA Awards SpaceX Three Crew Flights to Space Station",
+          "link": "https://www.nasa.gov/missions/station/commercial-crew/nasa-awards-spacex-three-crew-flights-to-space-station/",
+          "date": "Fri, 18 Sep 2026 16:02:31 +0000",
+          "summary": "To continue regular crew transportation to the International Space Station, NASA has awarded SpaceX three additional missions through a contract modification.",
+          "publisher": "",
+          "_via": "nasa.gov",
+          "source": "nasa.gov",
+          "_hash": "7dcd21767ab0b3da",
+          "_ageHours": 13,
+          "_inWindow": true,
+          "_score": 40.11776444444445,
+          "_corrob": 1,
+          "_cluster": [
+            {
+              "source": "news.cgtn.com",
+              "title": "SpaceX to fly more NASA crews to space station under expanded deal",
+              "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNOE4xTEJJVUxramFfalpScjFwZmFna2ZMcHJSSS01V2huY3hBcFRnODFwM1BHR0pid2c2UXRGcXFaeHp6UjRONTkwbVVDWWRWeVlCMk82STFqMG5SekFfdldGMFZ6di0ybzlmMS1iRjhVLVRYUk81ZFJ1OTdSQ0JCeFV0Z0FGNzNBM09FSDNCb0Jhc2ZpTDhRX3JZempqRDdvRHM2WFFBbU9sYTZEOVhONkdGYUtSMklMOW5qVWxzdkw?oc=5"
+            },
+            {
+              "source": "nasa.gov",
+              "title": "NASA Invites Media to SpaceX’s 35th Resupply Launch to Space Station",
+              "link": "https://www.nasa.gov/news-release/nasa-invites-media-to-spacexs-35th-resupply-launch-to-space-station/"
             }
           ]
         },
@@ -549,17 +550,11 @@
           "_via": "nasa.gov",
           "source": "nasa.gov",
           "_hash": "5ed96c9bd7f603ee",
-          "_ageHours": 8,
+          "_ageHours": 9,
           "_inWindow": true,
-          "_score": 40.42399916666667,
+          "_score": 39.01137555555556,
           "_corrob": 0,
-          "_cluster": [
-            {
-              "source": "nasa.gov",
-              "title": "NASA Invites Media to SpaceX’s 35th Resupply Launch to Space Station",
-              "link": "https://www.nasa.gov/news-release/nasa-invites-media-to-spacexs-35th-resupply-launch-to-space-station/"
-            }
-          ]
+          "_cluster": []
         },
         {
           "title": "NASA-JAXA XRISM Mission Sees Pulsar Gathering Companion’s ‘Wind’",
@@ -570,32 +565,11 @@
           "_via": "nasa.gov",
           "source": "nasa.gov",
           "_hash": "484f449a5c6fc8cc",
-          "_ageHours": 9,
-          "_inWindow": true,
-          "_score": 38.536499166666665,
-          "_corrob": 0,
-          "_cluster": []
-        },
-        {
-          "title": "NASA Awards SpaceX Three Crew Flights to Space Station",
-          "link": "https://www.nasa.gov/missions/station/commercial-crew/nasa-awards-spacex-three-crew-flights-to-space-station/",
-          "date": "Fri, 18 Sep 2026 16:02:31 +0000",
-          "summary": "To continue regular crew transportation to the International Space Station, NASA has awarded SpaceX three additional missions through a contract modification.",
-          "publisher": "",
-          "_via": "nasa.gov",
-          "source": "nasa.gov",
-          "_hash": "7dcd21767ab0b3da",
           "_ageHours": 11,
           "_inWindow": true,
-          "_score": 36.530388055555555,
+          "_score": 37.12387555555556,
           "_corrob": 0,
-          "_cluster": [
-            {
-              "source": "nasa.gov",
-              "title": "NASA Awards Launch Services for StarBurst Gamma-Ray Detector",
-              "link": "https://www.nasa.gov/news-release/nasa-awards-launch-services-for-starburst-gamma-ray-detector/"
-            }
-          ]
+          "_cluster": []
         },
         {
           "title": "COSI Telescope Comes Together",
@@ -606,9 +580,9 @@
           "_via": "nasa.gov",
           "source": "nasa.gov",
           "_hash": "e4e59c11b75d929f",
-          "_ageHours": 12,
+          "_ageHours": 13,
           "_inWindow": true,
-          "_score": 36.23927694444444,
+          "_score": 34.82665333333333,
           "_corrob": 0,
           "_cluster": []
         },
@@ -621,9 +595,9 @@
           "_via": "news.google.com",
           "source": "simplywall.st",
           "_hash": "3853c52127930a10",
-          "_ageHours": 18,
+          "_ageHours": 19,
           "_inWindow": true,
-          "_score": 35.08649916666667,
+          "_score": 33.673875555555554,
           "_corrob": 1,
           "_cluster": [
             {
@@ -642,9 +616,9 @@
           "_via": "nasa.gov",
           "source": "nasa.gov",
           "_hash": "cc851b9557d9de62",
-          "_ageHours": 36,
+          "_ageHours": 38,
           "_inWindow": true,
-          "_score": 34.866776944444446,
+          "_score": 33.45415333333333,
           "_corrob": 1,
           "_cluster": [
             {
@@ -663,32 +637,26 @@
           "_via": "nasa.gov",
           "source": "nasa.gov",
           "_hash": "118bb5e7668e4fa0",
-          "_ageHours": 14,
+          "_ageHours": 15,
           "_inWindow": true,
-          "_score": 34.12511027777778,
+          "_score": 32.71248666666666,
           "_corrob": 0,
           "_cluster": []
         },
         {
-          "title": "APOD: 2026 September 18 – Messier 33: The Triangulum Galaxy",
-          "link": "https://science.nasa.gov/image-article/apod-2026-september-18-messier-33-the-triangulum-galaxy/",
-          "date": "Fri, 18 Sep 2026 04:05:00 +0000",
-          "summary": "APOD Science APOD APOD: 2026 September 18 –… Today’s APOD Archive Submissions Index Search Calendar RSS Education About Discuss APOD Astronomy Picture of the Day Discover the cosmos! Each day a different image or photograph of our fascinating universe is featured, along with a brief explanation written by a professional astronomer. Messier 33: The [&#8230;]",
+          "title": "NASA Awards Launch Services for StarBurst Gamma-Ray Detector",
+          "link": "https://www.nasa.gov/news-release/nasa-awards-launch-services-for-starburst-gamma-ray-detector/",
+          "date": "Thu, 17 Sep 2026 20:37:09 +0000",
+          "summary": "NASA has selected SpaceX to provide launch services for the agency’s StarBurst mission, a small satellite designed to investigate neutron star mergers and the origins of short gamma-ray bursts. StarBurst will launch aboard a Bandwagon rideshare mission on a Falcon 9 rocket from Space Launch Complex 40 at Cape Canaveral Space Force Station in Florida [&#8230;]",
           "publisher": "",
           "_via": "nasa.gov",
           "source": "nasa.gov",
-          "_hash": "ec328fdce6be5c6a",
-          "_ageHours": 23,
+          "_hash": "b6aba7f890a213fd",
+          "_ageHours": 32,
           "_inWindow": true,
-          "_score": 24.571776944444444,
+          "_score": 21.694986666666665,
           "_corrob": 0,
-          "_cluster": [
-            {
-              "source": "nasa.gov",
-              "title": "APOD: 2026 September 17 – A Treasure Chest in the Carina Nebula",
-              "link": "https://science.nasa.gov/image-article/apod-2026-september-17-a-treasure-chest-in-the-carina-nebula/"
-            }
-          ]
+          "_cluster": []
         }
       ]
     },
@@ -699,14 +667,14 @@
           "title": "Bitcoin surges past $80,000! Cryptocurrency-related stocks rally as SEC’s approval of tokenized stocks acts as a catalyst.",
           "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPSHMzRElRVEhQR0xqa2NJaHJEaGhFR1N0Q1JyNG1UUUZ2REhEb1o4RGVxa2doVnRUMEo3T2IxdmVsaVVjX096NmlKRmZIdzlONVJ3NGMwMjJuV21ES1ZDTGFXdXhSTmp2UDE2Vm05ZnpQMFdjbnJoMEpNTlpmc2xMUGpMeXQ1dlpOdGdhdm8wUjlKYUFITm13MHBIUkRsdG1MLVgtQy1QdWE5d3pnamgw?oc=5",
           "date": "Fri, 18 Sep 2026 22:01:35 GMT",
-          "summary": "Bitcoin surges past $80,000! Cryptocurrency-related stocks rally as SEC’s approval of tokenized stocks acts as a catalyst. Moomoo",
+          "summary": "Bitcoin surges past $80,000! Cryptocurrency-related stocks rally as SEC’s approval of tokenized stocks acts as a catalyst. moomoo.com",
           "publisher": "moomoo.com",
           "_via": "news.google.com",
           "source": "moomoo.com",
           "_hash": "3d9174ffd9ce684b",
-          "_ageHours": 5,
+          "_ageHours": 7,
           "_inWindow": true,
-          "_score": 63.514654444444446,
+          "_score": 62.10207722222222,
           "_corrob": 3,
           "_cluster": [
             {
@@ -720,11 +688,6 @@
               "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOU1htWHVWRE1uU2VTNTM0RkhnQVdMLUoxU3d1NGp1dU9GbmFyZXRDNUN0SzhnWERHNlFEMXZCdGZXUnRabFg1VmF4T3o4Njd1WmJPSkRnemRqblE5cFljZ29XXzhvOTF4cFo2eWI4V1MxclZzaThjVjdBUG4zS3hQSmhNOVdpU1NnSG0zSFhMT0Z0Z1M0bWZCNl9MTnBYVlJUd3ROQVl1U19ZQWhlalFqaURFTWxreUVzb0djQ09Ud203QndYZnZBTw?oc=5"
             },
             {
-              "source": "moomoo.com",
-              "title": "US Stock Market Movements | Cryptocurrency-related stocks rise broadly; Strategy (MSTR.US) surges over 9%",
-              "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNRDR5LXZtU2ZfMHlLZmJabkVMbFJ5VUNhRl90dm1ZWGRaQzRHVEdkNnRmZ20zZDhWWFg5T2VqemFtdHdMYTdRd3VZY2FEeG1nUldxdnIwUW1OVm9TMWtseW10bW02OU5mcEpCMVNCOTNuUTN6N2ZNV2w2d0RkLUwzd0NIN1pNd3pZUGF2OHJSTGNPQ01GQjJ4ZFJOX284d3F3dTFaMTN5RmlPZFM2WWhaaUtueUlrRUJOSGZz?oc=5"
-            },
-            {
               "source": "bloomberg.com",
               "title": "Watch Bitcoin Tops $80,000 as Coinbase and Crypto Stocks Rally | Closing Bell",
               "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPS0ExQndIY0ZINVk4blRYVl9FVmxMdlBTNzFvY2tSTDlOUU1oTi1tZm52TlhZbl82Tlp6YW1odkZBOVRBZHhDU05RT0RVbmlkU3NXZUpoWDhtTjNMcU1tSTR6STYzWkhpbFpJNlp3MUY2bEJCSzJjX3BEUXl6SFdwNWpSX3dtVEVHQ2pRRFZtSWU?oc=5"
@@ -734,15 +697,15 @@
         {
           "title": "Bitcoin jumps above $81k as short squeeze offsets rate and regulatory pressure",
           "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNVW5iYWkzei1vVF8tS2JtZWFBX0ZNMTFlVVRSOU1GZ3d3NDQzQUtKeEhld3NwZWNPQ1hvYTgzcEdhUnVBX3pZdlptNW03OXZQT20xLVdCY1g0dUNTRG9uRXp3aG1PX0d4a3lXWmVBeEU3MndJNzR6dTVnaTBRd05zVVNyWTFMRlpNMEdBVE5lZXNtREF0aEpUYWV0Q2l6cDVQVlBhUGlPdkRNRUszdGdmYnNLX3FxRFh2Y3drLU16eWlJak1VZ2draXB6T0hiOFBMWEE?oc=5",
-          "date": "Sat, 19 Sep 2026 02:51:40 GMT",
+          "date": "Sat, 19 Sep 2026 02:55:47 GMT",
           "summary": "Bitcoin jumps above $81k as short squeeze offsets rate and regulatory pressure Investing.com",
           "publisher": "investing.com",
           "_via": "news.google.com",
           "source": "investing.com",
           "_hash": "d5ebdec3db05feef",
-          "_ageHours": 1,
+          "_ageHours": 2,
           "_inWindow": true,
-          "_score": 57.349376666666664,
+          "_score": 56.005410833333336,
           "_corrob": 2,
           "_cluster": [
             {
@@ -758,6 +721,27 @@
           ]
         },
         {
+          "title": "Bitcoin breaks $80,000 record high, yet CoinShares warns of a challenging year-end",
+          "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOQ0J3X2g0QUo0WDBSdWxRUktxY3NPRmVha0N4eTF2aWZHVXVERFZLNnY2Z2xMbWtlRnV3MjdpcHprbHp5TWZfRHd3aXhRVWxZR2xKR2lfa05nMFliVzdhS0lQSGdOZXpMNzhQUGh2T0ZJeHNZaFhfMUdqc1J0ck5lSG1CUzJka2psU085VlR3bWg4clQ3VTQzYTVseG9WYTBaY0E?oc=5",
+          "date": "Sat, 19 Sep 2026 01:39:29 GMT",
+          "summary": "Bitcoin breaks $80,000 record high, yet CoinShares warns of a challenging year-end moomoo.com",
+          "publisher": "moomoo.com",
+          "_via": "news.google.com",
+          "source": "moomoo.com",
+          "_hash": "3abb158f6dbb7220",
+          "_ageHours": 3,
+          "_inWindow": true,
+          "_score": 55.73374388888889,
+          "_corrob": 1,
+          "_cluster": [
+            {
+              "source": "benzinga.com",
+              "title": "Bitcoin Breaks Above $80,000 as CoinShares Warns Of a 'Difficult Setup' Into Year-End",
+              "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxQQ3dJM0xKWEpSeVpRa1JIeTJnQm1NRERKT2R1ZktEYTQ1bVdPRWtnREU5YTNhWHExc25tNnhvUzhrRnpMWl84RncwY1ZUVlJhWWt0U0NESEU1OWVScTZYN3FwellEMmE1bWJIaDE1UzVoR1ZNVE00N1ZGbTBQMEpZdmNfNmlWbVVSWDZxSEQ3TDVDX1ZCdFpZVXJTSFBGWDNuVlpha2VtdzdGVjFkN1VNRVFWb19kSDZBQmRjTkdqNmdSQjJvX0o3UXR5eWRkUEExaWhtby1OUTlOTGc?oc=5"
+            }
+          ]
+        },
+        {
           "title": "Iran’s Strait of Hormuz toll booth ran through a bitcoin exchange, U.S. says",
           "link": "https://www.coindesk.com/policy/2026/09/18/iran-s-strait-of-hormuz-toll-booth-ran-through-a-bitcoin-exchange-u-s-says",
           "date": "Fri, 18 Sep 2026 06:52:23 +0000",
@@ -766,9 +750,9 @@
           "_via": "coindesk.com",
           "source": "coindesk.com",
           "_hash": "6da9b88b587fba15",
-          "_ageHours": 21,
+          "_ageHours": 22,
           "_inWindow": true,
-          "_score": 52.36132138888889,
+          "_score": 50.94874444444444,
           "_corrob": 5,
           "_cluster": [
             {
@@ -807,9 +791,9 @@
           "_via": "bitcoinmagazine.com",
           "source": "bitcoinmagazine.com",
           "_hash": "6cb863c0f67b2021",
-          "_ageHours": 8,
+          "_ageHours": 9,
           "_inWindow": true,
-          "_score": 51.49187694444444,
+          "_score": 50.079299722222224,
           "_corrob": 1,
           "_cluster": [
             {
@@ -843,9 +827,9 @@
           "_via": "cointelegraph.com",
           "source": "cointelegraph.com",
           "_hash": "befbb02a7b1e94a9",
-          "_ageHours": 8,
+          "_ageHours": 9,
           "_inWindow": true,
-          "_score": 51.38659916666667,
+          "_score": 49.974022222222224,
           "_corrob": 1,
           "_cluster": [
             {
@@ -869,20 +853,15 @@
           "_via": "theblock.co",
           "source": "theblock.co",
           "_hash": "7ce0525d54206a67",
-          "_ageHours": 17,
+          "_ageHours": 19,
           "_inWindow": true,
-          "_score": 50.63326555555555,
+          "_score": 49.220688611111115,
           "_corrob": 4,
           "_cluster": [
             {
               "source": "decrypt.co",
               "title": "Bitcoin Will Hit $1 Million, Says Kevin O’Leary—But There’s a Quantum Catch",
               "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE84aktZRlV6OTFVLVVweS1EQUJRTTc5ckc1NU80Y0VWNXQwWHlNRXpreW15Q2k0Q3NheC1HdlBhRzVwUk9Ka1lRdjRiNEtlWlJwWnJ6NUk2RDE2ZDhhMDRraXZ6Y29QSnMza2x6VkozUjEtSHBfSDRzNk1R0gGCAUFVX3lxTE14cV9TVFh4cTdhTUxZeVBRR3loejdmRERhaWdGNnlRMFZPOHIxSjdlLV9HUll3TkF5clNCRlZuUEJ6NXZNT2Q5ZHRPRjFoQTAtUktuOUVoS2N5Y0NEaDhfMS1tUTA1QmE4MTYtUGNDVXl1ZzVvMTNPTnBjSDVMZ2pnc2c?oc=5"
-            },
-            {
-              "source": "finance.yahoo.com",
-              "title": "Bitcoin Will Hit $1 Million, Says Kevin O’Leary—But There’s a Quantum Catch",
-              "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNN0diam4xSHBIYlNFUWx2bXpEajBDT20tWG5kNkZSRnhLLVYyTDUzSkRQSmJXYjdNZmo5TUVnYzlYZXBvU3A5eWpabjFIZ1hhN1BzUDZHZDBUYkMzQ3l2T3EzblJLM3o1WTg0RFRFMmtGOW1yblo1Z3hzY1dPX1ptR0p3cmhJbXJQVEs4TFFrNVh4UzBBUnc?oc=5"
             },
             {
               "source": "finance.yahoo.com",
@@ -910,9 +889,9 @@
           "_via": "cointelegraph.com",
           "source": "cointelegraph.com",
           "_hash": "ae78354f73bcacb2",
-          "_ageHours": 10,
+          "_ageHours": 11,
           "_inWindow": true,
-          "_score": 48.420765833333334,
+          "_score": 47.00818888888889,
           "_corrob": 2,
           "_cluster": [
             {
@@ -936,9 +915,9 @@
           "_via": "bitcoinmagazine.com",
           "source": "bitcoinmagazine.com",
           "_hash": "e7c033ddd4f067fa",
-          "_ageHours": 12,
+          "_ageHours": 13,
           "_inWindow": true,
-          "_score": 47.419376944444444,
+          "_score": 46.006799722222226,
           "_corrob": 1,
           "_cluster": [
             {
@@ -962,9 +941,9 @@
           "_via": "coindesk.com",
           "source": "coindesk.com",
           "_hash": "baa0dfb27bf76294",
-          "_ageHours": 17,
+          "_ageHours": 19,
           "_inWindow": true,
-          "_score": 46.61409916666666,
+          "_score": 45.20152222222222,
           "_corrob": 2,
           "_cluster": [
             {
@@ -993,9 +972,9 @@
           "_via": "cointelegraph.com",
           "source": "cointelegraph.com",
           "_hash": "6b488aab20df4bf9",
-          "_ageHours": 7,
+          "_ageHours": 8,
           "_inWindow": true,
-          "_score": 46.48826583333333,
+          "_score": 45.07568888888889,
           "_corrob": 1,
           "_cluster": [
             {
@@ -1014,41 +993,15 @@
           "_via": "bitcoinmagazine.com",
           "source": "bitcoinmagazine.com",
           "_hash": "8f523769fe94e0ae",
-          "_ageHours": 13,
+          "_ageHours": 14,
           "_inWindow": true,
-          "_score": 46.11798777777778,
+          "_score": 44.70541083333333,
           "_corrob": 1,
           "_cluster": [
             {
               "source": "moomoo.com",
               "title": "DCA NOW Midterm Years of Bitcoin",
               "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNQ0tZOE9YMTJ5NW9PYjdXZ2tYMlpnRGRPbm9ocnNXOWNKdE1YbGI1aEJBcXBqSkpmMVlEWFFTV1FIV2M2ejFXVjFIMDU0U25aUTJNbE1XeDFwa0ZZZjlvSnV5TXI4aGtsakprSFhBUGk0V3BRNVBqWjZRWUFZRVlhbjFEbnZkcDJRR1RLcERyOA?oc=5"
-            },
-            {
-              "source": "bitcoinmagazine.com",
-              "title": "The Next 3-5 Years Of Bitcoin Lending",
-              "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1mMkt4aG9HM19ONGtuVWI4NjgxS05GaTlNRmJSTV9kcWFjb1ZYM04wVFFPMHhVMWo2emQxMzY4azhDZnhvNDJSOHRyTDZnX0x5REFqQVo0TVh6ako1ZW4yZ1VDWXFzblJGUmFtZlltMV96WGl1a1JYdHdZQlNXdw?oc=5"
-            }
-          ]
-        },
-        {
-          "title": "How high will Bitcoin go in September? BTC price surges above $80,000.",
-          "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPQUVqLV9fU052c0FRUWNCc0lMZDRCRHBwcHJnbXhEOWxidldLWE1WZXF1S1l4bVI4S0NfWHdSenZ4bU13emR5N3JCanhpbEhjX0dpWUM1Mmg4d01wOGtVN19SSEZkeThCOEQ0UmMzZDh5RXRCc0MwRFJlVTFMQ0MzU1BOeU85OXNWRFFiaE9hVUVNNm5PUjJB?oc=5",
-          "date": "Fri, 18 Sep 2026 20:28:19 GMT",
-          "summary": "How high will Bitcoin go in September? BTC price surges above $80,000. Kalshi News",
-          "publisher": "news.kalshi.com",
-          "_via": "news.google.com",
-          "source": "news.kalshi.com",
-          "_hash": "03a69d1063334742",
-          "_ageHours": 7,
-          "_inWindow": true,
-          "_score": 45.960210000000004,
-          "_corrob": 1,
-          "_cluster": [
-            {
-              "source": "fortune.com",
-              "title": "Current price of Bitcoin for September 18, 2026",
-              "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1IQmVQWWM0SHZSOHRqTzJlMnRqamFHTVJ3YVVlSEZhc0JYbExXLUVjMmkwRGVWRjFaZHNBQW5vdTc5M3pxeTBvdzhGNmo4RTZOTFlUaUpvRWxOOXBoV2ZnRlhvUTRwU0U?oc=5"
             }
           ]
         }
@@ -1066,11 +1019,21 @@
           "_via": "news.google.com",
           "source": "singularityhub.com",
           "_hash": "193c9c60e8f52627",
-          "_ageHours": 5,
+          "_ageHours": 7,
           "_inWindow": true,
-          "_score": 73.68619749999999,
-          "_corrob": 5,
+          "_score": 82.27360305555555,
+          "_corrob": 7,
           "_cluster": [
+            {
+              "source": "pharmexec.com",
+              "title": "Your Questions Answered: AI Drug Discovery, Portfolio Simplification, and a 30-Year First",
+              "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNY1ZmN09yaE9YRXFiQnNrZjdJSGYtc0wtZ19YNFliQ3hVREhic3BUQ1I1TjB6VzV6S0lLbXM0R0pTUzFJd19yMzNfc21panQya1RsR3N6cG5QMmdVczBLTVhOS1czNEExS2RfVHRTMXNOZEdBdkZpbjBscGQ5cWJBTW9oamZUY2w4U3RiUFI4RHF4THEzek02SlNuak1pZGlvcC1kOUZoS3FERHI3cE1vMw?oc=5"
+            },
+            {
+              "source": "stockstotrade.com",
+              "title": "TWST Jumps As Twist Bioscience Lands Eli Lilly AI Drug Discovery Deal",
+              "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPU1doTGxpUjR3OGZHX1I3eUpRM21YdEE3N3J3VU9rNEM5eG5oX3ZXR283SlY3NnBwV1NkcDBYVG5ydm5mV2NpTktPb3JHQnpScWh4SkJVV1BRY2Z3MDJvWFBweW1tQS1KYlN3ZFBHSkJ4UG5tMUNjRmN1a2JZWnNYUGVMOER0UVpW?oc=5"
+            },
             {
               "source": "chosun.com",
               "title": "Virtual Biotech AI System Advances Drug Discovery with 37,000 Agents",
@@ -1107,9 +1070,9 @@
           "_via": "news.google.com",
           "source": "drugtargetreview.com",
           "_hash": "60f02a2adf247e80",
-          "_ageHours": 15,
+          "_ageHours": 16,
           "_inWindow": true,
-          "_score": 50.162308611111115,
+          "_score": 48.749714166666664,
           "_corrob": 1,
           "_cluster": [
             {
@@ -1128,9 +1091,9 @@
           "_via": "news.google.com",
           "source": "reuters.com",
           "_hash": "677ac1d30f3d1605",
-          "_ageHours": 4,
+          "_ageHours": 5,
           "_inWindow": true,
-          "_score": 49.48591972222222,
+          "_score": 48.073325277777776,
           "_corrob": 1,
           "_cluster": [
             {
@@ -1149,9 +1112,9 @@
           "_via": "news.google.com",
           "source": "fool.com",
           "_hash": "e3609535a186c56c",
-          "_ageHours": 10,
+          "_ageHours": 11,
           "_inWindow": true,
-          "_score": 48.48786388888889,
+          "_score": 47.075269444444444,
           "_corrob": 2,
           "_cluster": [
             {
@@ -1175,9 +1138,9 @@
           "_via": "news.google.com",
           "source": "investing.com",
           "_hash": "1c47bc4a68f22a02",
-          "_ageHours": 6,
+          "_ageHours": 7,
           "_inWindow": true,
-          "_score": 47.23369722222222,
+          "_score": 45.82110277777778,
           "_corrob": 1,
           "_cluster": [
             {
@@ -1191,14 +1154,14 @@
           "title": "VERAXA Biotech (VRXA) Adds Capital Markets Veteran as CFO While Advancing BiTAC Oncology Pipeline",
           "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNSXU5d3JNRlpoQTVFUmFRNmZTbW40aER6WEp4MjdxQXFNZzJqcDVyRVduM1ZkZVdLN2Y0QWdGbmFreTBCck5ZRXlPRmp1OTBCVkxoS2R5bzFyMDYxYnFrMERlMGdocFdLeDA0NTBsalVrZHpBMlcxVUsxNHNsZFdJanVOZ09ZQlFUWnBQemNudU9HSU02Vm05a0lyY1c2ZkdQMUxqY0IzejVXRENfWk04Z2xoREhBMUUtdXFoUXlkX3FwQVlQNU40R01GY3pFY1ItLTVV?oc=5",
           "date": "Fri, 18 Sep 2026 19:34:39 GMT",
-          "summary": "VERAXA Biotech (VRXA) Adds Capital Markets Veteran as CFO While Advancing BiTAC Oncology Pipeline newmediawire.com",
+          "summary": "VERAXA Biotech (VRXA) Adds Capital Markets Veteran as CFO While Advancing BiTAC Oncology Pipeline NewMediaWire",
           "publisher": "newmediawire.com",
           "_via": "news.google.com",
           "source": "newmediawire.com",
           "_hash": "b4145ae78c1eb6bc",
-          "_ageHours": 8,
+          "_ageHours": 9,
           "_inWindow": true,
-          "_score": 45.06536388888889,
+          "_score": 43.652769444444445,
           "_corrob": 1,
           "_cluster": [
             {
@@ -1212,14 +1175,14 @@
           "title": "Investors pour over $30B into longevity biotech companies",
           "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPSTN4ZEZaNHYzX3ZQeVRiWFI0ME5FWEFYMThpakJaczMwcEdGZXN1MEpxZFp4X05aVHpicHFzUzhnV2o0WjJZT29jUkktNDl1WWo4ZnZRUV9CZjhwYVo4Y2taLTdpUUlSX2FPdmNwa2d2dVdyNVlzVUU0VlhaVjRYVlpwdkhMVWUtdDVscVpBUlFVV2lLRzhGR2otS2k5c1ZMUHlB?oc=5",
           "date": "Fri, 18 Sep 2026 10:13:53 GMT",
-          "summary": "Investors pour over $30B into longevity biotech companies The Pharma Letter",
+          "summary": "Investors pour over $30B into longevity biotech companies thepharmaletter.com",
           "publisher": "thepharmaletter.com",
           "_via": "news.google.com",
           "source": "thepharmaletter.com",
           "_hash": "e5ab1a991777d3db",
-          "_ageHours": 17,
+          "_ageHours": 19,
           "_inWindow": true,
-          "_score": 41.719253055555555,
+          "_score": 40.30665833333333,
           "_corrob": 1,
           "_cluster": [
             {
@@ -1238,9 +1201,9 @@
           "_via": "news.google.com",
           "source": "npr.org",
           "_hash": "ffc267642911266e",
-          "_ageHours": 19,
+          "_ageHours": 20,
           "_inWindow": true,
-          "_score": 34.48786416666667,
+          "_score": 33.075269722222224,
           "_corrob": 1,
           "_cluster": [
             {
@@ -1259,9 +1222,9 @@
           "_via": "statnews.com",
           "source": "statnews.com",
           "_hash": "0e75e70c5d1d8d34",
-          "_ageHours": 32,
+          "_ageHours": 33,
           "_inWindow": true,
-          "_score": 32.41730888888889,
+          "_score": 31.004714444444446,
           "_corrob": 2,
           "_cluster": [
             {
@@ -1285,9 +1248,9 @@
           "_via": "endpoints.news",
           "source": "endpoints.news",
           "_hash": "df6ff62af79c003e",
-          "_ageHours": 32,
+          "_ageHours": 34,
           "_inWindow": true,
-          "_score": 20.81453111111111,
+          "_score": 19.401936666666664,
           "_corrob": 1,
           "_cluster": [
             {
@@ -1306,9 +1269,9 @@
           "_via": "statnews.com",
           "source": "statnews.com",
           "_hash": "41fae3cb46ae9b08",
-          "_ageHours": 34,
+          "_ageHours": 35,
           "_inWindow": true,
-          "_score": 19.487864444444448,
+          "_score": 18.075270000000003,
           "_corrob": 1,
           "_cluster": [
             {
@@ -1319,28 +1282,27 @@
           ]
         },
         {
-          "title": "Two more biotechs, Marea and North Immunology, do reverse mergers",
-          "link": "https://endpoints.news/two-more-biotechs-marea-and-north-immunology-do-reverse-mergers/",
-          "date": "Thu, 17 Sep 2026 15:35:28 +0000",
-          "summary": "The reverse merger party is still buzzing. This time, it's a cardio and endocrine startup with two drugs in Phase 2 and a biotech working on a long-acting immunology and inflammation (I&I) drug. Mid-stage Marea ...",
+          "title": "Roche signs $1B deal with Dualitas to pair up on big bispecific screening drive",
+          "link": "https://www.fiercebiotech.com/biotech/roche-pays-dualitas-365m-pair-big-bispecific-screening-drive",
+          "date": "Sep 17, 2026 8:07am",
+          "summary": "Roche is paying Dualitas Therapeutics $36.5 million upfront to screen over 300,000 novel bispecific combinations in search of new treatments for immunology and inflammation diseases.",
           "publisher": "",
-          "_via": "endpoints.news",
-          "source": "endpoints.news",
-          "_hash": "beae556f3282e948",
-          "_ageHours": 36,
+          "_via": "fiercebiotech.com",
+          "source": "fiercebiotech.com",
+          "_hash": "2b22a9d94c287050",
           "_inWindow": true,
-          "_score": 17.07897555555556,
+          "_score": 17,
           "_corrob": 1,
           "_cluster": [
             {
               "source": "fiercebiotech.com",
-              "title": "North Immunology goes public via reverse merger as eczema drug heads toward clinic",
-              "link": "https://www.fiercebiotech.com/biotech/north-immunology-goes-public-reverse-merger-eczema-drug-heads-toward-clinic"
+              "title": "Roche signs $1B deal with Dualitas to pair up on big bispecific screening drive",
+              "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQRkp4OVAzak1wb3FZYVJSMi1ZQnhLLWdiTDFjaG0wVHNOcU92anA0aExYNkNrYnZuVmx3ZVNLZ25IX2JNV2FhdXNVTkJDOTNfd2t4UHEzOE1ndUcxd1ZfT2Y2R0NrbEFyUl9OME1LZkJ4RndtRXA0VmV1dDU5SHpTMnVONE9KZmY5eXNWM3NVMnNBNlFWRVlPalpfNVdxcjA?oc=5"
             },
             {
-              "source": "fiercebiotech.com",
-              "title": "North Immunology goes public via reverse merger as eczema drug heads toward clinic",
-              "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQRkxQb1VMQm51RFpjM1VoeUtneGxpVDBZLUpJMC1lNy0zVi1HVFY5WFM5UWItM3hXdDZoVS1pcTNQbmJqX2NRTldlX25JMjliRG4yRGNWTkJjT21mV1hZX2d3V2czU0JaTWMyYXJWaHRxTzh1UUlKRElJd2txeG5hN3FKaG5iNkpwLUc5d2tuQnJ5RjBMYXJmQUJ6X2luU3phWERVems0bm5LeWJZNmpveGEzNA?oc=5"
+              "source": "endpoints.news",
+              "title": "Roche turns to Dualitas to find new bispecific approaches for immunology",
+              "link": "https://endpoints.news/roche-turns-to-dualitas-to-find-new-bispecific-approaches-for-immunology/"
             }
           ]
         }
@@ -1358,9 +1320,9 @@
           "_via": "cleantechnica.com",
           "source": "cleantechnica.com",
           "_hash": "c549066b660c4de2",
-          "_ageHours": 5,
+          "_ageHours": 7,
           "_inWindow": true,
-          "_score": 58.910262777777774,
+          "_score": 57.49770138888889,
           "_corrob": 2,
           "_cluster": [
             {
@@ -1389,9 +1351,9 @@
           "_via": "news.google.com",
           "source": "interestingengineering.com",
           "_hash": "c7883da4335ce3e5",
-          "_ageHours": 14,
+          "_ageHours": 15,
           "_inWindow": true,
-          "_score": 57.12081833333333,
+          "_score": 55.70825694444444,
           "_corrob": 1,
           "_cluster": [
             {
@@ -1415,9 +1377,9 @@
           "_via": "news.google.com",
           "source": "indexbox.io",
           "_hash": "5f7820b1946ff097",
-          "_ageHours": 3,
+          "_ageHours": 4,
           "_inWindow": true,
-          "_score": 49.99415138888889,
+          "_score": 48.58159,
           "_corrob": 1,
           "_cluster": [
             {
@@ -1436,9 +1398,9 @@
           "_via": "news.google.com",
           "source": "techbuzz.ai",
           "_hash": "6fc82c9d9a72216d",
-          "_ageHours": 10,
+          "_ageHours": 12,
           "_inWindow": true,
-          "_score": 48.62081805555555,
+          "_score": 47.20825666666667,
           "_corrob": 1,
           "_cluster": [
             {
@@ -1457,9 +1419,9 @@
           "_via": "news.google.com",
           "source": "simplywall.st",
           "_hash": "6365dd663688bd18",
-          "_ageHours": 6,
+          "_ageHours": 7,
           "_inWindow": true,
-          "_score": 47.29026277777778,
+          "_score": 45.87770138888889,
           "_corrob": 1,
           "_cluster": [
             {
@@ -1478,36 +1440,15 @@
           "_via": "news.google.com",
           "source": "cjme.com",
           "_hash": "86f8d8e41680d097",
-          "_ageHours": 6,
+          "_ageHours": 8,
           "_inWindow": true,
-          "_score": 46.637484722222226,
+          "_score": 45.22492333333334,
           "_corrob": 1,
           "_cluster": [
             {
               "source": "wjla.com",
               "title": "Global Spotlight: Morocco Powers the Clean Energy Future",
               "link": "https://news.google.com/rss/articles/CBMipgNBVV95cUxQc01vUEduVnV5ZHl4XzlGbHJpNkh1NkZSdlFUMldNUW9KY05YR2ZLZnFsUERyOFBpQjA3QnVOd2RJbGJXMHZESVVxa1ZncXMzSzh0M1l1S0Fjc0c5YlozejhzZEN0UGpMOTlUYlZEbUFFM0xZTXJYQ2Y4LTdZVVFodFA0YW1kWmNfbnR6bXNfNDk3eWpkRVJqMTBBNHN5cVg3ZnZibk5uMlg2SC1ncm9ZU1dzVTJ6LXJtWkV1ZUp1VGpSRk9oWDNuVllaTm5Kb1VDUWlFVUU3emt5NU1ZT205WFVnLW9vVEVQdmNpMEVGMG1zSmtMaUNIVmx1bml1dTcxcXhYd3lNQmZpaFR3dGpDQ1J6cE4xaVhPN2hEaUd1S0oxdkp2MEZJX2p1OUVKcVgzTWZXNGt1VlJRaUVlSzVKY2RFQUZ5ZkphT21NZjZ1dkRBN3FJWUJlVUR3bGlzYmJQYlplRXdNRnBuYko1V1V4ejJ0ellZbk52bjZqTEFPUHRDa3RJazRwX1E1blM4cFZsSkwyYVMxUVJQZzljM1JQcG5MY2Uzdw?oc=5"
-            }
-          ]
-        },
-        {
-          "title": "Details On MLW Tubi Deal",
-          "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5NQmlKdk9Ed2lwNks3RnluS3dVNGhOcTN0UVliUkU5bHlySzhPcnA1RjhYQXVybkpZQ0w2WTBHdlBqMWhKcnBRUHJBYTV5RVhzTnZoOVN4Y1FnMFdmUklVWEZHV3VhLXVDOXc0eQ?oc=5",
-          "date": "Fri, 18 Sep 2026 21:07:33 GMT",
-          "summary": "Details On MLW Tubi Deal Fightful",
-          "publisher": "fightful.com",
-          "_via": "news.google.com",
-          "source": "fightful.com",
-          "_hash": "94e028b37ba92f7c",
-          "_ageHours": 6,
-          "_inWindow": true,
-          "_score": 46.61331805555555,
-          "_corrob": 1,
-          "_cluster": [
-            {
-              "source": "hollywoodreporter.com",
-              "title": "MLW Finally Gets Its Tubi Deal (Exclusive)",
-              "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPMFNaVm5KRmw5ZGlaRWt2LVVnakdDWlpvbm1TNjhkcXVfcnU2dVgybERNdXp1N184dVN6TkF5R01LRGp6QmdDU1FYdkNKRnlwQmZJVnk2Rjl5a05MZ3hwRUEzeWZPN083UW5yZHBRQkRpUktrZEZYSVV2ZU9sb3YtVFJaTEtSeEk5N0VLbklpdURqYmxjT3FQYlBLWDFtc2tTRDg2UmZUUE1NdXc5bHo4?oc=5"
             }
           ]
         },
@@ -1520,9 +1461,9 @@
           "_via": "news.google.com",
           "source": "drydenwire.com",
           "_hash": "a39871ce4c29d20d",
-          "_ageHours": 12,
+          "_ageHours": 14,
           "_inWindow": true,
-          "_score": 45.86915166666667,
+          "_score": 44.45659027777778,
           "_corrob": 2,
           "_cluster": [
             {
@@ -1546,9 +1487,9 @@
           "_via": "canarymedia.com",
           "source": "canarymedia.com",
           "_hash": "fc8051f32aa3fe74",
-          "_ageHours": 9,
+          "_ageHours": 10,
           "_inWindow": true,
-          "_score": 44.48748583333333,
+          "_score": 43.07492444444445,
           "_corrob": 1,
           "_cluster": [
             {
@@ -1567,9 +1508,9 @@
           "_via": "canarymedia.com",
           "source": "canarymedia.com",
           "_hash": "9c1475b8c7968c09",
-          "_ageHours": 20,
+          "_ageHours": 21,
           "_inWindow": true,
-          "_score": 32.98748583333334,
+          "_score": 31.574924444444445,
           "_corrob": 1,
           "_cluster": [
             {
@@ -1588,15 +1529,41 @@
           "_via": "news.google.com",
           "source": "dailytarheel.com",
           "_hash": "20d3aa197528c826",
-          "_ageHours": 26,
+          "_ageHours": 28,
           "_inWindow": true,
-          "_score": 32.84831805555555,
+          "_score": 31.435756666666666,
           "_corrob": 1,
           "_cluster": [
             {
               "source": "mlive.com",
               "title": "Nonla founders bring new, quick-serve Asian fusion restaurant to Kalamazoo",
               "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxORktlN2dMOXM3NnpnQm9ybnFEVFRXeXUyVi1EbDMzRkp5SERxNFdzaU56UU1Ga2MtOTAyaDk3R0tlQWEzQ1lkdHhQUVRWUEk3S2l4WDdxZ2h6SVYtU214bjFJRGdaUmhLZy0zRVpISUcwbzB3dU1WUWpVWExUazU5dzJUMUxleXVMWTdSaGZfOFRLTXc1RFo0ejN5bGtKRTJNckVNcjFja1VJUkowWkh0dHpnYnpIMWU0LXh2Vmh2Tnk?oc=5"
+            }
+          ]
+        },
+        {
+          "title": "Meta, Apex Clean Energy agree to 144-MW Texas solar PPA",
+          "link": "https://www.utilitydive.com/news/meta-apex-clean-energy-144-mw-texas-solar-ppa/830675/",
+          "date": "Thu, 17 Sep 2026 11:42:04 -0400",
+          "summary": "Meta will receive &ldquo;exclusive rights to all environmental attributes associated with energy&rdquo; from the project, including all renewable energy credits, according to Apex.",
+          "publisher": "",
+          "_via": "utilitydive.com",
+          "source": "utilitydive.com",
+          "_hash": "2782238cbf90d5e4",
+          "_ageHours": 37,
+          "_inWindow": true,
+          "_score": 21.77603527777778,
+          "_corrob": 1,
+          "_cluster": [
+            {
+              "source": "energytech.com",
+              "title": "Developer Apex Expands Partnership with Meta for 144-MW Starling Solar Project in Texas",
+              "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNNjA1cDJUOXFCMVhLYjlBRnhNc0tOQlU0WHMwZklUVFZaNHZkWEh6Vk1OdGdIVmFITUd2UUxaWDlaMmRPdy1HSjNDelhwUXBPNVRUQldSUVphYTVNZzE3aHJIOHBOelVibmpiOXlLcDJkN2JOdmJtOFhkSHBHRzNrZExxRFJRU0g1bVcxVW9IWG1TVUZHblB3clhEWXlzRGJjNUhES2JYaWNKc2wyZ2ozc0VOTjR2c0JieEhocmNsa0RHQ0VRLU0wWVJza2QxTGRFaXdKSVZB?oc=5"
+            },
+            {
+              "source": "utilitydive.com",
+              "title": "Meta, Apex Clean Energy agree to 144-MW Texas solar PPA",
+              "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPMXZmS21Vd3B5UUc3NENmMHJyMlJySTFSb2hURlpCQi1sSzZvT3VSY09LVng1QkRDbDNmM0FvV3VSYXpCUGIwSkstaU9sWGpvNWoyLUZMZTlyeW9adXI2MXkwdlNRamJYWUM5M2hfSTZaa2doUk5lSVp3OGw5dkJiMk5VU3ZCT00tME9SYmdZcw?oc=5"
             }
           ]
         },
@@ -1609,9 +1576,9 @@
           "_via": "news.google.com",
           "source": "fox5sandiego.com",
           "_hash": "f850b626938b1d13",
-          "_ageHours": 37,
+          "_ageHours": 39,
           "_inWindow": true,
-          "_score": 20.846651388888887,
+          "_score": 19.434089999999998,
           "_corrob": 2,
           "_cluster": [
             {
