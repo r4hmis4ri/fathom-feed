@@ -1,58 +1,202 @@
 {
   "date": "2026-09-26",
-  "generatedAt": "2026-09-26T03:30:54.478Z",
+  "generatedAt": "2026-09-26T05:21:18.857Z",
   "pillars": {
     "ai": {
       "name": "Artificial Intelligence",
       "candidates": [
         {
-          "title": "Unsecured OpenAI agents posted 53 user images on the internet without the lab&#8217;s knowledge",
-          "link": "https://techcrunch.com/2026/09/25/unsecured-openai-agents-posted-53-user-images-on-the-internet-without-the-labs-knowledge/",
-          "date": "Fri, 25 Sep 2026 22:20:47 +0000",
-          "summary": "AI agents operating in OpenAI's research environment posted user images on public image-hosting sites without the lab's knowledge.",
+          "title": "OpenAI says its models engaged with US government websites in new model misbehavior disclosure",
+          "link": "https://news.google.com/rss/articles/CBMiogJBVV95cUxPcHlYYjBKN0M5aDFFdTkyNWVOS2NJVUxFcXhUQ0p5Wm56RGk0RjUyWUN4UnRIM0o1eFE0UjRvQ0UtVVN6bGhkY1ctY2p5QXN4TUUwQ3hXZF8xQWtoNFFqY3lxSXpwY3B5dUZPS1VZTmhjNFV6c2d0aXdRalp6ME16d3hWYzR0QTAwTy15c3JSaWd0Mkg1VEUzSVZMaDNyd21oZm4wZzFwMlRDci1mYUVfMDZBd1V2Tk1qUFR6NUlmdU44X2dpTHg2YmEwN2tfYWRybGgxY2ViQ2VoSmw0V1pKSERrdzZCR2JVeEllMWtmTjN6d1UtdWlSbmlObjktWTZkOE5XN3hCbDZwczhoVzIzaVhoa0JqOWh3VnB3VEV0ME44QQ?oc=5",
+          "date": "Sat, 26 Sep 2026 03:42:54 GMT",
+          "summary": "OpenAI says its models engaged with US government websites in new model misbehavior disclosure Bozeman Daily Chronicle",
+          "publisher": "bozemandailychronicle.com",
+          "_via": "news.google.com",
+          "source": "bozemandailychronicle.com",
+          "_hash": "88ed23852e9b3c1a",
+          "_ageHours": 2,
+          "_inWindow": true,
+          "_score": 72.35951944444444,
+          "_corrob": 4,
+          "_cluster": [
+            {
+              "source": "ottumwacourier.com",
+              "title": "OpenAI says its models engaged with US government websites in new model misbehavior disclosure",
+              "link": "https://news.google.com/rss/articles/CBMimAJBVV95cUxPY0lEb2hWTGhmaDhva1F0b2lxRS1SUnhTcDNGYVJPMm5fR0thVnNCMHVrYjhlS0kyeXFibnBNbG02S0tCNlhwSi02d3ZmYnIwM25za0h4YVVoWjdJX19yNjJEYWZxRjh2MEkzRy1tZDg2TDFSMXQ3UUZwaTF5WWNWZWZjU3NaamwxZTQxOWpEVVUxSDd6WG1KNmJyZWxjTVpCU05McW5LX3MweDQ5dDE5VGM3aVgxN2ZIajJhYnZSaVFtWjcwU3JpUXQxZXBXZklPbU50dVBfVmFvei0zRnNFWUVDTEhFdHQxTENaU1JaWThEYkRvZ2tPSS0yODIyUG03YVFoV1E3a2NFZ1c4bWhOaVFkM21CYW1l?oc=5"
+            },
+            {
+              "source": "apnews.com",
+              "title": "OpenAI says its models engaged with US government websites in new model misbehavior disclosure",
+              "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNTXotYUJaRDhtSE9salVqcGVWdUlOR1V4dnVMQzd0OXJKZEdnWWNUTG1TNXZIcG9Pb1RmSmxqeXlMajItSGZZQWpWSXRhajRuNVd0TzNsSjA4Y1FtQXhtekdlRmZsU1c2cTI1RDlXd2lBeTNIVml2Q045aF9OalZXTFgwaUpGbEM4Qm9PbDF2aTRkeGNNVTY4MkRB?oc=5"
+            },
+            {
+              "source": "usnews.com",
+              "title": "OpenAI Says Its Models Engaged With US Government Websites in New Model Misbehavior Disclosure",
+              "link": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxQaXV1UmYzWlNQZ1pwR2FlYllRUGtIbjVJa25iYmRvV2V1TlpmelcxMVhGVTUwVVo0TXV1OHY1cFdmMl84bkZUaHctZXZ1OUttSnRERUlNSWRxXzRnZXZ1UEZpUW5mVTYydF9pbEJkc2JENjNMakxnQjF0RWxwcHNjSmhQVlZ1Vk81eEw5eDNaUzZDUVVaV2tzTFppcWtEV19YSUJIMmItNkRDRlVjdDVUOGZHVnJFQ0ZHbVFGWFp2YXktUlJUSjBhTXN1RU5aWDExMTVJd2NYazYzNnRHaHRXNXE5aTNldw?oc=5"
+            },
+            {
+              "source": "wjhl.com",
+              "title": "OpenAI says its models engaged with US government websites in new model misbehavior disclosure",
+              "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNSHNTOXM2RzRqdFF5bDNxaUQ5QWUtbDRSb0ZaRUp6YXVhQm9GWmNWcEE2WF94R0RBVjhYNTkxcFpqUExJbkJHZ0gwb2hkT0NCamdnX3RFUkRmVmY0N2Y5dzdvUXp3YmZtNVBfZkNXT185bXRpUkdUeGxKVE1xaVdadWpnLTM0ejE2VWdZbFB2YngzQ2pvMUZVOFFBTzR5TWtOUmNVckpCSFROMEd3S2hWZndnSVVwNWhFbFhxZHc4RjYwaG44UjBHYzVVQ3hiV1FGbGxz0gHTAUFVX3lxTE1Ic1M5czZHNGp0UXlsM3FpRDlBZS1sNFJvRlpFSnphdWFCb0ZaY1ZwQTZYX3hHREFWOFg1OTFwWmpQTEluQkdnSDBvaGRPQ0JqZ2dfdEVSRGZWZjQ3Zjl3N29RendiZm01UF9mQ1dPXzltdGlSR1R4bEpUTXFpV1p1amctMzR6MTZVZ1lsUHZieDNDam8xRlU4UUFPNHlNa05SY1VySkJIVE4wR3dLaFZmd2dJVXA1aEVsWHFkdzhGNjBobjhSMEdjNVVDeGJXUUZsbHM?oc=5"
+            }
+          ]
+        },
+        {
+          "title": "Meta’s Muse just stole the AI spotlight from OpenAI and Anthropic",
+          "link": "https://techcrunch.com/podcast/metas-muse-just-stole-the-ai-spotlight-from-openai-and-anthropic/",
+          "date": "Fri, 25 Sep 2026 18:22:47 +0000",
+          "summary": "When AI leaders at OpenAI and Anthropic started talking about “pacing the frontier,”&#160;maybe someone&#160;should have asked: what pace?&#160;Now&#160;it’s&#160;turned into model drop week for both companies as&#160;Anthropic rolled out Opus 5.5, followed by&#160;OpenAI’s GPT-6 model updates&#160;just&#160;90 minutes&#160;later.&#160;But the company that stole the spotlight was Meta, whose&#160;personal AI agent Muse&#160;is&#160;reportedly&#160;outpacing&#160;ChatGPT’s early numbers and is he",
           "publisher": "",
           "_via": "techcrunch.com",
           "source": "techcrunch.com",
-          "_hash": "f55090d82da60375",
-          "_ageHours": 5,
+          "_hash": "1b8c6bd0cd31801e",
+          "_ageHours": 11,
           "_inWindow": true,
-          "_score": 72.83108527777777,
+          "_score": 68.02424055555556,
+          "_corrob": 5,
+          "_cluster": [
+            {
+              "source": "briefs.co",
+              "title": "U.S. asks OpenAI and Anthropic to hold back new models from UK tester pending American review",
+              "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOekl2MjN3TndOWFcyeWoxZEg3VXg1UnZsMGYwQlJueEI4elZ4UEtseUFXZUJDUkljVEl3LXlscnVaU1pqa3ZHTTBlMDkzcE1TMHUxUjZibTZUTFhBTGRRdWRhUkpabUcyQkpNY1pwTmZ0Tm96ZExkczRoeWtyYkE5NmYtNnh5em01ZzVZbFo5VXZqUQ?oc=5"
+            },
+            {
+              "source": "ft.com",
+              "title": "The cheap new AI model taking aim at OpenAI and Anthropic",
+              "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNTW1CaHpfdENaOXJ3OGZmLWVfQ2xUU0FaTEJ5WVhGZzUtMmNENXM3Q0luMUpvZEpCcXVfYV9GQXdlWEs4Um1TbEVFLWNLdl9Ha1ZXQXl3UlU0Y3ZHbTVadWY5Q3lUU01WMGVKWjZBLWpaZnEzbE0wd3gwTVFPUEpXMEdRRHY?oc=5"
+            },
+            {
+              "source": "businessinsider.com",
+              "title": "The head of one of the largest US endowments says OpenAI and Anthropic are in big trouble",
+              "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQbE5hQUsycmRqbDk0akxXU0U0YmdhVkRFNTNTUTgzM2gwRHZPZkx6Uzl3WFlIVTNXOU03NC1CS1J0R1gzSEtEZ0Ryb2ctQmJtTmtZUkZhalI3VkFqMUVqNHNWTm5Ld19MTXVVaC1tdjBKeHpCal9fNXh2T2JmdFJOQTA1bUFnUmpfVlNyWVZObmlRbnJx?oc=5"
+            },
+            {
+              "source": "search.cnbc.com",
+              "title": "OpenAI and Anthropic CEOs push for AI cooperation at UN after Trump rebuffs 'globalist scheme' to control it",
+              "link": "https://www.cnbc.com/2026/09/23/altman-amodei-un-ai-safety.html"
+            },
+            {
+              "source": "tennesseelookout.com",
+              "title": "OpenAI, Anthropic and other artificial intelligence companies hire Tennessee lobbyists",
+              "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPckVSaWJHSVkybmpSWmhPN3NuLUNYWGM3ZDBvQ1E1R2NkLS0tWWVTeFVTTTNiZFdHZWdkQ0pibXlQd0FIZUktQUtqUElXT0E5NV9wUGd2V2RoZ2hJMWFjaTRaSV9fbjdUVmt2VEpWWFFmVlJCbjBheXF4NTA5QW5qVWt4blpCbTdiQWRkRER6SElabkl0WTRmYnVyaEFtVjVVSVVlU3l0Rk5QYjBUVGo0WGFvT3ZkV3F6anYxdVN2ZkZDYWpv?oc=5"
+            }
+          ]
+        },
+        {
+          "title": "Federal court says U.S. government can label Anthropic a supply chain risk",
+          "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNVThTQmVUdzByZmtjTjJvY2dqVVRyejBncC1Wa2U5a2FnRzJIOTFmMkttQWdtYS00X241UDRKVkxMZDNSNFlJb3EwQWhQZzRFSXgyZENYS29iaXVFb1VIanlWZnRhNktfckFPYmh4QlBEZlZDcUZqMDkxeDYwVF9lRDc1bFhMR1dZMnJDVmlUZng0TWFZVHRYTDVNUl8?oc=5",
+          "date": "Fri, 25 Sep 2026 23:33:00 GMT",
+          "summary": "Federal court says U.S. government can label Anthropic a supply chain risk CBS News",
+          "publisher": "cbsnews.com",
+          "_via": "news.google.com",
+          "source": "cbsnews.com",
+          "_hash": "d72530a141580613",
+          "_ageHours": 6,
+          "_inWindow": true,
+          "_score": 67.19451944444444,
+          "_corrob": 5,
+          "_cluster": [
+            {
+              "source": "lawcommentary.com",
+              "title": "Anthropic Loses Appeals Court Bid to Overturn Pentagon ‘Supply Chain Risk’ Label",
+              "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPZkZJSmJTd2tlbEJlc1EtTGMyV0tHRjdIaG5RTzlvVk9OZGxHbVhmYkJ3R25rS2xYa192bzFJbUVxUVA2QWNtWWpaWGs3QzhYaWRnVjVJM3FoOTRxX1U5UkR1UmZfY0czczlTTDVkcnk1b0dQYW5uQVdhOThmMElOM2ZJWEdXR3hlSnIwSFJPa1I5QQ?oc=5"
+            },
+            {
+              "source": "bloomberg.com",
+              "title": "Anthropic Faces Court Setback on US Supply Chain Risk Label",
+              "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNSTNHR2VoMmtMYlJBbm4xT1lSLV8zNTBLTlN2UWc1OUp4ZkhyWjNVSlhxTTd5bG5zVzRyVkJGRzUxTzRqQ0lhVkJ5dEd6THBDMzByZnZ5NGRIZWtsY1dYS2ZyVnlNbEtDa2Q4cHZVakhDcHRYV3RkdG1DbDBkZUdFcmxXWTJYYTZLZGc5dGpxZ0o2X0tvejJ6TlpkckNLemFsUk5zTm5CNmJQX1ZETEg4VmNB?oc=5"
+            },
+            {
+              "source": "apnews.com",
+              "title": "Federal court says Pentagon can label Anthropic a supply chain risk",
+              "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQeVBiZDVhLUJ1VEs5VGRHTHRwTjZUWjc3TnlPc3lBcXZVQi1LdGNkSEY3OE10dDhrN2xnR3NRQjRDNFllcl9xcmxBcURSQXY1VUlUOE9SeHQ1SlFDcXNUNU5fM0ZBTnhFQno2RWlYWmpfbVRzTkJlUUpsSElCU193eXo2TDB5YlVoN0ltSGhFaG45UVBtTC1tT0JadXN4Zzl6a3ZDcTJ0VQ?oc=5"
+            },
+            {
+              "source": "politico.com",
+              "title": "Appeals court allows Pentagon to label Anthropic a national security risk",
+              "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNYzE4MnFOQll2cHhza2xyM2pOS1h1RWp3VjRXOE41UTdXU1JiUXdhRkIzUEQyRTRlVVhqV2xxdjItTk0zNTlpT0pnNGV6VWYxNkRLVmpJVzVockFCNEVnNmVrajNYWjhvbUR3RFpXNW5ka2s3OTcxWGFKVGtKaEdodmw4UVVIMnJzbF9fUTRYX3REZE5ZeFFLenYtQlVZSWM?oc=5"
+            },
+            {
+              "source": "businessinsider.com",
+              "title": "Appeals Court Allows Pentagon to Label Anthropic a National Security Risk",
+              "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOaWt4MGppYzdjQmh6UVhVSjZpZ0Vva1VzNkFNS1JSSkowVHhrZ2tGZHczSmYzZmRLb3dtZzg1N0tYV2h6bTNyU0JHaFdtdU0xSi1oZXJHeDdHSGZvaExFZFQwR3M2Mkc2WDNEMk14UHRpR2NBWFFSeXNVVDJSYWk2Y19XelhiUjhOMjZCbGhYbHBFTjJKNWFFUVZGSFVWRGNEUFk4UlZ0c2pvbDlFRGRV?oc=5"
+            }
+          ]
+        },
+        {
+          "title": "U.S. appeals court upholds Pentagon designation of Anthropic as supply chain risk",
+          "link": "https://www.cnbc.com/2026/09/25/pentagon-anthropic-ai-risk-appeals-court.html",
+          "date": "Fri, 25 Sep 2026 17:19:19 GMT",
+          "summary": "In a 2-1 decision, a federal appeals court upheld the Department of Defense's blacklisting of Anthropic.",
+          "publisher": "",
+          "_via": "search.cnbc.com",
+          "source": "search.cnbc.com",
+          "_hash": "555ef78820a45174",
+          "_ageHours": 12,
+          "_inWindow": true,
+          "_score": 65.96646277777778,
           "_corrob": 6,
           "_cluster": [
             {
-              "source": "trtworld.com",
-              "title": "Rogue ChatGPT agents leak user images as OpenAI probes unauthorised activity",
-              "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5Ud3B6OXppci1PalNzX1dvMDY3SlFCdUZCaXFyRzh1dWxzNVNaajhJNGRWMVctUldOejdxZmVOMmJ3aXN5akY1M3FGalpfaEZiUnAyMGdsdVY?oc=5"
+              "source": "abcnews.com",
+              "title": "Federal appeals court upholds Pentagon designation of Anthropic as supply chain risk - ABC News - Breaking News, Latest News and Videos",
+              "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQNk9pNmxSRTI3eFNWd0t4WG9aeXZ6Zm9zOWkyNzYwZjNrNHF6TE9NU2o5aXdFbGxpcDNsQVA0NVBfUzg5YnB5RkU3cGlqMFFOSFlEN3NXeEYtanZEdXdTSUNib1A5WnlzaGpLaDlVOHh1ak54N0hnT00yRm9YWkpzbjYzUFRGN1BNYUp5WHZMYXZwQUpKMjZUZWZNT05sWnNOSmdFUzhlNXMtbmt10gGyAUFVX3lxTFBYRXNuNkJaQUNwRWdqT3NlTUh6a3ljQ3NXdHpWYjRuOVBpRElGT1RHX0JYNXhJTk11TVNLLUJ3OUVfalNIRlZQMkJfOTduRFR6NktNSm9rZW9KSlZwRXZRSW41RXZsdkV1X1hYVWoyYVpEc3NsQTNGb09lYmM0bzdXYnhnZjI1c1VJdDk5OEdMWUVXSXpEclRuSTVvQmlLTC05dm93NnVRZzByVG9vQnBycnc?oc=5"
             },
             {
-              "source": "fortune.com",
-              "title": "OpenAI rogue agents leaked 53 ChatGPT user images, reportedly created nearly 1M links with encoded info",
-              "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQcXlHQk1XOUZtdWtxUmNXYTNoSXd5LUlfMHpIQ1BXWl8zVmVvMlkweEdlc3NKeUdZUENHeDVpTDRpUnJueFgyRUdSUEZfWXBZaHhpR2YxOUxWNjZyTWNHdk1udGs2Q2tQUjBsUTUxalFkdHBScDEwTnY3dmI3ZDI2dU5pc1pnYkFpamExNGFGTWdjZVJTWmV4QlhmcEp2RkxXYnoyWjFjZFBVV1AxOXVxVXBWT0c2M1hEOGJNVg?oc=5"
-            },
-            {
-              "source": "axios.com",
-              "title": "OpenAI agents posted user images online, disclose dozens of third party incidents",
-              "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQcEkzcXk2RXp3RmppbVRudVVHZFM4dTJnVDBJQ0ZFVVV4ZlNreEozTC1YbUNzLWZzNTdkbTAwcGpaRjdOZGtqb1dGM0VjeTMtV0RNbFNzcG82TTRlM0dha3lSTlBZVnBZUVlCdlFzcWdOUzBudHdJbVVtSzlQUnp4bnF2ZVBpZ2t6YUpnekZWRGRwbDVpdmJzZHdMMjR2eHFO?oc=5"
-            },
-            {
-              "source": "theguardian.com",
-              "title": "OpenAI says agents leaked 53 images from ChatGPT users in latest example of rogue activity",
-              "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNd0dTclpUU0M5bk5NTkk3MlVJeF9vZXZiQVRTLW03V3pxRjZ1WHlxaDBRVUUxbUN5eVRhQlpoTnZQZUdodndHVU9ldHQyazVwamc3OUZqaUktVmxvZmd3d3Y3RHg4Y0lzakJ1bWZtSG5fbFlMbmE4WnBVei1WdS1mem1CYWJ1MFJ1ZEJZRkJwUHJQdEU?oc=5"
-            },
-            {
-              "source": "techcrunch.com",
-              "title": "Unsecured OpenAI agents posted 53 user images on the internet without the lab's knowledge",
-              "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQdm5FazhISE5rN0RuT0JBOVk0UDlSTmpuelNwNjVvQ3dCR2V6V3BfWmVaMkxQUFlITWdWaXExMGxKNmpJMnVoQzVBaFZFbU9uZjhjSzhBdWZONkJtS3NUejlJMC1rZkMtSzc0R1JfMkZEbHVoTS1feXlJV1RUa19qMWx5ajJPZVFnTHJLSzZrUlpJeGgxZ3Z5UWV3ZTNRckdtakNnTUl5NzdsMVVaZHBmWEZPaHd6anlKM1l5ZEJOVUw?oc=5"
-            },
-            {
-              "source": "newsweek.com",
-              "title": "OpenAI Admits AI Agents Exposed 53 User Images During Research",
-              "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNdGR1YkJKSnZzc3d0SWZqd1J5WUhrb3paVXQ1ZURJa05IdzMxRlZsZ284ZE5jWEVBZTJlUlhBekUwSjFMZGZKUm9VMUtMVFlGcnpiR3ZXc0Rwa1FuemRlajFRaDZPMjdFVDE1Qm9EUFJnTmk5V3YxLXlLSVJ6VWhsV05tRHRhb0I2NG9mWTlYQlZFdU5NWm9xdVdrYm4?oc=5"
+              "source": "defenseone.com",
+              "title": "Anthropic loses legal fight to shed DOD's designation as a 'supply-chain risk'",
+              "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOSzNxbUhxR3h1OVRPcjlicWhiMXJ4R0Q0bUhpbnRNYWdTeVBiVTdpNTU2bXJvemUzZG9YX25wbjFZc1BRbjJ3WjMyUEdwNGhtUFFORzdvTFctTEV0NXVFbDk0Z0JLQk50eUprZ1l5dlBzWV9hbG1lRGFMTDQ1Mjh6aFlFVGs0N0lTdXowSlpvWk02ZXhqRUllSXpCNDB3YWI4LVFJMmh2TjBVVHNPcVNMNU9DSQ?oc=5"
             },
             {
               "source": "reuters.com",
-              "title": "EXCLUSIVE: OpenAI works to understand full scope of agent activity as user data leak emerges",
-              "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQZUEtbWlTaWtWX0dYU2dvc0dCT3c4TW8wQS1nOWFVUWp4NU1nNFVxZXMybmhIWTlLVWlUalRVVk5JUVNrdVRfQVVRTlVtNWtwTndFTWlpOEZ1WW9OZi1peUNJNFZMRHdVWXQ1VkhNNkxkS1dVNjFNWGtPenNtYjJyVkdnZzF1ZXNzUWsxbjlPbm5EcDNTVkdaYkN6ckdlTkRrTmJqWUFQOXUtVTJTWGVTYnZlUzM?oc=5"
+              "title": "US appeals court upholds Pentagon's blacklisting of Anthropic",
+              "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPN2xsSW1uNVNkSjE2UHVQSGFlOGJTbGFRa2dtdWgyb1owYlFpS2RHZHVSQnRxSTRoSnhqWWJTMEV4Q1BfNzRJZ0h4MVY4S014TTAxbjU4aThsZW95OUhEUFg2Tlg5ZU92Y21RcXVZa1hySFBUT2FXVkZ1ZlRaV3BpNnJFY3g2Ny1KRkpyQm5pNTctbS04V182WjZpYWczRWlJM1RMWl9uU0hNQQ?oc=5"
+            },
+            {
+              "source": "wsj.com",
+              "title": "U.S. Appeals Court Upholds Pentagon Labeling Anthropic a Security Risk",
+              "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOeTc4cHdPOXFUUzk4OWtTUkU2STNGQ3RybjZXOS1QeEZHcEFWSVdUM0ZKLUxqYWpoa0NReF9HNFlvUUFMbkdQTUMxMUlWQzNqTHhTTW56Sjh2SmJ0eWdJQno1TmVLbHF6UzZkak1wc0taVUttb0xWb2o3TV9FTFU4ekpxcHFGNDJCOUtWa3M5eGJkeUZzZUNsWnhDc3hMNk9KZXN1dk95dm0zdmN2d0Q3Q0J0M2FEekhod3NxbXQ0cFdvREE?oc=5"
+            },
+            {
+              "source": "aljazeera.com",
+              "title": "US court upholds Pentagon’s blacklisting of Anthropic",
+              "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPVkI4cGp5RUYzRkxpNkFwNG96M2Z3Z2hqUjJKU2xuNWhmUFJMMldoNTZnNnlCTUJ2d0I0bVFTenMtVTZJT0U5MS02SEYwZVhCSHkwN1NycGlJdTdQYUQ0dGxfS0RoRHRtc3dGMzgwSDhBb3FxWlhJMkw5d2RfekZ6Z01VaEZHdFhQSmJ5V3JXNHozTGYtRV96R0IyVzDSAaIBQVVfeXFMUGVyZElkUDY5OGR2dWtydGU4SzB6MFM1SV9MOFNBWkRxajlXVndBWHJuYVNsajlpMW01am14Z0MyMURUdXNsVnBLb2NJVmlXYVlaOHNTZVlhVmVvVTF2d053RzVpLTY0RWh4cU12STZEZzU4eWloWjAtS3IxdE5ROXpUTVRVcVoyekU0dk5kSVlGVzROVG15NGxRZzhSdnJDSGp3?oc=5"
+            },
+            {
+              "source": "cnbc.com",
+              "title": "U.S. appeals court upholds Pentagon designation of Anthropic as supply chain risk",
+              "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNU3ZmOE1OdnZzZlNfVTllZUVPMUVnb3g4c3hYS1k4c2U5Sk13dTBWZUkwRzZnajFTVmpCbFdoZlM1cV9fZEU1NGlCc053UkRLN3JadElNN3NGVE1iRGJzSnZrcEdBV1d4UWdwVjVvOGV4ZlUwamNULU9wSnVlTE9lU3dHd9IBiAFBVV95cUxPMndkTFZBaExhd2RzWlU5NXliOHlwRXh6eFlRci1OenRuY01nWlQ3WnBmbURNYzRRMzY2TzhpcElNVVQ4Wktla1FNanl2STc3THN4VUlJdjFpSFJOZzgwaklVRkhoNlNGS1lTUFZ5dDZPZnJZblU0bi1KVlNRYms2ZlVfbm1CdXlp?oc=5"
+            }
+          ]
+        },
+        {
+          "title": "Google Is Launching Four AI Chips Into Orbit to See If They Survive",
+          "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNUXQyUzJTUVpWVHJYZTNzS0pnbUdhYTUzWVdNdzhDeVZ5cXlrN3VIV3JnLS1tNmFWYjVZOS1vTzgxNjJpMEx3aUwxQU1yT0c1SURlcDN1UlhLWElQcTBWUzc2LXNYck56WDBrbWhaYTZTMVViblZFQmZiMXlzakhXYkxLbmE4Z2RJWXlhZG1YQkR0SUJlTjk5WmtKYkU?oc=5",
+          "date": "Fri, 25 Sep 2026 18:09:37 GMT",
+          "summary": "Google Is Launching Four AI Chips Into Orbit to See If They Survive Gadget Review",
+          "publisher": "gadgetreview.com",
+          "_via": "news.google.com",
+          "source": "gadgetreview.com",
+          "_hash": "8dc0426eecb82fad",
+          "_ageHours": 11,
+          "_inWindow": true,
+          "_score": 63.80479666666667,
+          "_corrob": 3,
+          "_cluster": [
+            {
+              "source": "aerospaceglobalnews.com",
+              "title": "Google is launching its AI chips into space to test orbital computing",
+              "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQU0xDR0YxZVB5bjNmck9ZSGttbUNTNTNuQmstUFJ0czFuNG9iRmktX016ZzcxM0VmbjlFdzMzZVdBY2c3dlprMWJGcTMzY0NUeVBucndqRVRMSW5DUVJpQURCa0dBVDJlSFFBNmswbjVEZ2tUMnpjZGV3Q19aSTBKbm1FdWtYZG5lS29J?oc=5"
+            },
+            {
+              "source": "techspot.com",
+              "title": "Google is launching AI chips into space to see if they survive up there",
+              "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOQ3BSMXJVcHZSOFdzS2ktdFdTR0tOazk3dGF2N0pIcmo5NXBoWmo5LWpqUEtScnpLcWdkdG5HMU9hSFBGbWJZN18yOVJKU1kwaWJPRDZiZVRQQVMtNDJNOXBGTmRlTWZWMnozd2JyNjFkRzZJeTBKeFVNWnRxeUItTFM5UHVfSTF0bUg1RkJn?oc=5"
+            },
+            {
+              "source": "technology.org",
+              "title": "Google Sends Its AI Chips Into Orbit for Project Suncatcher’s First Test",
+              "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOSVRDdXRHbFFNN0MyNzZkU3ZqTWU2b1ZXM0tzS0J1YmUyVXd5SmlUaE5MazdTM0dVTDcwSlpQS2V2WlJMM1N6UWZHLVJmRzN5cWEtQ1NaU0dObkN6Q1BoSkNoOHBvSW5lRVFBMWk1SzQ4dUgwWExmdGk1dlpTcXBHN1d2bXYzUQ?oc=5"
             }
           ]
         },
@@ -65,9 +209,9 @@
           "_via": "arstechnica.com",
           "source": "arstechnica.com",
           "_hash": "595fce2815183286",
-          "_ageHours": 6,
+          "_ageHours": 8,
           "_inWindow": true,
-          "_score": 63.09025194444445,
+          "_score": 61.25007388888889,
           "_corrob": 3,
           "_cluster": [
             {
@@ -93,6 +237,47 @@
           ]
         },
         {
+          "title": "Unsecured OpenAI agents posted 53 user images on the internet without the lab&#8217;s knowledge",
+          "link": "https://techcrunch.com/2026/09/25/unsecured-openai-agents-posted-53-user-images-on-the-internet-without-the-labs-knowledge/",
+          "date": "Fri, 25 Sep 2026 22:20:47 +0000",
+          "summary": "AI agents operating in OpenAI's research environment posted user images on public image-hosting sites without the lab's knowledge.",
+          "publisher": "",
+          "_via": "techcrunch.com",
+          "source": "techcrunch.com",
+          "_hash": "f55090d82da60375",
+          "_ageHours": 7,
+          "_inWindow": true,
+          "_score": 60.99090722222222,
+          "_corrob": 4,
+          "_cluster": [
+            {
+              "source": "scmp.com",
+              "title": "OpenAI says its AI agents posted user images online in error",
+              "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPUlEzQTFKUmxEUk5FaGJnbUNiUHF1WldmRV9IRUNSTVBDS1d4cHZOdmNXRF9WTktiTjl3dVJMdEtrdDZISFNqU1pOREhJYmFNczc1bF9BelY0bnh1TUotY0dnSnBjMjNGanZCeTlOV3NXSGZFTnF4VHdkUDhkVEVMS29oMFRwYlJrcnRMREhzaUhIWl90MFVNR2VPc0pNVzJLaERDbTV5RkNESlZxWWRQUVdURk9SZnoycG9lUW9n0gG-AUFVX3lxTE15MkZ4czdjU2E3VHVCeGhuYjZyQ0VNUHBtV1F3VExpYTdpSklYNGdKN3F4RFlQc3AtT09Sc2EtREV5T0NDcUxlVW84Wk02NmtqcXZ5dzViaDFYR1JRcTVlTm9jNk1naEJjSHhBRDg3MzZyaWxpUlR0MDdXeGdrcDNqR2gwd1NycHZyTmxUSFhBMUxkcFhVUGhvY3M4OXpmYWdvRG1JUXlVMExncWg1aVNiLU9PVi0wUm4tUlBPb1E?oc=5"
+            },
+            {
+              "source": "lemonde.fr",
+              "title": "OpenAI says its AI agents posted users' images online in error",
+              "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNdmRHemcxTXVFNElPYnVGMEtyVjRPMlhyWXphUDBfQVFIbWVLVm1TaXhUTjhmaFpFMUtCc3Z6Rm1sTmZyck1vTFM4X0lnSVVMeVh4WlcxU0J0Vllwek4ySWg3cEtVWEpGN2pweFR0czZsWDZMRDJZdnkyWFloNlVwbkd0Q3hCOXI0UDdwQzdrcjFZQ2NEVnJtQXRKSW1QMDVselNaTXlWRThYX0xiekhHX05LOEYxRFpzTHJ3b1hZd2Y5NmNDb09v?oc=5"
+            },
+            {
+              "source": "fortune.com",
+              "title": "OpenAI rogue agents leaked 53 ChatGPT user images, reportedly created nearly 1M links with encoded info",
+              "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQcXlHQk1XOUZtdWtxUmNXYTNoSXd5LUlfMHpIQ1BXWl8zVmVvMlkweEdlc3NKeUdZUENHeDVpTDRpUnJueFgyRUdSUEZfWXBZaHhpR2YxOUxWNjZyTWNHdk1udGs2Q2tQUjBsUTUxalFkdHBScDEwTnY3dmI3ZDI2dU5pc1pnYkFpamExNGFGTWdjZVJTWmV4QlhmcEp2RkxXYnoyWjFjZFBVV1AxOXVxVXBWT0c2M1hEOGJNVg?oc=5"
+            },
+            {
+              "source": "axios.com",
+              "title": "OpenAI agents posted user images online, disclose dozens of third party incidents",
+              "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQcEkzcXk2RXp3RmppbVRudVVHZFM4dTJnVDBJQ0ZFVVV4ZlNreEozTC1YbUNzLWZzNTdkbTAwcGpaRjdOZGtqb1dGM0VjeTMtV0RNbFNzcG82TTRlM0dha3lSTlBZVnBZUVlCdlFzcWdOUzBudHdJbVVtSzlQUnp4bnF2ZVBpZ2t6YUpnekZWRGRwbDVpdmJzZHdMMjR2eHFO?oc=5"
+            },
+            {
+              "source": "techcrunch.com",
+              "title": "Unsecured OpenAI agents posted 53 user images on the internet without the lab's knowledge",
+              "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQdm5FazhISE5rN0RuT0JBOVk0UDlSTmpuelNwNjVvQ3dCR2V6V3BfWmVaMkxQUFlITWdWaXExMGxKNmpJMnVoQzVBaFZFbU9uZjhjSzhBdWZONkJtS3NUejlJMC1rZkMtSzc0R1JfMkZEbHVoTS1feXlJV1RUa19qMWx5ajJPZVFnTHJLSzZrUlpJeGgxZ3Z5UWV3ZTNRckdtakNnTUl5NzdsMVVaZHBmWEZPaHd6anlKM1l5ZEJOVUw?oc=5"
+            }
+          ]
+        },
+        {
           "title": "Google Prepares Project Suncatcher Satellite Launch To Test AI Chips In Space",
           "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE4yYjlzY2xYcGxHVGg4aWZMemxPcUdtWjRpV2hRcWVaamEtdmJSVGgzZlNBRzc1NTlHM0podWpTcWUyUHZwZ1F4eld3N0ZHd1VabUJWbUNwMFrSAV5BVV95cUxNaWwyTHdSUUZUM0xQN0VvLWhVdklKQ09xcDFDc1FYblJreGJabTJhVTU1dlpvT1RDYkRvbTBUUTVMLVhmOGlzSUdNcnRQOE1TZE9MeDdTcWJhVWVraHBR?oc=5",
           "date": "Fri, 25 Sep 2026 20:35:06 GMT",
@@ -101,9 +286,9 @@
           "_via": "news.google.com",
           "source": "pulse2.com",
           "_hash": "ab35c11098c7df49",
-          "_ageHours": 7,
+          "_ageHours": 9,
           "_inWindow": true,
-          "_score": 62.069697500000004,
+          "_score": 60.22951888888889,
           "_corrob": 3,
           "_cluster": [
             {
@@ -124,214 +309,59 @@
           ]
         },
         {
-          "title": "Court Upholds DoD’s Decision That Anthropic Poses Security Risk (Sep 25, 2026)",
-          "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQS3RsdmNtTnQ1SEt0QVJXMlI3dEhzNTJfVDFscnlmb1pzbEh6RkJER2hCMTFiQm1kOEVfYVozWG5CeERwbHNLQjM3Y253aE9YOTBPV0pnRy0tV2Z3NTcxd2phSGtvcTROS0lvMkZERWZyRXRRT3FUNjhhQ2JvaEROaGd3WEdRTmlzWkNjQVRFSHkzUzN0R3ZpSHl5M1lXQ0ROMHBHZFdVY2NwOGdxSVBYbGgwaWQyYldXTUVTMVFLU3hKcmY5MUJHUFQtQnI?oc=5",
-          "date": "Sat, 26 Sep 2026 02:21:25 GMT",
-          "summary": "Court Upholds DoD’s Decision That Anthropic Poses Security Risk (Sep 25, 2026) VitalLaw.com",
-          "publisher": "vitallaw.com",
+          "title": "OpenAI agents accessed US government websites without company’s knowledge, report say",
+          "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE15cFJBTmstNGlkR3dHLUNNMXlncTN6dmZBM0NFdlRfa2pwVi1wRmF0ZWxWVGhURXdOZ2llYkEwSzNyZHc0SlVHTFc1ZVM3bjMxOHZVbVRNdFNaT2wxSFIwU2NQcFB6MU85WnFTQg?oc=5",
+          "date": "Sat, 26 Sep 2026 01:58:02 GMT",
+          "summary": "OpenAI agents accessed US government websites without company’s knowledge, report say ynetnews.com",
+          "publisher": "ynetnews.com",
           "_via": "news.google.com",
-          "source": "vitallaw.com",
-          "_hash": "76905716c67d1aae",
+          "source": "ynetnews.com",
+          "_hash": "7a90cbf845254c5c",
+          "_ageHours": 3,
+          "_inWindow": true,
+          "_score": 59.61174166666667,
+          "_corrob": 3,
+          "_cluster": [
+            {
+              "source": "usatoday.com",
+              "title": "OpenAI agents accessed US government websites, tried to hack one",
+              "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQYjVvbHRWakVmai14TVhvTnB5ZWtQamYzUUxhRXIyU01KX3dxejVDVTJjZ3pzdzF0NDlYUklmcDF4VTI1LU5ZVGlFMXdwZXpPcmEybzNiWEhMczhxdTRwb0dyLVdmN3diMkJfVVAzMlowTllreXA0Y1ZYakM0dmdJZ1NxVmctLTBhWlJkYjZucU5qcjlmZlptbGtxN2lPSTk3SFZwVg?oc=5"
+            },
+            {
+              "source": "politico.com",
+              "title": "Rogue OpenAI agents accessed US government websites",
+              "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPZDFBeDhjMVNRTFUtUVNrcmE4Uk9PQ3Nmdnp0Z0hXSWhCSGRFMkI0U05ueXViaFFycmNpODhSRDgxVFFUUFA2T3FpLWRTV20tNTR2SURkVjk0ZUJPTkVGZXFXQmtBRUZnWlRlQkE3bGx3eUJESTBtQWpoWUFma24tMEJMc1BMQTlIMUdNbkloQW9raVdIMWxic0J0UTMtWDdPZlJV?oc=5"
+            },
+            {
+              "source": "facebook.com",
+              "title": "Breaking News: OpenAI’s technology went rogue and meddled with three U.S. government websites this summer without the A.I. lab’s knowledge. Read more: https://nyti.ms/3T7jzv7",
+              "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOUDd6bkZFUWVGZkNTemhiTXdKYlkxNFdrMFZUbHpmOXktNXVGZGlhNEQ3a0hJTk1tRWpIYVd5NU4yYVc5UGxiMG9tVTlqUkwwdXVhbW1fbXk3akc2aHRwTzVMdWd1QzdMSHl3Q0Zwc3FrZHA1Z0ExT0NvcmJ5b3Nyd3FuRnk4dDFyWDQ5dXZGU1JHLWlSZ2p2NVdNanFacGlTSGNzeFNFa1NhS2JnNWhnZ2xuUER5TnlidnpWdHZYRlI5SFowczZ1cHZfUWg3X2lrZ3dR?oc=5"
+            }
+          ]
+        },
+        {
+          "title": "ChatGPT-maker’s AI inappropriately probed federal government websites",
+          "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOTkh6WFB2cWNPZjNjUWJGb2RuaTRvaG1JSlNlS2dETnp0ams0SW5uc3Nyamc0dEkyN09ZV05KOGVYc052ZzE1V0RVQ2M4Z0x0aGRuSU1acllyZ2NYTHdma3RiTjJUTG5RcS1aaDZ1MDNsUjBDdkh0N3U1RXdZaGJZUHVSZjV0Y3R0VUtIbmVmOGNYaUUwQ05aUHRNMnN4X1pUeUY5MnJiazNxQzM0cEdPNHE1Ti12eWNfWTU2ck44aUIxQmM?oc=5",
+          "date": "Sat, 26 Sep 2026 04:30:20 GMT",
+          "summary": "ChatGPT-maker’s AI inappropriately probed federal government websites The Washington Post",
+          "publisher": "washingtonpost.com",
+          "_via": "news.google.com",
+          "source": "washingtonpost.com",
+          "_hash": "eb7a4dbddd39edbd",
           "_ageHours": 1,
           "_inWindow": true,
-          "_score": 61.84164222222222,
-          "_corrob": 3,
-          "_cluster": [
-            {
-              "source": "wsj.com",
-              "title": "U.S. Appeals Court Upholds Pentagon Labeling Anthropic a Security Risk",
-              "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOeTc4cHdPOXFUUzk4OWtTUkU2STNGQ3RybjZXOS1QeEZHcEFWSVdUM0ZKLUxqYWpoa0NReF9HNFlvUUFMbkdQTUMxMUlWQzNqTHhTTW56Sjh2SmJ0eWdJQno1TmVLbHF6UzZkak1wc0taVUttb0xWb2o3TV9FTFU4ekpxcHFGNDJCOUtWa3M5eGJkeUZzZUNsWnhDc3hMNk9KZXN1dk95dm0zdmN2d0Q3Q0J0M2FEekhod3NxbXQ0cFdvREE?oc=5"
-            },
-            {
-              "source": "politico.com",
-              "title": "Appeals court allows Pentagon to label Anthropic a national security risk",
-              "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNYzE4MnFOQll2cHhza2xyM2pOS1h1RWp3VjRXOE41UTdXU1JiUXdhRkIzUEQyRTRlVVhqV2xxdjItTk0zNTlpT0pnNGV6VWYxNkRLVmpJVzVockFCNEVnNmVrajNYWjhvbUR3RFpXNW5ka2s3OTcxWGFKVGtKaEdodmw4UVVIMnJzbF9fUTRYX3REZE5ZeFFLenYtQlVZSWM?oc=5"
-            },
-            {
-              "source": "businessinsider.com",
-              "title": "Appeals Court Allows Pentagon to Label Anthropic a National Security Risk",
-              "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOaWt4MGppYzdjQmh6UVhVSjZpZ0Vva1VzNkFNS1JSSkowVHhrZ2tGZHczSmYzZmRLb3dtZzg1N0tYV2h6bTNyU0JHaFdtdU0xSi1oZXJHeDdHSGZvaExFZFQwR3M2Mkc2WDNEMk14UHRpR2NBWFFSeXNVVDJSYWk2Y19XelhiUjhOMjZCbGhYbHBFTjJKNWFFUVZGSFVWRGNEUFk4UlZ0c2pvbDlFRGRV?oc=5"
-            }
-          ]
-        },
-        {
-          "title": "OpenAI’s models accessed public U.S. Census and SEC data",
-          "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNUUVpUUhUSGdzekdNLUJtVEZPX1pvOV9nVkloTVRCRTAxTDAwWUhHZ0JxMFJnM0tSdGdTSElDNkpodHRzMEdTZXBqdW1jcGVpWnJOUUFLTWo2dWVMN0o1cVQ1M01KSVdLLVlmMXpnS3BPRTl2MWZTQWw2WHEwSW4zdVVGVF9KaFk?oc=5",
-          "date": "Sat, 26 Sep 2026 00:29:00 GMT",
-          "summary": "OpenAI’s models accessed public U.S. Census and SEC data The Japan Times",
-          "publisher": "japantimes.co.jp",
-          "_via": "news.google.com",
-          "source": "japantimes.co.jp",
-          "_hash": "494602a50be4c176",
-          "_ageHours": 3,
-          "_inWindow": true,
-          "_score": 60.96803111111111,
+          "_score": 57.15007527777778,
           "_corrob": 2,
           "_cluster": [
             {
-              "source": "bloomberg.com",
-              "title": "OpenAI Says Its Models May Have Interfered With Government Sites",
-              "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOdzFWcjVQTHVBRkRRbDF6cWFCT0xzdk5MOV9Cb3VtSUdQR0JleV9NdGtjTXY3Yml4RWo3RzYwMWxlSVZXOEQ0TWZ3ZXdneFZ5SjMtTGRRWXRaQUs5cURobExiZjBaS2V3WElremxmaHg0WXJiMlpBSS00RlN2VkhsU2dSQWJGdW1jdlIyZjdLb1lLRDNpalFLNzBSdkhGUzF5bzJ4ZWNvMDJ3ZEpRT1pPc3cxcUMyQQ?oc=5"
+              "source": "grandforksherald.com",
+              "title": "Federal government steps in with potential new AI, data center legislation",
+              "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNMWYybkZCT19WUEh3SDIxbk9VZ1ZuV2JraTJGMXdsZ0kyZmdhODlGWnFhTG5BMWZoYUVWaHhPR2FHa1dROGVGZThhclZaQXZDQmF3WmFOd195SFh1eUkzamhSZHJyOGdURWdnZlE0U1VkODZkWEpYeDV2MmhlLTAwNUdkWlFudjN5Qm50YndfUHkwUHdxZExxYzh6YktVVElXWW5XZzNEeWx5cnVHOE84UmM3ZGR2OFgtY2g2U1d3?oc=5"
             },
             {
-              "source": "pcmag.com",
-              "title": "OpenAI Models Go Rogue on 'Dozens' More Third-Party Services",
-              "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNX1BNZmJWd3J5VWJNRG9qaGo5dzZmdXY0YWU5N3o5OE16VFZHbGFwRzJFNDVJOGxpREIxUWtsMmMxSC12c3NGU24yR1BEejk2R2xfdlBzaHY2dmRBbmh6eV9wc1JXYTVra0JOb0dKVzM5T1FPLWhhUk1LcEFZVk1xUnpodkNnUFdsUUgyUDV3?oc=5"
-            }
-          ]
-        },
-        {
-          "title": "Google Is Launching Four AI Chips Into Orbit to See If They Survive",
-          "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNUXQyUzJTUVpWVHJYZTNzS0pnbUdhYTUzWVdNdzhDeVZ5cXlrN3VIV3JnLS1tNmFWYjVZOS1vTzgxNjJpMEx3aUwxQU1yT0c1SURlcDN1UlhLWElQcTBWUzc2LXNYck56WDBrbWhaYTZTMVViblZFQmZiMXlzakhXYkxLbmE4Z2RJWXlhZG1YQkR0SUJlTjk5WmtKYkU?oc=5",
-          "date": "Fri, 25 Sep 2026 18:09:37 GMT",
-          "summary": "Google Is Launching Four AI Chips Into Orbit to See If They Survive Gadget Review",
-          "publisher": "gadgetreview.com",
-          "_via": "news.google.com",
-          "source": "gadgetreview.com",
-          "_hash": "8dc0426eecb82fad",
-          "_ageHours": 9,
-          "_inWindow": true,
-          "_score": 60.644975,
-          "_corrob": 2,
-          "_cluster": [
-            {
-              "source": "aerospaceglobalnews.com",
-              "title": "Google is launching its AI chips into space to test orbital computing",
-              "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQU0xDR0YxZVB5bjNmck9ZSGttbUNTNTNuQmstUFJ0czFuNG9iRmktX016ZzcxM0VmbjlFdzMzZVdBY2c3dlprMWJGcTMzY0NUeVBucndqRVRMSW5DUVJpQURCa0dBVDJlSFFBNmswbjVEZ2tUMnpjZGV3Q19aSTBKbm1FdWtYZG5lS29J?oc=5"
-            },
-            {
-              "source": "techspot.com",
-              "title": "Google is launching AI chips into space to see if they survive up there",
-              "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOQ3BSMXJVcHZSOFdzS2ktdFdTR0tOazk3dGF2N0pIcmo5NXBoWmo5LWpqUEtScnpLcWdkdG5HMU9hSFBGbWJZN18yOVJKU1kwaWJPRDZiZVRQQVMtNDJNOXBGTmRlTWZWMnozd2JyNjFkRzZJeTBKeFVNWnRxeUItTFM5UHVfSTF0bUg1RkJn?oc=5"
-            }
-          ]
-        },
-        {
-          "title": "Trump says Xi agrees with his ‘Super Intelligence’ framing instead of ‘Artificial Intelligence’",
-          "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNcTZnNDhYLTIyUVlYTzMxc0hrNHBpaC02dWlidnZ1NUs5QWZFckFqVl9vWGhLdHhvQWdnUk5NdWhoUkNzQl8zRGZrdndXclRGZjBveGM5WU44M1BQY2hvaDFQd2Fybk5MQVQtZ2tGU0hNTW9KNWg4SHZNYlM1NWhsR2NxZ1JVSU0tbldWS1hUYnFXeHducVV1ZmM3VjduQzBJNVFIZTU4VUZJSDhBeGdCa0J2SnZ5WmY0Ql9VS3hjZjg0Qk90cEV1WGdBQ2hTWG5WMjJZ0gHYAUFVX3lxTE8yRjBSUWsyMDJjRWl2Zng2cDJpdldRQWdIdWZBcGp4enRxUEpQbEY5REU2VG5uWktnLWtzdlhDT0hNV3BMVW12TUpHa3dnOFVJSlh2VDlLc3YtbEdKZk5IWWZWblBjMkxHZlpJb3NCeWhVMHhtZWJWUXFoelNNWGp0eV9KdVRvZGhKZGg4cWlsTFBqaEZOYnVmZXp1d2YzeVZzTVp5YmlwaS0yVjhGMGdyOVp2ZXd2Y2hrNTJEZkFtR2k5MHFiZ3FqbUhBTEtwVE9GaEJSaEZFRg?oc=5",
-          "date": "Fri, 25 Sep 2026 19:06:35 GMT",
-          "summary": "Trump says Xi agrees with his ‘Super Intelligence’ framing instead of ‘Artificial Intelligence’ firstpost.com",
-          "publisher": "firstpost.com",
-          "_via": "news.google.com",
-          "source": "firstpost.com",
-          "_hash": "ac383675df4b1b7e",
-          "_ageHours": 8,
-          "_inWindow": true,
-          "_score": 60.59441888888889,
-          "_corrob": 3,
-          "_cluster": [
-            {
-              "source": "newsweek.com",
-              "title": "Can Trump Rebrand AI? Experts Weigh President’s ‘Super Intelligence’ Push",
-              "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQWFVzMVdYcG9aZVVzeE5vVFJkSHU1d29sT3FZYWRFZlhqSmhyZEo5LUNtajRFMC1BVG04bmtpbGJ2RldvSFBFRGZmMVpJWEZ1SW8zeE9FajhtTEFYVkh6bzRGOXNiakt2V1V0WXBiazlKN1MyTjAtUXlhaE4ycW5XajVUQ2tEX3VuZjlMNEprbFdCYkFtdm1RQTA0NmpneUJzeWdVc3Bn?oc=5"
-            },
-            {
-              "source": "politico.com",
-              "title": "Bessent won’t be the ‘super intelligence’ czar, Trump says",
-              "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPNHNjS0kxU015TlpJUEpDR3d6bWd2OGhabjd0WWF4RFhTZVFVWTJLcEl6c1lZaGRzX3RwbG9xZHVlSGc5R3hhMVlSZjlXRzNXeGUwYmsxVlFCU3RySTdfc0FuRWtKTlhtVkpfWDM5a05qLU5VMG5NNlR1OV9qNE44M2lnLVljbTZpX3Y5VXFTei1CZEFqeExPazBPczBtdkJZQ2lMS004RQ?oc=5"
-            },
-            {
-              "source": "thehill.com",
-              "title": "Trump: Xi ‘seemed to like’ calling AI ‘super intelligence’",
-              "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNczlqNi01MXZzU2NTWERiZVN6NkU4U0tHS2R0WjV2VEwtZWlabHFEcVU3NGZVcVBLdkpoM0IyOElNT1puQnhvZ0s3NVJOYXF3Vzc2OWJFWU9HVG5Vdmp3N2ZibUtqSGdhZGhtdzVOYzhFSFlTZEwwUy1GU2NwbXY4UE5tX3JySkHSAYwBQVVfeXFMTU53MHBpSG13eUFvX1o0LW41bEhtWVlTdjBQRUEyZzI2WkxpUnd2ZWZnTUZyMi1jQnk5V21pQk9xV2ZhUHR0QlphSkRRMFJOeERGUnd4NVlGaFd6ZEVOYkJZWHNxUU9fLWg1ZXE1WldSS2RZdkJiQVl4aFVlclAwT2pXNVlzQ045ZjNHWFM?oc=5"
-            },
-            {
-              "source": "thehill.com",
-              "title": "Diplomats ordered to use ‘super intelligence’ instead of ‘artificial intelligence’ in Trump push",
-              "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxONGozbTN6WUprdTNWTzFEemhVemQ3Zl9TTXBWVy03QVFxVnpweldHRU1hUmtOa3Y0ZHlXNGFRRkcxTzJaWEQ2ZXotVHFnQkpVUUxHT2xjYnJpa1YxdDBsSEFzNUJhRjQwSnhNcTF4R0NzTjlYTE80YkFVWU85eEVFYUsxekVJcHJ4V2JSNdIBkgFBVV95cUxNQUNPOEgtT1F0UXB1YW9rcGkwcVZWckhwN0k4bTVXdWV1aDV6MVh1c0hKR1hVVGtPWDNpMlQtZ1ZZOVV0clg3dU5XaUJKTUhabGU3Y3lFZkFPRTNxUzFyUTcyRkY3dm1TREFJdFB2Q0ZPM2RYcE5mZUFIRmN2YTBBY3VnWE51MUtBXzV5UFY2Z3poUQ?oc=5"
-            }
-          ]
-        },
-        {
-          "title": "Meta’s Muse just stole the AI spotlight from OpenAI and Anthropic",
-          "link": "https://techcrunch.com/podcast/metas-muse-just-stole-the-ai-spotlight-from-openai-and-anthropic/",
-          "date": "Fri, 25 Sep 2026 18:22:47 +0000",
-          "summary": "When AI leaders at OpenAI and Anthropic started talking about “pacing the frontier,”&#160;maybe someone&#160;should have asked: what pace?&#160;Now&#160;it’s&#160;turned into model drop week for both companies as&#160;Anthropic rolled out Opus 5.5, followed by&#160;OpenAI’s GPT-6 model updates&#160;just&#160;90 minutes&#160;later.&#160;But the company that stole the spotlight was Meta, whose&#160;personal AI agent Muse&#160;is&#160;reportedly&#160;outpacing&#160;ChatGPT’s early numbers and is he",
-          "publisher": "",
-          "_via": "techcrunch.com",
-          "source": "techcrunch.com",
-          "_hash": "1b8c6bd0cd31801e",
-          "_ageHours": 9,
-          "_inWindow": true,
-          "_score": 59.86441861111111,
-          "_corrob": 3,
-          "_cluster": [
-            {
-              "source": "businessinsider.com",
-              "title": "The head of one of the largest US endowments says OpenAI and Anthropic are in big trouble",
-              "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQbE5hQUsycmRqbDk0akxXU0U0YmdhVkRFNTNTUTgzM2gwRHZPZkx6Uzl3WFlIVTNXOU03NC1CS1J0R1gzSEtEZ0Ryb2ctQmJtTmtZUkZhalI3VkFqMUVqNHNWTm5Ld19MTXVVaC1tdjBKeHpCal9fNXh2T2JmdFJOQTA1bUFnUmpfVlNyWVZObmlRbnJx?oc=5"
-            },
-            {
-              "source": "search.cnbc.com",
-              "title": "OpenAI and Anthropic CEOs push for AI cooperation at UN after Trump rebuffs 'globalist scheme' to control it",
-              "link": "https://www.cnbc.com/2026/09/23/altman-amodei-un-ai-safety.html"
-            },
-            {
-              "source": "tennesseelookout.com",
-              "title": "OpenAI, Anthropic and other artificial intelligence companies hire Tennessee lobbyists",
-              "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPckVSaWJHSVkybmpSWmhPN3NuLUNYWGM3ZDBvQ1E1R2NkLS0tWWVTeFVTTTNiZFdHZWdkQ0pibXlQd0FIZUktQUtqUElXT0E5NV9wUGd2V2RoZ2hJMWFjaTRaSV9fbjdUVmt2VEpWWFFmVlJCbjBheXF4NTA5QW5qVWt4blpCbTdiQWRkRER6SElabkl0WTRmYnVyaEFtVjVVSVVlU3l0Rk5QYjBUVGo0WGFvT3ZkV3F6anYxdVN2ZkZDYWpv?oc=5"
-            }
-          ]
-        },
-        {
-          "title": "US court sides with Pentagon in Anthropic AI ban",
-          "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPTFpyUUQ5TU4zcjJ2ei01bDdFaG9QbU9WU1VNQzN0aHUxMmtVSjBHUktKdFg4cnVVb1VKbU44YUxsamdZYTI5cjZSdnd4MlB0a0w0enpGSlA2VFdNYmQyTkhnbE5nNVRDU0I1UnBLUW9zRWR3MlhMNjRjM2E5OXM5NGFaUE9janB6MktieVV0UlJ2X3JiTHJXTnVnMzFiekdEWEFueVlsSEwydWtBVXM0ZFFfRFNIQjA?oc=5",
-          "date": "Sat, 26 Sep 2026 00:12:12 GMT",
-          "summary": "US court sides with Pentagon in Anthropic AI ban lemonde.fr",
-          "publisher": "lemonde.fr",
-          "_via": "news.google.com",
-          "source": "lemonde.fr",
-          "_hash": "c3a3b7b562f44247",
-          "_ageHours": 3,
-          "_inWindow": true,
-          "_score": 59.68803,
-          "_corrob": 3,
-          "_cluster": [
-            {
-              "source": "afp.com",
-              "title": "US court sides with Pentagon in Anthropic AI ban",
-              "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE80MEdWWkVkWkVsTEZpRkRscGEyNTRWTEtubnVpODNIV0ZPYXh5UDZQOHN5cGxDZjY0aFlQNzZ2RlkwM24wOVd1TldONA?oc=5"
-            },
-            {
-              "source": "breakingdefense.com",
-              "title": "DC Circuit panel upholds Pentagon’s ban on Anthropic – so what comes next?",
-              "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQbUxHTi0tbENvZEMwZkItelJRVTE2VnYycnJ4RkR0WUhlUmVTY3VNdUJZZ2dBWWJjel9seUhUdkdrejN4bUZjcXBRNTk3Y0xUM3BCQ1h5MGtzRm1Kcm5xN2V5MVhaY2hwWkxyYjNJZWRzWWpNTGNLRE9aUG5WSERPcW5XWTdidnRfakNndDczZnZOV19fczVHdGNJV0FaTllsRVQwTkFpdHJuRU0?oc=5"
-            },
-            {
-              "source": "newser.com",
-              "title": "Appeals Court Sides With Pentagon Against Anthropic",
-              "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQZGtmSjFybnR5NVd2TmxrR1kxa0w2WGpXQUMxQmItM1ZYbkJwaENubTBUVDUyX2M4NDlHUUJ4eTg4b2VxenJtSThoTFZ0S2p4RFJGNV9oTEpBYjdWQXJCbmxYRXdWQldrVTNsQUhJWmtzZElpSWE2d0c1a2w2WkRBWXpQbFVncFZhTUhoSWhTV2EtZjNUTVE?oc=5"
-            }
-          ]
-        },
-        {
-          "title": "Federal court says U.S. government can label Anthropic a supply chain risk",
-          "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNVThTQmVUdzByZmtjTjJvY2dqVVRyejBncC1Wa2U5a2FnRzJIOTFmMkttQWdtYS00X241UDRKVkxMZDNSNFlJb3EwQWhQZzRFSXgyZENYS29iaXVFb1VIanlWZnRhNktfckFPYmh4QlBEZlZDcUZqMDkxeDYwVF9lRDc1bFhMR1dZMnJDVmlUZng0TWFZVHRYTDVNUl8?oc=5",
-          "date": "Fri, 25 Sep 2026 23:33:00 GMT",
-          "summary": "Federal court says U.S. government can label Anthropic a supply chain risk CBS News",
-          "publisher": "cbsnews.com",
-          "_via": "news.google.com",
-          "source": "cbsnews.com",
-          "_hash": "d72530a141580613",
-          "_ageHours": 4,
-          "_inWindow": true,
-          "_score": 59.03469777777778,
-          "_corrob": 3,
-          "_cluster": [
-            {
-              "source": "lawcommentary.com",
-              "title": "Anthropic Loses Appeals Court Bid to Overturn Pentagon ‘Supply Chain Risk’ Label",
-              "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPZkZJSmJTd2tlbEJlc1EtTGMyV0tHRjdIaG5RTzlvVk9OZGxHbVhmYkJ3R25rS2xYa192bzFJbUVxUVA2QWNtWWpaWGs3QzhYaWRnVjVJM3FoOTRxX1U5UkR1UmZfY0czczlTTDVkcnk1b0dQYW5uQVdhOThmMElOM2ZJWEdXR3hlSnIwSFJPa1I5QQ?oc=5"
-            },
-            {
-              "source": "bloomberg.com",
-              "title": "Anthropic Faces Court Setback on US Supply Chain Risk Label",
-              "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNSTNHR2VoMmtMYlJBbm4xT1lSLV8zNTBLTlN2UWc1OUp4ZkhyWjNVSlhxTTd5bG5zVzRyVkJGRzUxTzRqQ0lhVkJ5dEd6THBDMzByZnZ5NGRIZWtsY1dYS2ZyVnlNbEtDa2Q4cHZVakhDcHRYV3RkdG1DbDBkZUdFcmxXWTJYYTZLZGc5dGpxZ0o2X0tvejJ6TlpkckNLemFsUk5zTm5CNmJQX1ZETEg4VmNB?oc=5"
-            },
-            {
-              "source": "apnews.com",
-              "title": "Federal court says Pentagon can label Anthropic a supply chain risk",
-              "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQeVBiZDVhLUJ1VEs5VGRHTHRwTjZUWjc3TnlPc3lBcXZVQi1LdGNkSEY3OE10dDhrN2xnR3NRQjRDNFllcl9xcmxBcURSQXY1VUlUOE9SeHQ1SlFDcXNUNU5fM0ZBTnhFQno2RWlYWmpfbVRzTkJlUUpsSElCU193eXo2TDB5YlVoN0ltSGhFaG45UVBtTC1tT0JadXN4Zzl6a3ZDcTJ0VQ?oc=5"
+              "source": "inforum.com",
+              "title": "Federal government steps in with potential new AI, data center legislation",
+              "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNck13bU1rakFDZ2V0QTNDdzhFSWFYVmpVaEFfQzdSYUphYThfa3ZKNEd2alNEdDI4aWxYaG5yU1cwZDV0ci1xN3hmVlZSb29VZWFmYXBxQVZnLWQ2RXhjcW8teGZRSUlSaU1xZGF5VW16Nk9nU2hNY2tBOXk0WXl1VWdvYTgwNjN0c2dGVnBweGJMLVJoT2R1SEZYOWlka0lxLVU2SGtrSVlwdWxPTVdFWHVn?oc=5"
             }
           ]
         },
@@ -344,9 +374,9 @@
           "_via": "news.google.com",
           "source": "insiderph.com",
           "_hash": "3ff1667d8e35a3df",
-          "_ageHours": 1,
+          "_ageHours": 3,
           "_inWindow": true,
-          "_score": 57.21691944444444,
+          "_score": 55.37674111111111,
           "_corrob": 2,
           "_cluster": [
             {
@@ -370,9 +400,9 @@
           "_via": "news.google.com",
           "source": "axios.com",
           "_hash": "4993d2a90f334060",
-          "_ageHours": 7,
+          "_ageHours": 9,
           "_inWindow": true,
-          "_score": 56.80386361111111,
+          "_score": 54.96368527777778,
           "_corrob": 2,
           "_cluster": [
             {
@@ -401,9 +431,9 @@
           "_via": "news.google.com",
           "source": "simplywall.st",
           "_hash": "b9d1b15a74bd6e54",
-          "_ageHours": 1,
+          "_ageHours": 3,
           "_inWindow": true,
-          "_score": 57.080909444444444,
+          "_score": 55.240744444444445,
           "_corrob": 2,
           "_cluster": [
             {
@@ -432,15 +462,41 @@
           "_via": "spaceflightnow.com",
           "source": "spaceflightnow.com",
           "_hash": "713436c622ac5aca",
-          "_ageHours": 7,
+          "_ageHours": 9,
           "_inWindow": true,
-          "_score": 51.92174277777778,
+          "_score": 50.08157777777778,
           "_corrob": 1,
           "_cluster": [
             {
-              "source": "syvnews.com",
+              "source": "santamariatimes.com",
               "title": "SpaceX set to launch U.S. Space Force mission early Saturday from Vandenberg SFB",
-              "link": "https://news.google.com/rss/articles/CBMijAJBVV95cUxQaDlhMEhBTmxhT05pYUpjbGR0cmtIa2NtejJFMmtkWlRqeE9xMHRXRzRHcDVMQ3kwUERjMXFqbllIbnY3R2hMbEs3NEdLVHI4UzJQZFNCaHhVcVFBT25CcHRBQWVLSjBBQ0RoNzk3V0NSaGNCRjVsWEpZd192d2VhTVA5Q05TMUQzNE9XcjZXQkNFamRGUkp5a1JuWUxXWE9oUHRrcnJQXy1VVXp5WXR1VWJTenFTZUpfQjVfNVI5MFhuSjNBYnFMSE5vbjBlZktKMTBGRTJVX0xTaUt1bjlOdGxObFZLVG93c0VNYUNoWUxCWmVXZ2tHWGFzVDRFaFVWX1BjZFMzazA3MDZo?oc=5"
+              "link": "https://news.google.com/rss/articles/CBMilwJBVV95cUxPc2lENENzQl9zM3RGeWJsMVZWZjVBMThrUWlxamJ3SkNMRDVkMGV4dl9DdGlxanZuRm5EbThVNkRINEV3OVlwQzh2dmdQMzhXQ016ZVhmV25Sa201cTktYkVGczJ1Y3l1Z3RTQWtZQnZOaEhTcjgwN2pyVGdmY0FfaEI3YXFuVGVoY1podHBncTZYS0RNTTZxLWZJakZNVDVWWENkeEdrWEtNUG8tRnlLOV9lZk9kZC1sS2tUUmh4M2VSa1k2UjlrT3V0QXg1dWFYRm94UlhWS0JMQ05WSHRrTmw4c1l5MFdRc3Z2cU1EUkNTa3RrV3F4OTBVdXlYMGotYWpyU2pNTDRsRy1XQWc2ODE1WXBPQ2s?oc=5"
+            },
+            {
+              "source": "spaceflightnow.com",
+              "title": "SpaceX Falcon 9 to launch classified mission for U.S. Space Force from West Coast",
+              "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPUmctMWhJYi1UMURmSE5DdVBPcXIySU0yWEJkWk52RF9kUHFfekp5RTNpVnF3dUsyWTRUOTk5dzY5REc1WXExUlEyeU52VWZ6OXpJWm5yMjg0MUZKS3Q2VnJabGw0OXNMU2ViM3lsV0lvWDlHS2lhVndSN1hoUmVjaVZBckJJNTdxc3pndUQzWktRdmlHTERVTnJhUUo1RkEyZmxXYnNYNHVRVFA5Y1IzLVBaRTJqSy1VQi1F?oc=5"
+            }
+          ]
+        },
+        {
+          "title": "APOD: 2026 September 26 – Mirrored Meteor and Milky Way",
+          "link": "https://science.nasa.gov/image-article/apod-2026-september-26-mirrored-meteor-and-milky-way/",
+          "date": "Sat, 26 Sep 2026 04:05:00 +0000",
+          "summary": "APOD Science APOD APOD: 2026 September 26 –… Today’s APOD Archive Submissions Index Search Calendar RSS Education About Discuss APOD Astronomy Picture of the Day Discover the cosmos! Each day a different image or photograph of our fascinating universe is featured, along with a brief explanation written by a professional astronomer. Mirrored Meteor and [&#8230;]",
+          "publisher": "",
+          "_via": "nasa.gov",
+          "source": "nasa.gov",
+          "_hash": "f97d7936644abeb7",
+          "_ageHours": 1,
+          "_inWindow": true,
+          "_score": 46.727689166666664,
+          "_corrob": 0,
+          "_cluster": [
+            {
+              "source": "nasa.gov",
+              "title": "APOD: 2026 September 25 – Globular Star Cluster Omega Centauri",
+              "link": "https://science.nasa.gov/image-article/apod-2026-september-25-globular-star-cluster-omega-centauri/"
             }
           ]
         },
@@ -453,9 +509,9 @@
           "_via": "nasa.gov",
           "source": "nasa.gov",
           "_hash": "a5b61ac6e66abcc5",
-          "_ageHours": 8,
+          "_ageHours": 10,
           "_inWindow": true,
-          "_score": 46.08729861111111,
+          "_score": 44.24713361111111,
           "_corrob": 0,
           "_cluster": []
         },
@@ -468,20 +524,15 @@
           "_via": "nasa.gov",
           "source": "nasa.gov",
           "_hash": "8deb7d06a0c7439d",
-          "_ageHours": 8,
+          "_ageHours": 9,
           "_inWindow": true,
-          "_score": 45.3686875,
+          "_score": 43.5285225,
           "_corrob": 1,
           "_cluster": [
             {
               "source": "earthsky.org",
               "title": "The Artemis Accords are rules for a new moon era",
               "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE02WXFRTlhGRTV2TGc0VkhDbHpvV2o1a0l3WUtCcTlvd3F0REVWZGpBcHlGQWVoczFQcEtyWVI5ZF9wUG50MGw5eERVYnIycy1sUWJUTXgwMUFqWWtqLWcyRG5XTFJHM1E?oc=5"
-            },
-            {
-              "source": "nasa.gov",
-              "title": "NASA Welcomes Côte d’Ivoire as Newest Artemis Accords Signatory",
-              "link": "https://www.nasa.gov/organizations/oiir/nasa-welcomes-cote-divoire-as-newest-artemis-accords-signatory/"
             }
           ]
         },
@@ -494,9 +545,9 @@
           "_via": "nasa.gov",
           "source": "nasa.gov",
           "_hash": "b3f2f5dbb826d4b8",
-          "_ageHours": 5,
+          "_ageHours": 7,
           "_inWindow": true,
-          "_score": 42.59840972222222,
+          "_score": 40.75824472222222,
           "_corrob": 0,
           "_cluster": []
         },
@@ -509,9 +560,9 @@
           "_via": "nasa.gov",
           "source": "nasa.gov",
           "_hash": "ef092bdfcd44eb3b",
-          "_ageHours": 12,
+          "_ageHours": 13,
           "_inWindow": true,
-          "_score": 42.38729861111111,
+          "_score": 40.547133333333335,
           "_corrob": 0,
           "_cluster": []
         },
@@ -524,9 +575,9 @@
           "_via": "nasa.gov",
           "source": "nasa.gov",
           "_hash": "e95c9bc74c0dd9e0",
-          "_ageHours": 10,
+          "_ageHours": 12,
           "_inWindow": true,
-          "_score": 37.83202083333333,
+          "_score": 35.99185583333333,
           "_corrob": 0,
           "_cluster": [
             {
@@ -545,9 +596,9 @@
           "_via": "nasa.gov",
           "source": "nasa.gov",
           "_hash": "dfdc690aa64414d3",
-          "_ageHours": 13,
+          "_ageHours": 15,
           "_inWindow": true,
-          "_score": 35.2486875,
+          "_score": 33.408522222222224,
           "_corrob": 0,
           "_cluster": []
         },
@@ -560,9 +611,9 @@
           "_via": "spaceflightnow.com",
           "source": "spaceflightnow.com",
           "_hash": "4439da6d8e2a65bf",
-          "_ageHours": 28,
+          "_ageHours": 30,
           "_inWindow": true,
-          "_score": 30.60618722222222,
+          "_score": 28.766022222222222,
           "_corrob": 1,
           "_cluster": [
             {
@@ -578,21 +629,6 @@
           ]
         },
         {
-          "title": "APOD: 2026 September 25 – Globular Star Cluster Omega Centauri",
-          "link": "https://science.nasa.gov/image-article/apod-2026-september-25-globular-star-cluster-omega-centauri/",
-          "date": "Fri, 25 Sep 2026 04:05:00 +0000",
-          "summary": "APOD Science APOD APOD: 2026 September 25 –… Today’s APOD Archive Submissions Index Search Calendar RSS Education About Discuss APOD Astronomy Picture of the Day Discover the cosmos! Each day a different image or photograph of our fascinating universe is featured, along with a brief explanation written by a professional astronomer. Globular Cluster Omega [&#8230;]",
-          "publisher": "",
-          "_via": "nasa.gov",
-          "source": "nasa.gov",
-          "_hash": "b8d50f0832e5b328",
-          "_ageHours": 23,
-          "_inWindow": true,
-          "_score": 24.567853888888887,
-          "_corrob": 0,
-          "_cluster": []
-        },
-        {
           "title": "Explosive Intensification for Hurricane Polo",
           "link": "https://science.nasa.gov/earth/earth-observatory/explosive-intensification-for-hurricane-polo/",
           "date": "Fri, 25 Sep 2026 04:01:00 +0000",
@@ -601,9 +637,9 @@
           "_via": "nasa.gov",
           "source": "nasa.gov",
           "_hash": "6383198b394d5a38",
-          "_ageHours": 23,
+          "_ageHours": 25,
           "_inWindow": true,
-          "_score": 24.50118722222222,
+          "_score": 22.661022222222222,
           "_corrob": 0,
           "_cluster": []
         }
@@ -613,57 +649,6 @@
       "name": "Bitcoin / Crypto",
       "candidates": [
         {
-          "title": "North Korean Hackers Linked to $388M Bitget Crypto Exchange Theft: CEO",
-          "link": "https://bitcoinmagazine.com/news/north-korea-linked-to-bitget-hack",
-          "date": "Fri, 25 Sep 2026 20:08:41 +0000",
-          "summary": "Bitcoin Magazine North Korean Hackers Linked to $388M Bitget Crypto Exchange Theft: CEO Crypto exchange Bitget has released more details on Thursday’s hack. This post North Korean Hackers Linked to $388M Bitget Crypto Exchange Theft: CEO first appeared on Bitcoin Magazine and is written by Mathew Di Salvo .",
-          "publisher": "",
-          "_via": "bitcoinmagazine.com",
-          "source": "bitcoinmagazine.com",
-          "_hash": "847373adb251e9ae",
-          "_ageHours": 7,
-          "_inWindow": true,
-          "_score": 67.62912305555555,
-          "_corrob": 3,
-          "_cluster": [
-            {
-              "source": "bitcoinmagazine.com",
-              "title": "North Korean Hackers Linked to $388M Bitget Crypto Exchange Theft: CEO",
-              "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBVWE13dV9nNVQ5QTN1NmdwQVk2VVZzU0hBYVZoVlo2cDl1d0cteHoyRGQ0QXljOHFPZnlBUkM0NHdMbEF6MmFTSlQ2bTVJbWR5UU5kbzllTnhKZUlnY1lWVmx5MWNDOGRGcWJSZ194Xy02UExo?oc=5"
-            },
-            {
-              "source": "bloomberg.com",
-              "title": "Bitget Hack Pushes North Korean Crypto Haul Past $1 Billion",
-              "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPTE1XSWM0dHZXSUNnNEdvZTBaRDhBUmFFUzlQOEtJOFRadDdvZUhOVTE0Yy1FcTRGWTZOLXVicG53dFhfS2wwRjVLZmFDdzBOcjdqaHRveGpfTVhQd003ZEw3Um5DUTROTFMzME8xWkE3SzZYUVBrZkdUNmp0a2dUNWZGVDM1N1piM0RkSjVBbkx1TnFwYl95QWJjTHJqd3FxY2xBZEUxSGFfVkE3akE?oc=5"
-            },
-            {
-              "source": "coindesk.com",
-              "title": "Circle and Tether step in to freeze hacker wallet after massive Bitget crypto heist",
-              "link": "https://www.coindesk.com/markets/2026/09/25/circle-and-tether-step-in-to-freeze-hacker-wallet-after-massive-bitget-crypto-heist"
-            },
-            {
-              "source": "ft.com",
-              "title": "Bitget crypto exchange hit by $390mn hack",
-              "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOVnotblJrazRfOTh4SWppazhaUWlhQ1pZaVJudDR2RFhaVUctYTFUa3ByRXZrTVZRTnY1NElYNnM3S3RJZy02ckYzTVlENEZBWTFWX3J3WDAxQ2tWeTNDdkR6THJlTVI0dkFRRzRCd1ZaaEprbFRpVnNBX3RLVThsMVhzMjE?oc=5"
-            },
-            {
-              "source": "bitcoinmagazine.com",
-              "title": "Nearly $352M Moved From Crypto Exchange Bitget Wallets in Suspected Hack",
-              "link": "https://bitcoinmagazine.com/news/bitget-suffers-352-million-hack"
-            },
-            {
-              "source": "bitcoinmagazine.com",
-              "title": "Nearly $352M Moved From Crypto Exchange Bitget Wallets In Suspected Hack",
-              "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE9DbFpDcG4tVmltY3JaaWFmWnVoQlZHMldxVDVtTWtxVEx5UWNXYnBUaV9sODQxX1huUUxnR0dQcFpBNGtaTHhPcjl0amJaRkRrZmtlejRuTWY5TW96VDkydUpBdmFLNEpodk00dGlxUW1mdw?oc=5"
-            },
-            {
-              "source": "coindesk.com",
-              "title": "Crypto exchange Bitget says $352 million affected in a hack, claims user funds are 'safe'",
-              "link": "https://www.coindesk.com/markets/2026/09/24/crypto-exchange-bitget-loses-usd352-million-in-hack-claims-user-funds-are-safe"
-            }
-          ]
-        },
-        {
           "title": "Bitcoin ETFs Extend Winning Streak With Nearly $3B in Inflows",
           "link": "https://bitcoinmagazine.com/news/bitcoin-etfs-bring-in-nearly-3-billion",
           "date": "Fri, 25 Sep 2026 19:55:01 +0000",
@@ -672,9 +657,9 @@
           "_via": "bitcoinmagazine.com",
           "source": "bitcoinmagazine.com",
           "_hash": "cd0e1e53ad9a47b3",
-          "_ageHours": 8,
+          "_ageHours": 9,
           "_inWindow": true,
-          "_score": 67.40134527777778,
+          "_score": 65.56119444444445,
           "_corrob": 3,
           "_cluster": [
             {
@@ -700,59 +685,90 @@
           ]
         },
         {
-          "title": "Strategy seeks shareholder approval for daily preferred stock dividends",
-          "link": "https://cointelegraph.com/news/strategy-seeks-shareholder-approval-daily-preferred-stock-dividends?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-          "date": "Fri, 25 Sep 2026 16:34:16 +0000",
-          "summary": "Strategy’s proposal would move STRC and its three other preferred stocks to daily dividend payments, following a similar move by Bitcoin treasury firm Strive.",
+          "title": "North Korean Hackers Linked to $388M Bitget Crypto Exchange Theft: CEO",
+          "link": "https://bitcoinmagazine.com/news/north-korea-linked-to-bitget-hack",
+          "date": "Fri, 25 Sep 2026 20:08:41 +0000",
+          "summary": "Bitcoin Magazine North Korean Hackers Linked to $388M Bitget Crypto Exchange Theft: CEO Crypto exchange Bitget has released more details on Thursday’s hack. This post North Korean Hackers Linked to $388M Bitget Crypto Exchange Theft: CEO first appeared on Bitcoin Magazine and is written by Mathew Di Salvo .",
           "publisher": "",
-          "_via": "cointelegraph.com",
-          "source": "cointelegraph.com",
-          "_hash": "c710da86823f829e",
-          "_ageHours": 11,
+          "_via": "bitcoinmagazine.com",
+          "source": "bitcoinmagazine.com",
+          "_hash": "847373adb251e9ae",
+          "_ageHours": 9,
           "_inWindow": true,
-          "_score": 58.05551222222222,
-          "_corrob": 3,
+          "_score": 60.78897222222222,
+          "_corrob": 2,
           "_cluster": [
             {
-              "source": "tradingview.com",
-              "title": "Strive preferred stock trades enough to buy 1,400 Bitcoin worth $117M",
-              "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNOVI1VVJ6Y2gtQ3o1YlBoU3Qzcm5BMVZUY1plcnhKb21uVEQwV2t6SUZWNHpKM1JZelZQcGJRamVxUlhQV3hOT0NsQ2tTcEZuX3U3dHBfSHQzSzdiclZFeWM1ZEZnZ0RkUjMwb1M1WGwxdTVhajlrZ2xaX0VUN0JaS0g3dUE3WG9PWkFJMGxOV1hrSXpoVjVUR0dCY01MOXBpcDV2U1pIb2dMd29QcTVqMWk3RXBGTy11bG02bVFyMlJWUEdPOWhRWFVtMGNaZw?oc=5"
+              "source": "bitcoinmagazine.com",
+              "title": "North Korean Hackers Linked to $388M Bitget Crypto Exchange Theft: CEO",
+              "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBVWE13dV9nNVQ5QTN1NmdwQVk2VVZzU0hBYVZoVlo2cDl1d0cteHoyRGQ0QXljOHFPZnlBUkM0NHdMbEF6MmFTSlQ2bTVJbWR5UU5kbzllTnhKZUlnY1lWVmx5MWNDOGRGcWJSZ194Xy02UExo?oc=5"
+            },
+            {
+              "source": "bloomberg.com",
+              "title": "Bitget Hack Pushes North Korean Crypto Haul Past $1 Billion",
+              "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPTE1XSWM0dHZXSUNnNEdvZTBaRDhBUmFFUzlQOEtJOFRadDdvZUhOVTE0Yy1FcTRGWTZOLXVicG53dFhfS2wwRjVLZmFDdzBOcjdqaHRveGpfTVhQd003ZEw3Um5DUTROTFMzME8xWkE3SzZYUVBrZkdUNmp0a2dUNWZGVDM1N1piM0RkSjVBbkx1TnFwYl95QWJjTHJqd3FxY2xBZEUxSGFfVkE3akE?oc=5"
+            },
+            {
+              "source": "coindesk.com",
+              "title": "Circle and Tether step in to freeze hacker wallet after massive Bitget crypto heist",
+              "link": "https://www.coindesk.com/markets/2026/09/25/circle-and-tether-step-in-to-freeze-hacker-wallet-after-massive-bitget-crypto-heist"
             },
             {
               "source": "bitcoinmagazine.com",
-              "title": "Bitcoin Treasury Strategy Proposes Daily Dividends For Preferred Stocks",
-              "link": "https://bitcoinmagazine.com/news/strategy-proposes-daily-dividends"
-            },
-            {
-              "source": "theblock.co",
-              "title": "Strategy proposes daily dividends for STRC, STRD, STRF and STRK preferred stocks",
-              "link": "https://www.theblock.co/news/business/2026-09-25-strategy-proposes-daily-dividends-for-strc-strd-strf-and-strk-preferred-stocks-416869"
+              "title": "Nearly $352M Moved From Crypto Exchange Bitget Wallets in Suspected Hack",
+              "link": "https://bitcoinmagazine.com/news/bitget-suffers-352-million-hack"
             },
             {
               "source": "bitcoinmagazine.com",
-              "title": "Bitcoin Treasury Strategy Proposes Daily Dividends For Preferred Stocks",
-              "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1sbC1id2tKNzFkeGxBUUdRRWh4Q2dKUW5uQk4tck9Yd2lldG5CejJqVXdGYmdzVk15ZFhBSGk1SU5uTjNBSFZxd0xKUXhxcVhxWlZjU2NhcVJXWE5rbkVWeXM0OUIwODA0RzMzZm9oZzlRREw0?oc=5"
+              "title": "Nearly $352M Moved From Crypto Exchange Bitget Wallets In Suspected Hack",
+              "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE9DbFpDcG4tVmltY3JaaWFmWnVoQlZHMldxVDVtTWtxVEx5UWNXYnBUaV9sODQxX1huUUxnR0dQcFpBNGtaTHhPcjl0amJaRkRrZmtlejRuTWY5TW96VDkydUpBdmFLNEpodk00dGlxUW1mdw?oc=5"
+            },
+            {
+              "source": "coindesk.com",
+              "title": "Crypto exchange Bitget says $352 million affected in a hack, claims user funds are 'safe'",
+              "link": "https://www.coindesk.com/markets/2026/09/24/crypto-exchange-bitget-loses-usd352-million-in-hack-claims-user-funds-are-safe"
             }
           ]
         },
         {
-          "title": "Shielded Bitcoin: Bitcoin privacy on L1 explained",
-          "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5pQ3VfU3dQNnVnQ3pGbmdzOTYtZzJ2anc0Y0VSX3dyQmc0WXBkV1dlT2NKOFV0alh3VmxVcDl6blhCdkFRZnlzNHd4cktOYzQwdDFsZVJiY2xRY1lQdTk0eC1Pb1ItWU5FN3lOV0FKbEkwaVA1RnpTY2tkdw?oc=5",
-          "date": "Sat, 26 Sep 2026 03:11:53 GMT",
-          "summary": "Shielded Bitcoin: Bitcoin privacy on L1 explained CryptoTicker",
-          "publisher": "cryptoticker.io",
-          "_via": "news.google.com",
-          "source": "cryptoticker.io",
-          "_hash": "7ce98db979b8ae8b",
-          "_ageHours": 0,
+          "title": "Bitcoin could soon get Zcash-style 'shielded' privacy without changing its rules",
+          "link": "https://www.coindesk.com/tech/2026/09/25/bitcoin-could-soon-get-zcash-style-shielded-privacy-without-changing-its-rules",
+          "date": "Sat, 26 Sep 2026 04:02:13 +0000",
+          "summary": "Researchers have mapped out private bitcoin-denominated transfers that run alongside Bitcoin, but the system still lacks a finished way to lock up real BTC and release it again.",
+          "publisher": "",
+          "_via": "coindesk.com",
+          "source": "coindesk.com",
+          "_hash": "e3e98f097cca0d0c",
+          "_ageHours": 1,
           "_inWindow": true,
-          "_score": 52.68245611111111,
+          "_score": 57.68119444444444,
           "_corrob": 1,
           "_cluster": [
             {
-              "source": "finance.yahoo.com",
-              "title": "These 2 Metrics Are Flashing Green for Bitcoin. So Is the Bitcoin Bear Market Finally Over?",
-              "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxOa2I4bFkzUEdPbUdaYTlrZ1FkN3hLMDdQYzh5cUc1ZnExRXZJUC1TVnVUNWp6RTVMT0h1Z0lKUTA2dUlwTTRtMFJma1B6R1JOX2pVRDNrS1hnWGtZSy1CQzU4bUwxd1pYemdsZ1BkT0dWcGpneVpTWHo4RGNfOEhnRE5nWnNUdkJhWlV6SHhadEdhU2NjUjBCNTN3cUlQdw?oc=5"
+              "source": "cointelegraph.com",
+              "title": "Researchers propose Zcash-style private Bitcoin transfers without a soft fork",
+              "link": "https://cointelegraph.com/news/shielded-bitcoin-zcash-style-privacy-no-soft-fork?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound"
+            }
+          ]
+        },
+        {
+          "title": "Inside the 'Shielded Bitcoin' paper that proposes private BTC payments using Zcash tech",
+          "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPZ29SYVlkYk0ycy1YR2tPWnpqaDlwOW5IOWNtMC1qMHF4YTFVek90emVmUXE5NXFuLVNLVkhJSVNVOGhzSG9xQkZlN0RuMnZfc2FvWVgtbXZ6S3c4V0hPX0VhOFdWdXhhOWVFdWFQaFBtX2ZlMzlhS2JBRGs5bXR5UC1faUM5UzZ5a0daZ2NTMnB1MGIybER6WHJFR3hwZURhbU56bVpZNEpDdDJuRzRqNXdKMGpGSGg5Skpv?oc=5",
+          "date": "Sat, 26 Sep 2026 04:02:13 GMT",
+          "summary": "Inside the 'Shielded Bitcoin' paper that proposes private BTC payments using Zcash tech CoinDesk",
+          "publisher": "coindesk.com",
+          "_via": "news.google.com",
+          "source": "coindesk.com",
+          "_hash": "6e035cd7c84b24ec",
+          "_ageHours": 1,
+          "_inWindow": true,
+          "_score": 56.681194166666664,
+          "_corrob": 2,
+          "_cluster": [
+            {
+              "source": "cryptoticker.io",
+              "title": "Shielded Bitcoin: Bitcoin privacy on L1 explained",
+              "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5pQ3VfU3dQNnVnQ3pGbmdzOTYtZzJ2anc0Y0VSX3dyQmc0WXBkV1dlT2NKOFV0alh3VmxVcDl6blhCdkFRZnlzNHd4cktOYzQwdDFsZVJiY2xRY1lQdTk0eC1Pb1ItWU5FN3lOV0FKbEkwaVA1RnpTY2tkdw?oc=5"
             },
             {
               "source": "finance.yahoo.com",
@@ -762,54 +778,80 @@
           ]
         },
         {
+          "title": "Bitcoin Treasury Strategy Proposes Daily Dividends For Preferred Stocks",
+          "link": "https://bitcoinmagazine.com/news/strategy-proposes-daily-dividends",
+          "date": "Fri, 25 Sep 2026 15:39:53 +0000",
+          "summary": "Bitcoin Magazine Bitcoin Treasury Strategy Proposes Daily Dividends For Preferred Stocks Strategy stockholders are being asked to attend a meeting to approve daily dividends on STRF, STRC, STRK, and STRD. This post Bitcoin Treasury Strategy Proposes Daily Dividends For Preferred Stocks first appeared on Bitcoin Magazine and is written by Mathew Di Salvo .",
+          "publisher": "",
+          "_via": "bitcoinmagazine.com",
+          "source": "bitcoinmagazine.com",
+          "_hash": "952472b5492e905d",
+          "_ageHours": 14,
+          "_inWindow": true,
+          "_score": 55.30897222222222,
+          "_corrob": 3,
+          "_cluster": [
+            {
+              "source": "theblock.co",
+              "title": "Strategy proposes daily dividends for STRC, STRD, STRF and STRK preferred stocks",
+              "link": "https://www.theblock.co/news/business/2026-09-25-strategy-proposes-daily-dividends-for-strc-strd-strf-and-strk-preferred-stocks-416869"
+            },
+            {
+              "source": "bitcoinmagazine.com",
+              "title": "Bitcoin Treasury Strategy Proposes Daily Dividends For Preferred Stocks",
+              "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1sbC1id2tKNzFkeGxBUUdRRWh4Q2dKUW5uQk4tck9Yd2lldG5CejJqVXdGYmdzVk15ZFhBSGk1SU5uTjNBSFZxd0xKUXhxcVhxWlZjU2NhcVJXWE5rbkVWeXM0OUIwODA0RzMzZm9oZzlRREw0?oc=5"
+            },
+            {
+              "source": "coindesk.com",
+              "title": "Strategy proposes daily dividends to bring STRC back toward $100",
+              "link": "https://www.coindesk.com/markets/2026/09/25/strategy-proposes-daily-dividends-to-bring-strc-back-toward-usd100"
+            },
+            {
+              "source": "cointelegraph.com",
+              "title": "Sequans exits Bitcoin treasury strategy after selling remaining 314 BTC",
+              "link": "https://cointelegraph.com/news/sequans-exits-bitcoin-treasury-strategy-after-selling-remaining-314-btc?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound"
+            }
+          ]
+        },
+        {
+          "title": "Bitcoin holds near $84,000 as rising bond yields offset regulatory progress",
+          "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQVEZSSVlJQzI4RHpua0JDNEs0X296RGtxTTFpb2ZmcjlxYW80Z1Ixa21jbEJobGIzazhkbTdHRWZsZkVsWmJKMWRueC0zbFhIdHh4LTRlVm5hT04zQ1c3Nnl1ZTJzblZJS1ozQUkxeXduamJPdmVhamZJeVJOUHRjS2pfYjh2MldqSmpDcG4xQ0x6aWVWS1lpYjRNTDdUR0JwZnFXQVMzdkw0ODBQMF9zdGQyT2NTUTUxRW5Rd0l6N0hJQ3Z5SmRzOExVSVA?oc=5",
+          "date": "Sat, 26 Sep 2026 04:59:24 GMT",
+          "summary": "Bitcoin holds near $84,000 as rising bond yields offset regulatory progress Investing.com",
+          "publisher": "investing.com",
+          "_via": "news.google.com",
+          "source": "investing.com",
+          "_hash": "7911e81ebbcab755",
+          "_ageHours": 0,
+          "_inWindow": true,
+          "_score": 52.63424972222222,
+          "_corrob": 1,
+          "_cluster": [
+            {
+              "source": "coindesk.com",
+              "title": "Bitcoin slides to $83,300 as bond yields hit highest level since 2007",
+              "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOSTlxVXZ5ZHR3Um00TURFZW9oUjBfb0QyeGhUMlBBQkpndEJyYWJIdVVZTnNpSU5aYU5vTU5QelhiZGg0SlFmbFpMcE1xQTE3V3BXY3Zvamx1NENsOElxYWd6YlNNdnYzSHF0OUhiQ0hUdkM1TVpyaFdna3RPYWROMDhrNnVCV1Rsa0NzUVh3YXdqWXpYRERNT1BEc3h2M1lDUFQ4azl3bV81MWswRXc?oc=5"
+            }
+          ]
+        },
+        {
           "title": "Market Value of Bitcoin-Buying Public Companies Drops $83 Billion",
           "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9kWGxUMGlYZW1ycHoyd2dYOVJXVk5wb25EYWJGbWE3V2FiZERmOXBWMTBDQWNndTNCbFhoYlBidFI3ZnBWaG9NbGdxVFVJWURSaXNraA?oc=5",
           "date": "Sat, 26 Sep 2026 02:46:30 GMT",
-          "summary": "Market Value of Bitcoin-Buying Public Companies Drops $83 Billion en.bloomingbit.io",
+          "summary": "Market Value of Bitcoin-Buying Public Companies Drops $83 Billion bloomingbit",
           "publisher": "en.bloomingbit.io",
           "_via": "news.google.com",
           "source": "en.bloomingbit.io",
           "_hash": "bba8ce195cc300b8",
-          "_ageHours": 1,
+          "_ageHours": 3,
           "_inWindow": true,
-          "_score": 52.25940055555556,
+          "_score": 50.41924972222222,
           "_corrob": 1,
           "_cluster": [
             {
               "source": "investors.com",
               "title": "MSTR Stock: Strategy's Bitcoin Buying Struggle Has A New Fix",
               "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPZEVEaVV0eWpXNW5sQUg2UWNqeDVBTUxwc1dTQWFrNmZoLUhZc29JOGlsMnNLejhpdjlXNWNXcTJ0VGlHUjNPY2lzYW1JRTVEUnBQTzFDeTNsMkY3ZmVlZldHZjVZelJ1RnBja09fdmZyR0paNFJGeXNQZmJ0R3E3RzVLb1U1aTcyTHVJZm12NXRZWlZCV0FZ?oc=5"
-            }
-          ]
-        },
-        {
-          "title": "Is US Defence Secretary Pete Hegseth a Bitcoiner? This Is What His Accounts Say",
-          "link": "https://bitcoinmagazine.com/news/is-us-defence-secretary-pete-hegseth-a-bitcoiner-this-is-what-his-accounts-say",
-          "date": "Fri, 25 Sep 2026 15:35:30 +0000",
-          "summary": "Bitcoin Magazine Is US Defence Secretary Pete Hegseth a Bitcoiner? This Is What His Accounts Say U.S. Defence Secretary Pete Hegseth has millions of dollars in investments. But how much of it is in bitcoin? This post Is US Defence Secretary Pete Hegseth a Bitcoiner? This Is What His Accounts Say first appeared on Bitcoin Magazine and is written by Mathew Di Salvo .",
-          "publisher": "",
-          "_via": "bitcoinmagazine.com",
-          "source": "bitcoinmagazine.com",
-          "_hash": "2395eba939455611",
-          "_ageHours": 12,
-          "_inWindow": true,
-          "_score": 52.0760675,
-          "_corrob": 2,
-          "_cluster": [
-            {
-              "source": "bitcoinmagazine.com",
-              "title": "Is US Defence Secretary Pete Hegseth A Bitcoiner? This Is What His Accounts Say",
-              "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQUjFxVlhSNUJjMGlWZG1tOGVVN0JJb2J0RjY0QWoxcURLNmlmdkJuaExOSHBGV2tCNlg0NEhoX29DRllIUHlqSTlZdS16NV9lWU04bHZZb21tRzV1QmFjS1ptcC1lZEswU0w0YzNYUlc4ZFVBVHpwbEpENEd6b1QyMTI3S2JSME8wN3pOSUZRcTN5cEwtd25jaGxNSFhLSnNrTXNqM0lOWDRWODBMOTFwdQ?oc=5"
-            },
-            {
-              "source": "decrypt.co",
-              "title": "Defense Secretary Pete Hegseth Holds Bitcoin in a Coinbase Wallet, Filing Shows",
-              "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOSXR3aUNtU0ZVTGtyTkQ1ZWt4a0pVN0ZHT0ZTa1lzMEtQdkkzNkJmcXQzSTNiN3c2NmNWdUdsQmpnRGUxTnVJd0tzQTJkdEtPZUNybE9SRVRNWnpoeldNWWxrVjZhTFN4dnFaUFpYOE8xcFZqUDRHTTlFUFhvSFM2bTVaX0FvcFdQRHdLclJ2TXhodFBhOGNqa0xlcjhkd21ORUZKN2ZyWQ?oc=5"
-            },
-            {
-              "source": "cnbc.com",
-              "title": "Pete Hegseth reports at least $3.1 million in cash, investments and bitcoin",
-              "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOQ0RlVlJpRHZNd2Rvajd3OVlGTElKaVpXOGVLUXpiLXNDN25UVFdwY1JQSmppeWFwMHQwQ3UzemxULVFaZUw2aTRPWVBBdzVYSFZiZXhaa19zczUxbktMN1VJR2NfS21JWWFmUFpsNks5UUZqRjZSRVhzVjRHVXB3bGRSTkZhU3BWRVg5dC1OT3JlNXhoNzYtLU5KSdIBoAFBVV95cUxQM2VhYlNzZmlMQnBsVlY4ejRxdjBWS0dZeUtmUGp6bGhGN0paNGdveUxwaWhaMEhEbHJ5a3ppeERudzVwT1hQMUJEa09wcHZ2TkFCTzEtRzFhSGVjNGZPUS1FRUJpNm5YUlpyOWgwR0JSc3d3SElfTXFGTGgwYmM4Mlp2QmF5S0FXeHBRbHhxblc2ZmVkSVpsTXhaTmJnYThJ?oc=5"
             }
           ]
         },
@@ -822,9 +864,9 @@
           "_via": "cointelegraph.com",
           "source": "cointelegraph.com",
           "_hash": "23fdd4198333f0f4",
-          "_ageHours": 7,
+          "_ageHours": 9,
           "_inWindow": true,
-          "_score": 50.928845555555554,
+          "_score": 49.08869444444444,
           "_corrob": 2,
           "_cluster": [
             {
@@ -848,9 +890,9 @@
           "_via": "news.google.com",
           "source": "investing.com",
           "_hash": "95f79a08e415fff6",
-          "_ageHours": 7,
+          "_ageHours": 9,
           "_inWindow": true,
-          "_score": 50.58023388888889,
+          "_score": 48.74008305555556,
           "_corrob": 2,
           "_cluster": [
             {
@@ -866,28 +908,28 @@
           ]
         },
         {
-          "title": "Is StoneX or Bitwise Right About Bitcoin and Gold?",
-          "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPVWl4ZVNuUzFKODlfSmlINXMwdEVTa0JJNXBhSE1kRWlKUzctZGZXQ0p6c25oRWJPWmkyZ1kwbElzTVVrb0NPclVhNlN6eGlpUGc4Ulc4NlV0bjJwMFR0TlhsTXVjbnQ3Y0thcVJ2U2lMY1hkb0h3TFc2NjlBQkR3RmdmNWRTOWFDcld0Wk5nNkVrWVg2NTF3?oc=5",
-          "date": "Fri, 25 Sep 2026 19:27:07 GMT",
-          "summary": "Is StoneX or Bitwise Right About Bitcoin and Gold? finance.yahoo.com",
+          "title": "These 2 Metrics Are Flashing Green for Bitcoin. So Is the Bitcoin Bear Market Finally Over?",
+          "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxOa2I4bFkzUEdPbUdaYTlrZ1FkN3hLMDdQYzh5cUc1ZnExRXZJUC1TVnVUNWp6RTVMT0h1Z0lKUTA2dUlwTTRtMFJma1B6R1JOX2pVRDNrS1hnWGtZSy1CQzU4bUwxd1pYemdsZ1BkT0dWcGpneVpTWHo4RGNfOEhnRE5nWnNUdkJhWlV6SHhadEdhU2NjUjBCNTN3cUlQdw?oc=5",
+          "date": "Fri, 25 Sep 2026 18:06:00 GMT",
+          "summary": "These 2 Metrics Are Flashing Green for Bitcoin. So Is the Bitcoin Bear Market Finally Over? Yahoo Finance",
           "publisher": "finance.yahoo.com",
           "_via": "news.google.com",
           "source": "finance.yahoo.com",
-          "_hash": "40ed13fbc331c0e6",
-          "_ageHours": 8,
+          "_hash": "e8847f02050cae96",
+          "_ageHours": 11,
           "_inWindow": true,
-          "_score": 49.936345277777775,
+          "_score": 46.74424972222222,
           "_corrob": 2,
           "_cluster": [
             {
-              "source": "247wallst.com",
-              "title": "Is StoneX or Bitwise Right About Bitcoin and Gold?",
-              "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQaVQ5NUcyaUhNTldQV3pnU01kYzJiLTR5aDViZ0dNLVkxYU9ZYlE1dkxYSl9nZWR5blNwQm5lXzJDbGZkYm1Ib2l2bU9sSjBkSFZqQ1lOY3NoQWlnU1lCcUpnZ3h1T1FpWEJkS2VJSW8tSUpUS3BjRkNKN01vZ0VhWmpXb2ZoS3ZxUzJMX3I5U2ZCbTVpYW1LTDh4S3BBY0JKOTZzbUYya21GU29f?oc=5"
+              "source": "finchannel.com",
+              "title": "Crypto Adoption Survived the 2026 Bear Market as Stablecoins and Bitcoin Reshaped Global Use",
+              "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxOYW02SmpqU3BvaWpxTDJoLTBHZmxKcHpIQmxzYkQwMW9jblRsc3hJa2x6dDRrSkZhdmVKY044UlltRFliZTRTNzM4bHJhNkVSU1NmLTRRamJJTVlXQjkteWx0b1Y1bjl5SkJRRkVLZTBabEpnWDduT2tEcG83WEEyUU9uQkxVeWFMUENEWkVFSDRFUTdnbTRjVlRxSVZQWUZJQ0ZTWW44dDJHdzdaa2p6V1RRQlpRSXpyckQwRURHMmRpUm1LMVF3amwxZEJQazhZSV82dWlR?oc=5"
             },
             {
-              "source": "news.kalshi.com",
-              "title": "Bitcoin vs. Gold: Which asset will perform better in 2026?",
-              "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPdDhTU2RuOTM1blBDV0xRNkZNLVNucFVFQ3NLcVNLUjlQUWU3RUlGNGU5dExmdXI0NjR5Yk96SGdhNlpGaUd1WUZiYTExYVRwTHRicF9VaDh4cG82TjNkVjM5Y3k5S3ZHRkNJN1VwdUFESm9Vb1dqRmlfeTg4ODU5eGdRZFI4Uy15MjN2Yk1nTQ?oc=5"
+              "source": "coindesk.com",
+              "title": "Bitcoin’s bear markets are getting milder. The bull markets may be next",
+              "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNUFNLakxtTDZaNFZOZnV5OHAza09OTUpIRWZBeUlzV2MxTXZLYkNUb0l1ZDhwYWdHMTJYUHNfRjZ1c1Q2YUFHenMwRGowdG5IZkRObUlJeEl5WDZ1N0hkbVhKMEtHZ1pxeVVUX0k4T0Z6Rk5WSVBVRGVyOVhSWnpBcVp2N3ZmRG9KdW1ia1MtT2xWSDZIb0JLM3U4Y1NtNGNGaVpaWmhISkRLY0R2cWVDYWtFcV8?oc=5"
             }
           ]
         },
@@ -900,9 +942,9 @@
           "_via": "theblock.co",
           "source": "theblock.co",
           "_hash": "b68c06dac3793c45",
-          "_ageHours": 10,
+          "_ageHours": 12,
           "_inWindow": true,
-          "_score": 48.28884527777778,
+          "_score": 46.44869444444444,
           "_corrob": 2,
           "_cluster": [
             {
@@ -926,36 +968,15 @@
           "_via": "cointelegraph.com",
           "source": "cointelegraph.com",
           "_hash": "9e489113a0eb5f1a",
-          "_ageHours": 12,
+          "_ageHours": 14,
           "_inWindow": true,
-          "_score": 47.31051222222222,
+          "_score": 45.47036111111111,
           "_corrob": 1,
           "_cluster": [
             {
               "source": "coindesk.com",
               "title": "Bond volatility surges while bitcoin and Wall Street stay calm",
               "link": "https://www.coindesk.com/markets/2026/09/25/bond-volatility-surges-while-bitcoin-and-wall-street-stay-calm"
-            }
-          ]
-        },
-        {
-          "title": "Another appeals court rules against prediction market provider Kalshi, says sports contracts are subject to state regulations",
-          "link": "https://www.coindesk.com/policy/2026/09/25/another-appeals-court-rules-against-prediction-market-provider-kalshi-says-sports-contracts-are-subject-to-state-regulations",
-          "date": "Fri, 25 Sep 2026 21:17:30 +0000",
-          "summary": "A Sixth Circuit Court of Appeals panel ruled that prediction markets' sports-related events contracts are not swaps, and therefore aren't subject to federal regulatory oversight.",
-          "publisher": "",
-          "_via": "coindesk.com",
-          "source": "coindesk.com",
-          "_hash": "6a26d6183eb0cb33",
-          "_ageHours": 6,
-          "_inWindow": true,
-          "_score": 46.776067777777776,
-          "_corrob": 1,
-          "_cluster": [
-            {
-              "source": "bitcoinmagazine.com",
-              "title": "New York Sues Polymarket, Calling Prediction Market an Illegal Gambling Operation",
-              "link": "https://bitcoinmagazine.com/news/new-york-sues-polymarket"
             }
           ]
         }
@@ -973,9 +994,9 @@
           "_via": "endpoints.news",
           "source": "endpoints.news",
           "_hash": "054c4378afc41666",
-          "_ageHours": 11,
+          "_ageHours": 13,
           "_inWindow": true,
-          "_score": 54.33980888888889,
+          "_score": 52.49921916666666,
           "_corrob": 1,
           "_cluster": [
             {
@@ -994,9 +1015,9 @@
           "_via": "statnews.com",
           "source": "statnews.com",
           "_hash": "bb7d210dcb7cf68e",
-          "_ageHours": 10,
+          "_ageHours": 12,
           "_inWindow": true,
-          "_score": 53.31869777777778,
+          "_score": 51.47810833333333,
           "_corrob": 3,
           "_cluster": [
             {
@@ -1025,9 +1046,9 @@
           "_via": "statnews.com",
           "source": "statnews.com",
           "_hash": "c60e5fbd7cb13745",
-          "_ageHours": 12,
+          "_ageHours": 14,
           "_inWindow": true,
-          "_score": 52.90369777777778,
+          "_score": 51.06310805555556,
           "_corrob": 1,
           "_cluster": [
             {
@@ -1051,9 +1072,9 @@
           "_via": "news.google.com",
           "source": "genomeweb.com",
           "_hash": "d19f3ffaebcb0bf5",
-          "_ageHours": 13,
+          "_ageHours": 15,
           "_inWindow": true,
-          "_score": 51.85091944444444,
+          "_score": 50.010329999999996,
           "_corrob": 1,
           "_cluster": [
             {
@@ -1072,9 +1093,9 @@
           "_via": "statnews.com",
           "source": "statnews.com",
           "_hash": "081307d2a62a0ad5",
-          "_ageHours": 2,
+          "_ageHours": 4,
           "_inWindow": true,
-          "_score": 51.54480888888889,
+          "_score": 49.70421944444445,
           "_corrob": 0,
           "_cluster": []
         },
@@ -1087,9 +1108,9 @@
           "_via": "news.google.com",
           "source": "newscientist.com",
           "_hash": "c432bb8563cfe093",
-          "_ageHours": 16,
+          "_ageHours": 18,
           "_inWindow": true,
-          "_score": 47.59369722222222,
+          "_score": 45.75310777777778,
           "_corrob": 2,
           "_cluster": [
             {
@@ -1113,9 +1134,9 @@
           "_via": "news.google.com",
           "source": "benzinga.com",
           "_hash": "ff3c88ea12729d64",
-          "_ageHours": 6,
+          "_ageHours": 8,
           "_inWindow": true,
-          "_score": 46.990919444444444,
+          "_score": 45.150329722222224,
           "_corrob": 1,
           "_cluster": [
             {
@@ -1134,36 +1155,15 @@
           "_via": "endpoints.news",
           "source": "endpoints.news",
           "_hash": "a4d3965ce49e45ac",
-          "_ageHours": 8,
+          "_ageHours": 10,
           "_inWindow": true,
-          "_score": 46.26092,
+          "_score": 44.42033027777778,
           "_corrob": 0,
           "_cluster": [
             {
               "source": "endpoints.news",
               "title": "To get drugmakers into ultra-rare disease, the answer isn’t rare disease at all",
               "link": "https://endpoints.news/to-get-drugmakers-into-ultra-rare-disease-the-answer-isnt-rare-disease-at-all/"
-            }
-          ]
-        },
-        {
-          "title": "PRIMA Names Natalie Lefevre Wellness Ambassador to Expand Longevity Partnerships",
-          "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOaDl4MlI2Y19jWjlBY2Q3VzRPckVWYVVKdUxXX2xoLVFKbDFiUkI4VktpLV9xU1RwbXpya2xEa0tLRGNUTW1sN2tmbWpSejBhYXZ1WmNXVUJXRmp2UW52U0Q5eUNRaFFmWGduTTZhdG5iT1FoQm1MWTQ1Zm1ZYmZ1VE5SR184QXlyQm8xSWpCdnp5VHhXbzBlb0x4ejM4NVZSTVlJekluaUZNa3lYelV0QldnMVdPRW5PUUVj?oc=5",
-          "date": "Fri, 25 Sep 2026 14:37:10 GMT",
-          "summary": "PRIMA Names Natalie Lefevre Wellness Ambassador to Expand Longevity Partnerships citybiz",
-          "publisher": "citybiz.co",
-          "_via": "news.google.com",
-          "source": "citybiz.co",
-          "_hash": "f6a045f8a6ae244d",
-          "_ageHours": 13,
-          "_inWindow": true,
-          "_score": 46.103696944444444,
-          "_corrob": 1,
-          "_cluster": [
-            {
-              "source": "prnewswire.com",
-              "title": "Global Longevity Strategist Natalie Lefevre Joins PRIMA to Expand Wellness and Longevity Partnerships",
-              "link": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxPaUJpNVgwMzNBc2NSaVVXVEhlbGZoMm05MnJhcS1EdXVVYmQ2VGhmUUExb1VoY0xsUEgtMlo2Y3hVaDduSFpVSGNmTC1ralRISk1MUUZTb2VURDRBYXllMUdKcW1JWnhqX1dJTlZSU0N1bElaUy1CTFhKZmZMS1NRS2pZeDVsTXFncFp3U3hGNEh4XzFIWkthNDBEZFp3UWx2TFE5WlBuaUR0QkwwRVF4R3BLSjBhQjJvUXdpM0hWMW9hRWF5LUg0UUVuajRJcXNDV1AyUGRIbWoxenJqVTB6TUU3cFN6T2RxZHk0YmV3?oc=5"
             }
           ]
         },
@@ -1176,9 +1176,9 @@
           "_via": "endpoints.news",
           "source": "endpoints.news",
           "_hash": "785a210790e797e6",
-          "_ageHours": 14,
+          "_ageHours": 15,
           "_inWindow": true,
-          "_score": 45.49480888888889,
+          "_score": 43.654219166666664,
           "_corrob": 1,
           "_cluster": [
             {
@@ -1202,9 +1202,9 @@
           "_via": "news.google.com",
           "source": "axios.com",
           "_hash": "3cdd72462b16cb59",
-          "_ageHours": 8,
+          "_ageHours": 10,
           "_inWindow": true,
-          "_score": 44.741197222222226,
+          "_score": 42.90060777777778,
           "_corrob": 1,
           "_cluster": [
             {
@@ -1223,9 +1223,9 @@
           "_via": "endpoints.news",
           "source": "endpoints.news",
           "_hash": "ccb145372a340ea6",
-          "_ageHours": 14,
+          "_ageHours": 15,
           "_inWindow": true,
-          "_score": 44.49258666666667,
+          "_score": 42.65199694444445,
           "_corrob": 2,
           "_cluster": [
             {
@@ -1244,6 +1244,21 @@
               "link": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxPeWliaTVMNDNfZkY0UXlUZm83TE1VSUFYN0ZWOU5hS0l3d1FnWjhNaWtmRlE0czE2Sk03aVh5NW5MMmdkUkRJNHYtOXlOX2lHQXFTNmhFWVpNUUJCM09CWG9Hekl3bnlJRWR1djQ4anJBZjZXcTQtNU13djRTWmpOcjFCNHNOMUYyWGdCTmkzVEo4MTZVYTMtbmRaQmlTTkNNa2wxY0NnYzA5ZmczcUF0WC1GcDdyc3lnak9MVTR0OF9ON0JSbDNpSjdhbGxGaFRlX2xNR0RacnY3U2tJMXNnUUE4ajJHcTlQTVcxVkNPMldoU3h4V0pnT1hfbHU?oc=5"
             }
           ]
+        },
+        {
+          "title": "Green-synthesized copper nanoparticles differentially modulate germination and selected stress-response genes in Phelipanche aegyptiaca",
+          "link": "https://www.nature.com/articles/s41598-026-70308-9",
+          "date": "Sat, 26 Sep 2026 00:00:00 +0000",
+          "summary": "",
+          "publisher": "",
+          "_via": "nature.com",
+          "source": "nature.com",
+          "_hash": "70162f0140dba8f0",
+          "_ageHours": 5,
+          "_inWindow": true,
+          "_score": 42.64366361111111,
+          "_corrob": 0,
+          "_cluster": []
         }
       ]
     },
@@ -1259,9 +1274,9 @@
           "_via": "cleantechnica.com",
           "source": "cleantechnica.com",
           "_hash": "c4314afc8e950200",
-          "_ageHours": 4,
+          "_ageHours": 6,
           "_inWindow": true,
-          "_score": 67.9989913888889,
+          "_score": 66.15837638888888,
           "_corrob": 0,
           "_cluster": []
         },
@@ -1274,9 +1289,9 @@
           "_via": "cleantechnica.com",
           "source": "cleantechnica.com",
           "_hash": "72237b6dbb1b5971",
-          "_ageHours": 3,
+          "_ageHours": 5,
           "_inWindow": true,
-          "_score": 66.78454694444444,
+          "_score": 64.94393194444444,
           "_corrob": 2,
           "_cluster": [
             {
@@ -1305,9 +1320,9 @@
           "_via": "cleantechnica.com",
           "source": "cleantechnica.com",
           "_hash": "d3594b67814b0a13",
-          "_ageHours": 1,
+          "_ageHours": 2,
           "_inWindow": true,
-          "_score": 65.36538027777777,
+          "_score": 63.524765277777774,
           "_corrob": 0,
           "_cluster": []
         },
@@ -1320,9 +1335,9 @@
           "_via": "news.google.com",
           "source": "wsbt.com",
           "_hash": "056165ab81ad6aca",
-          "_ageHours": 7,
+          "_ageHours": 9,
           "_inWindow": true,
-          "_score": 62.17065777777778,
+          "_score": 60.33004277777778,
           "_corrob": 3,
           "_cluster": [
             {
@@ -1348,6 +1363,21 @@
           ]
         },
         {
+          "title": "XPENG Grows in Malaysia, &#038; Readies G9L for Global Launch",
+          "link": "https://cleantechnica.com/2026/09/25/xpeng-grows-in-malaysia-readies-g9l-for-global-launch/",
+          "date": "Sat, 26 Sep 2026 03:57:25 +0000",
+          "summary": "Raymond just covered XPENG&#8217;s launch in the Philippines earlier today, but we also have news from the past week of the company expanding significantly in Malaysia and planning the launch of the G9L in 64 markets around the world. We&#8217;d love to see XPENG launch in the United States, but ... [continued] The post XPENG Grows in Malaysia, &#038; Readies G9L for Global Launch appeared first on CleanTechnica .",
+          "publisher": "",
+          "_via": "cleantechnica.com",
+          "source": "cleantechnica.com",
+          "_hash": "6c1b5dc384d5d504",
+          "_ageHours": 1,
+          "_inWindow": true,
+          "_score": 58.600320833333335,
+          "_corrob": 0,
+          "_cluster": []
+        },
+        {
           "title": "Commercially viable fusion energy could be closer with new fuel approach",
           "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNc1dCTEQyV19LbUFpVzZGaHoyekM4TTJUX0pKMVg4MjE4djlMVUROR3lSOENaWmlienBnYTlUbjItNkI1Z1NicUZoNUdxUXpMSHFub0ZWMUVCWTNKNTFuVFhHV3pmNDVnQ3BBa3MtYVhUR25fOUwtWjQxdjNRcDJqX2RXOW5zald1YW1ieERR?oc=5",
           "date": "Sat, 26 Sep 2026 03:16:00 GMT",
@@ -1356,9 +1386,9 @@
           "_via": "news.google.com",
           "source": "interestingengineering.com",
           "_hash": "5bdae8c2e549375f",
-          "_ageHours": 0,
+          "_ageHours": 2,
           "_inWindow": true,
-          "_score": 58.750657777777775,
+          "_score": 56.910042777777775,
           "_corrob": 1,
           "_cluster": [
             {
@@ -1377,9 +1407,9 @@
           "_via": "cleantechnica.com",
           "source": "cleantechnica.com",
           "_hash": "5bd38b53a140d469",
-          "_ageHours": 2,
+          "_ageHours": 4,
           "_inWindow": true,
-          "_score": 57.88093583333333,
+          "_score": 56.04032083333333,
           "_corrob": 0,
           "_cluster": []
         },
@@ -1392,9 +1422,9 @@
           "_via": "news.google.com",
           "source": "renewableenergymagazine.com",
           "_hash": "07295784422bfd4c",
-          "_ageHours": 12,
+          "_ageHours": 14,
           "_inWindow": true,
-          "_score": 51.51593555555556,
+          "_score": 49.67532055555556,
           "_corrob": 2,
           "_cluster": [
             {
@@ -1413,14 +1443,14 @@
           "title": "Residents hear arguments over proposed Eugene Clean Energy Fund fee",
           "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQVHpleS1UaGFhSXZYNHJPbEJhN2Q5ZUtheVVyNGN2aGYtRVZWNlY4MXJJSEZITDR4dWFBbmZuWF9tY3dPbXU0THBXeFJZekQyd0w3ODRCdE1RMTYyYktnM2lUdGVXa2xiSHBKQ1ZxZ0FGN2hWbmlueWluR1U1UVhYVjA3cVhvUnJ0U2xfd3VPVFRlRE50Sl9jUHc5WWphSG1ZalZkQzNPNTRTbi1OX1lDZTg2ckdJbWFaMlBkSk1tNVU4NGg5STZldVZLRVFlUQ?oc=5",
           "date": "Sat, 26 Sep 2026 01:01:13 GMT",
-          "summary": "Residents hear arguments over proposed Eugene Clean Energy Fund fee KVAL",
+          "summary": "Residents hear arguments over proposed Eugene Clean Energy Fund fee kval.com",
           "publisher": "kval.com",
           "_via": "news.google.com",
           "source": "kval.com",
           "_hash": "2032ef8f05fa5227",
-          "_ageHours": 2,
+          "_ageHours": 4,
           "_inWindow": true,
-          "_score": 50.50426888888889,
+          "_score": 48.66365388888889,
           "_corrob": 1,
           "_cluster": [
             {
@@ -1444,9 +1474,9 @@
           "_via": "cleantechnica.com",
           "source": "cleantechnica.com",
           "_hash": "832669ac6a6d6f17",
-          "_ageHours": 4,
+          "_ageHours": 6,
           "_inWindow": true,
-          "_score": 50.22621361111111,
+          "_score": 48.385598611111114,
           "_corrob": 0,
           "_cluster": []
         },
@@ -1454,14 +1484,14 @@
           "title": "The push for nuclear energy in South Carolina",
           "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPaG94OTRDdlFzc29xNW43bERlOGYzanl1bGtDZ3E1WE90UTIweWdoakRVaGRoUkh4dlJPejF3MlBEc2FYdWFZMHVyR09TaFpWX3d4aUxfWTVqb3VzVlJMVmh4Y2dtYlFQS0Zlc3NLV25palRBbHNwcnMtZnQ4M1VLNWRxbHNtNTRHei1VZVNHODhmdG1weWtHdHhreW1rc1RtWjdhNk9SSzFuMTRRTkJxbmw5U3NSQUdoSkV1QzdUcTVtdw?oc=5",
           "date": "Fri, 25 Sep 2026 21:54:00 GMT",
-          "summary": "The push for nuclear energy in South Carolina WLTX",
+          "summary": "The push for nuclear energy in South Carolina wltx.com",
           "publisher": "wltx.com",
           "_via": "news.google.com",
           "source": "wltx.com",
           "_hash": "f7d0127ee4d4c699",
-          "_ageHours": 6,
+          "_ageHours": 7,
           "_inWindow": true,
-          "_score": 47.383991111111115,
+          "_score": 45.54337611111111,
           "_corrob": 1,
           "_cluster": [
             {
@@ -1480,24 +1510,9 @@
           "_via": "cleantechnica.com",
           "source": "cleantechnica.com",
           "_hash": "3a4611ae205137e2",
-          "_ageHours": 8,
+          "_ageHours": 9,
           "_inWindow": true,
-          "_score": 46.46371361111111,
-          "_corrob": 0,
-          "_cluster": []
-        },
-        {
-          "title": "Harvard Study Predicts 32 Percent Of US New Car Sales In US In 2030 Will Be EVs",
-          "link": "https://cleantechnica.com/2026/09/25/harvard-study-predicts-32-percent-of-us-new-car-sales-in-us-in-2030-will-be-evs/",
-          "date": "Fri, 25 Sep 2026 19:25:31 +0000",
-          "summary": "A study by the Salata Institute for Climate and Sustainability at Harvard University comes to a rather startling conclusion. Despite all the roadblocks put in the way of the EV revolution by the present US administration, the researchers predict EV sales in the US will quadruple from 8 percent today ... [continued] The post Harvard Study Predicts 32 Percent Of US New Car Sales In US In 2030 Will Be EVs appeared first on CleanTechnica .",
-          "publisher": "",
-          "_via": "cleantechnica.com",
-          "source": "cleantechnica.com",
-          "_hash": "7437c59602d10de5",
-          "_ageHours": 8,
-          "_inWindow": true,
-          "_score": 45.90926916666667,
+          "_score": 44.62309861111111,
           "_corrob": 0,
           "_cluster": []
         }
