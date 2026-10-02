@@ -1,58 +1,48 @@
 {
   "date": "2026-10-02",
-  "generatedAt": "2026-10-02T03:30:32.449Z",
+  "generatedAt": "2026-10-02T06:03:54.263Z",
   "pillars": {
     "ai": {
       "name": "Artificial Intelligence",
       "candidates": [
         {
-          "title": "OpenAI fires three workers over mishandling 'sensitive information'",
-          "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9mdmxTeGdPLUpjZUg2UXlsNWRXTTJ5MW10aXZEVEh6QXM2NXBhVDhCZk5tNWJlaUZ3REtNeEpHMFdxMWNwRGpqbE5MUkZ2NXRubndLYkRHSkM0NEk?oc=5",
-          "date": "Fri, 02 Oct 2026 01:05:13 GMT",
-          "summary": "OpenAI fires three workers over mishandling 'sensitive information' BBC",
-          "publisher": "bbc.com",
+          "title": "Google's first Suncatcher satellite reaches orbit to test AI chips in space",
+          "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNWkI4M04yd0hwRmZtTmc2c3lXNnJhVjlERk5RQmFtcWtTcjJjNWhqbWswZzFtUnpIRE5XUEpYV0tqMWVWSDQwT0d1N1lwcVFMODRDWDZHS3dGdTlfaHl2c1otek0xeFM2bXpveFVUSnJ2ODZaLTNTdkU3RGdnY3pUbzdsWmd0UGVGZEhnT082bEhUSWR0ZmMtR1pzaDk?oc=5",
+          "date": "Fri, 02 Oct 2026 04:11:27 GMT",
+          "summary": "Google's first Suncatcher satellite reaches orbit to test AI chips in space digitimes",
+          "publisher": "digitimes.com",
           "_via": "news.google.com",
-          "source": "bbc.com",
-          "_hash": "83aea86390d9350b",
+          "source": "digitimes.com",
+          "_hash": "839c1414726f918c",
           "_ageHours": 2,
           "_inWindow": true,
-          "_score": 80.57774305555556,
-          "_corrob": 7,
+          "_score": 83.12560305555556,
+          "_corrob": 5,
           "_cluster": [
             {
-              "source": "ndtv.com",
-              "title": "OpenAI Says It Fired 3 Staffers For Mishandling \"Sensitive\" Info",
-              "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPZDRrcGZuUVZwck5PVGNyZUxvQzIwbF9STUx2MXl2MVhYanl2alVJNUcwZC1FMURXZllxeEhtSTJ0TGpUdHdXMnBZLU1JSDE3NUt2YmlMb2UtQnYzVkhwWHNqeXM1V0NhczVKNjJEcnF5ZEVfTkVKY09WNzJOLXNDOUtfbWZhYVpSU3M2TGpMZjVadXMyRTA2VlVObDFxSlNJclFPX2R30gGuAUFVX3lxTE1qbmtfTzBuSFE4X0EtYnlPdFJBdFlzQTZXTVdBNVdiTG4zQWIzWTJvV21vYWxadlF6cFgtSEpHcEFoSWR6MFk3UmhXNWFlVUh2TmVTM09aNksyZHVpXy1RbmR5cUVIa09CdDMzcHR0Rk52VGwtRWVKQjRqX2d2d0l6VVZBaEhUSzF4dzJRUGs1TTlQaXVsVWpnYm9oQmh0NnJPTTVTRWFPSW9YNndRQQ?oc=5"
+              "source": "firstpost.com",
+              "title": "Google sends AI chips into space to test future orbital data centres",
+              "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQUVBvVmstTU41UlUzSXhJcWpJYktsaE5ob19VZU9FWWQ2VE1Zb0FvdHRJV096eVZ5RkdmVEh3aldyNDBZSXo2dWhBSER3RURILVZEMHVSVUZ3azdWUXhWQmdsdFdOUWVJX3VRd3ZTQmduS1VvWjVpMlFHSkljbTlMTEpWSHc0R0tqRmZPazJWbExLQnh5UkpBM05QckhJalBCTTNBRS1fal95dVhLV0hVWlQ5UdIBuAFBVV95cUxPYVZyVk5Db1Ffd00zNWxGa2paR051TEM1dmNueklGRTVwZGMydWx6WThRR1ZZd0VNbXd5c2RuQzFsUGxQWjktTms2V3E5NU9RVlJxR3hTR1hRVDBXWm1IWHBUZkZNZVNUU2o0Y2M4Q2xrNWNkQ1BVd0tfSmJobE56X0JWSzM2V1p2VGhDdXF5UE4tNFJKclN4cDYwQ3duNm1UZVI4ZG1FOFc1dGFfSVRIY3JHM0Y0Q1R0?oc=5"
             },
             {
-              "source": "wsj.com",
-              "title": "Exclusive | OpenAI Fires Researchers for Allegedly Sharing Information with AI Safety Group",
-              "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQQWJYd0owc0RKM3JUWFRMZHA5dVk4REotM1NxS2Z4NktpQ0RRZzh5NHVUaDdoOVMwWFBSRnkyNEtrUXlNQy1ZNTN5MnVxdHR5VFlQaG5GZDZKWDIwXzlyQWpNQXpTaWlFdnlzTUNxSlRQdzh4SDBBei1RR29seS1vTURiT1hWZHlxSDN4NlkzNWRlWFNwM0VWSHJrYmtWV1FzaXJyUWtPSkFNTEhkQ2N2OEYycUFRd0VB?oc=5"
+              "source": "finance.yahoo.com",
+              "title": "Google Just Sent Its AI Chips Into Space — Now Comes The Hard Part",
+              "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNam1KMnQwcVM5eFVEcUpkVzM3VjJ1WnI0QnhVUFFzRlFSV3dWS3FINWQ3VTZ0X2ozWjcyTDg2ZVNZUmV3c3BodGJhWkE0WnUxLVREWXRHNFpRdWdNX2RaeWFUdTdEUmtoWUd6STVUT3NZemMyVkRtMWlFU241TGs0OXJKNU9VQWVRWjltTklSWHhYclE?oc=5"
             },
             {
-              "source": "engadget.com",
-              "title": "OpenAI Fires Three Employees Who Allegedly Shared Info With An External AI Safety Group",
-              "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNWW9lZGNTZkFiZXpxM01KLUlmMWZ4QTZuWmNIRVRJOURPNW40RDJXX3NVb0FDRjJkbWhNV1hvLVFxXy1rUWFtdElJZEtiMDlLUGg3UE12VEF0Sk9icG9PbjVrWjJ0Q0FZR0FxbkNlcWpoWFRtNHE4UlVXY0hKTEhvY2pYZEtuekJxX09pQjhVYlEyUjdaN0FENlY3NGxSTkdIZlQ1M2ZHWGNQY0kwSUlrRG5Gb1ZHMU9hWHhEb2t3?oc=5"
+              "source": "es.tradingview.com",
+              "title": "Google Just Sent Its AI Chips Into Space — Now Comes The Hard Part",
+              "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNWURQZW5HejRBV1I0RDE2NWU1OUtpeUdZZURTc2VCUWtTbS1vckF3NGJRcy1wbVV2eFRMVW5zSlBCSm13a1FVTWVtWmJKemxFMUpHQUZXdXVyZHVFWDRXYlBvMHQ4THA2RU1Ba18yT0tCRHUzNnVoam5aWWswdzg0T3lObmRXUXNHM2JpZG0xRm1zcWlSUmRuSHFaaHFvSVdQQmhpeTdGZ2FHTDB3dDMtbGtoWFFxS21Zd1Nxb3RxM3BUZw?oc=5"
             },
             {
-              "source": "gizmodo.com",
-              "title": "OpenAI Ousts Three Safety Researchers for Allegedly Mishandling ‘Sensitive Information’",
-              "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNNzV0bGl2T2hkNk9WZEpKalVvRTBObnU4SlJYekZtQ3hSdkphNng3RHNTWkxOdkZRVG92N0xsYkt2WEdLQkVoSkZnam1HNEluTXNRVm5RYi1GaFRoeFVVQ3RydTd3Y1FFLWVWVHhqUzNwUFlFWUt5T0MzY1h5N3c2X1F1ME1qS04tX0RWVTZZTmI5V1lJbVpTMXpQNlJ0dUM4dW5NSlpSSmVKMUd0Q3BYTUNaQlVUeG8?oc=5"
+              "source": "scientificamerican.com",
+              "title": "Google’s Project Suncatcher AI data center test has officially launched to space onboard SpaceX rocket",
+              "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxOMk9tdW43a2RZc3dkUDVsSjZ0OVRiclZSUzlFTmx0WHlGY3J4aXI4d2xkREV1YlE4aDVsM3h5VzBhVVM0bjJrQXl5SEZjcGxCM0FVZm16S29UOENmeTZyUmVHRTYzQ0JsQk9jWXVlWDdYS3dVNjdkT1ZBa05NRnlad0sxbEV5eUZiQnRUeE5nZ1lqLUh2RjczZ0xKSUVpY3hpaXVEajhQNFF4dVo5VEFnY2trYkFfdHppZEs1c21IVVpOY2tPRnhEd3p2cHVsMUZBOEJIbk9rZjRfYmVC?oc=5"
             },
             {
-              "source": "cbsnews.com",
-              "title": "OpenAI parts ways with 3 researchers it says mishandled sensitive information",
-              "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQMk85QS1ZcGItRElGTlZZZ0xHX3BsQUFPUWpKeEJtQ0dZM0plMlVuS1dtM2F6dUxzYTN0SVlmQzBiLVZ1OFRmMWN3T3FzT0VDNHliR2dYdUQtcThjbkZqcE40YTNHQ0d6emVOYldyS3NaUXBSRkJ5WDJPSmlKX3hLVlNXcy1OUUItZFMtUTd1eGRMWFlTeURuXzNsdTVIRVRpbi1VeGZBTnJjS1E?oc=5"
-            },
-            {
-              "source": "businessinsider.com",
-              "title": "OpenAI parts ways with 3 researchers who it says mishandled sensitive information",
-              "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQdzJ3R0VXaTZReWhwVkQwU3hnMnI4M3NIMEw3RGZvOEF0NW0wa0NSZzhuNzZEb0IyOTV0bEtPZmtjNlMwa1JKSDM5THdWZjBrNnVPZ212UTZFSFRvUmd1NnBmMGhSQjJoNUxpdEJ4aERXekJtdW5iU2JRQTFjczVneU0yUDMwZUs2RWZZUWN3?oc=5"
-            },
-            {
-              "source": "forbes.com",
-              "title": "OpenAI Reportedly Fires 3 Researchers Over Allegedly Mishandling Confidential Information",
-              "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNbVRJZmFzRFZMOUJRaEVXVDZCcm9QdFB3c2lwUEdxTk5fMjRpUHlLUmh6TzJzdG5vVDlGenp0TS1GWkFQRjZFd2pzQU55bDlKc3BBbS1HaFA2Tm1hbDRfdjVscWR3ZEhuTFFBUTU5dlllUzNUd2I1dzgwMkRlWDdKaEdreWRwRmhNRXlFZGdmeVN3b1FxcjdjcVQ2MWhEZC11ZXN5UlJCRl8wV0RBajZTZXhjQVNMZHhKNDFGc0NYUmluQUotT0xLb3pRd2FrTThXcC1QbjB0UQ?oc=5"
+              "source": "investing.com",
+              "title": "Alphabet today launching AI chips into space on SpaceX rocket",
+              "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPU1FXUXAxNmV0OHp5cmtHWVdfUDZ3SzlXSldqdFdfTFYxSzROMjBVZEc3Rlp6R3d2U2NzblhGUkhpRFRJd29XNTRUVTh2X3BFRzNUc3ZaSTV3dmJ6cmNHdm0zNmx4TkFzTDFYZWtxNU1MdFcwTnFQeWtsblZzUE54ZklBMWlqSE9oaVRsZzdJUkpVRm5JODVFTVlGTVJ4WFpFdzJsa3pJWjdEMFoydG1fUmtxcTR6cFZJU0E?oc=5"
             }
           ]
         },
@@ -65,20 +55,30 @@
           "_via": "search.cnbc.com",
           "source": "search.cnbc.com",
           "_hash": "c505c4a00a2a2386",
-          "_ageHours": 8,
+          "_ageHours": 10,
           "_inWindow": true,
-          "_score": 77.20857527777778,
-          "_corrob": 5,
+          "_score": 79.65254666666667,
+          "_corrob": 6,
           "_cluster": [
+            {
+              "source": "thebanker.com",
+              "title": "Anthropic IPO could earn Wall Street banks more than $500mn, say analysts",
+              "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9KNExpWVhmNFZwaDBWU0dtZDhpTkNyQTFfLXRHWE40b3VHMjNESHZCRTFrMG0zWFQwdUlZQlZLNWpmZi16NVNDZmo2ZzJFeDZZVmZzWVZmOGFQSDJfVnZXSC1rZC02YWdUVFc3YUwzQzFicmhvbGRkSy1R?oc=5"
+            },
+            {
+              "source": "t2conline.com",
+              "title": "Nvidia Wants Banks to Treat AI Chips Like Airplanes. Wall Street Isn’t Convinced.",
+              "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOQlo3UXY2a3JxQW9Cb016T1V0VWxUaUZZODlUNXl4OGNaQldmVWhyM09pMUhvYjE1aTRNME1fWjVUNy1hdG5qcjhIbjVnN3EwWTd1SkFNem1pdjhkR3otcF9WZXNacFRsVXdmR1VHaHRBWU5HUno2XzlnQ0NheFZuaWVmbHpfaFpxMmtza3puZm83MXJRaFVtZzNyV29CS1daTzFr?oc=5"
+            },
             {
               "source": "reuters.com",
               "title": "Nvidia's bet that its chips can finance the AI boom gets a Wall Street reality check",
               "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPWWFtWW9YMHUyWmxwTUs1VmZnOHZNdnJBNzB6azNFSG84M0FtS2x1SE50TDZMS0ZNS25zQ1lEZnFRdnd3UFhDRXMwLUVXaDZWRW9RZHdfQXdhNjFBdEJSd243SHlselowdWpIZ3RycmRSdUhlaTlDLUVGNjV1a3UwY2llSXpiV0dvVDN2VU1tS3NmbmQzVFNXV2FZcDJzWEI5b05NRW4zRXFPOV9NZnZUMmE5M2sycEtKVUdpNjRkLW90bGtiZnY0LWtvTHRDQQ?oc=5"
             },
             {
-              "source": "hi99.com",
+              "source": "wiky.com",
               "title": "Nvidia’s bet that its chips can finance the AI boom gets a Wall Street reality check",
-              "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQcUREZEdySVVRcWhrX2NPVnVsSmVsOEkyMW9DMVRzSV9MX3NxN2ZMM2w3YzdQRGJzb0dXaldWZ2trNjBab2FzVXVJVC02eV9tdmplUXFCVXowVUxBRVFNU0dtTGhVNk5ya1R6MTNWcE9CdkZNZzctLUdVekxYZkVxei1XY3BrUTh1YU5qZTRfTG1iQzcxOHcwcEVyQ01RcjFMbjJiMGRycW1xUldWdUUyTVF3?oc=5"
+              "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOS3FvdXlOMXotTzF2RlVkaFYtTXl6TFZxQUNaa3Nnc21oYkdkMjVrUUx5V1RKSHlfVGZJWHlhQ1JkcHZLMzhvejl6RzR4MDlQMTNYdlB6UnN3aENpT1UyVmJ5dG9WSkZhcGZXXzNFeUNXZ2R3Z1FzY2MxWXlpVTg1Q19mVDNpTEI3d2FkMzRUMGhRT2JKampSdDAzeVd4N3pHLURGRGprTEpwSFlKU1VQNGRB?oc=5"
             },
             {
               "source": "theolympian.com",
@@ -86,50 +86,9 @@
               "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5qOVZHTUhfemdTbzh3M2ZhaDBRNndJdS1ndEVHM1Z1N0hIVndra0hiN2tPR1FHQVY1cjYxR05aeFZyOWhDemF4ek5ONTRTM2VaazYxNjRSZXN6Q2VpemJPZ05tV3NzRl9pS2xvdE5jZkI?oc=5"
             },
             {
-              "source": "tradingview.com",
-              "title": "Nvidia's bet that its chips can finance the AI boom gets a Wall Street reality check",
-              "link": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxPUmJoZ3dJYTFPcTVSaEZVS1lKYVBzdUVHRmhna0VXRTV0Vnd0QWhtWDRBM0lGbVZTaGtQMG5nVjliYllTZmpQRGtuQ0poVWJpYWhxTFc4czgtZ3Z2d0lzNm1fYXY5Uk8zVFVvbFhidjdMeWdaaGxSYll3V3NRWmZiNENrNUtRQzF3Yzd2QUNyQVRSTWozZzl6QUMxeVBjU19RaFcyR2xwSWdvRjFHS3B2c1QzRUVjVmVTQjBRT2tGU1A4MEwwY0dfcUFRaC1uX2RIQ3dqNjRCSHhwNkZSVVJoUU80bjRvNGxvc1E?oc=5"
-            },
-            {
               "source": "wired.com",
               "title": "The Battle to Be Your Personal AI Agent Is Here",
               "link": "https://www.wired.com/story/ai-agents-dots-devday-muse-battling-it-out/"
-            }
-          ]
-        },
-        {
-          "title": "SpaceX launches Google AI chips into orbit in push toward space-based data centers",
-          "link": "https://www.cnbc.com/2026/10/01/spacex-to-launch-google-ai-chips-to-orbit-with-planet-labs-satellites.html",
-          "date": "Fri, 02 Oct 2026 00:06:02 GMT",
-          "summary": "Google's tensor processing units were launched into orbit on Planet Labs satellites.",
-          "publisher": "",
-          "_via": "search.cnbc.com",
-          "source": "search.cnbc.com",
-          "_hash": "5229d80072a82c5a",
-          "_ageHours": 3,
-          "_inWindow": true,
-          "_score": 76.59135277777779,
-          "_corrob": 4,
-          "_cluster": [
-            {
-              "source": "coingape.com",
-              "title": "SpaceX Plans to Launch Google AI Chips Into Orbit for Space-Based Data Centers",
-              "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPRWJnZGRFbzJsb3RCbmtKYm5sem9FRXNmdkJHZmhQTWt1akdtaXZ4LWY3YzZVZkVCVTJWY1FKTEYySVdjSy1SaldZU0dOREFYdWRBZ2dWWXZrZlhrMVBScnR2VE1NbDViN1ByX3VIZk13dGY5bUo1YlZYeTctQUZvYVNpQllzOU9sMWZFUGtadFFQMXp4Q1RlekpZZzVyZm5VNkE?oc=5"
-            },
-            {
-              "source": "oodaloop.com",
-              "title": "SpaceX to launch Google AI chips into orbit in push toward space-based data centers",
-              "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQU1JqVkU2R2pNaVRRWTFyZFdzODJnV1dlVjBVRlMyWnJ0SkVwZmI3dGRlRExzRUxvTXhQeDJDZ0lXQ3JDOVlhdXM2N01kSnZJaGwtcFlRTHlkTm1PVGt5VkFVNWNzd3VFVzBOSmJJSlc5YUJ1ZlMxQ29EZ2dCSl9qbmRIYkl5bjhoOERCdnc4a3ZpR0hPVl9CcnFsMDR5M0hsLTZnYWQ3TEg1YXdrYVBNRmJSQ2hIR2NsTndiSjVSZnQ?oc=5"
-            },
-            {
-              "source": "cnbcafrica.com",
-              "title": "SpaceX set to launch Google AI chips into orbit in push toward space-based data centers",
-              "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPQmFSSFZmRkRSTDRLaEQtYkFpV1NlUjVGdjNOaFZ4ek1IdUF0TGtFdWRnOHRfRGVHQ04tV1pDWmQyZ3FxWWZQSTc5Tm1ueUFlb0lUNHRvU0RLeTBCZkhhZEd3M1lhRDN4bDk5MXc3czdIVV9ITjhESTRfRkRiTm1pWUx0Ym1ZVWFHZmZ2R0pVc096RGVTUlRjZUlrTkp2UU5NZUNVZTZDVkNIMEYzNjZQMVBqYy1ucWtiWU45Uw?oc=5"
-            },
-            {
-              "source": "cnbc.com",
-              "title": "SpaceX launches Google AI chips into orbit in push toward space-based data centers",
-              "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNUkdhZGNReVpJcWxxUzVmZjljcURHdm5oc3ZjMzFWZ3lTd08zUUVISno0QU5LUklld1JSVGc2LVprclc2REVPZW1LN1hveWNpNXhncTlJZjgwMUtvRlJCWHBRUXFLWGVjcXNnNl9mQ0k3VTh0SnBiTmowOFVVZEhseVZLbzM3dkdjaWJNaTZ2aFY2ZmlrTHhscEN6WEpZUlUyVVctWXh5d3hQd9IBrwFBVV95cUxQYVJadHZIVjJjd1dIQUR3cHZiWTZUNzhSMkxVdzV4czFEWDVCajdVNEFPR1ExaERiZE5UbERZNFlwOEoxQkRnMVpfOU1TbTFHcUpGQjNyZHljdWd4aTJTX0lMelRZdUJFSkhYLWlYdk9BdjVfZ21WYzlGN1lYNWJ5Wk1Ud3dFYVRsZ0dGWlVlcW9fckhVcG5teG5JU0RHYzVGNE5NSEkxOHFCT2NlNmFj?oc=5"
             }
           ]
         },
@@ -142,15 +101,20 @@
           "_via": "techcrunch.com",
           "source": "techcrunch.com",
           "_hash": "a83039689091c1b1",
-          "_ageHours": 8,
+          "_ageHours": 11,
           "_inWindow": true,
-          "_score": 72.79163055555556,
-          "_corrob": 3,
+          "_score": 75.23560222222223,
+          "_corrob": 4,
           "_cluster": [
             {
-              "source": "chosun.com",
-              "title": "Google Tests Space Data Center with AI Satellite Launch",
-              "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQUTJ6S1Nibl9EUnhmMU1UWGg5NFRYTWNnNHo0OHpxWVUxT3hndk9pTHp1UzhjLXpiM0F3bDRtLVUyZXZyNHl6elR0amxQU3NZRmhSVGZpU3J4U2RVWk1BSHhzSmt1clNhUU1SSFFSQTNpM0JVMDh6Zk9sV1ZWRVJwWjBMbTF5azJN?oc=5"
+              "source": "oodaloop.com",
+              "title": "SpaceX to launch Google AI chips into orbit in push toward space-based data centers",
+              "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQU1JqVkU2R2pNaVRRWTFyZFdzODJnV1dlVjBVRlMyWnJ0SkVwZmI3dGRlRExzRUxvTXhQeDJDZ0lXQ3JDOVlhdXM2N01kSnZJaGwtcFlRTHlkTm1PVGt5VkFVNWNzd3VFVzBOSmJJSlc5YUJ1ZlMxQ29EZ2dCSl9qbmRIYkl5bjhoOERCdnc4a3ZpR0hPVl9CcnFsMDR5M0hsLTZnYWQ3TEg1YXdrYVBNRmJSQ2hIR2NsTndiSjVSZnQ?oc=5"
+            },
+            {
+              "source": "cnbcafrica.com",
+              "title": "SpaceX set to launch Google AI chips into orbit in push toward space-based data centers",
+              "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPQmFSSFZmRkRSTDRLaEQtYkFpV1NlUjVGdjNOaFZ4ek1IdUF0TGtFdWRnOHRfRGVHQ04tV1pDWmQyZ3FxWWZQSTc5Tm1ueUFlb0lUNHRvU0RLeTBCZkhhZEd3M1lhRDN4bDk5MXc3czdIVV9ITjhESTRfRkRiTm1pWUx0Ym1ZVWFHZmZ2R0pVc096RGVTUlRjZUlrTkp2UU5NZUNVZTZDVkNIMEYzNjZQMVBqYy1ucWtiWU45Uw?oc=5"
             },
             {
               "source": "yahoo.com",
@@ -165,18 +129,111 @@
           ]
         },
         {
+          "title": "SpaceX launches Google AI chips into orbit in push toward space-based data centers",
+          "link": "https://www.cnbc.com/2026/10/01/spacex-to-launch-google-ai-chips-to-orbit-with-planet-labs-satellites.html",
+          "date": "Fri, 02 Oct 2026 00:06:02 GMT",
+          "summary": "Google's tensor processing units were launched into orbit on Planet Labs satellites.",
+          "publisher": "",
+          "_via": "search.cnbc.com",
+          "source": "search.cnbc.com",
+          "_hash": "5229d80072a82c5a",
+          "_ageHours": 6,
+          "_inWindow": true,
+          "_score": 69.03532444444444,
+          "_corrob": 3,
+          "_cluster": [
+            {
+              "source": "techbuzz.ai",
+              "title": "Google AI Chips Launch Into Orbit on SpaceX Mission",
+              "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQbUd4T1g1TlY0bktjdVJZbFVHclpVaDA2ZHlZRm5UMGxtUHpRQnhCVzY0Y1lzTmNzTXdwYmZsQWhPRjQxeE10WEhnVjByNHg3ZHhTTnZPZWJLdmU5ZXNQM1Z1UjA0MmtqQ0RvYU83VkJkcmJNOHJOY2psOWtaUjJVZTB4NmJuX29QN3I1Mg?oc=5"
+            },
+            {
+              "source": "cnbc.com",
+              "title": "SpaceX launches Google AI chips into orbit in push toward space-based data centers",
+              "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNUkdhZGNReVpJcWxxUzVmZjljcURHdm5oc3ZjMzFWZ3lTd08zUUVISno0QU5LUklld1JSVGc2LVprclc2REVPZW1LN1hveWNpNXhncTlJZjgwMUtvRlJCWHBRUXFLWGVjcXNnNl9mQ0k3VTh0SnBiTmowOFVVZEhseVZLbzM3dkdjaWJNaTZ2aFY2ZmlrTHhscEN6WEpZUlUyVVctWXh5d3hQd9IBrwFBVV95cUxQYVJadHZIVjJjd1dIQUR3cHZiWTZUNzhSMkxVdzV4czFEWDVCajdVNEFPR1ExaERiZE5UbERZNFlwOEoxQkRnMVpfOU1TbTFHcUpGQjNyZHljdWd4aTJTX0lMelRZdUJFSkhYLWlYdk9BdjVfZ21WYzlGN1lYNWJ5Wk1Ud3dFYVRsZ0dGWlVlcW9fckhVcG5teG5JU0RHYzVGNE5NSEkxOHFCT2NlNmFj?oc=5"
+            },
+            {
+              "source": "investorplace.com",
+              "title": "Google’s AI Chips Blast Off Today",
+              "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOV05qOGVMeWRiUXNzdHZQaUt0R2NBd28wWmFnckM3Y1hlRUM4RnoteGIyT3doak5hSkZqa00xU2dYVXFacWhSZlU2bERnQVBEdkV0RVJaZWk2cjJMOTNqUUxULWphYU11U09wODFKRGpOMjU0N000YjlXMzhuWU1vS2FTcUM?oc=5"
+            }
+          ]
+        },
+        {
+          "title": "Broadcom gathers $60B financing package to fund AI chips for Anthropic: report (AVGO:NASDAQ)",
+          "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNUi15TnpLM2xBMC10TTRsRGRHOXpVeUVrelZIMXI3SEpuQ2J2SzdOLWtnTzA3dGszS1BVODNTSWFVWWI2XzRkTWVSbFZoMXF6YkNQVDF2cEloLU1vLTcySEoxT2gxVlBLNmdrSWVHem8tRnhwZkhoMUtLLVJ6S2UzQkpPTmdhQ0R1MTd1ZFVYNUtZRllKTzRZODlhMHBVLXdwVHFUdThsM1NVbHQ2U1VBeWZVUGI?oc=5",
+          "date": "Fri, 02 Oct 2026 05:27:39 GMT",
+          "summary": "Broadcom gathers $60B financing package to fund AI chips for Anthropic: report (AVGO:NASDAQ) Seeking Alpha",
+          "publisher": "seekingalpha.com",
+          "_via": "news.google.com",
+          "source": "seekingalpha.com",
+          "_hash": "62cf22c1752833e3",
+          "_ageHours": 1,
+          "_inWindow": true,
+          "_score": 62.395603055555554,
+          "_corrob": 3,
+          "_cluster": [
+            {
+              "source": "sg.finance.yahoo.com",
+              "title": "Broadcom starts amassing $60 bln to fund chips for Anthropic- Bloomberg",
+              "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQVTdXb040QjV5TGtKbjQ5TnRJV3NheDI1TXd1cFZCREN3X0FmbFo4VGxPTG5VZk1rZU9mMVpCTHdzdjhqMHNPOXN5emxJV2xYQ3pLWHB6UTlEZExERjNXNFlvUkhKNV83OW12cEVGWTA4V3BFRWlKdlhXZ1dINzlIZXZaOTBOSU0?oc=5"
+            },
+            {
+              "source": "moneycontrol.com",
+              "title": "Broadcom seeks $60 billion for AI chips as Anthropic races to expand computing power",
+              "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxORVIzTDZQOXhTZlVmTlMxOXBTZThtcUtGOXVWQThvcUhJX19pLW0za3Q3a1VxWXZyenlfZl91WVY5dlI1TTRETi1YVGNUaExfdDF2c1VIeTRiMHB5a2NqV3hWWlg0VGtoV0kwTlhzaE5xNDBuSnQ1TnZpVUx4a1JENGJtVTQxRHd4dVFXZ2FVaDJnakt3Y2dUWm11eTluTzBoNVhHamZrWHJsb3F4VU4zTkVQRlNPOUplUmp5Z2RmM3MwZWF2TF9IVDdycUF5WUw4QVhnemVrMNIB3AFBVV95cUxOdk9kakZTRkZTSVhaT3R1c3pqYUhhai1UWHJuTFBIRzBJMzVyemplR2xLTzVkbUdQY3J2V19aR3p2WWxXSk94WkRNU09KLUI1VGNXMUJraUt6TWdoVENKWWNJNi0xWWtja0FiTTluNXN0WDJtRkplUmJpTXdPSGhmQXNodm10Nzh5MFU5eXpRd0V2Q1lZWm5UaEYxd3FHVWhMY255b1F1RFdlbndZSWRJR2N4VFZDbDZVaDVzQ004YnM2cUNpSlRFdEhoYkxqdnN1QXFCZFJ5cTdORHNV?oc=5"
+            },
+            {
+              "source": "bloomberg.com",
+              "title": "Broadcom Starts Amassing $60 Billion to Fund Chips for Anthropic",
+              "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQcTlfRWNuNFBkcjRyVVY3bDNtdHZWT2hUekpza3RXVkhpbFc0dThLRmlYclBtQlNDSlFqRlVKalhZeThNNjNQNlR4N1NpbzktUXoyUTh4RFI1YjdIay04cWpxbzdaOGhzWXBxYjVvZ2FBNi1WSGxNN192MFRxX0NBMXdSSmFlVWJIemZqR0ZicGJqLWVTeUZHc1MtbnNHYUY3ak80WURIenVnYjJ6WHp1cEl4Rmw?oc=5"
+            }
+          ]
+        },
+        {
+          "title": "Amazon wants investors to own $8 billion of Nvidia AI chips, then lease them back- Moneycontrol.com",
+          "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxORGIwZndWZnhlby1abmUyM24tMTJzWUVIV3JMQUxPZnFCYlZkbVVlSzRkN093RjJ5OU9jbHJ0LVFIa2xTa1lqcVAtWDV6Y09GUXFRRWtISVNCYUI4cnJDZnNsd1N2MlZIbkNKUlY3ZWxHSk9lbnoxTnN1d0JQdFZXU052QlhsTE9rX0ZhdmY4RFIyVEhSQklrWENnR08xZ2VVWGQ0Q3JlMlg4QmFKYzFnb3BNdE10Wmo1?oc=5",
+          "date": "Fri, 02 Oct 2026 05:24:00 GMT",
+          "summary": "Amazon wants investors to own $8 billion of Nvidia AI chips, then lease them back- Moneycontrol.com linkedin.com",
+          "publisher": "linkedin.com",
+          "_via": "news.google.com",
+          "source": "linkedin.com",
+          "_hash": "08a28abe7de071d2",
+          "_ageHours": 1,
+          "_inWindow": true,
+          "_score": 62.33476972222222,
+          "_corrob": 3,
+          "_cluster": [
+            {
+              "source": "thestate.com",
+              "title": "Amazon seeks to offload $8 billion of Nvidia chips to investors, FT reports",
+              "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5TX2UtZmdsSnI4ZUMxamNFWWNYS0l0dXNXbFZpRm44QkJNTlNlWkRicndPeTNNWmVaMF9RenctTUY2Y2ljcHpkZmFBUVE0UnFBVVJYdThaZWtVUWtIQmw3cDdYTGVGQXl1NUZ0aA?oc=5"
+            },
+            {
+              "source": "ksl.com",
+              "title": "Amazon seeks to offload $8 billion of Nvidia chips to investors, FT reports",
+              "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNRExESjVsNTV4U0p5N243b2MxdUFEc1pPVWYyMEh6ZG1PQ0w4M2ZvTmZ4azZabGdRajVaMXlNY19OcXh4MEloenpYLUZ6NkhHZVZYUzZYNy0xbkFocElCSmVMQjBhWHhLZ1E3Y01McmR0WXJhMmdtbzhlYXlVUllhYjBhVmdLWVBuWmx0dll6ejB4amZwanFaOUUzYk9MbkZ5Z0xKNnJHMkVpMU14VTI0?oc=5"
+            },
+            {
+              "source": "reuters.com",
+              "title": "Amazon seeks to offload $8 billion of Nvidia chips to investors, FT reports",
+              "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNRWF3eFJHazFWalZDX1QwWHBoSWd5TEwxSW1ZRzNveVhxV1NwRGZVdlpCSHJLUVlVcm1TR1hpb09BZmhGeEFkTnkzQXJLcEh2S2xNaDVobGN3TV9Tc1p2N0UxUUhDdEU4djVpUjlLOXhGd0VReVdxaVBweUJWbk5ab0g5T0hTdTlzbWZiTkFqN3BtVW05WVNxam5WTzdTNkhVYlZlajRvV2lOU3JiekRsRzkxSGwyWjRqNldiaGxZWTlmQnM?oc=5"
+            }
+          ]
+        },
+        {
           "title": "California attorney general subpoenas OpenAI over incidents involving its AI models",
           "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPOVJiN2MxMk9zZTVFNkQ4WFhkQjBZVUd1S0VDenB6a3ZpZVFfOEpjNFc5c1NWT3pVV3hvM2wwYVVhaGQ2amdqazllU3VXZEc5MU1GMXlrUFhGOGxVV0FQZV9zMC16TTZxbWU3WTA4RTYzdnZRUmE2TTVlODRla3JMZjZDS09VYU01N3pxSGZlNjRnT0NBaHB6YzltaEJsZDJfYU9YdURVNVROcDJWYmRYU2JzeGk0Smc5RkpyWGFIMkJhTHJyZVhwaA?oc=5",
           "date": "Thu, 01 Oct 2026 22:38:55 GMT",
-          "summary": "California attorney general subpoenas OpenAI over incidents involving its AI models KION Central Coast",
+          "summary": "California attorney general subpoenas OpenAI over incidents involving its AI models kioncentralcoast.com",
           "publisher": "kioncentralcoast.com",
           "_via": "news.google.com",
           "source": "kioncentralcoast.com",
           "_hash": "c1d66063b48fb80e",
-          "_ageHours": 5,
+          "_ageHours": 7,
           "_inWindow": true,
-          "_score": 69.13940861111111,
-          "_corrob": 4,
+          "_score": 61.58338027777778,
+          "_corrob": 3,
           "_cluster": [
             {
               "source": "cbsnews.com",
@@ -192,11 +249,52 @@
               "source": "thehill.com",
               "title": "California attorney general subpoenas OpenAI over cyber incidents",
               "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPc0JjZ3pNQW9yRnhPQTc3a0U0TXRBcjB6NGVzX0tKZXBCdndyMFJvSXJScUsxZnM3S3RjeXlOVDFDcDBBUVZvMlVtekJncHFobFkxTWlqa0J4X1lfaHJabndpaXJiWVkya0lkNEtQV0pkc2hZLWwwRnNzUXpGUnF0akdmaTkyenpMSnBB0gGQAUFVX3lxTE9NWXUtdFlHcHhkdjhreGF3Z2dYUjQzdDJGR28tRXdDSUgwcHpXMGdXejlJWFJpR2F5NGVtUzhWV1ZJcFZQeGZLbkxnM19JZXloRFVYcm52MUQ5MlplWFZRajI4Y3N6bXpnTU9iWElFbHJxOWlGd1hGeHZlaGZvQU9nMU1yMGdCYzhWZllMeXhJZQ?oc=5"
+            }
+          ]
+        },
+        {
+          "title": "OpenAI cuts ties with 3 safety researchers, WSJ reports",
+          "link": "https://techcrunch.com/2026/10/01/openai-cuts-ties-with-three-safety-researchers-wsj-reports/",
+          "date": "Thu, 01 Oct 2026 18:14:42 +0000",
+          "summary": "OpenAI has parted ways with three safety researchers after an internal investigation found they mishandled sensitive company information, report says.",
+          "publisher": "",
+          "_via": "techcrunch.com",
+          "source": "techcrunch.com",
+          "_hash": "6621a4cf7bdb4a99",
+          "_ageHours": 12,
+          "_inWindow": true,
+          "_score": 61.17976888888889,
+          "_corrob": 5,
+          "_cluster": [
+            {
+              "source": "foxbusiness.com",
+              "title": "OpenAI fires 3 safety researchers accused of sharing confidential company information: report",
+              "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPZlp0ODJOMFozQWZzalJZeHo0S1l2X0o3XzhuUERIazBoaEFDaFhDcy1ERVRNYkNuS002NHNjU2dPTE5hWkxNTXFualhyRzFqYzlTVlpwNWxMU0QzQTRWUWJDenp4eHRkb0ItU29lQ29CamRoWXU4ZUE4V1ZyakQxbjRHQUN3SUQ3V1JtcWF4bDN2aVZJaFEwMDRtTUp1ZDhvNFhlR01telJLRUVNWk9taUdYTVdfQTRERjRtRzlVa281U0ZiRm5Z0gHMAUFVX3lxTE00ZUFtTThNV1NKTU1ZWUwxYTdETFpkdEQtbS1GRGJBM044ZU5SemNuZ3V4amxWZmdKTUhMVXNCVnJvNGIxb3dfQzdvZC12dlk2d3pZZVNrYW5xVEJFRURTNjdmaTg2a195MkQ4dmQ2bEV2ekRMNXBvY0FMTUo5Zk1VN2cxcG5jcThtc0RBME9pM2pRRlNxcDhUT0I1TFp5WlV0RWNiUk1ITjItQTJFTk1rNlZGSUtIUEw4enlxNTFESGYtaUVUdktfWHgwWA?oc=5"
             },
             {
-              "source": "mercedsunstar.com",
-              "title": "California attorney general issues investigative subpoena to OpenAI - Merced Sun-Star",
-              "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBJSkRycnhIVmExMU5Zd1FjQXl0STdVc19LSFpEY0xOZ0JsRl9vM1JVU1RhN2YxbWk5ZW5hOGQwOFlpeGl4WjMwbU9PNHVCUkowSlVIdUdWSHBjWFlOSWpydGlOeVZERS1fRmxFTzNLdlRqRFk?oc=5"
+              "source": "bbc.com",
+              "title": "OpenAI fires workers for mishandling 'sensitive information'",
+              "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9mdmxTeGdPLUpjZUg2UXlsNWRXTTJ5MW10aXZEVEh6QXM2NXBhVDhCZk5tNWJlaUZ3REtNeEpHMFdxMWNwRGpqbE5MUkZ2NXRubndLYkRHSkM0NEk?oc=5"
+            },
+            {
+              "source": "wsj.com",
+              "title": "Exclusive | OpenAI Fires Researchers for Allegedly Sharing Information with AI Safety Group",
+              "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQQWJYd0owc0RKM3JUWFRMZHA5dVk4REotM1NxS2Z4NktpQ0RRZzh5NHVUaDdoOVMwWFBSRnkyNEtrUXlNQy1ZNTN5MnVxdHR5VFlQaG5GZDZKWDIwXzlyQWpNQXpTaWlFdnlzTUNxSlRQdzh4SDBBei1RR29seS1vTURiT1hWZHlxSDN4NlkzNWRlWFNwM0VWSHJrYmtWV1FzaXJyUWtPSkFNTEhkQ2N2OEYycUFRd0VB?oc=5"
+            },
+            {
+              "source": "siliconangle.com",
+              "title": "OpenAI dismisses three safety researchers accused of sharing confidential material",
+              "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQaFBLSzJoNDUzR0V3VEx3TTQtRWljLWliMzNFT0JKN0xfQk1QX01vSzRybjJPRUtBUlRIZUFIQkEwaGlzWWRKSkFTbmRKT3lPNDYwRFRSVHZ0cUd2clZvNzVTV0h3NHpLYUU4TmpUOXpaRE0xX3ZBTV9qMm1fT0pmZWpfb1RVS1NaeTRDNG55NTd1Rnh1XzFtLV84Vl9BOHFGeEFXSllPLVZJMlJ2TTc5UksyQU5ocVljNDA4?oc=5"
+            },
+            {
+              "source": "techcrunch.com",
+              "title": "OpenAI cuts ties with 3 safety researchers, WSJ reports",
+              "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOXzdCYW9BX1hfRWV4Ykh4Y1lPTF9VNTF4ckFXYUI1SzJIOUN6UkdaSEFsb1lRc1VIQ0FEbjZRVGMyekYxVVY5NmJBSnFIQkU3X3k4aHVTQ0hPcVZCNnlBNmdFUzBLZlpIRDl5MThNN3d0TFprbktxYUxNVjVwMFlSOFVQa3BLRm10WllwTlZVN0FsZEF1ckVEYw?oc=5"
+            },
+            {
+              "source": "forbes.com",
+              "title": "OpenAI Reportedly Fires 3 Researchers Over Allegedly Mishandling Confidential Information",
+              "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNbVRJZmFzRFZMOUJRaEVXVDZCcm9QdFB3c2lwUEdxTk5fMjRpUHlLUmh6TzJzdG5vVDlGenp0TS1GWkFQRjZFd2pzQU55bDlKc3BBbS1HaFA2Tm1hbDRfdjVscWR3ZEhuTFFBUTU5dlllUzNUd2I1dzgwMkRlWDdKaEdreWRwRmhNRXlFZGdmeVN3b1FxcjdjcVQ2MWhEZC11ZXN5UlJCRl8wV0RBajZTZXhjQVNMZHhKNDFGc0NYUmluQUotT0xLb3pRd2FrTThXcC1QbjB0UQ?oc=5"
             }
           ]
         },
@@ -209,118 +307,15 @@
           "_via": "news.google.com",
           "source": "briefs.co",
           "_hash": "857cea90b6255052",
-          "_ageHours": 2,
+          "_ageHours": 4,
           "_inWindow": true,
-          "_score": 63.46524333333333,
+          "_score": 60.909214166666665,
           "_corrob": 1,
           "_cluster": [
             {
               "source": "techbuzz.ai",
               "title": "Google Launches AI Chips to Orbit in Space Data Center Push",
               "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPdi1nUE5jR0kyU2NtQzRQS2tNZXFRdm1yZEpURVRWdktLYzJxOXBrS3c1cFVzaXV0N01DQnRHdUJXblE0SXMzeFJsWG9NOV9IZ1JaNDRfMzZQRWNZb0hhbEg4a0VOZU9Hb3lWYjN5bUxjYVZXNDhiVTdSMmZwd1h0c2hodEpkc00xUG9ZaWxkYlk1RDdDeWlv?oc=5"
-            }
-          ]
-        },
-        {
-          "title": "Broadcom to lend Anthropic $42 billion to lease chips: Report",
-          "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQOV9nU2xIU25zQmF3ZFVNT2tBaThWQ1Z0Ump6bHI4Vm9JWnJoT2ZlS2lud2NJb1Rua3ZULXZVUFl4Wnc2QVpMUTJzQlhlazdENEdNaXpJb1ZuWlJVaVRVU3REeXgtUlpTanp5QmM1cmVkUEcxMUh1QjJUUGtfbUtxLXR5Wk9QQWxYNEl5eElfTWk4VG95VVBHQ0t1c3Vray1na3JzRw?oc=5",
-          "date": "Thu, 01 Oct 2026 22:30:00 GMT",
-          "summary": "Broadcom to lend Anthropic $42 billion to lease chips: Report Semafor",
-          "publisher": "semafor.com",
-          "_via": "news.google.com",
-          "source": "semafor.com",
-          "_hash": "84fd2c00506cd398",
-          "_ageHours": 5,
-          "_inWindow": true,
-          "_score": 62.99079916666667,
-          "_corrob": 4,
-          "_cluster": [
-            {
-              "source": "finance.yahoo.com",
-              "title": "Chinese state funds backed purchases of restricted Nvidia AI chips, report says",
-              "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPaWVVTy0xaEctTXJLR01WVFh0MnQ5elJ3WnA0RzZxSTJrRXEwTnpmckJLQ2lKeWNnZmFZVDhKNzFMSXN6RWc1Qjd2LXV4akttTk4wLWNRWkFKcnItQ0VBMkc2Q1JrU090Qk9zXzYzdXB0anlTT0xwWkRJMTA4ZjJaNmRuZE9xcGJTNllLTXJvbDdST0NLdEpPTFpZYmJYM2p2R1E?oc=5"
-            },
-            {
-              "source": "reuters.com",
-              "title": "EXCLUSIVE: Broadcom to lend Anthropic up to $42 billion to lease its chips, filing says",
-              "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQbzU3NnV4NFhNazRXQzVkeTV6VVNBSzUyUE0yM25SWGQtaFM1YkU4Y1htNWMtYXBPcU9pRDZfZUhSQnZyYnpvWWJ5ZGE4T3ZPOEZrN3IzeHBxMURHQlZySUhfQTBrb0FPdUxFSHRjVEd2ZFh2VGVuMjluVDhxYmhDa2hHc3hnV1p6c1hxaDJaa0VCQXQ3NmhackVWSVBJRlpXMzJXQ3Q2UHlhVXFaMDNN?oc=5"
-            },
-            {
-              "source": "finance.yahoo.com",
-              "title": "Broadcom to lend Anthropic up to $42 billion to lease chips, in latest circular investing deal",
-              "link": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxNQlJmeEJQTjhxdTVYWnlpcmw5VDFMREN0N19PN3pYY1BkTjMzZnI3cmticEpGWjVDZmo2V3dwNTRTLWxaUHk4V1lsWXBZVGlhcFplM2pMYUNwU0RXR0c1WVFZMTk2TE4xUUFPS0ZzYVJKOS1MTnhDVEFYZ0NGMnc2RlM3cUdMOVU3eG9URVRvOEJ2TEd4QkNkMnd1UHFKZFBldldWcFBoZGY3aVkzZjl2R1p5M3d4YnB4WFJUMDY0cVZqNGR6cDVFQ2RoZzBmeE1rN0hYOTRBSl8xajBiQlpEYUItRnVlVEk?oc=5"
-            },
-            {
-              "source": "cnbc.com",
-              "title": "Broadcom to lend Anthropic up to $42 billion to lease its chips, filing says",
-              "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQTDVlTE1GRTBsOGtKWlFMUEtqMV9hbFNDMXVBZ1kxeGkzT1hFOHRwcmJUdjZYMXZOeUExZVFyT19oeFZ0WktIY1BHVFJfX25MeGJOSkdRZTM0WWV0VGNIdUtkM1M2dUNYdmZsMDhkV0lBcDZBUmZ0eUtyYW1sMUl2VkdCR295NFA5N0N1MnpkN19nQdIBlwFBVV95cUxOWjJLbklNcUVaLXR6ekNvRmhpbm45Zi1sSEFlOG53eXpMSnJmX05YdURRN0ZiekU5Wk5oY3F2THpmR1ZOY0c2SThxTzh2Yk9jTzMyMFN5TUdzQndMQm9uejVOakdLb1QyeThUdjZiR2hac2t3MnFnMENUWlEyVEpJT3BqOUY1UnhiOE1mV0t5MW13NXBlOEVB?oc=5"
-            },
-            {
-              "source": "finance.yahoo.com",
-              "title": "Broadcom to lend Anthropic up to $42 billion in deal to lease chips",
-              "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOMDA0UnRsQlBzS0I5M29reVVRUXVPNnpaaFVCS0ZBLTV0QU5UWFJHS3pibU12b3hKbUxHRWg0LUdMR3FZN3JERzZodi1tOWV0b25oUjRFZUJvejBtUVVRQk0tcDYydEJIOE5Hd1hXRnBOMlA3b1ZBWHRxOHNlODNWZkZpZ1lVMGZJZFgwMnE2N01MWUZzS2dIQzFpRHNqYjJDdVVHcFYzN3JSbGRxVm9SM2ZqaVE5SlB4UGxQWEEwODBBUjRj?oc=5"
-            },
-            {
-              "source": "qz.com",
-              "title": "Tencent signed a $7 billion deal to lease 100,000 AI chips from Oracle",
-              "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE95bUxEdEkwSjdYSGRkb29oLVcyX0lsRDI1Z0lET2l3UkIzSER6RHBHWlhfcVpnWjU3c0dYeXRaZ1d4NTVSWUU0TWE4eEk1VkM0NTk1SU1mVkRCSGVtUTdCUkZLdUFIQm8?oc=5"
-            }
-          ]
-        },
-        {
-          "title": "LG Electronics Establishes First U.S. Factory to Produce Chillers for AI Data Center Cooling",
-          "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNMUFxM291UnRDUDNiS3p5VUNScmU1ZjZ2X0ljR3dQTUpIbm90SEtvenVZZThWMkJKNlplU1UxeE1FdEJlMUxLa3A4dXVTMzc0TGJWUnJ3TmJoMThnRl90OW9mZllDY3JoTWQybHQ1eDh0ZFc2M1l3cjJaSTdpdXA0SkJFRGNiYzQ4dGRnU0ZETVhibmY4UkNCY2JYcnBkT2xEWG1RTjRQbjZwT1VPVzBnN2ZZaDNfVWtMeEFTRm9kWmYwUndnSU1JRlRB?oc=5",
-          "date": "Thu, 01 Oct 2026 20:11:00 GMT",
-          "summary": "LG Electronics Establishes First U.S. Factory to Produce Chillers for AI Data Center Cooling PHCPPros",
-          "publisher": "phcppros.com",
-          "_via": "news.google.com",
-          "source": "phcppros.com",
-          "_hash": "edaddd7cd16797a0",
-          "_ageHours": 7,
-          "_inWindow": true,
-          "_score": 61.67413222222222,
-          "_corrob": 3,
-          "_cluster": [
-            {
-              "source": "prnewswire.com",
-              "title": "LG ELECTRONICS ESTABLISHES FIRST U.S. FACTORY TO PRODUCE CHILLERS FOR AI DATA CENTER COOLING",
-              "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxOR2NEbkYtbm40cFk4MDczRXV4TTJXV0lNaGlLUGVaQWlpVTdndnI2NHJHUk84dXVoVk5IY2ZGZWU4QTAzd1pfT2l3a3lsTUNUX0VPM1JCQ1JHRW5rbnhrYWRNbXlWMFJZQWd1cy1ZMEl6MGd5T0ZxbnltLUhQcXh1YTJTdk9ockxlTW1aQnEzdjlhRTdnd1RqdUlTa2s1ME9PX3EtMVcwU2JUcGJEdm5KTGJjcHBZVURjcERxNUxOZDBaVVZzSlFuamF0dlpCdTZtang5QVljZ1A4SHU2Y3Vv?oc=5"
-            },
-            {
-              "source": "oilprice.com",
-              "title": "LG Expands AI Data Center Cooling Production in U.S. and South Korea",
-              "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOMS1pb0ItT0xzTmo1eUtzd1Vva3hhUEkyZEtTbmtvNVB2WmNrblpxYjloc01xdEVQdzNlMERocWZ3Rl9DaEppMGhGT1ktXzh1WWZjSUlUUDNOdTJCdXFrYWFrREJjbFlyRjYzNUk3eVhzMnNTU3k0T3RSVll2NnhuVGdHdEFMeXBaUVloZGNjd0ltYnREeDBXUE1mOGJsNTlWMGtJdFprbzdtVXZaQ0HSAa4BQVVfeXFMTjEtaW9CLU9Mc05qNXlLc3dVb2t4YVBJMmRLU25rbzVQdlpja25acWI5aHNNcXRFUHczZTBEaHFmd0ZfQ2hKaTBoRk9ZLV84dVlmY0lJVFAzTnUyQnVxa2Fha0RCY2xZckY2MzVJN3lYczJzU1N5NE90UlZZdjZ4blRnR3RBTHlwWlFZaGRjY3dJbWJ0RHgwV1BNZjhibDU5VjBrSXRaa283bVV2WkNB?oc=5"
-            },
-            {
-              "source": "datacentremagazine.com",
-              "title": "Nortek Data Center Cooling: The Hybrid Future of AI Cooling",
-              "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPdEgyd0N2bnI0NkxOMk04RG9UWFRKTVEtUlpBVENBTDMzNEFMcjNpaTFsRkFxNXprUzRvV1lXN2hjYkpqRG5TQ1M2Z0xISEdvaG85am9VWVNOMEtLcVBiQkxMTDZRV0tFbnA3MnVpak04dHlidlRHSlAycGpZRUtSWnNuNUhIMHJwd0dqUFBJOG1fODlFYU1FRVlDZTZaQmdkQUJaVzhfNWdHUGM?oc=5"
-            }
-          ]
-        },
-        {
-          "title": "Google is launching its AI chips into orbit for the first time on a SpaceX rocket",
-          "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9jTG84RHF0bVRkQTQtOHUtVkIzS0xxTmxNWXdnWlIzVjRqeXJsX3k2Z2Znc0xyRnM1UTA1UHpaUm1yaEFuUU40d0F4UHRkQnlKVy1GNFZudmZWeHNuOUZSXzBiRWlqV2lhN0QxUXI1Tm5TOVU?oc=5",
-          "date": "Thu, 01 Oct 2026 12:19:50 GMT",
-          "summary": "Google is launching its AI chips into orbit for the first time on a SpaceX rocket qz.com",
-          "publisher": "qz.com",
-          "_via": "news.google.com",
-          "source": "qz.com",
-          "_hash": "67dfdeb1ea95aa8a",
-          "_ageHours": 15,
-          "_inWindow": true,
-          "_score": 60.821354166666666,
-          "_corrob": 2,
-          "_cluster": [
-            {
-              "source": "scientificamerican.com",
-              "title": "Google’s Project Suncatcher AI data center test has officially launched to space onboard SpaceX rocket",
-              "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxOMk9tdW43a2RZc3dkUDVsSjZ0OVRiclZSUzlFTmx0WHlGY3J4aXI4d2xkREV1YlE4aDVsM3h5VzBhVVM0bjJrQXl5SEZjcGxCM0FVZm16S29UOENmeTZyUmVHRTYzQ0JsQk9jWXVlWDdYS3dVNjdkT1ZBa05NRnlad0sxbEV5eUZiQnRUeE5nZ1lqLUh2RjczZ0xKSUVpY3hpaXVEajhQNFF4dVo5VEFnY2trYkFfdHppZEs1c21IVVpOY2tPRnhEd3p2cHVsMUZBOEJIbk9rZjRfYmVC?oc=5"
-            },
-            {
-              "source": "investing.com",
-              "title": "Alphabet today launching AI chips into space on SpaceX rocket",
-              "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPU1FXUXAxNmV0OHp5cmtHWVdfUDZ3SzlXSldqdFdfTFYxSzROMjBVZEc3Rlp6R3d2U2NzblhGUkhpRFRJd29XNTRUVTh2X3BFRzNUc3ZaSTV3dmJ6cmNHdm0zNmx4TkFzTDFYZWtxNU1MdFcwTnFQeWtsblZzUE54ZklBMWlqSE9oaVRsZzdJUkpVRm5JODVFTVlGTVJ4WFpFdzJsa3pJWjdEMFoydG1fUmtxcTR6cFZJU0E?oc=5"
             }
           ]
         },
@@ -333,9 +328,9 @@
           "_via": "news.google.com",
           "source": "siliconangle.com",
           "_hash": "d7c6fcc972cc6617",
-          "_ageHours": 4,
+          "_ageHours": 6,
           "_inWindow": true,
-          "_score": 60.20746583333333,
+          "_score": 57.65143666666667,
           "_corrob": 2,
           "_cluster": [
             {
@@ -351,54 +346,74 @@
           ]
         },
         {
-          "title": "Google Just Put AI Chips in Orbit. The Real Story Is the Power Bill on the Ground.",
-          "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNNGFOWk53ZDJ3TURONGRrOUVVZnB0cHktVkpNVzM3aDcwZlI5QUZrbk9PU1F3aEgwcGFUMjNxSjJ4Y0Z0WHQ5Zk5WMVJsWjBpN2dIdVdTZ1gwQXZiRTRiUHk3LUF3MVY3TnJ1OXZWcnk0V1J3NlJyMlV4SGZwLWVGV0p2MUZkWExxV050ODNKYms0OVd1ZHZWRlY4QTBfSVd4aDFsd3FLd0xIUnJsMVE?oc=5",
-          "date": "Thu, 01 Oct 2026 21:18:34 GMT",
-          "summary": "Google Just Put AI Chips in Orbit. The Real Story Is the Power Bill on the Ground. MarketScale",
-          "publisher": "marketscale.com",
+          "title": "Dell Technologies (DELL) Joins $15 Billion AI Data Center Project In Japan",
+          "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOUm1vX1ZNZUhKZmp4b0NyT3hkU2d2bDNTTHhaYXI0ZXlFRDJSUmxyX1BhT3BiRnBPRExiRXpBbzRfYTRzTk85d241Z1RoZkpOYnBKZ0lLT2doVkhQbnpmeTdXLVE4NUtSZ1ozSkFnczFNZW5CZGpIWERjTWZWcWVnTlBhaUVreUUtT0V1OE54ZG50RnhlZW5pT3REeElRT0hwdWhaYzVQRWdFQm82b0dSVGlRREdYdkdoS3JCQ3U4cW01UWl2N1V4M0ZB0gHPAUFVX3lxTE50NzNvcjlra0V2WlBNaW5MYWZhWUpvX3VOeWRwcVh4SDhwX05RaEFidW52Z0RMNEphTVp3OEVKZ1dyckxhNFhRczM2czNrOFNkcnJkZ2NQaVgzQU9BcGgxN1IxcHJ4Wm95UnFNeHBoYXJxV0Y1VWRQQlpzUjkza1YyQmktSXZHMllxWTVuZS1xZW1HUzIybVFpMXc0Tjc5RVoxOUMyUWw3cnhZRl9helpTX2YyY2tGcVJWVENXZE93NnBNY3lJQnlLNk56WXkyZw?oc=5",
+          "date": "Fri, 02 Oct 2026 05:25:48 GMT",
+          "summary": "Dell Technologies (DELL) Joins $15 Billion AI Data Center Project In Japan Simply Wall Street",
+          "publisher": "simplywall.st",
           "_via": "news.google.com",
-          "source": "marketscale.com",
-          "_hash": "1790eacf43148056",
-          "_ageHours": 6,
+          "source": "simplywall.st",
+          "_hash": "c706a22ea9ccaa41",
+          "_ageHours": 1,
           "_inWindow": true,
-          "_score": 57.800243333333334,
+          "_score": 57.36476972222222,
           "_corrob": 2,
           "_cluster": [
             {
-              "source": "stocktwits.com",
-              "title": "Google Just Sent Its AI Chips Into Space — Now Comes The Hard Part",
-              "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxONzAwa3BTMWxzRVRET3h4Um5XZmdhOVd0bTE5eHcyWVQxTk10NzExUVY1VVRSeVdpaWRSeDVPT1J4RDVsSFV4dmRMNUp0d2RLMTk1aXpldlFiTVA4NWFLaVdZRmVvSUFyYXRyNzBlUi1rRFVaeElEVi1PbUp6RUk5ajJwRlozVTJvUUhjRUtackl6OHJEVXQxbGpIM2phZDRuc0puLUlYX0hvTDVHR1pPNG5KU3ltTk5nUlprR0V2RnMxUFRUWFVn?oc=5"
+              "source": "benzinga.com",
+              "title": "Dell Joins $15 Billion Japan AI Data Center Project as AI Infrastructure Spending Keeps Surging",
+              "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNM2NHTkNjQmtELUx0Q0VoUnJMZUxoOWhHczNJNTd2RGZFS093dnB6bHVQV19QaThtWWdSdTE3aXo3MkRLb19tbmZ3czZZRFItQ2kxZUZ2aHNIVDMtaTMySGhGdlFCRkROVnFPLWxQdFZyWFJ0bHpVRU53YWFldW1sMWdwTmpLNERrdEtTRXVVN3ZCZncwTGktNkJuR1VWeDVYYUtGMzJn?oc=5"
             },
             {
-              "source": "tradingview.com",
-              "title": "Google Just Sent Its AI Chips Into Space — Now Comes The Hard Part",
-              "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOOTRjZUtFOHFXNXVHUDNmV04tTWhyWTdIeTFJdG9DRkprX1k0RjZ4YmpvMlVSaWhUQTg1OEdWSTlORUt6SHFxRlhnLUNsQVV3MWprTVZzU0ZvUUNkYWFfcFlSckhBMER2QUhjcWc0NzhFaV9RYmlLYkxjOERaRkdGX1U0SE90ZkpyTUdkVF9MZmlMRDIzc3NBS1dqcGJOeUV3QU5BTGxNY09keFltRmthWXVncnlHT29BczJoLXprajhpUTg?oc=5"
+              "source": "finance.yahoo.com",
+              "title": "Oracle's $18 Billion AI Data Center Just Dodged a Major Flooding Scare",
+              "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNaU92ZWpTMU05UkVzSUYwQ05HbVRnN3R5YnBjMkJYZkhnb1NsRWdfOGR1NUVydmN2cWdLMEFqMHdRY0FzN3VIM0ZuRHZlbVJOMVoyLV83YTJtS05TUFRDNFdrMVN1aG5tUDBvd0c2RWpRNHlRc1FqTlQ3Z3hlTm9aYVp0NkJCcVJraTJxSUN0SDNXTFN6?oc=5"
             }
           ]
         },
         {
-          "title": "OpenAI says rogue agents may have affected more than 100 organizations",
-          "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxONWR3QVJLeUtCbFN2LXkwdkFyYTI2S2dsUUlnOUp4bkhITlpacWZNM2FnQUxOUlZ6Z0l0ek5lc0xqQzNjanNCQ1dOUDViYXZnMDA2dk5hV3FlaUV4RkhudG9NXzY5Q1J0US02LTJFTWV0cXVWX0NyQ2R3SGw4MW5VSVRKLTJPVTB4TVdxc2lCeDJpV1dFd1h1dXAxYk9SdWRoNnpzSy1KLWZZUlJXeFpxRGoxd0ZWdXh0SldlNmVhXzlWdw?oc=5",
-          "date": "Fri, 02 Oct 2026 02:46:03 GMT",
-          "summary": "OpenAI says rogue agents may have affected more than 100 organizations washingtonpost.com",
-          "publisher": "washingtonpost.com",
+          "title": "Palantir Billionaire Peter Thiel Has 42% of His Portfolio in These 2 Artificial Intelligence Stocks",
+          "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQN0hJV01iX05aNTg0TUlDcEktV2VocTdWMnhWT1lCRWkyMUsxeDROMGtIQW13cVVkMHZZVlBITUM2Z3V3Yjc5d3pXR2ZscWx3RkF0SVZ0N0ZsY3BZNmNYWEZUQWxyVWtIVFNLWjFZaHk1S3N1OHZmSjFEc2d6WEVyd2ZiQU4tWlhyMWpoTUhXUW1weFExb3pwYQ?oc=5",
+          "date": "Fri, 02 Oct 2026 04:34:46 GMT",
+          "summary": "Palantir Billionaire Peter Thiel Has 42% of His Portfolio in These 2 Artificial Intelligence Stocks The Motley Fool",
+          "publisher": "fool.com",
           "_via": "news.google.com",
-          "source": "washingtonpost.com",
-          "_hash": "d8b2d948834c815e",
+          "source": "fool.com",
+          "_hash": "88e2606c6fcf2635",
           "_ageHours": 1,
           "_inWindow": true,
-          "_score": 57.25829944444445,
+          "_score": 56.51421361111111,
           "_corrob": 2,
           "_cluster": [
             {
-              "source": "tomshardware.com",
-              "title": "Nvidia launches Open Agent Safety Platform to restrain rogue AI agents — new hardware-and-software security stack can quarantine agents in milliseconds",
-              "link": "https://news.google.com/rss/articles/CBMivAJBVV95cUxPOHJvOUFYU1lTVHZXT2tZbkJZVEFFZ2lzeVZMVXMwRVQtNWJwc1VPNS1iVWFDT0lkdmFoQ1N1NVFrbzlaRjNvZG13YU81N0ZTWFZSYWxxd1NSdnh3Vk0wUVBtVVFvWlBhOF9XbTFXN3ZvUjRUR1lQV0ZCSF8ySVNjYlBSdzZ1X1pPNmxDb3FfaVd5dWd6Y0lDX18zT3htbVhhRm8yVjRQSVBVRXhNeWZLUHpoeUFQNzUtN0pxZzhUaDJqOEgzNzlDZzZrTVk2OGFweHN5UzFEbmhsYkpsdTJILWRLbG42Ty1Ic09KR1V4NWlZV210b2ZyajRSZFFJV0tmMVJNeGg1enllTFByNTF0ZlRlYkJRV1lMSWRGS0dfTFAxemxlbnM4b1U5cm5FcEpxQXpUVW4wZW9QSDNQ?oc=5"
+              "source": "theglobeandmail.com",
+              "title": "Palantir Billionaire Peter Thiel Has 42% of His Portfolio in These 2 Artificial Intelligence Stocks",
+              "link": "https://news.google.com/rss/articles/CBMijwJBVV95cUxNUEJDeTFhWVA0ek8ybWZzSVA5WFlNVHVfQmR2dkVramNob05yMDNUQVdqQUVhcnM5VDljQlBQTHlCajV1Ny1kZXo5SzdDYmpnbWo1TXMxVnJlLWpVRDA3RS1laEV1eHBtY2Z6THp3b1JzZHlxLUUzcEFXVnFxQzhkejFwbk91UFQzdlctcFlhT2RFSXdxb24welhFcHlzUVNpU0w0Yzdaa1g2VVh2MmxhYWY0SWZhQWdFUERoMG9WcFFZeHJ4amJ6QVBsZncxX1VRaTlkZlhod3o5bmhEYkUtRzNSRFFOSzlvM3ViUXYzQXVUVUJhTS1WWjU1Zk13MWhIaG1nX01kcmJqbHFiOGNJ?oc=5"
             },
             {
-              "source": "theguardian.com",
-              "title": "California issues investigative subpoena to OpenAI over rogue agents’ hacking",
-              "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPZDRjNlRLem5OVV9vMEJTR09fbkliOXJTNVg4RXMwempEZk9Mc1RfNzVVTUUtbVNINDR3REJPVUtpYnpuc2xvV1lMOFd6ZEtZbVpVMjFZSUhBZE56NjNJWHJqbWQ1YVV6NTJWOE9vNW1ScGtfVHpMei1UM19hb2hwQlVrWEpLdjFBSHZYdC1rY1psX3FV?oc=5"
+              "source": "finance.yahoo.com",
+              "title": "Palantir Billionaire Peter Thiel Has 42% of His Portfolio in These 2 Artificial Intelligence Stocks",
+              "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPZXFDNmt2V3FoZU5vQkp2M3RlVVRrXy10Rzh6Y2FMTVZjVHR4MnFmalFzelB1RlpsOUhNSkFtY2dMTDJ0ZEVsVi01SjZhMDhWVHlCZFhPY2s3ZEgyLVBzQWZXXzlUZGlYVXF3V0FIZldZUTJPanFKOVZjOFljVHRFVWVMWHN2NkxMNXR1M09OTzNWOE94R2ljblVGXzNicy11?oc=5"
+            },
+            {
+              "source": "fool.com",
+              "title": "ASML vs. SK Hynix: What Revenue Trends Reveal to Investors About These Artificial Intelligence Companies",
+              "link": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxQaEU5ODFBNjVLekZubHFlMFlzWXZfSEZUSGlITG1IN29tdV9RQmpfenpxYzQ4dDhzWjBaWm5YdHd1M29mbGxPeDBRNHJmUllNY1dJdW9GeFdNUDJpdUE0X3J3Y3cyOWhZaGVuNzhmSWpTU1NTbTc5OXl3MUxLZm9HQlRxX3RWdmFHOXctOE5CWmp5V0RRX1I2Ml84MFpNa21kWmZVNE5fU1hJUmtOMzJHMkxvM3NXWWtmbmdPY0dqbWd3NW5OaUNTbDROeGl6UURCNV9scWdnZ0wzcjhfeTBzaXZBc0hSQQ?oc=5"
+            },
+            {
+              "source": "fool.com",
+              "title": "41.7% of Berkshire Hathaway's $357 Billion Portfolio Is Parked in 3 Artificial Intelligence (AI) Stocks",
+              "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNOGpsNklkTFRoM0dxVzRKMWRQVXdkQ3R3VEpLWUNJb0ZvNFJzY1ZzMXBCS290aU1ELUhyMU4zaVJScTNyNDBiNXFOWnl2SEpoQWx5V0R4dlo2UHFVMEh5RDdiSEdhSmcxaTN3T1Btaml2STk4Y19zWUpnNWRTemZSMFkwRlNrTVc0dElRUndfZF93TFRD?oc=5"
+            },
+            {
+              "source": "fool.com",
+              "title": "Billionaire Israel Englander Buys 2 Artificial Intelligence (AI) Stocks Up 405% and 575% in 2 Years",
+              "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPWW5oVVh3S0V5clZFb3pBbnZIT0Ixdk1ib1pEbG1rZjk1REYwMzR6UXY0alpYRENySzFqZXVNd2N1NTNLLU91elV0akw3bHlxaV9MQllfYnhUTnd3ZHZPaDU4N1VKczBONnB6SnBSRnN6MGt1UERyUUIxV2lIR3NBdTRhOUkySXRfUTdz?oc=5"
+            },
+            {
+              "source": "finance.yahoo.com",
+              "title": "Billionaire Israel Englander Buys 2 Artificial Intelligence (AI) Stocks Up 405% and 575% in 2 Years",
+              "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQdHpZNXVXaV83OXlzOE1wN0F1RTlONFNfcWxZOVRZNkE5V0FqMDVYUy1yMlhDNlBDRGxHLThJM3pRRUV6RXYyaWZjcnN6RklnWjctUWp4Vk82N1FlTU5BcU1QNHNBMmdzRHBTN0JYZDNsNmItRmh5RldEYzBTVjlOTW8yS1BJNDd3M21tUVBNUi1ZSVlOQWRLbGhrZ2VQN19ISlE?oc=5"
             }
           ]
         }
@@ -408,22 +423,68 @@
       "name": "Space",
       "candidates": [
         {
-          "title": "Falcon Heavy to fly its first mission for U.S. spy satellite agency",
+          "title": "Joshua Kutryk's launch to the ISS is another example of the important role Canada plays in space exploration",
+          "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5KbDhwNXZ4X2JWYjZMM2J6LUtKWlRMNXBfdi1uTGZldVlVcnlPTTBRUDRMcjUtRTFDWDJiellDdTN5aVI4bWlIdjM3bTlhMEVlWE1FRmVJU2U1UFhuaGNFb0d2ZEltdF82VjZOaFNzSGUxUlpwcHhhWF9uRUxrQQ?oc=5",
+          "date": "Thu, 01 Oct 2026 23:10:20 GMT",
+          "summary": "Joshua Kutryk's launch to the ISS is another example of the important role Canada plays in space exploration CBC",
+          "publisher": "cbc.ca",
+          "_via": "news.google.com",
+          "source": "cbc.ca",
+          "_hash": "22b73972d76d1502",
+          "_ageHours": 7,
+          "_inWindow": true,
+          "_score": 72.10685527777778,
+          "_corrob": 5,
+          "_cluster": [
+            {
+              "source": "deccanchronicle.com",
+              "title": "AI, Robotics To Transform Space Exploration, Says Former ISRO Chief",
+              "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxON0hmYzIwdzBBZjdhSUhKalJlVFRKV25GaUFlUGNfZEpMc2JvejlVRlFvb09pYkZudXRqdHhpeEdZSVRuc0cteTdCME1zcHJNUW8zQWlfWkpJRm1XWmFRaVB2RWJyQWx0MFRXS09OT2I0UDQ3SkdXSGVIclNKOWY5Yk5NTWM4LWVmbU95RzBnb0hsTmVzMzRNU0d5UWlWTzdGd0t4NzQ3WTdRRXNZSF9PSTJPZTBHcllDdU9odTMybG1zaWxjbWVsRlkxYjNXNUlqeUHSAdcBQVVfeXFMTVVTVWJPRjBBWE5iWXpyQlNYUzFMS25sTURzRXo2c1NvUHZPelI0SGVTU0kxYjNJREhTNGtYTXNTNmN5MG5GQlpweVlraDktWjU0eExlR2pscDhHdnd0SUhBN0poMFctS2R4ZElQZUZnaDh2a1lHUUN1ZE90VktCMWctMTYtR0tBUGticTRhTWQ4eW1HVktFbVZOTVdNNkdUVzBWdFF5clhkMUVUaE53NHVuZDlOVlVSSDVHa0RKVnM1VXZ4WVd0RHlxaVB2TjNIT1YzdEdvYmc?oc=5"
+            },
+            {
+              "source": "toronto.citynews.ca",
+              "title": "Canadian astronaut Joshua Kutryk set to launch to International Space Station",
+              "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOREZhVUg5S3N5X3kxdWM0XzV0LUJESC1XVFhvYlFaRW9vVDJGbmczUzloQjZlWU9ENHpfblRLUzBKdnFKNkw3d1YtZHc3ekVWM2JTZnk3MTRzZXczRGtsdW10eUVZdXNLM3ZwZm0tcDNEVnV6MFRkMlZQVnlldmpQcjhGTnlPNGxGNVdYRHdTU3RfVUNGUG9BcnNocGc5M29MNlhzd21ONExnNGdBMzhZVGdpbDhfUUpE?oc=5"
+            },
+            {
+              "source": "thehindu.com",
+              "title": "AI, machine learning and robotics will transform space exploration, says former ISRO chief Kiran Kumar",
+              "link": "https://news.google.com/rss/articles/CBMihAJBVV95cUxNVC1TU0c5YXpqSm1jQlFLaTEtd0VNa2xTbnJyVUFjVXl3Vk04ZFV5Y09JRlNocGEzRVc4dUVFMjUyUWNfZzRDYU5RbVF5djNwTFAyN3czV0RoOHpaR1lLUElKRWF6b3JaLVh5RUJxOGt3WmlxZ2pybUVDRGhkcm1nbFY5VzlIazR5a3A5dmhqR19LUkpUclNaLTd1Sm5JV2pSVDQ0U1Z1b3FVZjhZajhNVzg4TE14LUtTUl9SVmlDQ0tTa1FYNXg1ZGVJVUI1LVNLWWRSX3B2NHRVUW10VDFLcjV6dE5lUm5NZlpCcUJNbjROR3dzTXZmUEtocVZHOWs1RG5oRtIBiwJBVV95cUxONGNnRWo1ajV2eHVXSVptMEh1Nmlkd2Fnb1QwZC1Hc19NOFRmTXgxMkVHSXhMRElheXVPLTJkNmYxcjdQV241UkFzVEJkWUN5cGpSVTdmcE1jLU8tU2hGSnhWektac1V4U25mRTR1QWxmMDVVOXFSSkVzWllIc0thcnBmNHQzN1lDVmo2OGZTQXdCbFg4czZtTjc1bTZZa21Fd3NvbnB0T1NJTXhQaU1nZDR3NWY3OEo5bm9TNk52SEQzZ3pvMFFHeThBckE4SnRIdDdSQVdsQm90TEhjNUljM19QSkd4MFI5NzFwcThXVWFDRk82Sk5VOGtvOG14Zy1jbXA5dnZuVE5uNXc?oc=5"
+            },
+            {
+              "source": "cdcgaming.com",
+              "title": "Iowa’s newest casino, opening in November, announces space-exploration exhibit, entertainment lineup",
+              "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxObmhIWlZLSzRLWW1XUVRqRW0xa2Z4RU1UUVpCQk5MXzZfNnh5dHE1MUxvNFFuME9VWGJ5ZE5TSXNobzR3b2JHR0xYNzFSbWtkT3RIWXBMNmpQZzA5YzMyVGMyMUs4M0NpcFRsc2dSRjRyZE5EWkJwUGlad3dXMDRDeHhlQ1FPZjU4NUp6bmt1dTFzbF9DM0lVeFJtczdtS2JudEtUNUFJN2ZXdWd1Xzducm95bGVoaHNtNzViSGI1aThteXM?oc=5"
+            },
+            {
+              "source": "marketscreener.com",
+              "title": "SpaceX (Space Exploration Technologies) : UBS gives a Buy rating",
+              "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOUHJRMy1MMy11aHM5cVNHeVlxWU1tM1l6ellIZ0tSdXlYTVF4cmZkekVfeGcyamI2RU1LRVhkWEtNRl80eWpBNnczU283RHhpYU5OZHpZTFFTTjdZVnI5LWVtLVpJS3NfVFhwU012dXVWaG40dUlxZFZ6YWtMMF9OLXpJMXZZY0JkVmNKRmE3blJEemhnUVZQalA2OUxUZURQczBCdU9jWE91TkVKY0E1VWxjdw?oc=5"
+            },
+            {
+              "source": "marketscreener.com",
+              "title": "SpaceX (Space Exploration Technologies) : Receives a Buy rating from Bernstein",
+              "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOMnpFRzFZekxBUmM0SnRlYlN4eldfR2l3MGtsWXczTlQ2cUg0RGZZSTI2ZlNfZzVLbndjRlBTYmtRZXFLUzhER18yX3dQdlBRSExweWM4M3BTbnNVMXVlaEJsT1puOWZQeW5Fc3N3b0h6NGJGVUVFcmVqQk15RkxsaDhPNC0yTmFGREx3N185UkpZUDQxNXl3RkhBbkRsV1RLWnphQlE3YTI5eFJxU3lxbXFjWUVIbVc5NUhDcHdKRVJ2LTh4clE?oc=5"
+            }
+          ]
+        },
+        {
+          "title": "Falcon Heavy flies its first mission for U.S. spy satellite agency",
           "link": "https://spaceflightnow.com/2026/10/01/falcon-heavy-to-fly-its-first-mission-for-u-s-spy-satellite-agency/",
           "date": "Thu, 01 Oct 2026 22:37:30 +0000",
           "summary": "The 14th Falcon Heavy rocket is scheduled to blast off on a clandestine mission from Launch Complex 39A at NASA’s Kennedy Space Center at 11:54 p.m. EDT (0354 UTC).",
           "publisher": "",
           "_via": "spaceflightnow.com",
           "source": "spaceflightnow.com",
-          "_hash": "67706c4580b0fcdc",
-          "_ageHours": 5,
+          "_hash": "cb90b5207e4ecb2c",
+          "_ageHours": 7,
           "_inWindow": true,
-          "_score": 65.11562722222223,
+          "_score": 62.55963333333333,
           "_corrob": 2,
           "_cluster": [
             {
               "source": "spaceflightnow.com",
-              "title": "Falcon Heavy to fly its first mission for U.S. spy satellite agency",
+              "title": "Falcon Heavy flies its first mission for U.S. spy satellite agency",
               "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNVmdfTktZTWJkVmlyYXVOUHFNU0ZQbEpSSnpRLV9lRFBfV05tVjA2OWpZZ0dLRE9mV2p4eW5PdjBfY25kTGpVYWxTMjFhOXJubzJRcnd6dUhwUTZXbGdyTXlYRll2dmw3ZUFPRHRHaElnUkpqQzZzVk9DSUl2WjE1UTFWdlY5WW5oZThoeVM2Yk05WjhhOWRwRTBSekh2c3dpR0pmNGZxOE8?oc=5"
             },
             {
@@ -439,6 +500,21 @@
           ]
         },
         {
+          "title": "Rains Swamp the Gandak River",
+          "link": "https://science.nasa.gov/earth/earth-observatory/rains-swamp-the-gandak-river/",
+          "date": "Fri, 02 Oct 2026 04:01:00 +0000",
+          "summary": "After days of torrential rain, the river rose to record-breaking levels in parts of Nepal and India.",
+          "publisher": "",
+          "_via": "nasa.gov",
+          "source": "nasa.gov",
+          "_hash": "d554566d22babada",
+          "_ageHours": 2,
+          "_inWindow": true,
+          "_score": 51.9513,
+          "_corrob": 0,
+          "_cluster": []
+        },
+        {
           "title": "10 Things: Movie Night",
           "link": "https://science.nasa.gov/solar-system/10-things-movie-night/",
           "date": "Fri, 02 Oct 2026 00:25:36 +0000",
@@ -447,9 +523,9 @@
           "_via": "nasa.gov",
           "source": "nasa.gov",
           "_hash": "bc86de888b82bc49",
-          "_ageHours": 3,
+          "_ageHours": 6,
           "_inWindow": true,
-          "_score": 50.917294166666665,
+          "_score": 48.3613,
           "_corrob": 0,
           "_cluster": []
         },
@@ -462,9 +538,9 @@
           "_via": "nasa.gov",
           "source": "nasa.gov",
           "_hash": "d79683460e20bafb",
-          "_ageHours": 9,
+          "_ageHours": 12,
           "_inWindow": true,
-          "_score": 49.584516388888886,
+          "_score": 47.02852222222222,
           "_corrob": 1,
           "_cluster": [
             {
@@ -490,6 +566,27 @@
           ]
         },
         {
+          "title": "APOD: 2026 October 2 – The Complete Sharpless Catalog: 313 Nebulas",
+          "link": "https://science.nasa.gov/image-article/apod-2026-october-2-the-complete-sharpless-catalog-313-nebulae/",
+          "date": "Fri, 02 Oct 2026 04:05:00 +0000",
+          "summary": "What does it take to image hundreds of nebulas? Today’s image contains the entire Sharpless Catalog of H II Regions, totaling 313 objects. Zoom in and explore!",
+          "publisher": "",
+          "_via": "nasa.gov",
+          "source": "nasa.gov",
+          "_hash": "d66483a314b09ade",
+          "_ageHours": 2,
+          "_inWindow": true,
+          "_score": 46.017966666666666,
+          "_corrob": 0,
+          "_cluster": [
+            {
+              "source": "nasa.gov",
+              "title": "APOD: 2026 October 1 – Harvest Moon with Erupting Mount Etna",
+              "link": "https://science.nasa.gov/image-article/apod-2026-october-1-harvest-moon-with-belt-of-venus-and-erupting-mount-etna/"
+            }
+          ]
+        },
+        {
           "title": "Bring U.S. Space Academy to Alabama, Gov. Kay Ivey urges: ‘We are making a strong case’",
           "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOc3FkQW9lWXdqTUdLOFQyZlBtc1c1SHhxeGlEaVQtcVFqbDRUSVdSVGhYRktUSE5kM2hlWUNNRGdwZWZiV0FKWnItUnhMQVQxRm9rQjM3aXZSTjg4UDFPenpPeGdfRlNtUDRweUtOTGpGa2JMVTdsRFhJQkd0Wlh1U2FWZXFweGtVeVpFTlRpYjllN2JGTVltMnZVQ01XWk9VSUJ2MlNjMnJzZUt0bWZFZG5uaFFoS3R5WHY4bnpVU3hDRnFybTlZ?oc=5",
           "date": "Thu, 01 Oct 2026 21:31:00 GMT",
@@ -498,9 +595,9 @@
           "_via": "news.google.com",
           "source": "al.com",
           "_hash": "92642195fb4c7996",
-          "_ageHours": 6,
+          "_ageHours": 9,
           "_inWindow": true,
-          "_score": 47.00729388888889,
+          "_score": 44.451299722222224,
           "_corrob": 1,
           "_cluster": [
             {
@@ -519,36 +616,15 @@
           "_via": "news.google.com",
           "source": "aviationweek.com",
           "_hash": "3dfec777d8764c3f",
-          "_ageHours": 8,
+          "_ageHours": 10,
           "_inWindow": true,
-          "_score": 45.28646055555556,
+          "_score": 42.730466388888885,
           "_corrob": 1,
           "_cluster": [
             {
               "source": "news.rice.edu",
               "title": "Rice experts available to discuss human spaceflight, safety and space policy",
               "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPakJiSTdleWdneHBJSlY2NlZ1aFJGcnVwUXc4alhGNXhHdXJWSFBja3BpSkNXLW1HdmljeGRVSk00U1RITHhVTzlGbjFYcEhBdnRMUG1yOHRfcVB6Z3E5NUZNVS1fREdMNWVGN3hpQk8tN2RNd0FBcXR4cTBrcnplelhYMWMydy1hbm9mYVpxMV9hdl9WTXRDNXY5eEo5MmxGbTNRUWRMUQ?oc=5"
-            }
-          ]
-        },
-        {
-          "title": "AI, Robotics To Transform Space Exploration, Says Former ISRO Chief",
-          "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxON0hmYzIwdzBBZjdhSUhKalJlVFRKV25GaUFlUGNfZEpMc2JvejlVRlFvb09pYkZudXRqdHhpeEdZSVRuc0cteTdCME1zcHJNUW8zQWlfWkpJRm1XWmFRaVB2RWJyQWx0MFRXS09OT2I0UDQ3SkdXSGVIclNKOWY5Yk5NTWM4LWVmbU95RzBnb0hsTmVzMzRNU0d5UWlWTzdGd0t4NzQ3WTdRRXNZSF9PSTJPZTBHcllDdU9odTMybG1zaWxjbWVsRlkxYjNXNUlqeUHSAdcBQVVfeXFMTVVTVWJPRjBBWE5iWXpyQlNYUzFMS25sTURzRXo2c1NvUHZPelI0SGVTU0kxYjNJREhTNGtYTXNTNmN5MG5GQlpweVlraDktWjU0eExlR2pscDhHdnd0SUhBN0poMFctS2R4ZElQZUZnaDh2a1lHUUN1ZE90VktCMWctMTYtR0tBUGticTRhTWQ4eW1HVktFbVZOTVdNNkdUVzBWdFF5clhkMUVUaE53NHVuZDlOVlVSSDVHa0RKVnM1VXZ4WVd0RHlxaVB2TjNIT1YzdEdvYmc?oc=5",
-          "date": "Thu, 01 Oct 2026 19:04:07 GMT",
-          "summary": "AI, Robotics To Transform Space Exploration, Says Former ISRO Chief Deccan Chronicle",
-          "publisher": "deccanchronicle.com",
-          "_via": "news.google.com",
-          "source": "deccanchronicle.com",
-          "_hash": "d063b6ba8595af1e",
-          "_ageHours": 8,
-          "_inWindow": true,
-          "_score": 44.55923833333333,
-          "_corrob": 1,
-          "_cluster": [
-            {
-              "source": "thehindu.com",
-              "title": "AI, machine learning and robotics will transform space exploration, says former ISRO chief Kiran Kumar",
-              "link": "https://news.google.com/rss/articles/CBMihAJBVV95cUxNVC1TU0c5YXpqSm1jQlFLaTEtd0VNa2xTbnJyVUFjVXl3Vk04ZFV5Y09JRlNocGEzRVc4dUVFMjUyUWNfZzRDYU5RbVF5djNwTFAyN3czV0RoOHpaR1lLUElKRWF6b3JaLVh5RUJxOGt3WmlxZ2pybUVDRGhkcm1nbFY5VzlIazR5a3A5dmhqR19LUkpUclNaLTd1Sm5JV2pSVDQ0U1Z1b3FVZjhZajhNVzg4TE14LUtTUl9SVmlDQ0tTa1FYNXg1ZGVJVUI1LVNLWWRSX3B2NHRVUW10VDFLcjV6dE5lUm5NZlpCcUJNbjROR3dzTXZmUEtocVZHOWs1RG5oRtIBiwJBVV95cUxONGNnRWo1ajV2eHVXSVptMEh1Nmlkd2Fnb1QwZC1Hc19NOFRmTXgxMkVHSXhMRElheXVPLTJkNmYxcjdQV241UkFzVEJkWUN5cGpSVTdmcE1jLU8tU2hGSnhWektac1V4U25mRTR1QWxmMDVVOXFSSkVzWllIc0thcnBmNHQzN1lDVmo2OGZTQXdCbFg4czZtTjc1bTZZa21Fd3NvbnB0T1NJTXhQaU1nZDR3NWY3OEo5bm9TNk52SEQzZ3pvMFFHeThBckE4SnRIdDdSQVdsQm90TEhjNUljM19QSkd4MFI5NzFwcThXVWFDRk82Sk5VOGtvOG14Zy1jbXA5dnZuVE5uNXc?oc=5"
             }
           ]
         },
@@ -561,9 +637,9 @@
           "_via": "nasa.gov",
           "source": "nasa.gov",
           "_hash": "0b17d6927f794b05",
-          "_ageHours": 7,
+          "_ageHours": 9,
           "_inWindow": true,
-          "_score": 41.064794166666665,
+          "_score": 38.5088,
           "_corrob": 0,
           "_cluster": []
         },
@@ -576,9 +652,9 @@
           "_via": "nasa.gov",
           "source": "nasa.gov",
           "_hash": "ebc09c0882018182",
-          "_ageHours": 14,
+          "_ageHours": 16,
           "_inWindow": true,
-          "_score": 40.4906275,
+          "_score": 37.93463333333334,
           "_corrob": 0,
           "_cluster": []
         },
@@ -591,71 +667,24 @@
           "_via": "nasa.gov",
           "source": "nasa.gov",
           "_hash": "5db688ea08370787",
-          "_ageHours": 11,
+          "_ageHours": 13,
           "_inWindow": true,
-          "_score": 37.460071944444444,
+          "_score": 34.90407777777778,
           "_corrob": 0,
           "_cluster": []
         },
         {
-          "title": "Iowa’s newest casino, opening in November, announces space-exploration exhibit, entertainment lineup",
-          "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxObmhIWlZLSzRLWW1XUVRqRW0xa2Z4RU1UUVpCQk5MXzZfNnh5dHE1MUxvNFFuME9VWGJ5ZE5TSXNobzR3b2JHR0xYNzFSbWtkT3RIWXBMNmpQZzA5YzMyVGMyMUs4M0NpcFRsc2dSRjRyZE5EWkJwUGlad3dXMDRDeHhlQ1FPZjU4NUp6bmt1dTFzbF9DM0lVeFJtczdtS2JudEtUNUFJN2ZXdWd1Xzducm95bGVoaHNtNzViSGI1aThteXM?oc=5",
-          "date": "Thu, 01 Oct 2026 02:35:04 GMT",
-          "summary": "Iowa’s newest casino, opening in November, announces space-exploration exhibit, entertainment lineup CDC Gaming",
-          "publisher": "cdcgaming.com",
-          "_via": "news.google.com",
-          "source": "cdcgaming.com",
-          "_hash": "879f9c5358e8e5eb",
-          "_ageHours": 25,
-          "_inWindow": true,
-          "_score": 28.075071666666666,
-          "_corrob": 1,
-          "_cluster": [
-            {
-              "source": "cbs2iowa.com",
-              "title": "Cedar Crossing Casino announces space exhibit, expanded entertainment lineup",
-              "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPZW9rcmNJQnRtbHduM2REbHRibGZWbU5CMDlnSWhRUmluZEFhS0VKVlVxeHkwQTFhb0cwVmNjbkpta21LZEtLN0JZUXhhZ0VTdUhwcXhNMnI4aDFmMVJnNXhxTF9uZHB6V1BLc3FvaXpIdUpKaERqSmxuLU5PWF92WDRQTnB5TnBFRzlfTDg3N2hueVRGekthb1U5emdicnVWTmtzQjBhT2c0MUk?oc=5"
-            }
-          ]
-        },
-        {
-          "title": "Form 4 SPACE EXPLORATION TECHNOLOGIES CORP For: 30 September By Investing.com",
-          "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPM0tKdGc3RmJibkhGRERld0c4bEk1R1ZGcU9GSGIxeWRQN0YxLWNGTEpBeE9PRG1XbnBWaExEOUNIbFJhNzM5WHpXcVdOTmRuMXFpWjdtOUtrZngxMXBKQmVWMEkxNTN0a1lVU0hJLS1XRG5FODQzZUs4QVQ0M2duSTFHSEw1QzJ6ajJqNmtGS1VvNW1ZamlpVVg0ZG13U2NDdHMwNzFpcGk5QWNGVGRORURfV2t4UEhSaC13Ng?oc=5",
-          "date": "Thu, 01 Oct 2026 02:34:47 GMT",
-          "summary": "Form 4 SPACE EXPLORATION TECHNOLOGIES CORP For: 30 September By Investing.com Investing.com UK",
-          "publisher": "uk.investing.com",
-          "_via": "news.google.com",
-          "source": "uk.investing.com",
-          "_hash": "ca0e7e9221b8d801",
-          "_ageHours": 25,
-          "_inWindow": true,
-          "_score": 28.070349444444446,
-          "_corrob": 1,
-          "_cluster": [
-            {
-              "source": "marketscreener.com",
-              "title": "SpaceX (Space Exploration Technologies) : UBS gives a Buy rating",
-              "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOUHJRMy1MMy11aHM5cVNHeVlxWU1tM1l6ellIZ0tSdXlYTVF4cmZkekVfeGcyamI2RU1LRVhkWEtNRl80eWpBNnczU283RHhpYU5OZHpZTFFTTjdZVnI5LWVtLVpJS3NfVFhwU012dXVWaG40dUlxZFZ6YWtMMF9OLXpJMXZZY0JkVmNKRmE3blJEemhnUVZQalA2OUxUZURQczBCdU9jWE91TkVKY0E1VWxjdw?oc=5"
-            },
-            {
-              "source": "marketscreener.com",
-              "title": "SpaceX (Space Exploration Technologies) : Receives a Buy rating from Bernstein",
-              "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOMnpFRzFZekxBUmM0SnRlYlN4eldfR2l3MGtsWXczTlQ2cUg0RGZZSTI2ZlNfZzVLbndjRlBTYmtRZXFLUzhER18yX3dQdlBRSExweWM4M3BTbnNVMXVlaEJsT1puOWZQeW5Fc3N3b0h6NGJGVUVFcmVqQk15RkxsaDhPNC0yTmFGREx3N185UkpZUDQxNXl3RkhBbkRsV1RLWnphQlE3YTI5eFJxU3lxbXFjWUVIbVc5NUhDcHdKRVJ2LTh4clE?oc=5"
-            }
-          ]
-        },
-        {
-          "title": "APOD: 2026 October 1 – Harvest Moon with Erupting Mount Etna",
-          "link": "https://science.nasa.gov/image-article/apod-2026-october-1-harvest-moon-with-belt-of-venus-and-erupting-mount-etna/",
-          "date": "Thu, 01 Oct 2026 04:05:00 +0000",
-          "summary": "APOD Science APOD APOD: 2026 October 1 –… Today’s APOD Archive Submissions Index Search Calendar RSS Education About Discuss APOD Astronomy Picture of the Day Discover the cosmos! Each day a different image or photograph of our fascinating universe is featured, along with a brief explanation written by a professional astronomer. Harvest Moon with [&#8230;]",
+          "title": "An Agricultural “Island” in the Saskatchewan River Delta",
+          "link": "https://science.nasa.gov/earth/earth-observatory/an-agricultural-island-in-the-saskatchewan-river-delta/",
+          "date": "Thu, 01 Oct 2026 04:00:00 +0000",
+          "summary": "Surrounded by wetlands, Manitoba’s northernmost farmland near The Pas turns from green to brown over the 2026 growing season.",
           "publisher": "",
           "_via": "nasa.gov",
           "source": "nasa.gov",
-          "_hash": "8acca17acbf65cb3",
-          "_ageHours": 23,
+          "_hash": "6e43df4f3e3e6fad",
+          "_ageHours": 26,
           "_inWindow": true,
-          "_score": 24.573960833333334,
+          "_score": 21.934633333333334,
           "_corrob": 0,
           "_cluster": []
         }
@@ -665,86 +694,55 @@
       "name": "Bitcoin / Crypto",
       "candidates": [
         {
-          "title": "Citigroup raises 12-month bitcoin target to $113,000 as ETF inflows resume",
-          "link": "https://www.coindesk.com/markets/2026/10/01/citigroup-raises-12-month-bitcoin-target-to-usd113-000-as-etf-inflows-resume",
-          "date": "Thu, 01 Oct 2026 09:59:30 +0000",
-          "summary": "Citi also raised its 12-month target for ether from from $2,240 to $3,028.",
+          "title": "Spot bitcoin ETFs log $2.7 billion in September inflows as institutional demand holds",
+          "link": "https://www.theblock.co/news/markets/2026-10-02-spot-bitcoin-etfs-september-inflows-417547",
+          "date": "Fri, 02 Oct 2026 05:50:41 +0000",
+          "summary": "US spot bitcoin ETFs recorded $2.65 billion in net inflows in September, their second-largest monthly inflow since October 2025.",
           "publisher": "",
-          "_via": "coindesk.com",
-          "source": "coindesk.com",
-          "_hash": "a099a6d477c6cabe",
-          "_ageHours": 18,
+          "_via": "theblock.co",
+          "source": "theblock.co",
+          "_hash": "8321696a5ac9ad7c",
+          "_ageHours": 0,
           "_inWindow": true,
-          "_score": 61.48210916666667,
-          "_corrob": 5,
-          "_cluster": [
-            {
-              "source": "northeasttimes.com",
-              "title": "Citigroup Raises Bitcoin Forecast by $31,000 as ETF Money Returns",
-              "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOZEhwT3lXb1prXzRwX1VvTnZJRTFhMHJPeUJsYlVyZEFJcHBhN3hrbXVuSml2MHN1dktFMXMxZVppZTZYV1NfLXlKbm03NjFteFAybUVHWm01U3FaWG9ONC1BbThNdmxYaEoyeWhybkZoOVNqVmRGV2RpSU01NlkwMlN3LUdJOHNObFd2WmVHSXlHRTA5OFdHN3c5YnZ0WEx5Y3NqWXVn?oc=5"
-            },
-            {
-              "source": "americanbazaaronline.com",
-              "title": "Citi raises Bitcoin forecast to $113,000, Ether to $3,028",
-              "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOQlkwb0xaMXA5YmVoWGNIOHJYM05ZLV9DdE5WT25aMVhldUVBSWRzdGtYRWhaUFBtSDdnUTRleTFMc3J3N1BoMVdZY29VSVM2N3RueFg4MW1YQnl2Ym00anNqOVptM2tYV3BUYXdwNWxKYy0xTEl1ZGFDSEVMUjJSUUZoUEhiODdfY3F6LTFHLV9CQjNDYUV6SDUtVXBnLXA0XzlILVRudw?oc=5"
-            },
-            {
-              "source": "coindesk.com",
-              "title": "Citigroup raises 12-month bitcoin target to $113,000 as ETF inflows resume",
-              "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNa1FvampNWHlZUk1sNFhKQW9VN0s5UUZlRjlMbmdBUkYyZkdmS0NLZUxOdS1hQ1lpWjV4ZEp4MlctZEt4bDctdU1HNGxZdmMxXzA3Y0xaOWx4SmVCR0o4ZUxUWkt0NmdsT2xFbGNNX3FnNGh3aGJqRHBzMVp1SER6a3lOMjhQU0YtWTJHRzQ3U0YxQUdzZEhOSWJXbkNhZFEtU0dYSFdMZm9Td2o0NjNpMlc3UlFzSXdDbGNTRg?oc=5"
-            },
-            {
-              "source": "fortune.com",
-              "title": "Citigroup raises one-year Bitcoin forecast to $113,000",
-              "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1IdXhBb19NY2pEc2xDRVJHemRtQ1lSV010RTFVTWpHNlB5S0R1VUNkOGZsb3NiMUd4WmJlVnNvOWtXUFpaNkx4UkpIU00yd2R0LWMtWWQ4c296bkk5SW14aHJVbWRUOWhYZVhqekVqbUYtUFRPZkNjWXZuNU5YaFk?oc=5"
-            },
-            {
-              "source": "finance.yahoo.com",
-              "title": "BTC Price Target: Citi Raises Bitcoin Forecast To $113K, Ethereum Target To $3,028 As ETF Inflows Return",
-              "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNTWJ2ZDRyNWpQcmJIc3FnUlgya0lLZUtzNjBHekhaUHQ0WkdOQjB0N0J3SVBWdmlDV2V6X2VUVEQ2RlZidHZVSEg2VVFsYUV5N19NN1RCNFQyRWJRdGxMR05tUGFpcVhvRjlvUkctUURwNldkeFQ0SWdtWnAxWWpYZzhGZElZWDNPbVJ1dVFMcWdyejRxNVlENQ?oc=5"
-            },
-            {
-              "source": "reuters.com",
-              "title": "Citi raises bitcoin, ether forecasts on strong crypto activity",
-              "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPVHIxQ2w0Yk5PREktR1RYTlhhbF9DY2tMNTZnVmk0V2dNUTQ3NlRnNHdFVGRZcUtsa2drNGdIZTlhcXFtaUJpaDIwQTJLeEFwaW1DUWhGTWxhMXdIblplX2NqcVIwdWlRdkphUmRhRzZvY3EtZ3pyRE1tM2MwV3dzSENXaHBzY2syUmtHWmF5Q1pwUHF1am05eFJMOF9zaXp4S1J6aldBVmN5OUNKMTUzTA?oc=5"
-            }
-          ]
-        },
-        {
-          "title": "Bitcoin Price Prediction: BTC’s Next Move Meets Remittix’s RTX Launch Date Reveal",
-          "link": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxPSDU5eTlzQnhsSEFFZU1UVWhtSE50N01YcVNxQkxZWEhIX0w3RWFneVYzX3V2LUJhM2hEWVVwQkpiYmpDcXNPcWo4cVZPQ1JGVUpQa29UdlF6SHZ0NGFBX0NOQTVRUldoZ0N5SmY5SzM2OF9faXNfTE13TDNQa0UxdTZRZUlGcUJ2RnJuSGJvVDRwVE5QSXdodXR3NHowbElJMWszRV96bTVQVFZVaEVnVXVsX2dIWmFCdzFzN3hTYjJzYXdpb19DRWIxVVBaNkQ3Vlk4SEhwbUNsUkJYWmJzakVzbGRZODJBUmtsWU5xZmE?oc=5",
-          "date": "Fri, 02 Oct 2026 01:52:58 GMT",
-          "summary": "Bitcoin Price Prediction: BTC’s Next Move Meets Remittix’s RTX Launch Date Reveal streetinsider.com",
-          "publisher": "streetinsider.com",
-          "_via": "news.google.com",
-          "source": "streetinsider.com",
-          "_hash": "59069e656ec3cc39",
-          "_ageHours": 2,
-          "_inWindow": true,
-          "_score": 57.37322,
-          "_corrob": 1,
-          "_cluster": [
-            {
-              "source": "finance.yahoo.com",
-              "title": "Bitcoin Price Tests $85,000 as Citi Raises Target to $113K",
-              "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPdFBvbnFteG4yS3IxWmRZN0phWVM3YVh6M21kZHJJRHF4aEJsSUJtOUh5c1dWQmZJSG1YV3pqZ3BSTmlmNi10X0ZMM1RYOUdCTEI0eUoxZEhqR3hzRmpCcnVPVVYwNDNab0F4NUg0aEhxN2RoOUpKNVRWTkQ4Y29BYVk2Y3lDTGRSNkRnWHlUNS1lUnV6ZEE?oc=5"
-            }
-          ]
-        },
-        {
-          "title": "Bitcoin, Ethereum, XRP Gain, While Dogecoin Dips After Treasuries Retreat From 24-Year Highs: Analyst Says BTC Is 'Finally Breaking Upwards'",
-          "link": "https://news.google.com/rss/articles/CBMingJBVV95cUxPVmVNb2Q1bGJzZ2FPdG5rYnN3eEVEanMzdGllaV9HUEFfaXNfNkJpNnRrZmx1Y3N3VzVRdFJQWXVmYmtkRlhMREpVUUdmU0xqM2Uwb2E5OHJKZUFvZDAza1MteHhXQ3FReVBwcE90SE9ydEZmYkFEcktUM3diaHpxbEJQTjdQVEpfV2FrZzJPc0NvWHNiQmZ2Sld1Y2lYREtpVUVnZldxRzRhei1NQzVjbGZLRDdZYnN3V3pLUEs3ZHkzalNXM0tZWmxMUmlmSmJiUlNJdnI0dHFUTldJSzNLeW9zUjliTnQ2TjkxSnlYUzJLSDNsUTEwTEhIQjJubUs0MnFvTm9YaVFrcVRIUUJBaWtvSFNudmlndXZHZ1lB?oc=5",
-          "date": "Fri, 02 Oct 2026 02:05:00 GMT",
-          "summary": "Bitcoin, Ethereum, XRP Gain, While Dogecoin Dips After Treasuries Retreat From 24-Year Highs: Analyst Says BTC Is 'Finally Breaking Upwards' TradingView",
-          "publisher": "tradingview.com",
-          "_via": "news.google.com",
-          "source": "tradingview.com",
-          "_hash": "9fe5a438acd50bd3",
-          "_ageHours": 1,
-          "_inWindow": true,
-          "_score": 56.57377555555556,
+          "_score": 69.77924833333333,
           "_corrob": 2,
           "_cluster": [
+            {
+              "source": "pluang.com",
+              "title": "U.S. spot Bitcoin ETFs saw $102.7M inflows on O...",
+              "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQSGdOSDR6bktiTDRhaEt6VUo3QTRVX3ZNdGhWNXpyTVZ6cUdWckpjMC11cEZuQmhnOUdZQ2ZsQzk0MGp4YkswU3c5Q3BleUhqRU9MNC1xWW13dzNJcmpLaXJ6V3FQRzFBbmdvNEVyR1I4S3VqVWVzdDFTdEQ3MVVkaFIzZGpVUQ?oc=5"
+            },
+            {
+              "source": "theblock.co",
+              "title": "Bitcoin ETFs’ 9-day, $3 billion inflow streak comes to an end as $149 million exits the funds",
+              "link": "https://www.theblock.co/news/markets/2026-10-01-bitcoin-etfs-9-day-3-billion-inflow-streak-comes-to-an-end-as-149-million-exits-the-funds-417384"
+            },
+            {
+              "source": "cointelegraph.com",
+              "title": "Bitcoin ETFs draw $6.3B in Q3 as BTC price rises nearly 43%",
+              "link": "https://cointelegraph.com/markets/bitcoin-etf-6-3-billion-inflows-q3-btc-rise-43?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound"
+            }
+          ]
+        },
+        {
+          "title": "Top 3 Price Prediction: Bitcoin, Ethereum, Ripple – BTC heading to $85,000, ETH awaits breakout, XRP holds $1.50",
+          "link": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxPQU5nTGgtV1dXWVdwbkhNUHg5cUNReVMtamJGMVEtVHROZGgyNmYzVk90U3RsVW5IQVozcFNUbG4zZDZiWWZBd2lleUw2eUhiS0VPUzh6bVhiZXFjM0tqWU81cVZORElyRXNFSkJsRlQzbHJHTzZfdXlFMEo4dVZaOW9EZU56c1BUbV9SaHl4MWh3bjNoWngyQVVtNEhlNVF5X0pKTE1RbE92MmFWX0NOWlBFRmRBR2hSbm9uVTBJNUhiUXZBTUR2dWRmRVY2R0JXeDRGN0ZIOUVwMFVTdTJFVnE0R0QwTGZ1SGNIYTRwZ05FaWVG?oc=5",
+          "date": "Fri, 02 Oct 2026 03:28:51 GMT",
+          "summary": "Top 3 Price Prediction: Bitcoin, Ethereum, Ripple – BTC heading to $85,000, ETH awaits breakout, XRP holds $1.50 FXStreet",
+          "publisher": "fxstreet.com",
+          "_via": "news.google.com",
+          "source": "fxstreet.com",
+          "_hash": "c3ff83d4612f0915",
+          "_ageHours": 3,
+          "_inWindow": true,
+          "_score": 60.41535916666667,
+          "_corrob": 3,
+          "_cluster": [
+            {
+              "source": "benzinga.com",
+              "title": "Bitcoin, Ethereum, XRP Gain, While Dogecoin Dips After Treasuries Retreat From 24-Year Highs: Analyst Say",
+              "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNSk41ckdqSTZzbjAwTEdzRjlSa1NKSVg2aUYzV0t6MlhJTE16LVh0U2tyUEFLMGVuSnVsOFE1YXJtYnlTVGd3a3dzVldfOWI2dVlOWERaTTJBcEtlM1BRMEROQ1lMZHJuOEVpUVVNSGRRbGlWMGpJR2JMWjJ5TGdPay01R3NNX0dNbmlzUWpPWWZZVzV0RV9ZMlZ2ZWxrRWYzd1BNaGZFT3ZqOWt5bWttR2JLZU42Q2xuZ0pYc3NCVXh5ZUVWZlNYVmhmR3M2LWhEYWRubw?oc=5"
+            },
             {
               "source": "finance.yahoo.com",
               "title": "Best Crypto to Buy in October 2026: Bitcoin, Ethereum, XRP, Solana, and High-Potential Alternatives",
@@ -754,11 +752,6 @@
               "source": "247wallst.com",
               "title": "Best Crypto to Buy in October 2026: Bitcoin, Ethereum, XRP, Solana, and High-Potential Alternatives",
               "link": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxPdkZHU3l3Q1IzSlpZRVZCczVZTjhqRlJPX3hiR2owYlM3cFZqMmZSWWx1eDdudUNGcVJMYWl6b0VvM1BQcGNUUW9ZQkRpeFZ4WlJZbk9NRnVZRmlyLWFmcWdPUzZMVXpCdWp4ZEN0MWNhVnRxRkFfbkFCYktaY3NYZzdYYXVXd1BISjZiWkdzT00tRXU1R0JuVmlZQUFiWWtoWlI5VHFaRGlqS1RHMHpUbzlYQzFfN0U3YXpobFRNeE4yNlBXZDlINjJBN05vUF9meGYzQ1RfMmRCRHRPWU5fS3JkNDdqMGNk?oc=5"
-            },
-            {
-              "source": "finance.yahoo.com",
-              "title": "Citi hikes Bitcoin, Ethereum price targets by over 35%",
-              "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNRzB3QWV1ZGkxUlM1SGZmZ0Q4T0tnbU5rOFhjem5yZXNWNXFqSWZSLW9SbUtjZDU3Q1B5dktlUHZzQWZHRjc3cEtBX2FVV25rQ1VhREtmaUphdkFoOWRwWV9FV3YxZy1CNkdTYS03Qkg2Yk95akY3LVR0ek15UlhQaWRlOElOYUtMRjJFdmVaMjRlc3JlT0JkQ1NWRGVyOU0?oc=5"
             },
             {
               "source": "finance.yahoo.com",
@@ -773,17 +766,17 @@
           ]
         },
         {
-          "title": "NEAR Intents says its identified the hacker, gives 48-hour ultimatum",
+          "title": "NEAR Intents says it’s identified the hacker, gives 48-hour ultimatum",
           "link": "https://cointelegraph.com/news/near-intents-says-its-identified-the-hacker-gives-48-hour-ultimatum?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
           "date": "Fri, 02 Oct 2026 02:02:13 +0000",
           "summary": "“We have identified you, sir,” NEAR Intents general manager Alex Shevchenko said on Friday after the protocol was hacked for $3.8 million.",
           "publisher": "",
           "_via": "cointelegraph.com",
           "source": "cointelegraph.com",
-          "_hash": "a24a339aecfb5c91",
-          "_ageHours": 1,
+          "_hash": "13c567fbf55a876e",
+          "_ageHours": 4,
           "_inWindow": true,
-          "_score": 56.527386944444444,
+          "_score": 53.971470555555555,
           "_corrob": 2,
           "_cluster": [
             {
@@ -812,9 +805,9 @@
           "_via": "theblock.co",
           "source": "theblock.co",
           "_hash": "5b3c03f3108d743e",
-          "_ageHours": 6,
+          "_ageHours": 9,
           "_inWindow": true,
-          "_score": 56.505164444444446,
+          "_score": 53.94924833333333,
           "_corrob": 3,
           "_cluster": [
             {
@@ -835,6 +828,69 @@
           ]
         },
         {
+          "title": "Here's What a $500 Investment in Bitcoin Could Be Worth by 2030",
+          "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPc2NZd1VreThJTktZRzdSdWt3Y01Ha3VyNzlJSGkteHd1MXZXVllPek40bU9mbnZiZ0huR0ItVkZ4NGdsd0piVURwUTU1bnVVamJ6SEcxQklzSnBBTkNFTmo5eWJVNUx3VEd4ck12bUdmQV9QN0VNS1JnOFI2SmRmNVRuRjlTdFZLUDYzOTRORkxvbUNsNi1iNA?oc=5",
+          "date": "Fri, 02 Oct 2026 06:00:00 GMT",
+          "summary": "Here's What a $500 Investment in Bitcoin Could Be Worth by 2030 The Motley Fool",
+          "publisher": "fool.com",
+          "_via": "news.google.com",
+          "source": "fool.com",
+          "_hash": "2857ca9c3ba324a3",
+          "_ageHours": 0,
+          "_inWindow": true,
+          "_score": 52.93452611111111,
+          "_corrob": 1,
+          "_cluster": [
+            {
+              "source": "finance.yahoo.com",
+              "title": "Here's What a $500 Investment in Bitcoin Could Be Worth by 2030",
+              "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOUXpabUlLaTRlSzgxR1BNcnhLX2IySmNvWkx5b2U1eFowQUhpbFRlUkpOX1RJczdrZTZ0cjFGU01SNWpsTmd5amU1WXdHeHN5R0hlVFNuYVdKRlR3NkFQdi15TWJDZ1N0QmlKT2JKTm1neFhFZ1FjUHdrMGtrS045dXZnMzhRcHBtd1JMS1pFOWRCQXlvRjFCR2hObUUwSUFv?oc=5"
+            }
+          ]
+        },
+        {
+          "title": "Frank Cappelleri Explains 3 Reasons Bitcoin Is Primed for a Bigger Bullish Move",
+          "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPWEdQRjJ1RFhHSEpWTUlHRUFiNmtRZVZMTUcyNnZTamZUQWE0cW9NV3FiZGREOXppWm51SlRab3h2UFA5emtOTXhjS1lhc2NHM2JyTTdYQU1LTVB1MVFWNUc2ZWdFcUJUTUU1VmthTG96Yk10MXNNX3RzTm93WmExenRHLXFvRWZ3X1hWclVyYlcxNlpFZEphSE1RaE5lNUYtN3c?oc=5",
+          "date": "Fri, 02 Oct 2026 04:31:00 GMT",
+          "summary": "Frank Cappelleri Explains 3 Reasons Bitcoin Is Primed for a Bigger Bullish Move Yahoo Finance",
+          "publisher": "finance.yahoo.com",
+          "_via": "news.google.com",
+          "source": "finance.yahoo.com",
+          "_hash": "f2883bbb277abbaf",
+          "_ageHours": 2,
+          "_inWindow": true,
+          "_score": 51.45119277777778,
+          "_corrob": 1,
+          "_cluster": [
+            {
+              "source": "cnbc.com",
+              "title": "Three reasons why bitcoin's recent bounce could be the start of a bigger bullish move",
+              "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNYjhtOXFoNHJBRFNyb2JSZ3RRdV9PWDJrMkZORUxBM2NmVVY4YTBVUUpnMGQxX0VKZ3JsdWs3YjNxaVl6TmY1SkEyU29ic0hiLWM1YU51YThMV2Y1dFo5X3VPZEdVM1YtTmsxM0d4d3kzU1VRa1FzY3JXNUE3TlpTQmRBYUZMT1F0N1JrV3Jpak5pTl9Ib0xlQUY3TVY3RFhCOF90V2JwQ0pScG02N0trY1liaGtRVGE2R0pSalp3?oc=5"
+            }
+          ]
+        },
+        {
+          "title": "Core Lightning warns attackers are targeting unpatched nodes",
+          "link": "https://cointelegraph.com/news/core-lightning-urges-upgrade-amid-reports-attackers-targeting-unpatched-nodes?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "date": "Fri, 02 Oct 2026 04:18:43 +0000",
+          "summary": "Node operators running version 26.06.7 or earlier were told to upgrade immediately.",
+          "publisher": "",
+          "_via": "cointelegraph.com",
+          "source": "cointelegraph.com",
+          "_hash": "23cb302655f544ea",
+          "_ageHours": 2,
+          "_inWindow": true,
+          "_score": 51.246470555555554,
+          "_corrob": 1,
+          "_cluster": [
+            {
+              "source": "tradingview.com",
+              "title": "Core Lightning warns attackers are targeting unpatched Bitcoin nodes",
+              "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOcGxOX1RfcXkwTGowZ2UxYkhrMzNrYWdadURVRHREalFPeXgtWUdfVWxzRUplNlIzbFBFWFpfWEV5bHZSVWRWTDNsYk9XanR6c2NrYURMeUtYbVJLcWFDaG1xeWRyNkljS3JUNG9nNEVWZUp6VWVtcUpKQVpjZk05OE1BRndPRHZJMm9saF9MUjh4YXppejN5MGtnSEIwM1U2VEhpdnBHcDdONkdEaXlBN1hoR3FfMTFacjNrN1hlbDhrOGdZWnFPTEh0Vks?oc=5"
+            }
+          ]
+        },
+        {
           "title": "Frank Holmes: They Will Print $100 Trillion &#8211; Why to Buy Bitcoin &#038; Gold",
           "link": "https://bitcoinmagazine.com/videos/frank-holmes-they-will-print-100-trillion-why-to-buy-bitcoin-gold",
           "date": "Thu, 01 Oct 2026 21:34:00 +0000",
@@ -843,9 +899,9 @@
           "_via": "bitcoinmagazine.com",
           "source": "bitcoinmagazine.com",
           "_hash": "ff3e2bd1d92a5e79",
-          "_ageHours": 6,
+          "_ageHours": 8,
           "_inWindow": true,
-          "_score": 53.05710916666666,
+          "_score": 50.501192777777774,
           "_corrob": 1,
           "_cluster": [
             {
@@ -861,80 +917,44 @@
           ]
         },
         {
-          "title": "Bitcoin fights for local uptrend as US bond yields drop from new 24-year highs",
-          "link": "https://cointelegraph.com/markets/bitcoin-fights-local-uptrend-us-bond-yields-drop-from-new-24-year-highs?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-          "date": "Thu, 01 Oct 2026 15:55:19 +0000",
-          "summary": "US bond yields fell sharply around Thursday’s Wall Street open as Bitcoin price action sought to preserve a local trend of higher lows.",
-          "publisher": "",
-          "_via": "cointelegraph.com",
-          "source": "cointelegraph.com",
-          "_hash": "519fca9623a8568f",
-          "_ageHours": 12,
+          "title": "Treasure Valley agencies work to address cryptocurrency ATM fraud",
+          "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxNN1ptV0ZZTThRcGNjcFU3aEFJTlZSaVBFamF4Zk55SDdaMWR3eGhXZ3pHLXV4TWdzUHlSbTdVZ0pWMHlxXzdTUGNhU2JaN0ZKUE5lbkF6RVNaQ3E2MmJDaXNPOUN5OVdNSGM0YmF5V0lfejNoSl85M0lUY0FDempPYVRTcS1welRDSGhoZHVpUXEyeFkzblRlSHVpVkk1aF9vUkRkYmdQRVpZd0RRanUyby1xLTNyeWhJckJ0UG1FclRrVHhrc0x2eTlNUFVFZ2h6ZDN3R3U4OUdSR0Y2aFR2aQ?oc=5",
+          "date": "Fri, 02 Oct 2026 02:26:00 GMT",
+          "summary": "Treasure Valley agencies work to address cryptocurrency ATM fraud KTVB",
+          "publisher": "ktvb.com",
+          "_via": "news.google.com",
+          "source": "ktvb.com",
+          "_hash": "10a1570ba7742ec0",
+          "_ageHours": 4,
           "_inWindow": true,
-          "_score": 51.41238694444444,
-          "_corrob": 3,
+          "_score": 49.36785944444444,
+          "_corrob": 1,
           "_cluster": [
             {
-              "source": "proactiveinvestors.com",
-              "title": "On the Chain: Bitcoin rebounds above US$84,000 as bond yields ease",
-              "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNZGtMb3kwYXZOcm9GRjZ4cU1rV1FjYS1jYzR0V1Fab01NcV9Jcko2MU8ybGEzcGNHWjJNMTJXUFNYM1NhZnFKaGo1QU5zRjlGY2VxU2VtN2dHd1d5UFYxbFF2UGprNnBzRHFScVRLSkVQQ3JUbDJpR1dKR0UyaXR2d0d1d0tSa1FCb2dZbnZHV2Jkc2FXNFJqbXJ4OS01OXdkRzZWRU0tVHlnTmROY09MNTFyWXJTMTltOFBCUlp6b2lvUmtoRm4xZVFnSXJaZE9vdHc?oc=5"
-            },
-            {
-              "source": "moomoo.com",
-              "title": "Bitcoin Turns Higher as Treasury Yields Ease -- 2nd Update",
-              "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQNS1xNWtpWGtoWm00M2MzenZJdU5NZnBoOTZBT3hnSl9La3ZaYmctMTNQTXpNM3lJVnFSa3BYcVg5VkprSFpVanRMZGRTVmFBWWhNUkMxb2NMenE3b2tvakpTX1VNOUpscGJ4Wm1pOURFUjc2ZUVfcGZNSTVZdWk3LVJobEp4bmNwcEhzQ2Q2UWh5elJsM2FOLWNfSWJKZTJk?oc=5"
-            },
-            {
-              "source": "coindesk.com",
-              "title": "Bitcoin's soft-inflation pop to $85,500 fades as bond yields refuse to fall",
-              "link": "https://www.coindesk.com/markets/2026/10/01/bitcoin-s-soft-inflation-pop-to-usd85-500-fades-as-bond-yields-refuse-to-fall"
-            },
-            {
-              "source": "coindesk.com",
-              "title": "BTC price: Bitcoin's soft-inflation pop to $85,500 fades as bond yields refuse to fall",
-              "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxObDFnTTZwNGZFcjVSbmxjRGdrQm9PWndad3FpRG51bjhfTXJqLVNMRVJfY3FKUWpaRWFUNTBjYkFIb2c2VDhLRDZndnRZODE2UHFEQjBEWnpVXzF4Z290amR2aWpDSGY5dTlDd1BUYkpFSUtZd24zdDczeDZxOGFobGxOVFJvZUt4Z0VGdnVLRDNBYjM4a1daSnJST25SeFViTS1SYkdsa0RoSkZyNERQMEhxbnlRdmNlOXVnWEZn?oc=5"
+              "source": "ca.finance.yahoo.com",
+              "title": "Supreme Court to examine jurisdictional question in alleged cryptocurrency fraud case",
+              "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOZVdDa0FQLTdsdTI4dVBmVFRxa1pmZWRtTmlhTXRab0RfVklmV0NxYkdWbzgyV0hGb3hXVFR1T0RiVUFVd0g4aFV3QUU3UEVtWFVIMUxBZlA4T2RrSy1NYVZUZDhkWFpkTFM0anJ2S0NiWk8td19NM1NwU0RoWVlSNWtfbXdQM2RFSGlLeUx5cHVkeGZSMl9hYw?oc=5"
             }
           ]
         },
         {
-          "title": "US Treasury Buys $6 Billion of Bonds as Bitcoin Battles 24-Year-High Yields",
-          "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxObWlPeEg0QklrWUV6akRaMjlJOWZHTjdNQUpiQmxLUnpWMFdWZk9jX0MzRUJrSWpzRi1pemhjWEpodWh5Y2VsYVJaMVFYQWtBSVpIM2l2U2wzdVpwNFNSUHNUWktINW0ySUFUY1VpNjQ1b18weEkzQVlHdFNQMG5MM3pmZTJCOE1XejJVRWFveVc4Q2tDNkE?oc=5",
-          "date": "Fri, 02 Oct 2026 01:47:00 GMT",
-          "summary": "US Treasury Buys $6 Billion of Bonds as Bitcoin Battles 24-Year-High Yields Yahoo Finance",
-          "publisher": "finance.yahoo.com",
+          "title": "IMF unlocks $139 million for El Salvador, but warns on more Bitcoin buys",
+          "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNbkRWZkM0VHpXOHBXMzhicnlwZTFIMXdHZHE2QzNfNE8tSDByZVpuQWV0TEdjbW4xdzNwaC03WVJYTGp5Q1NpcDFXbEQ1ZHN1alU0T0w4UWZkcU9jbkROSDdSenVSOGhFRU5kV1BvNnRTZWlTSHJkWW9TdGtCLVR3TkFiWm00LUJfVFRhVUlONTNaUQ?oc=5",
+          "date": "Thu, 01 Oct 2026 23:33:16 GMT",
+          "summary": "IMF unlocks $139 million for El Salvador, but warns on more Bitcoin buys Briefs Finance",
+          "publisher": "briefs.co",
           "_via": "news.google.com",
-          "source": "finance.yahoo.com",
-          "_hash": "4b9ad6cce79e9f3b",
-          "_ageHours": 2,
+          "source": "briefs.co",
+          "_hash": "cc4976b63e344f28",
+          "_ageHours": 7,
           "_inWindow": true,
-          "_score": 51.27377555555555,
+          "_score": 46.48897027777778,
           "_corrob": 1,
           "_cluster": [
             {
-              "source": "beincrypto.com",
-              "title": "US Treasury Buys $6 Billion of Bonds as Bitcoin Battles 24-Year-High Yields",
-              "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5kQmY4ZVBOYWlyckVocTQyQVhPb0MtSjZrbDFFbll1X1JhXzRnQU9hTi1JZXdlVVRHM2xWNXVCSENveHB3d2ZNcF9ZRXFhcXpZODJjMklGVjB2c0lzRnYyZVRRRl8zMW13NWFnRDI3UjU?oc=5"
-            }
-          ]
-        },
-        {
-          "title": "US factory costs spike, threatening Bitcoin’s rally above $85,000",
-          "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQUkZ6NEJxWUZUUC1tc3dQSVdndlVwS2J4aHdyQmZiSVNzaU5LUHU3d1gyVGFkOVFxY21JWTluYmNtTEphMWExZS1oMEZpbzBUUmhNYUNvbUlMdnJ3ZjJja1ZWZ2tEb1RCTk05QnJiNjZjd0wtZU5RTy1sY3VnbkhXWmJ1ajlJTGtJZTNJQ3BfNXVBZnFzX0g5MmZBNlNPbG9h?oc=5",
-          "date": "Thu, 01 Oct 2026 22:46:41 GMT",
-          "summary": "US factory costs spike, threatening Bitcoin’s rally above $85,000 CryptoRank",
-          "publisher": "cryptorank.io",
-          "_via": "news.google.com",
-          "source": "cryptorank.io",
-          "_hash": "075679b9b8c02da4",
-          "_ageHours": 5,
-          "_inWindow": true,
-          "_score": 48.2684975,
-          "_corrob": 1,
-          "_cluster": [
-            {
-              "source": "benzinga.com",
-              "title": "Bitcoin's Rally Is 'Early and Speculative,' Glassnode Says: What's Missing?",
-              "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNY1V3SFJabXpNRi0wNzVlNzBhcG9TOGJoSzF5Mi02cGNhTWRUX09FOVpaSERyMHhnSVA2V2dNMC1ZRGoyUGZUd0RYM016TVA2RGFEU0stRFg4R0lCVFJVNlExWHJBdDExbmtIYjNkaWtuVDVPbTVtSkRJanczeU1MYWQ3bE52bEdVV1E3elhYX21DQU5vNnROT2ktMW1WaklwXzcxNnJXT3hSYkwtNFBTXzE4NFdhU08zcjhnQUREOE96YkxLMDJxOWtB?oc=5"
+              "source": "tradingview.com",
+              "title": "IMF approves $138 million for El Salvador, says no more bitcoin buys planned",
+              "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxNUFBDbHZEbnJiaWFQQU5wRnNyUktWbmZpMFhKRWZGTV91ejZMTU5mOHNVYV84OUNydXl1Z1hiRWxWTjczeVVDTDlDQkJvVWpjQ3RqQWVFYnU4UVpDMUt0WUVSZDFrajh4d3BSSjRMRHRvTTd4SFBGQkF1TUhEMlhySTM5QVNCZHg4U2FuZTNLbDJMTUpnY2NxRzJvX0ZNc1VoRmhoX0R5clJpN0tVZi1GTlJmSzAzMG9WaGtQRThZbklfZnNQRXFhaTF1Uy1OeFY5YmdibWl6N0twSHBQ?oc=5"
             }
           ]
         },
@@ -947,9 +967,9 @@
           "_via": "theblock.co",
           "source": "theblock.co",
           "_hash": "64c2e2acb16df94d",
-          "_ageHours": 12,
+          "_ageHours": 15,
           "_inWindow": true,
-          "_score": 46.77683111111111,
+          "_score": 44.220915,
           "_corrob": 1,
           "_cluster": [
             {
@@ -960,44 +980,33 @@
           ]
         },
         {
-          "title": "Bitcoin Stays Rangebound as Rising Yields Test ETH, XRP, Dogecoin Strength",
-          "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNQnBfckpNSUlabFE5OS1JdURBUTVickNyRlhCTTZibTh5UW1WdWZINlJhWFRaRlhsOGxtOTlVM1BQM1NDRFNUekRVa3o2RlZNdFhfQmRkM2huT1o1dEtZYlJGUl9pVk5Yb2tfVHBiaXdldldldHExNExLYnJPQ0E1T0o2enZYNkYxMmZpM3o5bGpyVnZON2MwODVVRmx6UTdpekNrbWYycnVOeTVaUEVDYy1Cb1I1bWs5WkF3OVJyZU9pX2JpOENTRWRraUZkZnc?oc=5",
-          "date": "Thu, 01 Oct 2026 19:34:13 GMT",
-          "summary": "Bitcoin Stays Rangebound as Rising Yields Test ETH, XRP, Dogecoin Strength Benzinga",
-          "publisher": "benzinga.com",
-          "_via": "news.google.com",
-          "source": "benzinga.com",
-          "_hash": "976dbf88bed38116",
-          "_ageHours": 8,
-          "_inWindow": true,
-          "_score": 45.06072,
-          "_corrob": 1,
-          "_cluster": [
-            {
-              "source": "tradingview.com",
-              "title": "Bitcoin Stays Rangebound as Rising Yields Test ETH, XRP, Dogecoin Strength",
-              "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQWWdjMnVBQVRiUnlCMjZTOTdmLWlBb254SXVmWmVVNmtRRDRMUGU5R3VRclRiYzVZTW5leVJiUHdRcGxnd2pnb1lhVVk4WVdabmVoSWp3XzF4djczX2NoY0ZqazBueG5mbHM3OXJzdW81emIwN19xNFRHbUFBem1saDdLQm1BQXhjRjZvWE1pcldoNlVvamVqMy1EQ08ycVJnXzItZnFqZGhLanNZYVZSXzZfZ091cm9TeFRoYm5DYmVYNklSMnhVbVo4QQ?oc=5"
-            }
-          ]
-        },
-        {
-          "title": "Hyperliquid Policy Center, Circle press EU on perps and stablecoin reserves in MiCA review",
-          "link": "https://www.theblock.co/news/regulation/2026-10-01-hyperliquid-circle-mica-review-417452",
-          "date": "Thu, 01 Oct 2026 19:10:36 +0000",
-          "summary": "Hyperliquid's policy group wants perps under MiFID II, while Circle targets MiCA's bank deposit floor in filings to the European Commission's MiCA review.",
+          "title": "Citigroup raises 12-month bitcoin target to $113,000 as ETF inflows resume",
+          "link": "https://www.coindesk.com/markets/2026/10/01/citigroup-raises-12-month-bitcoin-target-to-usd113-000-as-etf-inflows-resume",
+          "date": "Thu, 01 Oct 2026 09:59:30 +0000",
+          "summary": "Citi also raised its 12-month target for ether from from $2,240 to $3,028.",
           "publisher": "",
-          "_via": "theblock.co",
-          "source": "theblock.co",
-          "_hash": "be175d7c49895591",
-          "_ageHours": 8,
+          "_via": "coindesk.com",
+          "source": "coindesk.com",
+          "_hash": "a099a6d477c6cabe",
+          "_ageHours": 20,
           "_inWindow": true,
-          "_score": 44.66710888888889,
-          "_corrob": 1,
+          "_score": 43.92619305555556,
+          "_corrob": 2,
           "_cluster": [
             {
-              "source": "cointelegraph.com",
-              "title": "50,000 Europeans call on EU to ease stablecoin rewards restrictions in MiCA review",
-              "link": "https://cointelegraph.com/news/50000-europeans-call-on-eu-to-ease-stablecoin-rewards-restrictions-in-mica-review?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound"
+              "source": "briefs.co",
+              "title": "Citi boosts 12-month Bitcoin and Ether targets as money trickles back into crypto",
+              "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNc21meW1hWXlSWjM1OHFxVktnWnZwMjZ5QmFfX3BHOEpScjM0c19QQjlXY1pEOWRiUEZha3ZQWFVrRlV4RDF2TXRiaEQwN2FXcVJDMFlYZm9NRGZKd2c1UW5mMUlwZXZ3cjhNejVsZFR3Y0l4dEc1XzAzYzVnRTg2eXBLZ2E1aHFXV05mYnpfR3AwQQ?oc=5"
+            },
+            {
+              "source": "coindesk.com",
+              "title": "Citigroup raises 12-month bitcoin target to $113,000 as ETF inflows resume",
+              "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNa1FvampNWHlZUk1sNFhKQW9VN0s5UUZlRjlMbmdBUkYyZkdmS0NLZUxOdS1hQ1lpWjV4ZEp4MlctZEt4bDctdU1HNGxZdmMxXzA3Y0xaOWx4SmVCR0o4ZUxUWkt0NmdsT2xFbGNNX3FnNGh3aGJqRHBzMVp1SER6a3lOMjhQU0YtWTJHRzQ3U0YxQUdzZEhOSWJXbkNhZFEtU0dYSFdMZm9Td2o0NjNpMlc3UlFzSXdDbGNTRg?oc=5"
+            },
+            {
+              "source": "reuters.com",
+              "title": "Citi raises bitcoin, ether forecasts on strong crypto activity",
+              "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPVHIxQ2w0Yk5PREktR1RYTlhhbF9DY2tMNTZnVmk0V2dNUTQ3NlRnNHdFVGRZcUtsa2drNGdIZTlhcXFtaUJpaDIwQTJLeEFwaW1DUWhGTWxhMXdIblplX2NqcVIwdWlRdkphUmRhRzZvY3EtZ3pyRE1tM2MwV3dzSENXaHBzY2syUmtHWmF5Q1pwUHF1am05eFJMOF9zaXp4S1J6aldBVmN5OUNKMTUzTA?oc=5"
             }
           ]
         }
@@ -1015,15 +1024,15 @@
           "_via": "news.google.com",
           "source": "firstwordpharma.com",
           "_hash": "74cca5bcdacca4c6",
-          "_ageHours": 4,
+          "_ageHours": 7,
           "_inWindow": true,
-          "_score": 81.87262694444445,
+          "_score": 79.31570166666667,
           "_corrob": 4,
           "_cluster": [
             {
-              "source": "marketscreener.com",
-              "title": "AI Drug Discovery Forecasts Vary Widely as Sector Shifts to Deployment",
-              "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQQm9qdDk2SHhCSi1ZWHZldEg0SUhfTnFxRnFJU2Y3dXB6RG9jSi0zOTBfT2JpdE9NVGU0aHB2TWpkT043dHBuRXRYVnliNHFmSHlQTzV0WHdSTzM1aUdiTExycW05eExURnpDVXcwSnRxekRvQU5QOE9vQmlmUm0wdlFUYnJTMVp4eGhPMENJaW9rcWxYLWZKcmt6NVE3VlpzUWRlVFBJTHdmbm4zY09IWGpCbTdHQnZoNVN4UXVfV2E?oc=5"
+              "source": "koreatechdesk.com",
+              "title": "HexemBio Looks Beyond Capital as KIP Opens a Door to Korea’s Biotech Network",
+              "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOREhtc0VXa25YV0tESWNxOGRFSUpKVVdrVFc5MkEyUnBlQlR1c21NNEl0ZFF5eld0VkdFVVpMNUFhT01RVlBpNWEyQkxVdEFiaWU0YTFWYXM5YW1Hb2hpdzBXVWxWM1NGaU1VQXppWnczdFFvNm11V1FqWVVIaWNyWlpn?oc=5"
             },
             {
               "source": "theglobeandmail.com",
@@ -1051,11 +1060,16 @@
           "_via": "statnews.com",
           "source": "statnews.com",
           "_hash": "f8bf83a2035bf224",
-          "_ageHours": 11,
+          "_ageHours": 14,
           "_inWindow": true,
-          "_score": 57.00984972222222,
-          "_corrob": 4,
+          "_score": 59.45292444444445,
+          "_corrob": 5,
           "_cluster": [
+            {
+              "source": "geneticliteracyproject.org",
+              "title": "Here are all the ways CRISPR gene editing is transforming Africa’s staple crops—and there’s a lot more innovation to come",
+              "link": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxQeG5YV0RBTFBzVUFweVBhaGVWRlR0NGNadUJSeEt3OUt0dWxVT09aUGtLNzY3QjEwOE10cFBoSWVZTkg5QkRad1Myb21YOGh0M3pUdHRvTmlwRE1wUnZLM3hlYUs3T3BOVlFDQlAyODRYRTJucXVvYVFSWWItX19HX21XbkVQTllZRW1wZjYtSGRyZnFVMWhEM2JycHZFWjJOWXVzVXRrbWNSWTlMWkRWQ2hrNG5yWnRjYk0wNHdJNFQ4dTE3TFNDRk04c3FxYkh0RW9GRXZvdTJXU1J2NW11cFpra3VPZ1BsOG8zYTNtam5pYUE1Nm5GdlJ3?oc=5"
+            },
             {
               "source": "marketbeat.com",
               "title": "Cellectis Unveils In Vivo Gene-Editing Plans for Severe Lipid Disorders",
@@ -1079,6 +1093,27 @@
           ]
         },
         {
+          "title": "BICO Completes Integration of Cellenion into SCIENION, Strengthening Precision Biotech Platform",
+          "link": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxPcHc2VmlyV3BTemwwM1NFQ2loU1RkeUFGMmxZcXdyRGdZYlFKRXJuVU9ZTE5KYTl3c0drS3hySktwQVp5UHZDdjVieE9ERXlvRFVyNGRiZnJodm4zVVpHRUVDWXVGWnl0eWNkT1FjM2JDMURtd1V3ZHVBV0EzeVFVVS04VGt0LTFJMWZhX25LLVhGR3ZkcUEwR05nWUNUMWVGZmNnN1JvQmM3bDk3Y1hmRWp2U1NrSm4zbjRSWWNCcUM2ckRHTUVzLTJLd0FxWmFxcWRHMjR3eTFVTFFjdTJzd3k3TldJckZqRzZsR2JkMnNOdw?oc=5",
+          "date": "Fri, 02 Oct 2026 05:00:00 GMT",
+          "summary": "BICO Completes Integration of Cellenion into SCIENION, Strengthening Precision Biotech Platform TradingView",
+          "publisher": "tradingview.com",
+          "_via": "news.google.com",
+          "source": "tradingview.com",
+          "_hash": "e43292a6392eae63",
+          "_ageHours": 1,
+          "_inWindow": true,
+          "_score": 51.93320166666667,
+          "_corrob": 1,
+          "_cluster": [
+            {
+              "source": "foodingredientsfirst.com",
+              "title": "Danone-backed biotech platform opens for food ingredient scale-up",
+              "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOUDQzbEF2dTBMZ2RZUUR2aFJic0k1bUw1cldndG11eVBkbkJMRVdqN0pkYjJfTkVrZks1RXBDaEI4eklDU0d1VlV5YThoOGVHX0ZFN2NTN1dfTUpNLUVJclM3M2oyUGhheDF5RkZyZ1ViSFc5VWRvWkNZZTBBX3lZVGNqeTJIS2NaMFV5MS1GX2FyOER2NndR?oc=5"
+            }
+          ]
+        },
+        {
           "title": "Longevity, AI Concerns Take Toll on Retirement Readiness, per TIAA",
           "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNYzFoaG1YYnZDYVJGbEExU2JrX20wM3RZbzlhd2xVWFFJd3B5VDZxLXFFNHpvMnNSUmpfektHVzhXNnY5N3ZoVm5jRGpPZjJlQ2dPS05nQjVKRUtJYzNYX2kwSHo5bzhhbjVwRzdBWG4yWGNNTVp5bGxNN1Z1RnZsdlpOZmdCRE0wRlVYMVplRzYyc0pUMVZXaA?oc=5",
           "date": "Thu, 01 Oct 2026 21:35:52 GMT",
@@ -1087,9 +1122,9 @@
           "_via": "news.google.com",
           "source": "planadviser.com",
           "_hash": "a0e4f6a9c9c98efd",
-          "_ageHours": 6,
+          "_ageHours": 8,
           "_inWindow": true,
-          "_score": 53.08790472222222,
+          "_score": 50.53097944444444,
           "_corrob": 1,
           "_cluster": [
             {
@@ -1108,9 +1143,9 @@
           "_via": "news.google.com",
           "source": "washingtontimes.com",
           "_hash": "486fa21a1b0b06be",
-          "_ageHours": 5,
+          "_ageHours": 8,
           "_inWindow": true,
-          "_score": 48.049015833333335,
+          "_score": 45.492090555555556,
           "_corrob": 1,
           "_cluster": [
             {
@@ -1129,9 +1164,9 @@
           "_via": "endpoints.news",
           "source": "endpoints.news",
           "_hash": "26ff932c8e68680e",
-          "_ageHours": 14,
+          "_ageHours": 16,
           "_inWindow": true,
-          "_score": 46.07984972222222,
+          "_score": 43.52292416666667,
           "_corrob": 0,
           "_cluster": []
         },
@@ -1144,9 +1179,9 @@
           "_via": "nature.com",
           "source": "nature.com",
           "_hash": "c65443cb1dcbd19e",
-          "_ageHours": 4,
+          "_ageHours": 6,
           "_inWindow": true,
-          "_score": 44.49012722222222,
+          "_score": 41.93320194444445,
           "_corrob": 0,
           "_cluster": []
         },
@@ -1159,9 +1194,9 @@
           "_via": "nature.com",
           "source": "nature.com",
           "_hash": "e13c61bf4ab17da0",
-          "_ageHours": 4,
+          "_ageHours": 6,
           "_inWindow": true,
-          "_score": 44.49012722222222,
+          "_score": 41.93320194444445,
           "_corrob": 0,
           "_cluster": []
         },
@@ -1174,9 +1209,9 @@
           "_via": "news.google.com",
           "source": "globenewswire.com",
           "_hash": "b4a3e103585a693d",
-          "_ageHours": 15,
+          "_ageHours": 17,
           "_inWindow": true,
-          "_score": 44.49012666666667,
+          "_score": 41.93320166666666,
           "_corrob": 1,
           "_cluster": [
             {
@@ -1195,9 +1230,9 @@
           "_via": "news.google.com",
           "source": "arlnow.com",
           "_hash": "8307f4b39940f0f4",
-          "_ageHours": 16,
+          "_ageHours": 18,
           "_inWindow": true,
-          "_score": 43.30818222222222,
+          "_score": 40.75125694444445,
           "_corrob": 1,
           "_cluster": [
             {
@@ -1216,9 +1251,9 @@
           "_via": "endpoints.news",
           "source": "endpoints.news",
           "_hash": "1286a4890ea4ce84",
-          "_ageHours": 12,
+          "_ageHours": 15,
           "_inWindow": true,
-          "_score": 41.98207194444444,
+          "_score": 39.42514638888889,
           "_corrob": 0,
           "_cluster": []
         },
@@ -1231,38 +1266,48 @@
           "_via": "statnews.com",
           "source": "statnews.com",
           "_hash": "67efcc339ff64ff8",
-          "_ageHours": 6,
+          "_ageHours": 9,
           "_inWindow": true,
-          "_score": 41.72373861111111,
+          "_score": 39.16681333333334,
           "_corrob": 0,
           "_cluster": []
-        },
-        {
-          "title": "Insurer startup Devoted Health raises $1.2B as it revs up growth",
-          "link": "https://endpoints.news/insurer-startup-devoted-health-raises-1-2b-as-it-revs-up-growth/",
-          "date": "Thu, 01 Oct 2026 13:00:20 +0000",
-          "summary": "Devoted Health, a Medicare Advantage insurer and medical group, announced nearly $1.2 billion in fresh funding after enrolling hundreds of thousands of new senior members this year. The financing includes $555 million in Series G ...",
-          "publisher": "",
-          "_via": "endpoints.news",
-          "source": "endpoints.news",
-          "_hash": "6024564ab74624f1",
-          "_ageHours": 15,
-          "_inWindow": true,
-          "_score": 39.49568305555556,
-          "_corrob": 0,
-          "_cluster": [
-            {
-              "source": "endpoints.news",
-              "title": "Parakeet Health raises $10M to automate patient outreach",
-              "link": "https://endpoints.news/parakeet-health-raises-10m-to-automate-patient-outreach/"
-            }
-          ]
         }
       ]
     },
     "energy": {
       "name": "Energy",
       "candidates": [
+        {
+          "title": "Santee Cooper’s New Energy Plan is Bad News for South Carolina Customers",
+          "link": "https://cleantechnica.com/2026/10/01/santee-coopers-new-energy-plan-is-bad-news-for-south-carolina-customers/",
+          "date": "Fri, 02 Oct 2026 03:38:23 +0000",
+          "summary": "COLUMBIA, S.C. — Santee Cooper’s long-range energy plan admits that increased demand from large load customers, like data centers, is creating an upward pressure on costs, according to the utility’s filing with state regulators yesterday. Rather than meeting growing demand with affordable solar and wind, Santee Cooper wants to double ... [continued] The post Santee Cooper’s New Energy Plan is Bad News for South Carolina Customers appeared first on CleanTechnica .",
+          "publisher": "",
+          "_via": "cleantechnica.com",
+          "source": "cleantechnica.com",
+          "_hash": "298a5a757f9f9e1c",
+          "_ageHours": 2,
+          "_inWindow": true,
+          "_score": 72.57265472222223,
+          "_corrob": 3,
+          "_cluster": [
+            {
+              "source": "news.mst.edu",
+              "title": "S&T experts contribute to state energy plan",
+              "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBHcWNMY3VCTkwzTTN6YVZVcTJHNGxVNjRIZURvYXYtSnQyQmFoN0lBdlZGV0U0S28yWnA1cjJ5MXg5SGRJdTNlQTcwQTV6MzI5dHoybHBNRWNXejRNbUpVNmZDUC1jbk0yVW9ueHpEVFdHaUJwdEtsT0ZyWTVDZw?oc=5"
+            },
+            {
+              "source": "virginiamercury.com",
+              "title": "Spanberger’s energy plan keys in on clean energy to meet growing demand and VCEA goals",
+              "link": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxPZGFPUjJ3M1ktOTQ3NERBQUNXRTZMeWVwa0ZzY0NTb2FZdEpmSmp0cHB3TzFSZlFqLXkyeGp0bzhUcVRHSHNZSTRSd280eXhUSm05eHFpeTY2MDhzSndkdklnNDRPQ2dNUWZqUzR6b1lSaWJRZDV0WUhwbGZyaHptdG5Qb0p3dTFvTG5SdEtCUUliVl80dGdWaEpUZzR2UHRrNzY4YWt1b1JPdnVVeDhxTW1LOGRxNzc1UFN2aXUzckdJejNUOHRDRWZ3a2k5Tks1V19qdGE1bHBHMVBrRHJCTG1iTG9sTm1C?oc=5"
+            },
+            {
+              "source": "sierraclub.org",
+              "title": "A Clean Energy Win for Darlington County South Carolina",
+              "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNZWpLNmZsdS1lbXl2cnFabFJSUjhjbmVuWmhNSWgwYXp1d0lNdHhET3FmU2lMbXI1UzhtOExnV011VGcxQmM2dnVRdDhMR2hNMkQtbllLOWpiRjRzcFlIbl8yWllJT2pMa3BGRHoyTDZiR2tFNzNWUjFnWVlYaEZERXRaYUl4SVBiYzZxT0Z0TVE0TU14dWhXOQ?oc=5"
+            }
+          ]
+        },
         {
           "title": "Singapore eyes bigger role in nuclear fusion industry",
           "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQUmNlNzFIbUtMLXFBb0pfdl93R0Rncm83eFpVRERXanBhVXpiSkM0Z3IycHlRRTRYN0RJelZETTBIR2E0X3psdGRjeVVOeEZPcm4zdnREYlEzSVdpWHJkXzNqYWhxa3pTaHJ1R1JOWGw0ZHhNQ09pU0J3dk5SaEZabXcyVE9KYzd1VE4xdU5zME94eU9xWDhfNQ?oc=5",
@@ -1272,9 +1317,9 @@
           "_via": "news.google.com",
           "source": "asia.nikkei.com",
           "_hash": "48a953fe88356c4e",
-          "_ageHours": 0,
+          "_ageHours": 3,
           "_inWindow": true,
-          "_score": 73.82311027777777,
+          "_score": 71.26626555555555,
           "_corrob": 4,
           "_cluster": [
             {
@@ -1305,45 +1350,19 @@
           ]
         },
         {
-          "title": "NANO Nuclear Energy Advances Vertical Integration Strategy by Signing Definitive Agreement to Acquire Strategic NRC-Licensed U.S. Nuclear Fuel Processing AssetNANO Nuclear Energy Advances Vertical Integration Strategy by Signing Definitive Agreem",
-          "link": "https://news.google.com/rss/articles/CBMi1AJBVV95cUxQZU9jcEx1elhFUFUzU0xDMmxVMWJUbGVGSUU3VzZfRGdoeGZkTmJSQTl0SmRtb0ZUclQ2REcxcDFja3J3ajIwclVndE9PZTc4aHZLaVBMNnl5Sk9Qbko5ZXg0UlV6d1BHQnduSFVZRmpGUV9MdE16RjJicVpSNElOMUVQOHYyemxmR1hyR1FxMWlrdWFDcHQ4MVVOLWNNZkF4dzRIUXVGRHd1dDFOTC1aNU5OOTBNTHNoU3BpUDlOYVR3d3diMHN2X0lEUVFWQzNjbnBqeEZ3NXRZblFoTjZDd1ZlSnRFMTBXeFZFdFJUN3ljdGhFSW5kODV1TXlwQmdkMjVBYXJhM296MlZFVUV0YW50b0pRbURJSjZTSkhMSFhuQjJIcW44NktRRUtEUjdrdXg5VnRjMzhXTVVTNjgtdHV6N3BZRlVmcFJOcDBEclhvR0V4?oc=5",
-          "date": "Thu, 01 Oct 2026 15:41:59 GMT",
-          "summary": "NANO Nuclear Energy Advances Vertical Integration Strategy by Signing Definitive Agreement to Acquire Strategic NRC-Licensed U.S. Nuclear Fuel Processing AssetNANO Nuclear Energy Advances Vertical Integration Strategy by Signing Definitive Agreem Energy News Beat",
-          "publisher": "energynewsbeat.co",
-          "_via": "news.google.com",
-          "source": "energynewsbeat.co",
-          "_hash": "ebfe6dbb1a90f8e1",
-          "_ageHours": 12,
+          "title": "Texas PUC Greenlights Coal Plant Closure &#038; Renewables Construction, Saving Millions of Gallons of Water Every Year",
+          "link": "https://cleantechnica.com/2026/10/01/texas-puc-greenlights-coal-plant-closure-renewables-construction-saving-millions-of-gallons-of-water-every-year/",
+          "date": "Fri, 02 Oct 2026 03:41:54 +0000",
+          "summary": "AUSTIN, Texas — The Texas Public Utility Commission (PUC) ruled today that Southwestern Public Service Company (SPS) can proceed with closing its Tolk coal plant near Lubbock and constructing renewable energy and battery storage to provide reliable, clean electricity to Southwest Power Pool customers. While also approving two new gas ... [continued] The post Texas PUC Greenlights Coal Plant Closure &#038; Renewables Construction, Saving Millions of Gallons of Water Every Year appeared first on C",
+          "publisher": "",
+          "_via": "cleantechnica.com",
+          "source": "cleantechnica.com",
+          "_hash": "948de82b3b9dca21",
+          "_ageHours": 2,
           "_inWindow": true,
-          "_score": 67.18949916666666,
-          "_corrob": 5,
-          "_cluster": [
-            {
-              "source": "fool.com",
-              "title": "NANO Nuclear Energy vs. Oklo: Which Industrials Stock Is a Better Buy in 2026?",
-              "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQMTRQaUJjdTIxTkZOZHJXcmRNTFBNTkF0dUY2aGFGV1ZSbFl6NENsVmJuNF9BVk9FeVRzQ0l2R2xTUkVSd01MbERDZTVrOGQzYTl5QUl4YzVDSHFnYi1TdllfNDRjWHNCV2tUWEx2cjJWM1R1OGpub0pfMlZuMFFPSUFpVUY4WXpQZjlodUxBSGJmQVRldUhNWUhBZDdHd1k0ZFhsLXJCRk40SDBnOXI2NlV0dXhrSk1NUVI0N3UzdFZESC1yOXFJ?oc=5"
-            },
-            {
-              "source": "investing.com",
-              "title": "Nano Nuclear Energy stock gains Texas Capital buy rating reiteration",
-              "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOYUROVjgwdVJlUWhSckhxRHBVVGJRX0YzNWVzUVZoQmxaNVM4eFNyQTlPNnl5WV9oN1Jnc191ZnFOV3BUZjhSdWt5Uk11Q3k5aFdkcll0NW4zMzc0S3RHN00yUlJlSVNqRjB1S2I1WTZsS2tpdEF6VFdUOFoxOG5qSThsMzdtWkhBZXZBM2tBWGw4QnliNFlxU2o0OTItdlA5TDJoejFYQUhsMXNtMy1DUVdndW5jMjRHVUttMkNaX0FWT01EUUhz?oc=5"
-            },
-            {
-              "source": "seekingalpha.com",
-              "title": "NANO Nuclear Energy to buy NRC-licensed U.S. nuclear fuel processing assets for $13.5M (NNE:NASDAQ)",
-              "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNYXBkdVNQUDlrQ28xMzcxWWJidTl4V1ZlM3F0bjl4NjU0aFZBWFZyMGZSX2libFZ2cUtPS1p1QjU0TGstOU5Ta1JwSHFjbzNlckJ6Z0RYcEt5bkJtcjdKSzhfZmxGdnBPZlFBbnI1YklaZ0pnQklsdHdhVkFfUjIwenAzRWkyd05xNFB4bVYwSDN2NEN2aXk3MlpLdHJRdllURi1pOGJOWG0tblp1ZC12Nnd1QmJGRWlJQlVHZEstcw?oc=5"
-            },
-            {
-              "source": "globenewswire.com",
-              "title": "NANO Nuclear Energy Advances Vertical Integration Strategy",
-              "link": "https://news.google.com/rss/articles/CBMi0AJBVV95cUxQVHlqWXlfLUVZcWNRM3pmMHREQUlpU2pVUTZFUldCZ0lrUmgtaHF2OEE0SUNMenFEVEhLeGpQRllBaU9OeWwwTF9PRmlnRTkyNERfMVR2cy1qQVkwaGhpNjBvZHcxMFNSaXlxMEowV0QyOU5feXFmZHNVNXFhWl9EakhPMHNGRjdNd1dZck1lc016WW5pZXNqNFk1bF9OY29qcFVGaVpiM2pHOVUwUkl3cjl2czVTV2dpSlh2ejRhRm9ocXNPblZ0dGlnNjVPdVlwWjJKZEdGZXdQN2Y4eGpJMG50OWJDSkw4NVRPX3h6Uk5icC1TU3dlbjBKMG1ZRmVKc2t4U2prNGhRZ3ZFV1dSRnpZZndLT2lGWFhxQXpxS1lGQ05TaGZNYnFYaGtWaktsNUgxSjN5aGNHb3JPU3A1dGVCcElhdzVJUloxajlLa0E?oc=5"
-            },
-            {
-              "source": "stocktitan.net",
-              "title": "The New Mexico nuclear fuel plant was never built. NANO Nuclear agreed to buy its license.",
-              "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPblZzV1RxU3hTQmpNRk9fUDBQS2tZZGNEZXlnUUE4NVFmWXZtV3pFYjZxVmlLdXA3NXJYdGJmSm5EdGphUjh4M1Zoc3FsQlFqaHRLYUlfMGJpLXJ1eUhEWWt6N0xQMjJCcXpkcU4zOFlFQVRKd3h0Q0ZTWVdiVFVKNmViN2Z3WXo1d09BbG1acldqMmFEVkZjWjR1NlRWMEFDOXlBRTFIRVZlY1haV2VKVktDV3ozdw?oc=5"
-            }
-          ]
+          "_score": 63.63126583333333,
+          "_corrob": 0,
+          "_cluster": []
         },
         {
           "title": "Leveraging the IAA to Build Europe’s Battery Value Chain",
@@ -1354,9 +1373,9 @@
           "_via": "cleantechnica.com",
           "source": "cleantechnica.com",
           "_hash": "69bdf597585a5ea9",
-          "_ageHours": 3,
+          "_ageHours": 5,
           "_inWindow": true,
-          "_score": 63.27088833333333,
+          "_score": 60.71404361111111,
           "_corrob": 0,
           "_cluster": [
             {
@@ -1375,9 +1394,9 @@
           "_via": "news.google.com",
           "source": "futurecio.tech",
           "_hash": "718e0a5c0485c44b",
-          "_ageHours": 3,
+          "_ageHours": 5,
           "_inWindow": true,
-          "_score": 62.48977694444444,
+          "_score": 59.93293222222222,
           "_corrob": 1,
           "_cluster": [
             {
@@ -1396,9 +1415,9 @@
           "_via": "news.google.com",
           "source": "accessnewswire.com",
           "_hash": "15b5c53a5f522924",
-          "_ageHours": 8,
+          "_ageHours": 11,
           "_inWindow": true,
-          "_score": 61.6603325,
+          "_score": 59.10348777777778,
           "_corrob": 2,
           "_cluster": [
             {
@@ -1414,6 +1433,52 @@
           ]
         },
         {
+          "title": "The Litmus Test for “Made in Europe”",
+          "link": "https://cleantechnica.com/2026/10/01/the-litmus-test-for-made-in-europe/",
+          "date": "Fri, 02 Oct 2026 03:49:51 +0000",
+          "summary": "Dear President von der Leyen, Dear Executive Vice-President Séjourné, Dear Commissioner Šefčovič, Dear Commissioner Hoekstra, By 2021, Europe started to get serious about trying to establish a European battery value chain. European companies invested billions based on promises by EU leaders that their factories were essential to Europe’s future resilience ... [continued] The post The Litmus Test for “Made in Europe” appeared first on CleanTechnica .",
+          "publisher": "",
+          "_via": "cleantechnica.com",
+          "source": "cleantechnica.com",
+          "_hash": "25e30caeddb515d7",
+          "_ageHours": 2,
+          "_inWindow": true,
+          "_score": 57.76376583333333,
+          "_corrob": 0,
+          "_cluster": []
+        },
+        {
+          "title": "NANO Nuclear Energy Advances Vertical Integration Strategy by Signing Definitive Agreement to Acquire Strategic NRC-Licensed U.S. Nuclear Fuel Processing AssetNANO Nuclear Energy Advances Vertical Integration Strategy by Signing Definitive Agreem",
+          "link": "https://news.google.com/rss/articles/CBMi1AJBVV95cUxQZU9jcEx1elhFUFUzU0xDMmxVMWJUbGVGSUU3VzZfRGdoeGZkTmJSQTl0SmRtb0ZUclQ2REcxcDFja3J3ajIwclVndE9PZTc4aHZLaVBMNnl5Sk9Qbko5ZXg0UlV6d1BHQnduSFVZRmpGUV9MdE16RjJicVpSNElOMUVQOHYyemxmR1hyR1FxMWlrdWFDcHQ4MVVOLWNNZkF4dzRIUXVGRHd1dDFOTC1aNU5OOTBNTHNoU3BpUDlOYVR3d3diMHN2X0lEUVFWQzNjbnBqeEZ3NXRZblFoTjZDd1ZlSnRFMTBXeFZFdFJUN3ljdGhFSW5kODV1TXlwQmdkMjVBYXJhM296MlZFVUV0YW50b0pRbURJSjZTSkhMSFhuQjJIcW44NktRRUtEUjdrdXg5VnRjMzhXTVVTNjgtdHV6N3BZRlVmcFJOcDBEclhvR0V4?oc=5",
+          "date": "Thu, 01 Oct 2026 15:41:59 GMT",
+          "summary": "NANO Nuclear Energy Advances Vertical Integration Strategy by Signing Definitive Agreement to Acquire Strategic NRC-Licensed U.S. Nuclear Fuel Processing AssetNANO Nuclear Energy Advances Vertical Integration Strategy by Signing Definitive Agreem Energy News Beat",
+          "publisher": "energynewsbeat.co",
+          "_via": "news.google.com",
+          "source": "energynewsbeat.co",
+          "_hash": "ebfe6dbb1a90f8e1",
+          "_ageHours": 14,
+          "_inWindow": true,
+          "_score": 54.63265416666667,
+          "_corrob": 3,
+          "_cluster": [
+            {
+              "source": "fool.com",
+              "title": "NANO Nuclear Energy vs. Oklo: Which Industrials Stock Is a Better Buy in 2026?",
+              "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQMTRQaUJjdTIxTkZOZHJXcmRNTFBNTkF0dUY2aGFGV1ZSbFl6NENsVmJuNF9BVk9FeVRzQ0l2R2xTUkVSd01MbERDZTVrOGQzYTl5QUl4YzVDSHFnYi1TdllfNDRjWHNCV2tUWEx2cjJWM1R1OGpub0pfMlZuMFFPSUFpVUY4WXpQZjlodUxBSGJmQVRldUhNWUhBZDdHd1k0ZFhsLXJCRk40SDBnOXI2NlV0dXhrSk1NUVI0N3UzdFZESC1yOXFJ?oc=5"
+            },
+            {
+              "source": "seekingalpha.com",
+              "title": "NANO Nuclear Energy to buy NRC-licensed U.S. nuclear fuel processing assets for $13.5M (NNE:NASDAQ)",
+              "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNYXBkdVNQUDlrQ28xMzcxWWJidTl4V1ZlM3F0bjl4NjU0aFZBWFZyMGZSX2libFZ2cUtPS1p1QjU0TGstOU5Ta1JwSHFjbzNlckJ6Z0RYcEt5bkJtcjdKSzhfZmxGdnBPZlFBbnI1YklaZ0pnQklsdHdhVkFfUjIwenAzRWkyd05xNFB4bVYwSDN2NEN2aXk3MlpLdHJRdllURi1pOGJOWG0tblp1ZC12Nnd1QmJGRWlJQlVHZEstcw?oc=5"
+            },
+            {
+              "source": "globenewswire.com",
+              "title": "NANO Nuclear Energy Advances Vertical Integration Strategy",
+              "link": "https://news.google.com/rss/articles/CBMi0AJBVV95cUxQVHlqWXlfLUVZcWNRM3pmMHREQUlpU2pVUTZFUldCZ0lrUmgtaHF2OEE0SUNMenFEVEhLeGpQRllBaU9OeWwwTF9PRmlnRTkyNERfMVR2cy1qQVkwaGhpNjBvZHcxMFNSaXlxMEowV0QyOU5feXFmZHNVNXFhWl9EakhPMHNGRjdNd1dZck1lc016WW5pZXNqNFk1bF9OY29qcFVGaVpiM2pHOVUwUkl3cjl2czVTV2dpSlh2ejRhRm9ocXNPblZ0dGlnNjVPdVlwWjJKZEdGZXdQN2Y4eGpJMG50OWJDSkw4NVRPX3h6Uk5icC1TU3dlbjBKMG1ZRmVKc2t4U2prNGhRZ3ZFV1dSRnpZZndLT2lGWFhxQXpxS1lGQ05TaGZNYnFYaGtWaktsNUgxSjN5aGNHb3JPU3A1dGVCcElhdzVJUloxajlLa0E?oc=5"
+            }
+          ]
+        },
+        {
           "title": "Grid Connection at European Ports &#038; Airports: Solutions to Accelerate Transport Electrification",
           "link": "https://cleantechnica.com/2026/10/01/grid-connection-at-european-ports-airports-solutions-to-accelerate-transport-electrification/",
           "date": "Fri, 02 Oct 2026 00:08:50 +0000",
@@ -1422,9 +1487,39 @@
           "_via": "cleantechnica.com",
           "source": "cleantechnica.com",
           "_hash": "b266a49176bef6fc",
-          "_ageHours": 3,
+          "_ageHours": 6,
           "_inWindow": true,
-          "_score": 56.63699944444444,
+          "_score": 54.08015472222222,
+          "_corrob": 0,
+          "_cluster": []
+        },
+        {
+          "title": "A New Star Is Born As EVs Reach 19% Market Share In Ecuador In August!",
+          "link": "https://cleantechnica.com/2026/10/01/a-new-star-is-born-as-evs-reach-19-market-share-in-ecuador-in-august/",
+          "date": "Fri, 02 Oct 2026 03:57:56 +0000",
+          "summary": "Ecuador is a country we haven’t mentioned too often in the past, but this may soon change. For years, the country lagged behind the region, having only a handful of sales and sitting at the bottom of the list with Peru and Argentina back in 2023. The last time we ... [continued] The post A New Star Is Born As EVs Reach 19% Market Share In Ecuador In August! appeared first on CleanTechnica .",
+          "publisher": "",
+          "_via": "cleantechnica.com",
+          "source": "cleantechnica.com",
+          "_hash": "2853697bf97eba4d",
+          "_ageHours": 2,
+          "_inWindow": true,
+          "_score": 51.89848805555555,
+          "_corrob": 0,
+          "_cluster": []
+        },
+        {
+          "title": "NYPA to own 51% of 240-MW solar project with EDF",
+          "link": "https://www.utilitydive.com/news/nypa-240-mw-solar-project-edf-rich-road/831878/",
+          "date": "Thu, 01 Oct 2026 09:57:20 -0400",
+          "summary": "Rich Road Solar is the first project the New York Power Authority has developed utilizing a public-private partnership model to advance renewable energy.",
+          "publisher": "",
+          "_via": "utilitydive.com",
+          "source": "utilitydive.com",
+          "_hash": "09d30963615afa3b",
+          "_ageHours": 16,
+          "_inWindow": true,
+          "_score": 49.888488333333335,
           "_corrob": 0,
           "_cluster": []
         },
@@ -1437,9 +1532,9 @@
           "_via": "news.google.com",
           "source": "techxplore.com",
           "_hash": "11b26b742a7f2817",
-          "_ageHours": 9,
+          "_ageHours": 11,
           "_inWindow": true,
-          "_score": 50.159776944444445,
+          "_score": 47.60293222222222,
           "_corrob": 1,
           "_cluster": [
             {
@@ -1448,92 +1543,6 @@
               "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOb2tmWmw1Wi1WSTh3T2U4clVnWEwweDNqWnMwLWExNGNjNDIzME5oVVY5WXVSQldEVFVUR21VaGhPZjFabWlPdEdlUHctWjI0VU5FdG9sVWtvU2tnS1V4SFRMMmNRVmpvZ1Jzd3FpSnZWMUNyRVp2Vm1Jek9DSUJONEJzc0RHc19MVTFSek9ucmwwZVd4Y0ZCSjFfQ2lEcVNUT1YwOUtlTXRyQQ?oc=5"
             }
           ]
-        },
-        {
-          "title": "The USDA just made it way harder for farmers to get grants for solar",
-          "link": "https://www.canarymedia.com/articles/food-and-farms/usda-reap-grants-for-solar",
-          "date": "Thu, 01 Oct 2026 18:00:00 -0400",
-          "summary": "Rules published Thursday essentially end federal grants that thousands of American farmers have long relied on to build revenue-generating solar systems on their land. The Trump administration’s changes to the Rural Energy for America Program (REAP) are its latest attempt to block solar development even as the…",
-          "publisher": "",
-          "_via": "canarymedia.com",
-          "source": "canarymedia.com",
-          "_hash": "78117a60ce6e9e01",
-          "_ageHours": 6,
-          "_inWindow": true,
-          "_score": 48.489777777777775,
-          "_corrob": 0,
-          "_cluster": []
-        },
-        {
-          "title": "Reach Stackers Look Like A Hydrogen Use Case. Ports Are Buying Batteries.",
-          "link": "https://cleantechnica.com/2026/10/01/battery-electric-reach-stackers-ports/",
-          "date": "Thu, 01 Oct 2026 15:33:21 +0000",
-          "summary": "A reach stacker looks like exactly the sort of machine batteries should struggle with. Large models can weigh more than 70 tonnes before picking anything up, then lift loaded shipping containers weighing another 40 tonnes or more several rows deep and several containers high. They work in busy freight terminals ... [continued] The post Reach Stackers Look Like A Hydrogen Use Case. Ports Are Buying Batteries. appeared first on CleanTechnica .",
-          "publisher": "",
-          "_via": "cleantechnica.com",
-          "source": "cleantechnica.com",
-          "_hash": "51c6eb53ceb6623d",
-          "_ageHours": 12,
-          "_inWindow": true,
-          "_score": 48.045610555555555,
-          "_corrob": 0,
-          "_cluster": []
-        },
-        {
-          "title": "Newsom finally says yes to virtual power plants",
-          "link": "https://www.canarymedia.com/articles/virtual-power-plants/newsom-yes-to-virtual-power-plants",
-          "date": "Thu, 01 Oct 2026 13:30:00 -0400",
-          "summary": "California Gov. Gavin Newsom (D) defied political expectations on Wednesday and signed into law a slate of energy-affordability legislation aimed at containing the utility spending that is driving up electricity costs in the Golden State. Among the bills he signed are two that will boost the use of virtual power…",
-          "publisher": "",
-          "_via": "canarymedia.com",
-          "source": "canarymedia.com",
-          "_hash": "6ded0c16cc3dd243",
-          "_ageHours": 10,
-          "_inWindow": true,
-          "_score": 47.989777777777775,
-          "_corrob": 2,
-          "_cluster": [
-            {
-              "source": "wbjournal.com",
-              "title": "Commonwealth Fusion inks deal for over 6,200 miles of high-tech tape critical to operating fusion power plants",
-              "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNS1o1OFJtUzh3T28wVkJHQ2dKTmZaR2MwYWlrSTBNSjllRm10NnlYVmZWZmZIYUNFVENLU21MejZQaEktb1lPZk5aT3p6VHI5dGFTLU1ubUVzYUVvam9Wa1JaaTY5ZlUxMExxS2lVaUR5ZXlJRWlTZ0hjbDRJNmZWSEFkM0gwVHhiWUktUkpyWVhxdHpXQU1mX3BsZzBxWWQ0R21TQWVzSElwem0tQnY2cGNQM1NBdzktelpkWWVZVjBZbE1YemFmZmlCOE1WRW5jdk5jaWt5TQ?oc=5"
-            },
-            {
-              "source": "prnewswire.com",
-              "title": "Commonwealth Fusion Systems Places Largest Single Purchase Order of HTS Tape with Fujikura to Accelerate Development of ARC Power Plants",
-              "link": "https://news.google.com/rss/articles/CBMinAJBVV95cUxNN3dBR0xjdXhjSEZMcVF6SXJGeDlOemhWUjRKSFRGYl9DT0ZydUFmSGpWcDZMQkpJYXI0al9ZWXd5YlJiNVVmNjZzdnNqN2xZV3g1WEU5eW1jZ1BWNU1malpyd3VjU2hNZTdnSUIycUN4ZkxlSm90TkJVdGI1ZFJQZlE3RUtPWmU4MTZzcDhvbjE1SVl4VVdsMkZoMXZCZ2txOWwxY0hnRG1rUU1VaFlHVVRoYUFFbHM5S3Q1SVIyemgyYTNVSDFHS1psd05paDlIbjVIV3ZhSVhFWjhsUGpTNnQtNE9sdWg5eUxjc3UyT3NFdDlWbUltbjZ0LXI2Mk1UX3hNbkg1NTE0SzY4cVNJeGsyR0FLVnh5T1JSQw?oc=5"
-            }
-          ]
-        },
-        {
-          "title": "XPENG Hits Record Deliveries",
-          "link": "https://cleantechnica.com/2026/10/01/xpeng-hits-record-deliveries/",
-          "date": "Thu, 01 Oct 2026 14:12:13 +0000",
-          "summary": "XPENG reached record deliveries in the third quarter of 2026. The company nearly reached record deliveries September, building on months of strong results. The company&#8217;s 41,256 vehicle deliveries in September were a 5.5% increase over August deliveries. However, they were also a 0.8% decrease compared to September 2025. Across the ... [continued] The post XPENG Hits Record Deliveries appeared first on CleanTechnica .",
-          "publisher": "",
-          "_via": "cleantechnica.com",
-          "source": "cleantechnica.com",
-          "_hash": "b4e904b89c42ec1e",
-          "_ageHours": 13,
-          "_inWindow": true,
-          "_score": 46.69338833333333,
-          "_corrob": 0,
-          "_cluster": []
-        },
-        {
-          "title": "XPENG To Launch Its Next-Gen AI Flagship G9L SUV &#038; Showcase Its Physical AI Lineup At The 2026 Paris Motor Show",
-          "link": "https://cleantechnica.com/2026/10/01/xpeng-to-launch-its-next-gen-ai-flagship-g9l-suv-showcase-its-physical-ai-lineup-at-the-2026-paris-motor-show/",
-          "date": "Thu, 01 Oct 2026 13:40:08 +0000",
-          "summary": "XPENG will showcase its Physical AI ecosystem spanning its technology stack, humanoid robots, flying cars and AI-defined vehicles, including the G9L, L03, P7+, G6, G9 and X9. The G9L flagship SUV will make its global launch at the Paris Motor Show, with European order books open and pricing revealed, reinforcing ... [continued] The post XPENG To Launch Its Next-Gen AI Flagship G9L SUV &#038; Showcase Its Physical AI Lineup At The 2026 Paris Motor Show appeared first on CleanTechnica .",
-          "publisher": "",
-          "_via": "cleantechnica.com",
-          "source": "cleantechnica.com",
-          "_hash": "be9c579005070e8f",
-          "_ageHours": 14,
-          "_inWindow": true,
-          "_score": 46.15866611111111,
-          "_corrob": 0,
-          "_cluster": []
         }
       ]
     }
