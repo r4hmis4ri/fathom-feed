@@ -1,43 +1,53 @@
 {
   "date": "2026-10-10",
-  "generatedAt": "2026-10-10T03:30:38.438Z",
+  "generatedAt": "2026-10-10T06:17:09.417Z",
   "pillars": {
     "ai": {
       "name": "Artificial Intelligence",
       "candidates": [
         {
-          "title": "Philly police receive fake homicide tip submitted by Anthropic AI model",
-          "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNcldVOTBQLTJ0Q0dSYmZGb0FmemVOc09UU2x4MkxLUTMybkN3aUxSbUxUSVhLdzl6Smt0aHVFRlo4SkF6ZjRaUGR0OVlFZGJxN0hXQW1UbllzSExyZWpna1ZCdThMRWo5UG5tb3NGWGNkTHlMbHNPZHBsZ3ZoU1Z5ZVBWTHNNcm9IRGdWQ0tmanVyOVXSAZgBQVVfeXFMTXdQT3hfMXhweWxCbnBiZFZkMFpienJQYUh6a0cxMDR1RzE5djQ2d2dlME13RHpOMlBxZjYzWmduQ3dMWEQyMFhlLVVlc0pkVTJfUmQ1ZEhtZ3Z5Q0JwNGZvZndadXR2QVh2dE5QeVo4cGo3cFd1ekxkNmx1Nk9TcFE2UWFWalZvY1I4QnBiZGRLbEp1eDk3TE4?oc=5",
-          "date": "Sat, 10 Oct 2026 02:17:29 GMT",
-          "summary": "Philly police receive fake homicide tip submitted by Anthropic AI model FOX 29 Philadelphia",
-          "publisher": "fox29.com",
-          "_via": "news.google.com",
-          "source": "fox29.com",
-          "_hash": "2b0cdbbddd83af1b",
-          "_ageHours": 1,
+          "title": "An Anthropic AI model sent a false homicide tip to Philadelphia police",
+          "link": "https://techcrunch.com/2026/10/09/an-anthropic-ai-model-sent-a-false-homicide-tip-to-philadelphia-police/",
+          "date": "Fri, 09 Oct 2026 19:36:56 +0000",
+          "summary": "Anthropic did not discover this behavior until over two months after its AI submitted the false tip.",
+          "publisher": "",
+          "_via": "techcrunch.com",
+          "source": "techcrunch.com",
+          "_hash": "8e6858017f2c488e",
+          "_ageHours": 11,
           "_inWindow": true,
-          "_score": 82.78049250000001,
-          "_corrob": 6,
+          "_score": 83.32933472222223,
+          "_corrob": 8,
           "_cluster": [
             {
-              "source": "6abc.com",
-              "title": "Anthropic AI model submitted false tip about unsolved murder, Philadelphia police say",
-              "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNVUdPS1ZSX3I2OG4zdVNISmtQdWJDN1VmR1lSemRhS1dwUzVVU1ZZRV9UN0lyc2lEbE96WkgxX0J2TjI2U1l0cGRnX3BsNFhudE5oWUh3VUh1bDgxTk1ITmdJOFMxaFFTVXBJSE5tNXlVV0Nqb2VEek9rLTB0TE1YWGtMa3M1dmxhME1PWE9UbFVrS2dERHotazRzLWJza21seElQQmlFcUJZckZfTzQw0gG0AUFVX3lxTE1RSW5Xb2ZQQjNFYlpBVXllWTVUbmlpQWN0NGNPdzAxNEFqMEE1T196dHZNYXAwQTRTc3J6UVpGNkFOMEo4c2tialBna3MtQ24xbDJ5QTdxcUxXWEJUYmlKVFJXNXJMeFJjM2p3T3dpd2d2WjA1bmFpUEhhdzA1QmQwa0tMRm53U25RaGxVSlFReHdwWGdiSS1Sd2ZqcV9KZXE0al9VNUc1aXNOSjNDOTNFUmxpSg?oc=5"
+              "source": "aljazeera.com",
+              "title": "Anthropic AI model submits false homicide tip to Philadelphia police",
+              "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOenRDQW1WVmZHWHJROUZPS0tFbHdSRzh1QWFvb2Q2YlNJSUkxcE9hMjEyMmlpY3F2LWJZQlhtSGgwODBGUFAtWVpjWHFtUUhUcElqbnBBRmFwMTNrMWJGMFN2ckNCM0lSekJLT1BxMXBkcnhneGxCaUxFNy1DTDJmaWV2MXdVS0NPYzRaUl85VWlRMDMydG5xa2pPbzlsLXFSaWVnb3dJdTJNR2VmTEI4aXFuelrSAbQBQVVfeXFMTnp0Q0FtVlZmR1hyUTlGT0tLRWx3Ukc4dUFhb29kNmJTSUlJMXBPYTIxMjJpaWNxdi1iWUJYbUhoMDgwRlBQLVlaY1hxbVFIVHBJam5wQUZhcDEzazFiRjBTdnJDQjNJUnpCS09QcTFwZHJ4Z3hsQmlMRTctQ0wyZmlldjF3VUtDT2M0WlJfOVVpUTAzMnRucWtqT285bC1xUmllZ293SXUyTUdlZkxCOGlxbnpa?oc=5"
             },
             {
-              "source": "futurism.com",
-              "title": "Police Furious After an Anthropic AI Model Submitted a Bogus Tip About an Unsolved Murder, Posing as a Person Who Might Have Information About the Case",
-              "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOTlVTZ0dQb3ZfWjNJV2VyT3JXYWlSNUJTSVBRN1ZONWstYTBZUlY5NFQtWDhUazFQalR2cU4zR2gwWk1IT1JEUTNTVUdHR3lBa1o4MjJMOW9jNkZMSTRpTVRNTFBpaFN6X3VJaEVmdGR6M0JvcWk1WVNub1cwY0VnQWt0MGpZUkZiX1BJ?oc=5"
+              "source": "benzinga.com",
+              "title": "Anthropic Model Sends False Homicide Tip to Philadelphia Police - JPMorgan Chase (NYSE:JPM)",
+              "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOYTVRR0dJblpnOWlPRkVyby03QnNrRFNQSmVmY3dqRVdQY3NvMWhYN2h3OUdVLTdNLVN0aUJWbVk0Nk5pZTlfNjRTX2FIaXNRM0N6ai1iV0VKb0NVMGFwbW8xck5jM0dEYVdqaDI4b0RlOU1hNmhISnJQWXFoSFVvS2JwTjlLbWhqcGl5VVdmaXg4ME1wMmhQV2xKV3JtZUdJNTVCRUphSQ?oc=5"
             },
             {
-              "source": "phillyvoice.com",
-              "title": "Anthropic AI model submitted false tip about a homicide case to Philly police",
-              "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBEZU8wVGlub3JiRVNzZHlXY19SQlNZbXduTndlNzhVSmp0b0hycWVsblI3MG9HMXR2anozcWRQaG0tSnJGbE1qT0J5VklrdzU3ZWFFOVdoQkh3OUY2OFVuX050QTFza2FreTFVcjROU1pNUmpfT1pnVG5ta0stSGc?oc=5"
+              "source": "nypost.com",
+              "title": "Anthropic AI model sends false homicide tip to Philadelphia police website",
+              "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxORzF6eTVLdVZRQnNNOHpmS2lzbk8zU05JVHMyZE1zQUdYWW53d3ZZcWpKVFVHT1FUdU55Q1pPN0xvSVdYcHRlVG1nY2tRODV6bm41V0dxMUhHTFh4QTlhUU51WWhJdWNHTjRmc2MweFBQOVE5U2t1cXRjeERJb00xMXJjMktzTVNTd0FhSmVYRFZpS21VVXhBLVF6TGgySnpLd0loNkh2NjVkOS1PT2JzdndQWFM?oc=5"
+            },
+            {
+              "source": "yahoo.com",
+              "title": "Anthropic AI submits false tip in unsolved murder case",
+              "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPZ1RXWGRheUxobEY4X09qbXU3WGlLdE1JYVdtcGI2UUh6XzVUZVBRc1dHampyN3ZKU0RHZi1nRmtTVE5xMGdEYkstZmhEQjFQcl9zTklLOGRPNzVrNU9aUmlpUlJsVUZOd1owamhDQlBmMDdBdUJmRFZFOWJ1Ui1KV3YxRUVUNy1YS2tqeQ?oc=5"
             },
             {
               "source": "newscord.org",
               "title": "Anthropic AI Submitted False Homicide Tip To Philadelphia Police Website, Officials Say: 12 outlets compared",
               "link": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxNak5wUlBkM0k0SXExOS0xMzlEUTdLNW9jNzNoLUhiUzZmOWE4V1pNdEhUT3RIYXQ4NWFQX04ydXcxYjB0NnNtTFREdjQ1M0ltNHhhOGhmVmh6ZW55TlM5R01vaEFvWEJncE8zMWxvc3RxU3lIMERQb0ZxdThxa3llNmNfTVRkYkllTVNDb0lobzRibUR3TnZReVR0d3daVnRDenJjN0dpVHJaNTItTGNpWGk5SGVaeHN4d05jX196aDlLcDlObUR0dDhOTFhxekZfOFB0OWc0ZGgteEhMQVlOeF81SHNmRTJuS1E?oc=5"
+            },
+            {
+              "source": "foxbusiness.com",
+              "title": "Anthropic's Claude AI fabricates eyewitness account, submits false murder tip to police website",
+              "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPNDRNLWJQcF9iM2Zyb1BMM2gtcW40X2V5RTkxS0F2SGdGb1JNZS1nV0NWTVJMeTRwUDhsanFrQ3Q0aHZfTmVBRlQyRE1TeFNSXzNYcmFjTmRlT04wWGRkcWR4dElTVnhFLVYtVEVnNENJRGg4bGxXVnhqV1pRVUlwajdickJPazV4cFk3YWFFUHZUWS1jRHhZbVpxNG54Z3BPd2ZfZ3VCc0ExUV9Qb1JkNXE1U0RNcFZmbVBjb3J1WHcxMEJMa0FlWNIBzgFBVV95cUxQTG9UdWhnWWpKTGNGcmtQenFZMWlhbHgzYTk0VHhIZFRudHV2aElPY3VkdjMwTEJaZ01RYXZUdU9CNTdGc0w5eXR2VzJYQjZZZzd6WmI1dC1nT0x3d0pQaXR1N1dFVlNlc05Hak9PUXgycU55TmlzcjlWeWNYUXdHempFUy14dFFsNEpwckgybkVmRzZZQlZreTRCLTlKWFp3R3BnNko0djNDRlVQa3U4SnNHMVFCNlcyckRFMkVPejVPVU50TkFjRGFlZmtoQQ?oc=5"
             },
             {
               "source": "engadget.com",
@@ -52,181 +62,6 @@
           ]
         },
         {
-          "title": "Are Americans Who Use the Term ‘Artificial Intelligence’ the Enemy?",
-          "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxPWmE4aU8yLUt2MGVCUEZoWVFwdkxNOFp3TzhobVl0ZGlXbGI1by1MN0k3UVZwRUlEMTlrWGlnV2N2Szd6VlB2dW5Xck1GQ2ktUTlvZzhLeTZsb3dIdVl4SFVjYTlpQ2JyeFpqQktHcERMM25qaVpNQjlxU0JLQnozSWJNRUxVQjRyeFloR0FIMjI4ZTZCYmZtSi1XZ2Y2QQ?oc=5",
-          "date": "Fri, 09 Oct 2026 22:32:00 GMT",
-          "summary": "Are Americans Who Use the Term ‘Artificial Intelligence’ the Enemy? The Times of Israel",
-          "publisher": "blogs.timesofisrael.com",
-          "_via": "news.google.com",
-          "source": "blogs.timesofisrael.com",
-          "_hash": "e14321f1c75e4544",
-          "_ageHours": 5,
-          "_inWindow": true,
-          "_score": 68.02243694444445,
-          "_corrob": 5,
-          "_cluster": [
-            {
-              "source": "independent.co.uk",
-              "title": "Trump decrees that anyone who uses the term Artificial Intelligence is now ‘The Enemy!’",
-              "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPdExPMWRnMzR4Y1VidUdjSE1rbEU5SDk1SmdZaEZBdGRpNmJocXp3U3pYTHd6YjdNQVVWejJJa2Q2cndRMnF3MGtOYjhYR29TU3MzTExscEJkc294US1xMGdxZHg5aHB6djBLQ3FtQWFhaUdlN3RuTWxOcW1CQWRwc1NHOFN3aGFFeFY0SkZqU1daNzBjeDFqWkpqR2Z3cG82OW81Wkt1cGlCUmNUbnV0YUFycw?oc=5"
-            },
-            {
-              "source": "thenextweb.com",
-              "title": "President Donald Trump says anyone using the term ‘artificial intelligence’ is ‘the enemy’",
-              "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOQm53Zmd1U01vTnlqZk1DM3JTbkl2Vm01SDM5SDNyTHV4b044VEZGNWM2ZFBud0p2NVFWb3AxRlZUNkx3eVdKeWhlZ2x2bGRJWGhjQUlzWkhNc1RaMWMyZlFKUWRYZm1YaWJGMzl4QjVLQmJiSE5uSFlqaDN1ZERKS2VVTHBZZmxvemc?oc=5"
-            },
-            {
-              "source": "qazinform.com",
-              "title": "Trump: Anyone who uses term ‘artificial intelligence’ is an enemy",
-              "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxORXdaMVBaV2pxaFo4LUx4Q3NjMllGOHl0cGdUNWFPV2pCTFpPc1ZjajJ5ZUc1TjRkVEMwc0lGMUpKT1pPQi1saTBjWVMxOHpJV1FfNlhjVk83UDZ3cHE0ZzFxWER4bktCdGdRcVF6MW1hcnQzb1RYZ21NNGVaSXRqZEhGWmxXMDEtRjdyWTlNMk1EdUtTYnhlWUJCU0_SAZwBQVVfeXFMTXJ3dmJrcVY4ZVI0U0JhYWZHQVJWeUQtT1JzUm5XdzNfQ1Q4M01jYUhFbEV1eFl2WWRob2hYbDBPNkJyYldOSWdoVGx1RnViVHEtalo5NnlPZ3BNTFlLRVdtMjFJdWJBU0p5dkQweHV6Rm1LbmpNQ2xhdTRFSEdFV3RZZkdIMEhiYlRNX19XTXJyNm1Lakxzc2xxcU9z?oc=5"
-            },
-            {
-              "source": "aa.com.tr",
-              "title": "Trump calls users of term 'artificial intelligence' the 'enemy'",
-              "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOQWVXcVhfUGd6RHM0b203dDBWQVd0NHBjS3A1RjZpd3liTE9aZy11d08yeGxyNzJoVUZoWnJZNUQ0NmRwSTliNmFwc2FYcnRMX2RtNmxMaUQ4MFRqMXBCdGdWVS1WZHIwTkZycXNLVk43S3FQMHhCUHl6REhGTTlyaWN1d0JlZXV1RlpIZFJiQ28wbE9LSHVjWmlnMExyYl9WR0VB?oc=5"
-            },
-            {
-              "source": "politico.com",
-              "title": "Trump says anyone who does not refer to AI as ‘super intelligence’ is ‘THE ENEMY'",
-              "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNaTV1aTVjdklWRlVSRk44SVpZck9ENF9lWFAxSWVBMmNZQmktWDVZUC04Tmd1aUwwM01WLVJ3Sl93XzRaRTY3S3hvNm5UMFV0MXZiQk1VU0RIR3l4aVJLZHhlSjJ0ZWdHR3Y5YndyMmI2WG9CNnNibU02QS0tWEZhd2NDeG9YYWZqenV1MVpHNA?oc=5"
-            }
-          ]
-        },
-        {
-          "title": "Super Micro contractor pleads guilty in scheme to divert AI servers with Nvidia chips to China By Reuters",
-          "link": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxOWkJ1amRoRnhfLUlIRHNsWERyRE5lSUdXMkROYTU1MHF5eTlvNnYtNkZqU3NGbl9KVG9iZ2xxSjJWWjJSWUlnMjgzbTF2MVZOWkk4dEJGd3dUajV2THY5OXh0SHV1bXl6elNGanRfQjhFU015eUk3SEdGcGZTM0xKRlNmS3BrZURJUVBwLUdaNkt4MThGb0xhSFMwTjFzeDROeDE0c2ZOOVlDUjd6TUdNQWtjTzZuRkFoZWo1dFI5NmhQRWxraGhYQ01hVG1CMlU2R0JFZ1RpOFpRQ1NWeGx2REZPcDlzQQ?oc=5",
-          "date": "Sat, 10 Oct 2026 03:08:39 GMT",
-          "summary": "Super Micro contractor pleads guilty in scheme to divert AI servers with Nvidia chips to China By Reuters Investing.com",
-          "publisher": "investing.com",
-          "_via": "news.google.com",
-          "source": "investing.com",
-          "_hash": "541fa90b84e79b6d",
-          "_ageHours": 0,
-          "_inWindow": true,
-          "_score": 67.63327055555555,
-          "_corrob": 4,
-          "_cluster": [
-            {
-              "source": "straitstimes.com",
-              "title": "Super Micro contractor pleads guilty in scheme to divert AI servers with Nvidia chips to China",
-              "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxQUzlkalZLNXVKczI3cmhFSXM1dW9yX1JpMDJsSFFiVDVSWUNoOHlINGhNOHdoS2F6X0dRZDVQbklrRVhweURRdUJ3d0RDZ1V2RGhFWjNIUUxLY01LcnFBc2wzQjNsVTl3d3laQ1lQNkI1b2VNT0IyYzN3dmVKUHdOMUZPbEVTcWEzaFFGNGR1aWtZTXI5Y3lEbnk3Wk9PVG5mZ1lBa1I0ak1EQzR1dEtzNUp0YW02OVRhWkZERjlXUjVSVkZXam1yUGJiSnR1cjlRdnhfY2FfYm83YWs?oc=5"
-            },
-            {
-              "source": "tri-cityherald.com",
-              "title": "Super Micro contractor pleads guilty in scheme to divert AI servers with Nvidia chips to China - Tri-City Herald",
-              "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1McURNUmoyREV1NkxFV3k1ZlZLZXlKV2dXdUxWY1k4S0hKUUFMR1VXbzNwMHpGUmFWZGtZWHU3RE5ZUUtjOXUxenVwOEcwTDlVMUY5dEtlMVlBNjlseFZHWXgxNEtvQmlCZDhGSGw1VXQ3dHhq?oc=5"
-            },
-            {
-              "source": "centraloregondaily.com",
-              "title": "Super Micro contractor pleads guilty in scheme to divert AI servers with Nvidia chips to China",
-              "link": "https://news.google.com/rss/articles/CBMilgJBVV95cUxNak5TTl9WdWZGZzFzOHIxcV9sbUZPLW1nVDFRczFJUlNxOGxRNGdMWHpQZXBVazZaOS02TnVJbnMtRlEzb0N3OEd6QkxiRy1BWTlOYm9nLVRmMFFoc3NaWDFGWjFicDBFNnFXLThmV0M0cWotVUZKY2VYVkZ1VHo3M0sxNHdGYkpoWjdqUW5qa3dtblkwTDBhTVlvRTNtYmV1ZU01c0lXNzhibDc0MDVUa2dWRlNjVzdVeUpQMVQ4TFRHYlQ4SzVKTnQ3NzhQMTBheEcxWUJnblVVWnBPS1lxbVRDWmZPdlFROEo1UmRCQUp3OHhiUVBOcGFIZEI5S3NveHZmZzU3UWd0XzVIRnBvMW9DQ3dtQQ?oc=5"
-            },
-            {
-              "source": "reuters.com",
-              "title": "Super Micro contractor pleads guilty in scheme to divert AI servers with Nvidia chips to China",
-              "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOd1RmaEFMYlkxNEZMMFBaYmd6dlMxMkpXSW9rTDA2TVMxeHBDOFlJVjZPOE4zOWhCRUx5ZUVxcTdBQnhHd2c5TzJzQ25SQ2Y4SnhBb1I2M01Ndmh5V2NNMFFHODhlSHZVUHBCeUYzdUxDVFc5dlc1cFhYWkVFVVRjdWlEeExfbmJCZWhZLWJyMmFhM0l1TVJhd3RyamJoU1d5WFA1Z2NQSEw3bWtBc1h5SVhINEVMRmFRenVYRi12QkhaRlhJYWI0RHJGU1M?oc=5"
-            }
-          ]
-        },
-        {
-          "title": "TypeSafe AI Completes $870M Series A Funding, Valued at $7.5B",
-          "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQdF9DVUZIdHkwY2U3V0hsU2JxMV9tQnJyUXFTOF91bWtfQlE3bWhET2NIY1B4dDdJT19XeERaWXp2RE16ZjB5NVVodmN0RFJYTnk0R0JoWk9JUG5ZVVpDOWlFSGlMaDBESXFwRk4yY0dLU1hhcnhYcXZ6NXBHMmdGcjhORXVCMEJMVldjcnJwNHNMWFNtaU1Z?oc=5",
-          "date": "Sat, 10 Oct 2026 00:54:24 GMT",
-          "summary": "TypeSafe AI Completes $870M Series A Funding, Valued at $7.5B KuCoin",
-          "publisher": "kucoin.com",
-          "_via": "news.google.com",
-          "source": "kucoin.com",
-          "_hash": "275016c3ace29d2c",
-          "_ageHours": 3,
-          "_inWindow": true,
-          "_score": 66.39577027777779,
-          "_corrob": 3,
-          "_cluster": [
-            {
-              "source": "prnewswire.com",
-              "title": "KONST Raises $30M Series B funding Led by ADATA Technology to Scale Up AI Data Center Buildout in Asia and Advance Its Token Factory Strategy",
-              "link": "https://news.google.com/rss/articles/CBMiogJBVV95cUxPQWVvY0VlLTNHVUpxTUxLclIxSnZNT0t0bHctVXpnRDJHMUJocFJlb3pmVzdwTTk2QlVrN1VXNG9faTFYNHlnRnhvaGxNWk96bnNQVEpEVjZ1S1IwSThIamJQY1JiN01KUmF3eXRNZ1B3VGVDRHp1WnVqUGVtV0R6Sm1fVVhXY1pxbTA5Y3FoSmhFeTJJdl81SEpUTGV0N2JtbW83UU02NUhvODA4ZjN2UTRUejRLbjd2Qi14dkM0OUpYdnZNOUg1ZGQ5aHZEYUlLRGZOU2lEUUlHaWpDcHpmX3VOMzFkRWxZcExpNDlZalRPSG01eURzcHQ0ZFpGZVpGaS1Ba0VmTElfYU1JeGc0ZHV3bVdUY0ZwN29NamZ2SlM0Zw?oc=5"
-            },
-            {
-              "source": "hollywoodreporter.com",
-              "title": "AI-Podcasting Company Rebel Audio Raises Series A Funding at $50 Million Valuation (Exclusive)",
-              "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPVVU3OEs4bjYzUzlWSGxQNWtkY1ozdWVrVEdRUm1CZEpGaGJoRFhEUlZ1Nlp2aGJFdnA1cTE2YWVGRHNJRGtRMHR3b1g3VnJlMGtNZHpDa0lhSU12YmpGS213TkFOb1laMWVvS3ZXVXQ3dGl2Z3p2dEVXOHV0S0RtQ2NHQVBuM011Njl0eDZ0RE5zZjZ0eVZPVE1KblFkUmFEdDZDTE5FODN2WlF1WTY4?oc=5"
-            },
-            {
-              "source": "housingwire.com",
-              "title": "Vesta raises $30M in Series B funding to expand AI-native LOS",
-              "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxQYU1aSFFueHFHc1BONHpCRFdLWWZ5STNrdHhzWnYwZmVsZnFmeEplMEg3TXRqcGhXaEs4dFBXNDA4d09HSnFrOFdDQWpON3NuSXBod3loYVlzXzRHMEQ3Z1dVSm8xbHBqa0VlbkZ3NHpTRlZZaFYyOEs3am5XNFk4V0ExTGlLZmVuaHdDcnZDSDVSSDgxck1MdlRmVjNwdw?oc=5"
-            }
-          ]
-        },
-        {
-          "title": "An Anthropic AI model sent a false homicide tip to Philadelphia police",
-          "link": "https://techcrunch.com/2026/10/09/an-anthropic-ai-model-sent-a-false-homicide-tip-to-philadelphia-police/",
-          "date": "Fri, 09 Oct 2026 19:36:56 +0000",
-          "summary": "Anthropic did not discover this behavior until over two months after its AI submitted the false tip.",
-          "publisher": "",
-          "_via": "techcrunch.com",
-          "source": "techcrunch.com",
-          "_hash": "8e6858017f2c488e",
-          "_ageHours": 8,
-          "_inWindow": true,
-          "_score": 66.10465833333333,
-          "_corrob": 4,
-          "_cluster": [
-            {
-              "source": "france24.com",
-              "title": "Anthropic AI model sent fake murder tip to Philadelphia police",
-              "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQZmQ4b1o2Tm52MzFnV3V5MzZ6NncteUIyQlUzLWRrVXhXeXlJMmlOMEhqYzduN3EwVmJCUllpcjJzZXYyZ0FtelNDWFVEeDdZNmdyUHpwTDViczBuel9kS0szc3BOXzdYRWsyZjd1VEdxaGJKSkxfRjlNMzJtU1l2WW5CcFowUEk5LVRXTjdDVGhzSEk4ZEhzaWh5NnBzZ3YtanpEVTZSTkw2MlFFbUE?oc=5"
-            },
-            {
-              "source": "yahoo.com",
-              "title": "Anthropic AI model sent fake murder tip to Philadelphia police",
-              "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPc3FPRjZmdDJVZGo5bkRDVE5KMjBNejV4RjFDRnN1b3dMcjZwZHktUlR5b2RzOWJZcVpNUUVPdmdxZ3FtYzlNakUyalRMaWZTSGUwV2IzMWJ0cHVfT3M3dUFNejJDM1UzbUVKdmoyTktMcl84UXlIZlB2b1J5WG5tR0FoN2F1b19Wdnc?oc=5"
-            },
-            {
-              "source": "newscord.org",
-              "title": "Philadelphia Police Say Anthropic AI Sent False Unsolved Murder Tip Via PhillyUnsolvedMurders.com",
-              "link": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxOaFBEa193cGZaZGRIY3I2MU9pcDZvY09YVEg2eWZ2UTlrd1k3UDJWeW9EdmNEV1VjejZkZk9yUm9JeTZpZzhvSXdTQmFhWmNHUFFmN1c5WG52SU9FYzBkdFlGcW5MWkdwYnA2VW9ZMC1pUTBsdVJtMkgzMFktdHE5ME9oR28xTjZuczk2SXNNZnAwT0Ntd1JnV2FRZ3I2T0VnQkdoVWpHNVZzV0dVbG41Q1ppTFkzdkhrYW1mdC1tQmUtcG9zdXEwMGxRUFZaOHFuanFBYWh4dUs0M0hsZGpMSld4TExHWm5TWHc?oc=5"
-            },
-            {
-              "source": "amp.scmp.com",
-              "title": "Anthropic AI agent sent fake murder tip to US police in testing glitch",
-              "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxOa3YyQzYzWnYtUjg5Ry0xcnpKbGJ0eU5BX3hHaWk2X2RGVGlXVzFLTkJwNzd1UW1JbllUQjMwUjZuSzV6cFZ6VFBQZG1ZUWNONzM0VzR4eG9lYTBTcG9Tb3lxdlNwQUhNUU1RbXZYbVU5TktUNWZMNEZrRHU3MUR6MDVSajVhTVhDcjhuOXo4S1p5RUdYalpLQUJmNFdoTFJkMHJ5aDRfM18xeXN2UWtINHh0cWpVcmlkZVE2MlVva1A0WWZENVdEaFF0VkNkOWpRWkZORlpR0gHWAUFVX3lxTE5rdjJDNjNadi1SODlHLTFyekpsYnR5TkFfeEdpaTZfZEZUaVdXMUtOQnA3N3VRbUluWVRCMzBSNm5LNXpwVnpUUFBkbVlRY043MzRXNHh4b2VhMFNwb1NveXF2U3BBSE1RTVFtdlhtVTlOS1Q1Zkw0RmtEdTcxRHowNVJqNWFNWENyOG45ejhLWnlFR1hqWktBQmY0V2hMUmQwcnloNF8zXzF5c3ZRa0g0eHRxalVyaWRlUTYyVW9rUDRZZkQ1V0RoUXRWQ2Q5alFaRk5GWlE?oc=5"
-            }
-          ]
-        },
-        {
-          "title": "Anthropic AI model submits false homicide tip to police website",
-          "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxNR2lUd1U1d0hnbFRJZHBNbWcyRTd2RWFLa3VIbTkzeFpmMW5Ibi1Hd1BNT0F3RDhTeUhJd2NQVG0wQVp0UEpCWElWUkFkajBUQXFnU0thUjB3SWJZNDJFNVc4WVBkcVZRRm85ZGtrSlc0RjA4VG1yYms2V2xHRUJjV2dYWVJBeDFFbDg3M1VpckRrZVJKTEFmRzdaVExvZw?oc=5",
-          "date": "Sat, 10 Oct 2026 00:22:30 GMT",
-          "summary": "Anthropic AI model submits false homicide tip to police website 1470 & 100.3 WMBD",
-          "publisher": "wmbdradio.com",
-          "_via": "news.google.com",
-          "source": "wmbdradio.com",
-          "_hash": "0ef1df88a7b26c10",
-          "_ageHours": 3,
-          "_inWindow": true,
-          "_score": 65.86410388888889,
-          "_corrob": 3,
-          "_cluster": [
-            {
-              "source": "nypost.com",
-              "title": "Anthropic AI model sends false homicide tip to Philadelphia police website",
-              "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxORzF6eTVLdVZRQnNNOHpmS2lzbk8zU05JVHMyZE1zQUdYWW53d3ZZcWpKVFVHT1FUdU55Q1pPN0xvSVdYcHRlVG1nY2tRODV6bm41V0dxMUhHTFh4QTlhUU51WWhJdWNHTjRmc2MweFBQOVE5U2t1cXRjeERJb00xMXJjMktzTVNTd0FhSmVYRFZpS21VVXhBLVF6TGgySnpLd0loNkh2NjVkOS1PT2JzdndQWFM?oc=5"
-            },
-            {
-              "source": "washingtonpost.com",
-              "title": "AI system submits false homicide tip to Philadelphia police",
-              "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPWnNQNmNTNVdsTjFlRHpYcmhLN2pZQjZQdFB6ZWEyUkt0OTZ6R1dUSlR2SnV4VWxIMm1vOURfUnM0SnJiSXI3N3R4bDBqTjYyQmdSaDFUVXJmM1Y1c29INVRJVTBPRGkwZUdrTTdJTVI4RkFQb1Q1bFRudFJwdFpsc2p2SFVuaHBxNE5mR3BHZzl4d2VsdG5Hd2xocURSbVlxQnJGN1BYM1B0d0g5QVBj?oc=5"
-            },
-            {
-              "source": "foxbusiness.com",
-              "title": "Anthropic's Claude AI fabricates eyewitness account, submits false murder tip to police website",
-              "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPNDRNLWJQcF9iM2Zyb1BMM2gtcW40X2V5RTkxS0F2SGdGb1JNZS1nV0NWTVJMeTRwUDhsanFrQ3Q0aHZfTmVBRlQyRE1TeFNSXzNYcmFjTmRlT04wWGRkcWR4dElTVnhFLVYtVEVnNENJRGg4bGxXVnhqV1pRVUlwajdickJPazV4cFk3YWFFUHZUWS1jRHhZbVpxNG54Z3BPd2ZfZ3VCc0ExUV9Qb1JkNXE1U0RNcFZmbVBjb3J1WHcxMEJMa0FlWNIBzgFBVV95cUxQTG9UdWhnWWpKTGNGcmtQenFZMWlhbHgzYTk0VHhIZFRudHV2aElPY3VkdjMwTEJaZ01RYXZUdU9CNTdGc0w5eXR2VzJYQjZZZzd6WmI1dC1nT0x3d0pQaXR1N1dFVlNlc05Hak9PUXgycU55TmlzcjlWeWNYUXdHempFUy14dFFsNEpwckgybkVmRzZZQlZreTRCLTlKWFp3R3BnNko0djNDRlVQa3U4SnNHMVFCNlcyckRFMkVPejVPVU50TkFjRGFlZmtoQQ?oc=5"
-            }
-          ]
-        },
-        {
           "title": "Anthropic’s AI gave Philadelphia police a fake tip about an unsolved homicide",
           "link": "https://www.theverge.com/ai-artificial-intelligence/1009090/anthropic-fake-homicide-information-philadelphia-pd-tip",
           "date": "2026-10-09T17:15:38-04:00",
@@ -235,15 +70,30 @@
           "_via": "theverge.com",
           "source": "theverge.com",
           "_hash": "c64980f965354a81",
-          "_ageHours": 6,
+          "_ageHours": 9,
           "_inWindow": true,
-          "_score": 63.74965805555556,
-          "_corrob": 2,
+          "_score": 75.97433444444445,
+          "_corrob": 5,
           "_cluster": [
             {
               "source": "wsj.com",
-              "title": "Anthropic AI Model Goes Rogue, Submits Fake Unsolved Murder Tip",
+              "title": "Anthropic AI Model Went Rogue, Submitted Fake Unsolved Murder Tip",
               "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOdC1Yb1VaRzVmWnNoRmpLRFF4cWtUZXNyMjYtVzItMEJIYWhGWUpsUXRtWEJmaDVpZ1lGSXE3WGFYWU94cUFwcTRZZnQzVFBsaktQVjQ3WmJMMFVyQnlTS3NtUEMzVkY1WmNoU1dmdW1LWVB5YXJ1amROdEVIWVRhSFNLdldjVkMwcVRjaHJoOGVwVFBDbmxCdHlqTGIwc2px?oc=5"
+            },
+            {
+              "source": "6abc.com",
+              "title": "Anthropic AI model submitted false tip about unsolved murder, Philadelphia police say",
+              "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNVUdPS1ZSX3I2OG4zdVNISmtQdWJDN1VmR1lSemRhS1dwUzVVU1ZZRV9UN0lyc2lEbE96WkgxX0J2TjI2U1l0cGRnX3BsNFhudE5oWUh3VUh1bDgxTk1ITmdJOFMxaFFTVXBJSE5tNXlVV0Nqb2VEek9rLTB0TE1YWGtMa3M1dmxhME1PWE9UbFVrS2dERHotazRzLWJza21seElQQmlFcUJZckZfTzQw0gG0AUFVX3lxTE1RSW5Xb2ZQQjNFYlpBVXllWTVUbmlpQWN0NGNPdzAxNEFqMEE1T196dHZNYXAwQTRTc3J6UVpGNkFOMEo4c2tialBna3MtQ24xbDJ5QTdxcUxXWEJUYmlKVFJXNXJMeFJjM2p3T3dpd2d2WjA1bmFpUEhhdzA1QmQwa0tMRm53U25RaGxVSlFReHdwWGdiSS1Sd2ZqcV9KZXE0al9VNUc1aXNOSjNDOTNFUmxpSg?oc=5"
+            },
+            {
+              "source": "futurism.com",
+              "title": "Police Furious After an Anthropic AI Model Submitted a Bogus Tip About an Unsolved Murder, Posing as a Person Who Might Have Information About the Case",
+              "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOTlVTZ0dQb3ZfWjNJV2VyT3JXYWlSNUJTSVBRN1ZONWstYTBZUlY5NFQtWDhUazFQalR2cU4zR2gwWk1IT1JEUTNTVUdHR3lBa1o4MjJMOW9jNkZMSTRpTVRNTFBpaFN6X3VJaEVmdGR6M0JvcWk1WVNub1cwY0VnQWt0MGpZUkZiX1BJ?oc=5"
+            },
+            {
+              "source": "newscord.org",
+              "title": "Philadelphia Police Say Anthropic AI Sent False Unsolved Murder Tip Via PhillyUnsolvedMurders.com",
+              "link": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxOaFBEa193cGZaZGRIY3I2MU9pcDZvY09YVEg2eWZ2UTlrd1k3UDJWeW9EdmNEV1VjejZkZk9yUm9JeTZpZzhvSXdTQmFhWmNHUFFmN1c5WG52SU9FYzBkdFlGcW5MWkdwYnA2VW9ZMC1pUTBsdVJtMkgzMFktdHE5ME9oR28xTjZuczk2SXNNZnAwT0Ntd1JnV2FRZ3I2T0VnQkdoVWpHNVZzV0dVbG41Q1ppTFkzdkhrYW1mdC1tQmUtcG9zdXEwMGxRUFZaOHFuanFBYWh4dUs0M0hsZGpMSld4TExHWm5TWHc?oc=5"
             },
             {
               "source": "theverge.com",
@@ -251,16 +101,16 @@
               "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQS2oxbWxkMUR2TjBuNVVYek5KYWxMdlRpV3R6ZTc5LVJvWHBqdVVZaXU1ZDBGRktRMkFHVUF2M3Q2NjJ6X1pHazlXdVpCWHU2TnlWeUpWUXdtLTNtREpqZnFVZVE5RjJvSTFZdThmWFU4cGVMNzdwamNiMWcyT2pWVENuZk4zQTR3cTdhVWFGQ0tLalFXRGVuNF9GQklNY1Y4alFYcTFvQ0thaGJ1bkJNQXd6YjZidw?oc=5"
             },
             {
-              "source": "inquirer.com",
-              "title": "Anthropic’s artificial intelligence gave a false homicide tip to Philly police, triggering a meeting with the company",
-              "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQYktaQWFZY0VIUU1oV0NkdUcyS1h0N1VVdFJnbml0NjlRTGFpYUx4Y3lGRHZTTzVhaHNsT3ZNMlllQUVJX3RKRjNzU1U1VHpLeC1zYTQ5SGdhMVFHYzN5M25SYUo1alJ0dGNJZE9EY2ZjbmNDYnpHd0tuSTNrYjNiclBYQmZBeGRYN0J0YUNJemV5czlhNXhKbTd6QVdPMV9pMGpXYktJUVdMOFptWnFHTldzZjZ0UG1M?oc=5"
+              "source": "cbsnews.com",
+              "title": "Philadelphia police say their unsolved murder website received \"false homicide tip\" from Anthropic AI",
+              "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPQ1hTUUtkeFJXdkg0Ukx0TW5IcWpLbFhCQ21FNl9CUm5QWjVoa1ZNZmhSZ1F6c0trZ3padWdfOGlySkFrM25UdlFCZ0RUaFdrUThZY3JrQl9HMmlZUWVnVHdCb3h6SUpJSTBOZFRtWFVPTkNJMHprVGZxQUZ1WGJtcllPX05RTzRB?oc=5"
             }
           ]
         },
         {
           "title": "Anthropic AI agents took ‘unintended’ actions on government sites",
           "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQZ2V1ZnA4a2RIbllCWVFuZDA0ellKck0teFdTaEZZV3lYeDZXenZVdWN4aElzZWxYNUZxcXlkWHhrUVJVN2gyY0pZOHRiS0hMQzV0QUU2bllGbDFCV3JNaVJaTFhhUTlXblQ0aG1QcEVRNzRDbW9xRDRRek5MU3dUMnpjQ2pmOFQ1SjlPOUZZdndrOGhCRGxwRTZnem9VaHBVRTdqTXczQkw5RHhWVXdKaFZZQk5qd2hnelplNGdfd1I?oc=5",
-          "date": "Sat, 10 Oct 2026 03:07:02 GMT",
+          "date": "Sat, 10 Oct 2026 06:09:32 GMT",
           "summary": "Anthropic AI agents took ‘unintended’ actions on government sites The Washington Post",
           "publisher": "washingtonpost.com",
           "_via": "news.google.com",
@@ -268,7 +118,7 @@
           "_hash": "a23e073974a2c553",
           "_ageHours": 0,
           "_inWindow": true,
-          "_score": 62.60632638888889,
+          "_score": 62.87266916666667,
           "_corrob": 3,
           "_cluster": [
             {
@@ -289,6 +139,99 @@
           ]
         },
         {
+          "title": "Super Micro contractor pleads guilty in scheme to divert AI servers with Nvidia chips to China By Reuters",
+          "link": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxOWkJ1amRoRnhfLUlIRHNsWERyRE5lSUdXMkROYTU1MHF5eTlvNnYtNkZqU3NGbl9KVG9iZ2xxSjJWWjJSWUlnMjgzbTF2MVZOWkk4dEJGd3dUajV2THY5OXh0SHV1bXl6elNGanRfQjhFU015eUk3SEdGcGZTM0xKRlNmS3BrZURJUVBwLUdaNkt4MThGb0xhSFMwTjFzeDROeDE0c2ZOOVlDUjd6TUdNQWtjTzZuRkFoZWo1dFI5NmhQRWxraGhYQ01hVG1CMlU2R0JFZ1RpOFpRQ1NWeGx2REZPcDlzQQ?oc=5",
+          "date": "Sat, 10 Oct 2026 04:18:34 GMT",
+          "summary": "Super Micro contractor pleads guilty in scheme to divert AI servers with Nvidia chips to China By Reuters Investing.com",
+          "publisher": "investing.com",
+          "_via": "news.google.com",
+          "source": "investing.com",
+          "_hash": "541fa90b84e79b6d",
+          "_ageHours": 2,
+          "_inWindow": true,
+          "_score": 61.023224444444445,
+          "_corrob": 3,
+          "_cluster": [
+            {
+              "source": "wtvbam.com",
+              "title": "Super Micro contractor pleads guilty in scheme to divert AI servers with Nvidia chips to China",
+              "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNRlRZdTBYaTNjZGtOaFZzRnNMRXJSd0NxSzI0bXk0bTUzRTcwSlFlcHBZQm5RNzJhUzdXbTZhbTd6bnBYMHhTalp0OGExZzMxRTRuc2Y3elFPVEdfWTVLb2E2eXB4dGNQRERYQjJDQkx0cHMzTjlRM21RUXhrS0F6QXRkR04xT0pEN0pqR1UtWktYM3RDQ3BhNUZaTkhEMHpJWHBqTGpmSmNDcFB2MVRfQVF0ckNnYzJUaDMwa1h6VHFSU0E?oc=5"
+            },
+            {
+              "source": "reuters.com",
+              "title": "Super Micro contractor pleads guilty in scheme to divert AI servers with Nvidia chips to China",
+              "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOd1RmaEFMYlkxNEZMMFBaYmd6dlMxMkpXSW9rTDA2TVMxeHBDOFlJVjZPOE4zOWhCRUx5ZUVxcTdBQnhHd2c5TzJzQ25SQ2Y4SnhBb1I2M01Ndmh5V2NNMFFHODhlSHZVUHBCeUYzdUxDVFc5dlc1cFhYWkVFVVRjdWlEeExfbmJCZWhZLWJyMmFhM0l1TVJhd3RyamJoU1d5WFA1Z2NQSEw3bWtBc1h5SVhINEVMRmFRenVYRi12QkhaRlhJYWI0RHJGU1M?oc=5"
+            },
+            {
+              "source": "businessinsider.com",
+              "title": "Wall Street is inventing an entirely new financial system around Nvidia's AI chips",
+              "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPMEpqbXIyV2NmNG9fQUpudG13WWZUbUJMdlQxRU51Qy12cTVEUlNYZlp4d3J5dkUweDhhUURFUDVPYlFWLU9pNlJfd0FkOEFkb2JWQ1FOcUJTYWJZeDJFQzJEdHpxVkk0bkNRVDJYdUI4YXRSVlFfNjZyUUxUQm9zRU9uY3dNa2ZkcDBfWHhNQlIxRkZ1Y2JF?oc=5"
+            }
+          ]
+        },
+        {
+          "title": "Are Americans Who Use the Term ‘Artificial Intelligence’ the Enemy?",
+          "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxPWmE4aU8yLUt2MGVCUEZoWVFwdkxNOFp3TzhobVl0ZGlXbGI1by1MN0k3UVZwRUlEMTlrWGlnV2N2Szd6VlB2dW5Xck1GQ2ktUTlvZzhLeTZsb3dIdVl4SFVjYTlpQ2JyeFpqQktHcERMM25qaVpNQjlxU0JLQnozSWJNRUxVQjRyeFloR0FIMjI4ZTZCYmZtSi1XZ2Y2QQ?oc=5",
+          "date": "Fri, 09 Oct 2026 22:32:00 GMT",
+          "summary": "Are Americans Who Use the Term ‘Artificial Intelligence’ the Enemy? The Times of Israel",
+          "publisher": "blogs.timesofisrael.com",
+          "_via": "news.google.com",
+          "source": "blogs.timesofisrael.com",
+          "_hash": "e14321f1c75e4544",
+          "_ageHours": 8,
+          "_inWindow": true,
+          "_score": 60.24711277777778,
+          "_corrob": 4,
+          "_cluster": [
+            {
+              "source": "independent.co.uk",
+              "title": "Trump decrees that anyone who uses the term Artificial Intelligence is now ‘The Enemy!’",
+              "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPdExPMWRnMzR4Y1VidUdjSE1rbEU5SDk1SmdZaEZBdGRpNmJocXp3U3pYTHd6YjdNQVVWejJJa2Q2cndRMnF3MGtOYjhYR29TU3MzTExscEJkc294US1xMGdxZHg5aHB6djBLQ3FtQWFhaUdlN3RuTWxOcW1CQWRwc1NHOFN3aGFFeFY0SkZqU1daNzBjeDFqWkpqR2Z3cG82OW81Wkt1cGlCUmNUbnV0YUFycw?oc=5"
+            },
+            {
+              "source": "thenextweb.com",
+              "title": "President Donald Trump says anyone using the term ‘artificial intelligence’ is ‘the enemy’",
+              "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOQm53Zmd1U01vTnlqZk1DM3JTbkl2Vm01SDM5SDNyTHV4b044VEZGNWM2ZFBud0p2NVFWb3AxRlZUNkx3eVdKeWhlZ2x2bGRJWGhjQUlzWkhNc1RaMWMyZlFKUWRYZm1YaWJGMzl4QjVLQmJiSE5uSFlqaDN1ZERKS2VVTHBZZmxvemc?oc=5"
+            },
+            {
+              "source": "qazinform.com",
+              "title": "Trump: Anyone who uses term ‘artificial intelligence’ is an enemy",
+              "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxORXdaMVBaV2pxaFo4LUx4Q3NjMllGOHl0cGdUNWFPV2pCTFpPc1ZjajJ5ZUc1TjRkVEMwc0lGMUpKT1pPQi1saTBjWVMxOHpJV1FfNlhjVk83UDZ3cHE0ZzFxWER4bktCdGdRcVF6MW1hcnQzb1RYZ21NNGVaSXRqZEhGWmxXMDEtRjdyWTlNMk1EdUtTYnhlWUJCU0_SAZwBQVVfeXFMTXJ3dmJrcVY4ZVI0U0JhYWZHQVJWeUQtT1JzUm5XdzNfQ1Q4M01jYUhFbEV1eFl2WWRob2hYbDBPNkJyYldOSWdoVGx1RnViVHEtalo5NnlPZ3BNTFlLRVdtMjFJdWJBU0p5dkQweHV6Rm1LbmpNQ2xhdTRFSEdFV3RZZkdIMEhiYlRNX19XTXJyNm1Lakxzc2xxcU9z?oc=5"
+            },
+            {
+              "source": "aa.com.tr",
+              "title": "Trump calls users of term 'artificial intelligence' the 'enemy'",
+              "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOQWVXcVhfUGd6RHM0b203dDBWQVd0NHBjS3A1RjZpd3liTE9aZy11d08yeGxyNzJoVUZoWnJZNUQ0NmRwSTliNmFwc2FYcnRMX2RtNmxMaUQ4MFRqMXBCdGdWVS1WZHIwTkZycXNLVk43S3FQMHhCUHl6REhGTTlyaWN1d0JlZXV1RlpIZFJiQ28wbE9LSHVjWmlnMExyYl9WR0VB?oc=5"
+            }
+          ]
+        },
+        {
+          "title": "TypeSafe AI Completes $870M Series A Funding, Valued at $7.5B",
+          "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQdF9DVUZIdHkwY2U3V0hsU2JxMV9tQnJyUXFTOF91bWtfQlE3bWhET2NIY1B4dDdJT19XeERaWXp2RE16ZjB5NVVodmN0RFJYTnk0R0JoWk9JUG5ZVVpDOWlFSGlMaDBESXFwRk4yY0dLU1hhcnhYcXZ6NXBHMmdGcjhORXVCMEJMVldjcnJwNHNMWFNtaU1Z?oc=5",
+          "date": "Sat, 10 Oct 2026 00:54:24 GMT",
+          "summary": "TypeSafe AI Completes $870M Series A Funding, Valued at $7.5B KuCoin",
+          "publisher": "kucoin.com",
+          "_via": "news.google.com",
+          "source": "kucoin.com",
+          "_hash": "275016c3ace29d2c",
+          "_ageHours": 5,
+          "_inWindow": true,
+          "_score": 58.62044638888889,
+          "_corrob": 2,
+          "_cluster": [
+            {
+              "source": "prnewswire.com",
+              "title": "KONST Raises $30M Series B funding Led by ADATA Technology to Scale Up AI Data Center Buildout in Asia and Advance Its Token Factory Strategy",
+              "link": "https://news.google.com/rss/articles/CBMiogJBVV95cUxPQWVvY0VlLTNHVUpxTUxLclIxSnZNT0t0bHctVXpnRDJHMUJocFJlb3pmVzdwTTk2QlVrN1VXNG9faTFYNHlnRnhvaGxNWk96bnNQVEpEVjZ1S1IwSThIamJQY1JiN01KUmF3eXRNZ1B3VGVDRHp1WnVqUGVtV0R6Sm1fVVhXY1pxbTA5Y3FoSmhFeTJJdl81SEpUTGV0N2JtbW83UU02NUhvODA4ZjN2UTRUejRLbjd2Qi14dkM0OUpYdnZNOUg1ZGQ5aHZEYUlLRGZOU2lEUUlHaWpDcHpmX3VOMzFkRWxZcExpNDlZalRPSG01eURzcHQ0ZFpGZVpGaS1Ba0VmTElfYU1JeGc0ZHV3bVdUY0ZwN29NamZ2SlM0Zw?oc=5"
+            },
+            {
+              "source": "housingwire.com",
+              "title": "Vesta raises $30M in Series B funding to expand AI-native LOS",
+              "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxQYU1aSFFueHFHc1BONHpCRFdLWWZ5STNrdHhzWnYwZmVsZnFmeEplMEg3TXRqcGhXaEs4dFBXNDA4d09HSnFrOFdDQWpON3NuSXBod3loYVlzXzRHMEQ3Z1dVSm8xbHBqa0VlbkZ3NHpTRlZZaFYyOEs3am5XNFk4V0ExTGlLZmVuaHdDcnZDSDVSSDgxck1MdlRmVjNwdw?oc=5"
+            }
+          ]
+        },
+        {
           "title": "'Real boss of India?': Elon Musk takes aim at Indian billionaire Ambani as Starlink launch stalls",
           "link": "https://www.cnbc.com/2026/10/09/musk-starlink-ambani-india-us.html",
           "date": "Fri, 09 Oct 2026 04:11:59 GMT",
@@ -297,9 +240,9 @@
           "_via": "search.cnbc.com",
           "source": "search.cnbc.com",
           "_hash": "742d44c603497cee",
-          "_ageHours": 23,
+          "_ageHours": 26,
           "_inWindow": true,
-          "_score": 60.688825,
+          "_score": 57.91350138888889,
           "_corrob": 6,
           "_cluster": [
             {
@@ -340,47 +283,6 @@
           ]
         },
         {
-          "title": "Living with Mom and trading on margin. The regular investor gets in on Wall Street's record stock borrowing binge",
-          "link": "https://www.cnbc.com/2026/10/09/margin-debt-stock-market-risk.html",
-          "date": "Fri, 09 Oct 2026 13:03:19 GMT",
-          "summary": "Margin debt has surged to record levels as investors like 29-year-old Hy Luu borrow more against their portfolios. Here’s how leverage can amplify stock losses.",
-          "publisher": "",
-          "_via": "search.cnbc.com",
-          "source": "search.cnbc.com",
-          "_hash": "2d690dd9a3bbaad7",
-          "_ageHours": 14,
-          "_inWindow": true,
-          "_score": 59.544380555555556,
-          "_corrob": 4,
-          "_cluster": [
-            {
-              "source": "tekedia.com",
-              "title": "Wall Street Turns Nvidia AI Chips into Collateral As Investors Build A New Market For Computing Power",
-              "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOYW52ZG9OaFVHcEJ6MXF3VHpBMW9nc3ZyaEJVOHVubWdEakFsS3R3bzF4UmNON0pyQUFDYnY5R3ZDdV9vSHJLNG9KbGREQk41MEt3Q1FfQ3Fvc0lzTXBWNkxKOU9iYjlDTjVlZjREaU9oTnF4MnNPTUt1bzJJeGZjX2RVUXJ5X1M4cldyTlRsNW41RFg0cGlmTmdJOEw3VWV4OFhrZnVqUGZPc0t3bmNENzQ5TzhrN0pxVUNsZno4MnpBNWVO?oc=5"
-            },
-            {
-              "source": "ft.com",
-              "title": "The hazy OpenAI growth metric driving Wall Street",
-              "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNUG9JMXAxUUtSMVdGU3MwdmpPM2JRdU5wTjMyNU1uU0JRVFV3ZDNreGxLdWFEXzJubjNPdkVIMldvcmNoRGRjQlcwel9NVS04MVV4bG4zRmFzZHY1NlBhZERsZThxeFFhSzNIWDF3eHU3TGxBcHFiM3NVVkN5dmZkUVRaSkY?oc=5"
-            },
-            {
-              "source": "search.cnbc.com",
-              "title": "Wall Street is pitching data centers as a major real estate bet. The risks are piling up",
-              "link": "https://www.cnbc.com/2026/10/09/ai-data-centers-investing.html"
-            },
-            {
-              "source": "businessinsider.com",
-              "title": "Wall Street is inventing an entirely new financial system around Nvidia's AI chips",
-              "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPMEpqbXIyV2NmNG9fQUpudG13WWZUbUJMdlQxRU51Qy12cTVEUlNYZlp4d3J5dkUweDhhUURFUDVPYlFWLU9pNlJfd0FkOEFkb2JWQ1FOcUJTYWJZeDJFQzJEdHpxVkk0bkNRVDJYdUI4YXRSVlFfNjZyUUxUQm9zRU9uY3dNa2ZkcDBfWHhNQlIxRkZ1Y2JF?oc=5"
-            },
-            {
-              "source": "latimes.com",
-              "title": "Meta’s Muse is hot now. Wall Street sees lasting demand for AI chips",
-              "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPdnI2b05yZVVQQS1qb01JNWNudWxBVWhmeXBwVEY4MThWOXZ5Z0hLa1N2U0s4Q0Vna3NxRFVPaEJBOTFzWGs3blVVbVBUWGFtRjRoSUpPU0l4b25yOGhNRnVYT1ZnelZZX3hOM1JoVWFETTdOaDlOUm5aajVmbk1rc1VUN2tkZ09JVXRwTXlGamEtSnJUS3ZkcDdxelNWU1pxa3FtdXY0VFFyMEUxbldZeWxyb2djckU?oc=5"
-            }
-          ]
-        },
-        {
           "title": "3 Stocks Retail Investors Are Watching For AI Data Center Infrastructure Growth",
           "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxOQXBDNmIxS0ZPVm9BLVlVa3ZrU2ZPbFp2X1dLRHhldGNCQWpwRXpLV3laYzlnb0xjU3h4b0ZEUnBOQk9WSEFjalYyb1U5OEI3dVo0cjNtb0YyYWVSczBfOVdQNEMzeVVWMm9OZTU4bms5RnpCdEFRUTdFaHpOZ2RoUUNzLUJVRWFQQ0JPUThaVmVYdUJiWVctQmlEakNVZjI2ZVdGM2MyMHpVRno2Z29LYmJDNEVWd0lIMURIS3pfVkF6ZHRfcmZGSXZJck5VNC16c0FRamphV25VQnI3S19qM9IB5gFBVV95cUxOMzNGaUhlSGktOVpJWnF6aUh1MGR2emNUbnBZS01sWUtRWTU4WlhBcnFNbWtUNkNJSnRCaGFodV9WRng0WmhzbDZmZjBsNGpuMWhwT1N4VVpxbVNJal9DUk1Jb0ZyN0JHS2twR2p2YS1LWk12MlczR3I1THJHWVU5UWpDZzlGN3dURmZRTXE4V014S0tmRTdHVDIzSUZNbktxMVo4VDRPX0hCaVQycVpuWUt0aE1rMlZLc2s0eF9uU3lJVDA5Z0JSUWFCWVozcHBMcU1PaENJZUc2eHJyWXp0Y1o2c3d2Zw?oc=5",
           "date": "Fri, 09 Oct 2026 23:51:26 GMT",
@@ -389,9 +291,9 @@
           "_via": "news.google.com",
           "source": "simplywall.st",
           "_hash": "1eb3c3b5b1f1e100",
-          "_ageHours": 4,
+          "_ageHours": 6,
           "_inWindow": true,
-          "_score": 59.34632611111111,
+          "_score": 56.57100222222222,
           "_corrob": 3,
           "_cluster": [
             {
@@ -412,6 +314,27 @@
           ]
         },
         {
+          "title": "Anthropic reveals AI model submitted false homicide tip to police",
+          "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOX3JrcXpXZVBjczVBUGxSX1lQd0JISjdnaUsyR1JCUFFJcloxU0tHS1lpc2FlenN4NXl2emF4eGR6SFc0YjlzcWlPWWtxZ3BBd0VrczVLNEw5WlNxOEVKNnJNZGZmZWYxUFAyb05pcXg1ZDJaVU5HaWFHQVoxY1RrMThHdHBZQ1Nzc3lhWWRLdHBnYzdFbnpJMmxsYi1RQXNVeWfSAaIBQVVfeXFMTl9ya3F6V2VQY3M1QVBsUl9ZUHdCSEo3Z2lLMkdSQlBRSXJaMVNLR0tZaXNhZXpzeDV5dnpheHhkekhXNGI5c3FpT1lrcWdwQXdFa3M1SzRMOVpTcThFSjZyTWRmZmVmMVBQMm9OaXF4NWQyWlVOR2lhR0FaMWNUazE4R3RwWUNTc3N5YVlkS3RwZ2M3RW56STJsbGItUUFzVXln?oc=5",
+          "date": "Sat, 10 Oct 2026 02:55:23 GMT",
+          "summary": "Anthropic reveals AI model submitted false homicide tip to police The Times of Israel",
+          "publisher": "timesofisrael.com",
+          "_via": "news.google.com",
+          "source": "timesofisrael.com",
+          "_hash": "1e71850b890e7ecb",
+          "_ageHours": 3,
+          "_inWindow": true,
+          "_score": 55.63683555555556,
+          "_corrob": 1,
+          "_cluster": [
+            {
+              "source": "phillyvoice.com",
+              "title": "Anthropic AI model submitted false tip about a homicide case to Philly police",
+              "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBEZU8wVGlub3JiRVNzZHlXY19SQlNZbXduTndlNzhVSmp0b0hycWVsblI3MG9HMXR2anozcWRQaG0tSnJGbE1qT0J5VklrdzU3ZWFFOVdoQkh3OUY2OFVuX050QTFza2FreTFVcjROU1pNUmpfT1pnVG5ta0stSGc?oc=5"
+            }
+          ]
+        },
+        {
           "title": "3 AI Infrastructure Stocks Backed By Data Center Spending",
           "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPOThEQTVEZ3ptQzRCcmE2QnJaUmdxdkZGXzdTNzlZWEtib3JqckpYYm9YamlqT3ZFal9aUGNQZDdQVmNVZjB0NXNwRGxkR3pZYzczQ1NlNmg3QVVkSGlYbXlDQkhxU2ZjY0VHallVWkQxV3M1VzE4Vi1jdUswajYtTnRKNkFIRk5sXy1PTTE5dUtQQXlSU1RGX0ZVelRxOVkxWVBmeWw2MDBFczEtN0NJVS1VcXdrSzFwbnBxdmJkM0ptSXF3djVYTFFSZEt4UdIB0wFBVV95cUxOZlRWTnlnaDZHLU5jT29aenRzc1hack90MG9MZVVWMnZsRmNwT29lTXJkYy1GNVRfU3UwV3JVd0xaZlFCdUtjQjcwNzRza0RoM1hxb195a0dNTnEzaHFSNEhVcWlMNGxVQWxybUFIWWRxeUFtbDNzbUJrSElXWnV0OWhSTWtEbE9fa2c4NWtxWUlYdzloQ2FuaHpRc084UUdEZFVZb0N1VlBOTHQwcHcxOG1JckRoTWRnTUZHTWxvRktLTzFWcE82dm9TTnVXQWx4OVM0?oc=5",
           "date": "Sat, 10 Oct 2026 02:49:52 GMT",
@@ -420,9 +343,9 @@
           "_via": "news.google.com",
           "source": "simplywall.st",
           "_hash": "c1952f2300f0d197",
-          "_ageHours": 1,
+          "_ageHours": 3,
           "_inWindow": true,
-          "_score": 57.320215,
+          "_score": 54.54489111111111,
           "_corrob": 2,
           "_cluster": [
             {
@@ -434,6 +357,58 @@
               "source": "finance.yahoo.com",
               "title": "AI & Data Center Spending Concerns Weighed on GE Vernova (GEV)",
               "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPcEM2MjVWV0p5RmI0aVZJa1d0UU5TanIxT2JYU082dEdmZk45U0RGUGdINWVwODNBZ1dXa2hUcHlJRTJkOE1RelRFZ3EweHBaOXJaeUNrWkstUFpZQThLenQyS0k2Zm53Q20yMjRvNFh5VG1LR3dFUEdoeWNBMDJsQjZBUDVGQ0FIZjJUMEUyanhFUWs?oc=5"
+            }
+          ]
+        },
+        {
+          "title": "Anthropic AI model sent fake murder tip to Philadelphia police",
+          "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPc3FPRjZmdDJVZGo5bkRDVE5KMjBNejV4RjFDRnN1b3dMcjZwZHktUlR5b2RzOWJZcVpNUUVPdmdxZ3FtYzlNakUyalRMaWZTSGUwV2IzMWJ0cHVfT3M3dUFNejJDM1UzbUVKdmoyTktMcl84UXlIZlB2b1J5WG5tR0FoN2F1b19Wdnc?oc=5",
+          "date": "Sat, 10 Oct 2026 00:12:00 GMT",
+          "summary": "Anthropic AI model sent fake murder tip to Philadelphia police Yahoo",
+          "publisher": "yahoo.com",
+          "_via": "news.google.com",
+          "source": "yahoo.com",
+          "_hash": "1da886bc96c83a93",
+          "_ageHours": 6,
+          "_inWindow": true,
+          "_score": 52.91378,
+          "_corrob": 1,
+          "_cluster": [
+            {
+              "source": "amp.scmp.com",
+              "title": "Anthropic AI agent sent fake murder tip to US police in testing glitch",
+              "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxOa3YyQzYzWnYtUjg5Ry0xcnpKbGJ0eU5BX3hHaWk2X2RGVGlXVzFLTkJwNzd1UW1JbllUQjMwUjZuSzV6cFZ6VFBQZG1ZUWNONzM0VzR4eG9lYTBTcG9Tb3lxdlNwQUhNUU1RbXZYbVU5TktUNWZMNEZrRHU3MUR6MDVSajVhTVhDcjhuOXo4S1p5RUdYalpLQUJmNFdoTFJkMHJ5aDRfM18xeXN2UWtINHh0cWpVcmlkZVE2MlVva1A0WWZENVdEaFF0VkNkOWpRWkZORlpR0gHWAUFVX3lxTE5rdjJDNjNadi1SODlHLTFyekpsYnR5TkFfeEdpaTZfZEZUaVdXMUtOQnA3N3VRbUluWVRCMzBSNm5LNXpwVnpUUFBkbVlRY043MzRXNHh4b2VhMFNwb1NveXF2U3BBSE1RTVFtdlhtVTlOS1Q1Zkw0RmtEdTcxRHowNVJqNWFNWENyOG45ejhLWnlFR1hqWktBQmY0V2hMUmQwcnloNF8zXzF5c3ZRa0g0eHRxalVyaWRlUTYyVW9rUDRZZkQ1V0RoUXRWQ2Q5alFaRk5GWlE?oc=5"
+            }
+          ]
+        },
+        {
+          "title": "Exclusive: Anthropic breaches spark White House AI reporting mandate",
+          "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5BVTFycXRsQ3h2aC1KaGZaUlB4clFpdEFHUVVWQ2podDZoRG9RR0NxNUF1U0g3ckZkRFVHd05XQjI5WFU1aHpQRTVFV254VTVFOE5xSS1iUlRLSUpnOGJZRUF6akN2QVBDa3NYNngwaDNqOWVm?oc=5",
+          "date": "Sat, 10 Oct 2026 00:24:39 GMT",
+          "summary": "Exclusive: Anthropic breaches spark White House AI reporting mandate Axios",
+          "publisher": "axios.com",
+          "_via": "news.google.com",
+          "source": "axios.com",
+          "_hash": "cc2b636588d8fac1",
+          "_ageHours": 6,
+          "_inWindow": true,
+          "_score": 52.12461361111111,
+          "_corrob": 2,
+          "_cluster": [
+            {
+              "source": "ukranews.com",
+              "title": "Trump declares anyone who calls artificial intelligence \"artificial intelligence\" to be enemy of White House",
+              "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOQ3R6UTI1aUJwcUN3YTdPZDYzSWQtMzhnUFpGTHNmbW90VWx2eGRBR2M2WmxVY0lGUndEcTVKeVFneF9KZ0ZkX3h3OGpfRU1teFRtY1ZhNFhPUXNTakpHR1hxZV8xdC1uTFZ2YmRESzVBSDA5THJVSjhxRDAyb1JLaXRDVWRiVmZVY0RRU0duNzdmY2gzdm13UnVqMWZGaldsX0xvdXhHUnRNc2trZnNyVWlrVENMZ2xHOGFNN2RhUFhZTndQTWx3bGhNU2dPWmt40gHWAUFVX3lxTE0wWWNLSVdfeTFHbXdacEt1TTRaVkFtS08wWEJPcnhVWG5SNTdkbHJiSXVQcjAwZVdYTkw1VjBqaEwwVTZwLUY0YklZSWRIWlNKNUhxSGY1RVdkaXZKNU54R3p0QkllUTdDTjhEenF0bDF1blpNWlBaVTlxYXpHdTZMYk0tbVFTVG9Lc2JkMmtCRG5ZdGk3T1lPUjZ3VHFHM1ZhOEwyNXR1aWppTXNyTHNjb2VOZnREWTRlQkNOUm55b0NYWFRRbmdSRVl6Ty1VVzFrbkNud2c?oc=5"
+            },
+            {
+              "source": "axios.com",
+              "title": "Exclusive: Anthropic's new plan to protect critical infrastructure",
+              "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPaUhqYlFvYUhvdUZPa283VmtJSmRzTWVyYjJyNFhsVG9tQ21rQzJBVVViN1JGdkVfZjBDVThkZk9HRXAtdk1sbm9seEh5ekYwOEpBTXA2Q2loRF80QXAyYVpmVUprNjJwQkx3VFJ6UEozUWNSTVBwWmhFRGVtbS1xV2hRYVN6ZXM?oc=5"
+            },
+            {
+              "source": "businessinsider.com",
+              "title": "Trump says you're an 'enemy' of the White House if you don't support his AI rebrand",
+              "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQYUtMUVdudXl3TWZHYTZZajBNejdBdGl2T3pEaUVTV2Z1ZUVqTnIxZVhnaGlFcVJVWWNrT0czS3FlaDk5MnptUDBNY25nUjlydnUtTFQ2R3gwR1gzbXhjYTFYMWpaQmpIQXhmWnMwZ3l3U1M4cEZkRkJnX2F4R1d3Vm1ocF9sNm1Ncm01ZWhGMER2bjJQ?oc=5"
             }
           ]
         }
@@ -451,15 +426,57 @@
           "_via": "nasa.gov",
           "source": "nasa.gov",
           "_hash": "a4a27f9b9aac053b",
-          "_ageHours": 9,
+          "_ageHours": 12,
           "_inWindow": true,
-          "_score": 55.684508055555554,
+          "_score": 52.909173333333335,
           "_corrob": 1,
           "_cluster": [
             {
               "source": "nerdbot.com",
               "title": "Commercial Space Growth Accelerates as New Technologies Expand Access Beyond Earth",
               "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNNTgwY0w0VUdwYUo2RXptMUM3YUlpN2h3ZEU0a3k5R2pyMkFzNGMtakNuanowMDNyLWFvODU2a2dfM2VZaldsdHduczh4NTNXWFppOTY2UXFZT3ZiMXlvOEw3Q0NDYVB6aGs1NVdycmV2MFpGTWFxMFI2VGZVbldEa0x0UlptX0M2VnF1UENVWnpvNTVDM3VhNjlPcVpZYmpzNUpaX2NhNy1iR0p5YWVHeDQ1cGQ?oc=5"
+            }
+          ]
+        },
+        {
+          "title": "World Space Week, October 4–10: what it marks, plus Czech Space Week",
+          "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNUUpneDJnM3hBYnZZSFIwS3N5d1AtSXlMVnR6MGd4R3pDZlQzY2hNUHJUV1prVDBuaE9IUUNtMmVTWUxvRG5iZW1RS3pETnJGV3JFSjNyQ0xqMlBiZGNLVlhfdUV4MjF1eGI3MlQ2dTczMWdRWDVZV180OEJaNks5VGYweXdiYW1ZTENZNnpyZVdVTXpjZHczQ0lxcXJoVTVtQU9xQlJzTExZdFp2a2s4c0dB?oc=5",
+          "date": "Sat, 10 Oct 2026 03:31:24 GMT",
+          "summary": "World Space Week, October 4–10: what it marks, plus Czech Space Week Around Prague",
+          "publisher": "aroundprague.cz",
+          "_via": "news.google.com",
+          "source": "aroundprague.cz",
+          "_hash": "b5e2affdf84efd7a",
+          "_ageHours": 3,
+          "_inWindow": true,
+          "_score": 50.23695111111111,
+          "_corrob": 1,
+          "_cluster": [
+            {
+              "source": "penntoday.upenn.edu",
+              "title": "World Space Week story roundup",
+              "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9SWi13aXBsNVN6cjRrYjZESFhHVE5yMTduQmNib3FpMnRxVnBzRmF6MGN6QWV0c05haHBjcjdieEN1eThEdWlucC04Q0dyQnZmd0JYOHZxWmszcFdUSGlKVXc2dEpvYUVJMzk0bjV0WWM?oc=5"
+            }
+          ]
+        },
+        {
+          "title": "APOD: 2026 October 10 – Lunar Farside",
+          "link": "https://science.nasa.gov/image-article/apod-2026-october-10-lunar-farside/",
+          "date": "Sat, 10 Oct 2026 04:05:00 +0000",
+          "summary": "APOD Science APOD APOD: 2026 October 10… Today’s APOD Archive Submissions Index Search Calendar RSS Education About Discuss APOD Astronomy Picture of the Day Discover the cosmos! Each day a different image or photograph of our fascinating universe is featured, along with a brief explanation written by a professional astronomer. Lunar Farside Explanation: Tidally [&#8230;]",
+          "publisher": "",
+          "_via": "nasa.gov",
+          "source": "nasa.gov",
+          "_hash": "84c49b3278ae478b",
+          "_ageHours": 2,
+          "_inWindow": true,
+          "_score": 45.79695111111111,
+          "_corrob": 0,
+          "_cluster": [
+            {
+              "source": "nasa.gov",
+              "title": "APOD: 2026 October 9 – Stickney Crater",
+              "link": "https://science.nasa.gov/image-article/apod-2026-october-9-stickney-crater/"
             }
           ]
         },
@@ -472,9 +489,9 @@
           "_via": "news.google.com",
           "source": "marketscreener.com",
           "_hash": "3f8b10020c0a74b6",
-          "_ageHours": 14,
+          "_ageHours": 17,
           "_inWindow": true,
-          "_score": 43.9089525,
+          "_score": 41.13361777777778,
           "_corrob": 2,
           "_cluster": [
             {
@@ -508,9 +525,9 @@
           "_via": "news.google.com",
           "source": "space.com",
           "_hash": "d624646b57f412ce",
-          "_ageHours": 10,
+          "_ageHours": 13,
           "_inWindow": true,
-          "_score": 42.64006361111111,
+          "_score": 39.86472888888889,
           "_corrob": 1,
           "_cluster": [
             {
@@ -534,9 +551,9 @@
           "_via": "nasa.gov",
           "source": "nasa.gov",
           "_hash": "75a9bf1801125aa3",
-          "_ageHours": 14,
+          "_ageHours": 16,
           "_inWindow": true,
-          "_score": 40.44561916666667,
+          "_score": 37.67028444444445,
           "_corrob": 0,
           "_cluster": []
         },
@@ -549,9 +566,9 @@
           "_via": "news.google.com",
           "source": "science.nasa.gov",
           "_hash": "a01fa40133741ffb",
-          "_ageHours": 9,
+          "_ageHours": 12,
           "_inWindow": true,
-          "_score": 38.56256361111111,
+          "_score": 35.78722888888889,
           "_corrob": 0,
           "_cluster": []
         },
@@ -564,9 +581,9 @@
           "_via": "nasa.gov",
           "source": "nasa.gov",
           "_hash": "b83a4a1f3f930f26",
-          "_ageHours": 11,
+          "_ageHours": 13,
           "_inWindow": true,
-          "_score": 37.4789525,
+          "_score": 34.70361777777778,
           "_corrob": 0,
           "_cluster": []
         },
@@ -579,9 +596,9 @@
           "_via": "news.google.com",
           "source": "nacionale.com",
           "_hash": "5366c39eb929c036",
-          "_ageHours": 33,
+          "_ageHours": 36,
           "_inWindow": true,
-          "_score": 35.97756361111111,
+          "_score": 33.20222888888889,
           "_corrob": 3,
           "_cluster": [
             {
@@ -610,9 +627,9 @@
           "_via": "nasa.gov",
           "source": "nasa.gov",
           "_hash": "cf30ab432e301449",
-          "_ageHours": 32,
+          "_ageHours": 35,
           "_inWindow": true,
-          "_score": 28.155619166666668,
+          "_score": 25.38028444444444,
           "_corrob": 0,
           "_cluster": []
         },
@@ -625,24 +642,9 @@
           "_via": "nasa.gov",
           "source": "nasa.gov",
           "_hash": "22a2555b5bf260e5",
-          "_ageHours": 33,
+          "_ageHours": 35,
           "_inWindow": true,
-          "_score": 27.429230277777776,
-          "_corrob": 0,
-          "_cluster": []
-        },
-        {
-          "title": "APOD: 2026 October 9 – Stickney Crater",
-          "link": "https://science.nasa.gov/image-article/apod-2026-october-9-stickney-crater/",
-          "date": "Fri, 09 Oct 2026 04:05:00 +0000",
-          "summary": "APOD Science APOD APOD: 2026 October 9… Today’s APOD Archive Submissions Index Search Calendar RSS Education About Discuss APOD Astronomy Picture of the Day Discover the cosmos! Each day a different image or photograph of our fascinating universe is featured, along with a brief explanation written by a professional astronomer. Stickney Crater Explanation: Stickney [&#8230;]",
-          "publisher": "",
-          "_via": "nasa.gov",
-          "source": "nasa.gov",
-          "_hash": "5c6bf3915341c2d4",
-          "_ageHours": 23,
-          "_inWindow": true,
-          "_score": 24.572285833333332,
+          "_score": 24.653895555555557,
           "_corrob": 0,
           "_cluster": []
         },
@@ -655,24 +657,9 @@
           "_via": "nasa.gov",
           "source": "nasa.gov",
           "_hash": "43dd4e3540dba9dc",
-          "_ageHours": 23,
+          "_ageHours": 26,
           "_inWindow": true,
-          "_score": 24.505619166666666,
-          "_corrob": 0,
-          "_cluster": []
-        },
-        {
-          "title": "NASA Briefing to Highlight Contributions to Martian Moons Mission",
-          "link": "https://www.nasa.gov/news-release/nasa-briefing-to-highlight-contributions-to-martian-moons-mission/",
-          "date": "Thu, 08 Oct 2026 20:22:12 +0000",
-          "summary": "Media are invited to join NASA for a media teleconference at 4 p.m. EDT, Thursday, Oct. 15, to preview the agency’s contributions to JAXA’s (Japan Aerospace Exploration Agency) Martian Moons eXploration (MMX) mission. The mission is scheduled to launch from JAXA’s Tanegashima Space Center in Japan on Monday, Oct. 19 EDT (Tuesday, Oct. 20 JST). [&#8230;]",
-          "publisher": "",
-          "_via": "nasa.gov",
-          "source": "nasa.gov",
-          "_hash": "d9d54c213cdae3c7",
-          "_ageHours": 31,
-          "_inWindow": true,
-          "_score": 22.8589525,
+          "_score": 21.730284444444443,
           "_corrob": 0,
           "_cluster": []
         }
@@ -682,43 +669,33 @@
       "name": "Bitcoin / Crypto",
       "candidates": [
         {
-          "title": "XRP ETFs Gain as Bitcoin and Ethereum Funds Lose $317 Million. Is It a Trend?",
-          "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPQzVtamhEbjlYR3A4a21VeG9UV2x6ZVlTN0xrT1hybkVLZTNXXzNWekVMVXJHMFFaZFI2b0s3WHNxS2RoQ0hJRjlsN2JMVk1ReVluZEVZZFNPWEhQRlYyQW04Z3VLTFJ0LTJDZDlIT0tack9odk12NElBSkhVOXpYWElDUm1laGhjSnZ4d1NWUFpiX0ZwMFgzZFlDSQ?oc=5",
-          "date": "Fri, 09 Oct 2026 22:00:22 GMT",
-          "summary": "XRP ETFs Gain as Bitcoin and Ethereum Funds Lose $317 Million. Is It a Trend? Yahoo Finance",
-          "publisher": "finance.yahoo.com",
+          "title": "Bitcoin Price Breaks Below Key Support as Remittix’s Final Presale Allocation Continues to Narrow",
+          "link": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxOMmw0LUlnaEZtUGtlalZZVVMxMjVuNnZCVW1wb1ZXVFA2ajRIRTVmbVJHRFhXc0VjSWZQWXF3aGxHOEhkejJPS0ZMejRPVmJnZVpnUWl6MDZMSm1DRkd1U3VVVnM5SFdsRkNUQ1FMLWtxMkZ3VnQ4bjZPQVVYRDFMOUFjMmVvSDdjcldIOFhtem44MVdMQ1BOQ0tDVGhkc0c0QUQxcGh1bzZNRFlzM0RIdEtpZVZZdmhERFFUNVljMGpPS0dRcVc1aXZBdjJFMGZ5X05hTHZTVFoxVjlrWDJaZk8wRGFFc21GVzRUenZtNUJhbGZfVUluaA?oc=5",
+          "date": "Sat, 10 Oct 2026 03:43:34 GMT",
+          "summary": "Bitcoin Price Breaks Below Key Support as Remittix’s Final Presale Allocation Continues to Narrow StreetInsider",
+          "publisher": "streetinsider.com",
           "_via": "news.google.com",
-          "source": "finance.yahoo.com",
-          "_hash": "f476139f7e84daaa",
-          "_ageHours": 6,
+          "source": "streetinsider.com",
+          "_hash": "3ece1df1af929645",
+          "_ageHours": 3,
           "_inWindow": true,
-          "_score": 63.494948888888885,
+          "_score": 60.439618333333335,
           "_corrob": 3,
           "_cluster": [
             {
-              "source": "aol.com",
-              "title": "XRP ETFs Gain as Bitcoin and Ethereum Funds Lose $317 Million. Is It a Trend?",
-              "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9wSGNFSlNVV3J6Mndjd3JUWTFseDFqNmF0UGJRczFjSHpTVTMzc2hibmVBVHFQUWJVd2NOODlqMXJiUlBPd1BTMHpVRWszZXhaRXNXck82dmowYy1qME1qVzJIa0c5c01zaXhOV3ptTTJaa1NGWjR6UDJ0dGNXak0?oc=5"
-            },
-            {
-              "source": "crowdfundinsider.com",
-              "title": "Bitcoin and Ethereum Slide Along with Solana, Binance Coin, Cardano as Iran Tensions Weigh on Markets Ahead of 2027",
-              "link": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxNd3JYdGtMN2c4Yy05ZGNyRzZwdm9xanZjYzJ3bjVDS1RldkFET2kzdl9aM0VLdjRiby1uVWVSVUxuaWlKZE00QUJHSWItV1JtUlF4ZmFXdk41aWQyOFFCczZFci1tamVTdEFEWjFnS1NCQzFCZkhLT3RENmpoeENBYktBendmeVltU2dvUndzcEY3VlBzeFpVZ240NnBtRlZfdnRoM2NUZjVrLWZYVVJFeFlxZUxENkE1ZUhVYVBqNktzUWJ3V0FXSG9VM1E2ZUhxRW1mQmhHREFpNEZGMlZyeU1pTXhpUlkzZmxYREFocmkxVnJz?oc=5"
+              "source": "mitrade.com",
+              "title": "Bitcoin Price Flashes a Hidden Uptrend Signal Amid One 96% Problem",
+              "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQRzVFX0Q3LXBKNVVpajdxWm9kNlBrMUVTRVI1OU9hWFpEZUgwSGRUdmNpYWNwOWtXX3ZqNURCakZ5SGhJR3hfRlVMOEVjaE1PWUNaWWJzSmtTZlEtZjBybHRmSnAxQXVmemdRX3NxNU94WHFwcXRJRVp4WDI4dHpaeG9qYlBzaUNz?oc=5"
             },
             {
               "source": "finance.yahoo.com",
-              "title": "Can Quantum Computers Break Bitcoin? An Ethereum Researcher Just Told Big Holders to Prepare for Bunker Mode",
-              "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOQWlJQ0V1d1NaRHZ4T2JMNXlOU1A0SGllMHhybzZrbzhETFJxSHh4N3dPQVpfUXd5cXlfX2tRcnVMYjI4bW8xUmNqMTMyMnVmSHBsem9ueGlLUXhJV1pYSTZVZDVkNXpRc1hnVnhOd3BMMDlyOE56dXBzQ25OQWJjSTFUYmxjdjVJOGdodFp2ZVFnQ2lhaGE0ZXlGT1Nsczd5elpqWUhxY2g?oc=5"
+              "title": "Bitcoin Price Briefly Reclaims $81,000 as Liquidations Top $1 Billion",
+              "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPQjNiZEZNdUt4YlBfbVZrLUhQdi1EMTBBUVE2RjQ4bFM5cFd3b3owWFk5Z0x2YkhSbTl5ZFEya3NyOVNQczhmZHNDTGVpNmNjOVlVWkF4MEhoWl9Gd1hQa2JQbEc5dExFYnVNN1RsLWZTcThJNGo0d1NCMzZvNDYyWDlMdjY1b0swbzBvUVNkTGUxY0pBUW00bmFLWnM2NVU?oc=5"
             },
             {
-              "source": "247wallst.com",
-              "title": "Can Quantum Computers Break Bitcoin? An Ethereum Researcher Just Told Big Holders to Prepare for Bunker Mode",
-              "link": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxQM1RqTnVJTU40OUtXbXpKRFJFOVd4MU5QQkdyRlY5LXFBMWlxXzZrT1VCWW9fMXB3NE9MS0VFWEF1eWh4MXJhMkpMa21DWm93QXRSdHJ5dkVSMUx3bFU3SVdFdVdxYWhmX1hfWHFuZURENzFWREd3c3B1Q3RGbjdPNU5OUFk4MXNiWDhwZV9QZHV5MkhLSE5RbFA5ZFhsRTBGZU5RSFRnZ2pNbHB6MFdrUFdXbEVNUWkzOExjUy1maWlTcGdWWkJpY25pS01aNkFtWkhUR20yeW10bUU4cGoyT2lMT0NtR19qejR6aXVMR2x5XzE0Z21Hak1B?oc=5"
-            },
-            {
-              "source": "finance.yahoo.com",
-              "title": "Bitcoin and ethereum prices today, Friday, October 9, 2026: Bitcoin, ethereum open at lowest levels in about 3 weeks",
-              "link": "https://news.google.com/rss/articles/CBMilgJBVV95cUxPb0VQYU92dUpuZ2VoVlpDbFpBY3RlOG1WS05LME1EZG9Pc2l4YUpFNlRWUXdJV0VDRWs3MWhnRTVmclhJQ05BOGZtUk44Ym5HSEFEXzNzRWxySElfaUdpLWdiSTFmRzM4bkIwdGZiQzBxR2pvM0c4UDR0RXlHUDFobDhZc0hEeWZ0Y1BIUURJWW9hbF9SQURYY1JPTFRJRzhVVzVpUmdFbmdmNE9zZjlkUEJ0dXBweGR6MGtOWWtBRTVrNGtFeVB6Y0xZbUlOTk41YVM3UnB4Nmd4bjRiNTVSTXZ1b0hfaWlWR1pTTktoU1lJWHJEaVdpZkF2b1lzV0x1ZXhrazg0bjFUTjRmUm9CVW42N2FXdw?oc=5"
+              "source": "coindesk.com",
+              "title": "Bitcoin price news: BTC falls to $80,000 nearly one year after October 2025 crash",
+              "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNdmdaN3dFcExWR0wzbjlEbFhKU3lyNVVFb0dpSW9EY1hLTDZKRE9VR0ZpVlF4MXJaYnhrWmdnVnNHbWtUTVJqenpoSHhZbi1HR05hNGtySXQ5YVk5MjRvQXJBNi03blZBenEweVJWazVtN1JpWkEzSWh1RnoyNV9STjZQZXVzREJJVXNBb192NDNFXy1JblQtVDM0TQ?oc=5"
             }
           ]
         },
@@ -731,9 +708,9 @@
           "_via": "bitcoinmagazine.com",
           "source": "bitcoinmagazine.com",
           "_hash": "f9925d4d0d956796",
-          "_ageHours": 3,
+          "_ageHours": 5,
           "_inWindow": true,
-          "_score": 61.37467111111111,
+          "_score": 58.599340833333336,
           "_corrob": 2,
           "_cluster": [
             {
@@ -759,59 +736,121 @@
           ]
         },
         {
-          "title": "Bitcoin Price Flashes a Hidden Uptrend Signal Amid One 96% Problem",
-          "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQRzVFX0Q3LXBKNVVpajdxWm9kNlBrMUVTRVI1OU9hWFpEZUgwSGRUdmNpYWNwOWtXX3ZqNURCakZ5SGhJR3hfRlVMOEVjaE1PWUNaWWJzSmtTZlEtZjBybHRmSnAxQXVmemdRX3NxNU94WHFwcXRJRVp4WDI4dHpaeG9qYlBzaUNz?oc=5",
-          "date": "Sat, 10 Oct 2026 02:03:46 GMT",
-          "summary": "Bitcoin Price Flashes a Hidden Uptrend Signal Amid One 96% Problem Mitrade",
-          "publisher": "mitrade.com",
-          "_via": "news.google.com",
-          "source": "mitrade.com",
-          "_hash": "80e11304b69d5320",
-          "_ageHours": 1,
+          "title": "Bitcoin ETFs Shed $729M in Two Days as Investors Reverse Course",
+          "link": "https://bitcoinmagazine.com/markets/bitcoin-etfs-shed-729-million-in-two-days",
+          "date": "Fri, 09 Oct 2026 17:11:16 +0000",
+          "summary": "Bitcoin Magazine Bitcoin ETFs Shed $729M in Two Days as Investors Reverse Course Investors have fast cashed out of bitcoin exchange-traded funds this week. It’s showing in the price. This post Bitcoin ETFs Shed $729M in Two Days as Investors Reverse Course first appeared on Bitcoin Magazine and is written by Mathew Di Salvo .",
+          "publisher": "",
+          "_via": "bitcoinmagazine.com",
+          "source": "bitcoinmagazine.com",
+          "_hash": "8f2a9424f84d1f20",
+          "_ageHours": 13,
           "_inWindow": true,
-          "_score": 56.55161527777778,
+          "_score": 56.901285277777774,
           "_corrob": 2,
           "_cluster": [
             {
-              "source": "streetinsider.com",
-              "title": "Bitcoin Price Breaks Below Key Support as Remittix’s Final Presale Allocation Continues to Narrow",
-              "link": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxOMmw0LUlnaEZtUGtlalZZVVMxMjVuNnZCVW1wb1ZXVFA2ajRIRTVmbVJHRFhXc0VjSWZQWXF3aGxHOEhkejJPS0ZMejRPVmJnZVpnUWl6MDZMSm1DRkd1U3VVVnM5SFdsRkNUQ1FMLWtxMkZ3VnQ4bjZPQVVYRDFMOUFjMmVvSDdjcldIOFhtem44MVdMQ1BOQ0tDVGhkc0c0QUQxcGh1bzZNRFlzM0RIdEtpZVZZdmhERFFUNVljMGpPS0dRcVc1aXZBdjJFMGZ5X05hTHZTVFoxVjlrWDJaZk8wRGFFc21GVzRUenZtNUJhbGZfVUluaA?oc=5"
+              "source": "pluang.com",
+              "title": "U.S. spot Bitcoin ETFs see $21.1M inflow on Oct 9 but remain negative over five days",
+              "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNX1dZcXlhNmt4Z3RWZGZtUzQtcGhYVUVpX3RsVDJ6ZFA5QWVXcGZpb0twdEVueVZyTDVZSURleWNpQ0RJNlNZb09TZnRoSkZ6Z2J0WFM5NjJqOVJmRl9BQ0daQ1pxNEt5bjFXb3RQaFdHTmMyMFdnX00yeUZTbGhTSHZQa1RvNWc4bzFYWEJ3?oc=5"
             },
             {
-              "source": "finance.yahoo.com",
-              "title": "Bitcoin Price Rebounds Above $82K After $729M ETF Exodus: Is the Sell-Off Over?",
-              "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxPSWNfU1NRWVNQbWxhNUF0TUYzUHQtUE11WFBXQU80enB0dElUS3VnOG1DVlN2TTZ6Qy1HV1ljMHdaYzRsVEZrdmRCUHAxZ051Y25Ncm8wMlBYaG9hUW44Mkt5enZhOFJZdEV1bHgtNWZvb01XWkVKTUxRVmVDaW42bW9pNWpDcC1RbTUzUFV0X2JpS19FbXJmRzZYVl9Kdw?oc=5"
+              "source": "bitcoinmagazine.com",
+              "title": "Bitcoin ETFs Shed $729M in Two Days as Investors Reverse Course",
+              "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNNzZ2bndlTzJXWFB5a2pwZXVoaFFCVTJzSElCTTVvaDFvYjFMX2dhZlYwUTVfUERqdWlYaFlDSzlPS0p3SGpDYUhWckJvZV9wZU5xUlB6UzZQMWRNM084RVBLM2F4RWN5cFN3aGtZcE5xYXYyZHhhSmFoU2p6aEdOYXJ1aw?oc=5"
             },
             {
-              "source": "finance.yahoo.com",
-              "title": "Bitcoin Price Briefly Reclaims $81,000 as Liquidations Top $1 Billion",
-              "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPQjNiZEZNdUt4YlBfbVZrLUhQdi1EMTBBUVE2RjQ4bFM5cFd3b3owWFk5Z0x2YkhSbTl5ZFEya3NyOVNQczhmZHNDTGVpNmNjOVlVWkF4MEhoWl9Gd1hQa2JQbEc5dExFYnVNN1RsLWZTcThJNGo0d1NCMzZvNDYyWDlMdjY1b0swbzBvUVNkTGUxY0pBUW00bmFLWnM2NVU?oc=5"
+              "source": "coindesk.com",
+              "title": "Thailand’s SEC approves spot Bitcoin and Ether ETFs for Stock Exchange of Thailand",
+              "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQRGJzalRVVTY0Uy1LMjFmZ29BTC05TTdKX2VWdnhRd09VdHFSUTIzemJwRGVkd2xDMW9Ma0x4Yl95UDFMZjE4Z1djcTlUendOVW9oUEZWcEw1MlZseFR2Mm5PWDlNcHFYVzJtQm9PaGZYeGJIb2V1cjZ5Z0plc2ZHNjlfNncwYW84RUlUSkcwNUdydDgwV2ZxZnZQZ0hQaG5zU0dWQ2dB?oc=5"
             }
           ]
         },
         {
-          "title": "Blockchain.com pursues CFTC approval for prediction markets: CNBC",
-          "link": "https://cointelegraph.com/news/blockchain-cftc-approval-derivatives-prediction-markets?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-          "date": "Fri, 09 Oct 2026 16:22:45 +0000",
-          "summary": "The crypto company has reportedly applied for two licenses with the US commodities regulatory as the courts weigh prediction markets cases.",
-          "publisher": "",
-          "_via": "cointelegraph.com",
-          "source": "cointelegraph.com",
-          "_hash": "00174a1305f9b239",
-          "_ageHours": 11,
+          "title": "XRP ETFs Gain as Bitcoin and Ethereum Funds Lose $317 Million. Is It a Trend?",
+          "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPQzVtamhEbjlYR3A4a21VeG9UV2x6ZVlTN0xrT1hybkVLZTNXXzNWekVMVXJHMFFaZFI2b0s3WHNxS2RoQ0hJRjlsN2JMVk1ReVluZEVZZFNPWEhQRlYyQW04Z3VLTFJ0LTJDZDlIT0tack9odk12NElBSkhVOXpYWElDUm1laGhjSnZ4d1NWUFpiX0ZwMFgzZFlDSQ?oc=5",
+          "date": "Fri, 09 Oct 2026 22:00:22 GMT",
+          "summary": "XRP ETFs Gain as Bitcoin and Ethereum Funds Lose $317 Million. Is It a Trend? Yahoo Finance",
+          "publisher": "finance.yahoo.com",
+          "_via": "news.google.com",
+          "source": "finance.yahoo.com",
+          "_hash": "f476139f7e84daaa",
+          "_ageHours": 8,
           "_inWindow": true,
-          "_score": 52.868004722222224,
+          "_score": 55.71961833333333,
           "_corrob": 2,
           "_cluster": [
             {
-              "source": "theblock.co",
-              "title": "Blockchain.com seeks CFTC greenlight for US prediction markets, crypto derivatives trading: CNBC",
-              "link": "https://www.theblock.co/news/business/2026-10-09-blockchain-com-cftc-license-prediction-markets-derivatives-418192"
+              "source": "aol.com",
+              "title": "XRP ETFs Gain as Bitcoin and Ethereum Funds Lose $317 Million. Is It a Trend?",
+              "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9wSGNFSlNVV3J6Mndjd3JUWTFseDFqNmF0UGJRczFjSHpTVTMzc2hibmVBVHFQUWJVd2NOODlqMXJiUlBPd1BTMHpVRWszZXhaRXNXck82dmowYy1qME1qVzJIa0c5c01zaXhOV3ptTTJaa1NGWjR6UDJ0dGNXak0?oc=5"
             },
             {
-              "source": "coindesk.com",
-              "title": "NFL joins pushback against prediction markets as U.S. Supreme Court asked to act",
-              "link": "https://www.coindesk.com/policy/2026/10/08/nfl-joins-pushback-against-prediction-markets-as-u-s-supreme-court-asked-to-act"
+              "source": "finance.yahoo.com",
+              "title": "Can Quantum Computers Break Bitcoin? An Ethereum Researcher Just Told Big Holders to Prepare for Bunker Mode",
+              "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOQWlJQ0V1d1NaRHZ4T2JMNXlOU1A0SGllMHhybzZrbzhETFJxSHh4N3dPQVpfUXd5cXlfX2tRcnVMYjI4bW8xUmNqMTMyMnVmSHBsem9ueGlLUXhJV1pYSTZVZDVkNXpRc1hnVnhOd3BMMDlyOE56dXBzQ25OQWJjSTFUYmxjdjVJOGdodFp2ZVFnQ2lhaGE0ZXlGT1Nsczd5elpqWUhxY2g?oc=5"
+            },
+            {
+              "source": "247wallst.com",
+              "title": "Can Quantum Computers Break Bitcoin? An Ethereum Researcher Just Told Big Holders to Prepare for Bunker Mode",
+              "link": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxQM1RqTnVJTU40OUtXbXpKRFJFOVd4MU5QQkdyRlY5LXFBMWlxXzZrT1VCWW9fMXB3NE9MS0VFWEF1eWh4MXJhMkpMa21DWm93QXRSdHJ5dkVSMUx3bFU3SVdFdVdxYWhmX1hfWHFuZURENzFWREd3c3B1Q3RGbjdPNU5OUFk4MXNiWDhwZV9QZHV5MkhLSE5RbFA5ZFhsRTBGZU5RSFRnZ2pNbHB6MFdrUFdXbEVNUWkzOExjUy1maWlTcGdWWkJpY25pS01aNkFtWkhUR20yeW10bUU4cGoyT2lMT0NtR19qejR6aXVMR2x5XzE0Z21Hak1B?oc=5"
+            },
+            {
+              "source": "finance.yahoo.com",
+              "title": "Bitcoin and ethereum prices today, Friday, October 9, 2026: Bitcoin, ethereum open at lowest levels in about 3 weeks",
+              "link": "https://news.google.com/rss/articles/CBMilgJBVV95cUxPb0VQYU92dUpuZ2VoVlpDbFpBY3RlOG1WS05LME1EZG9Pc2l4YUpFNlRWUXdJV0VDRWs3MWhnRTVmclhJQ05BOGZtUk44Ym5HSEFEXzNzRWxySElfaUdpLWdiSTFmRzM4bkIwdGZiQzBxR2pvM0c4UDR0RXlHUDFobDhZc0hEeWZ0Y1BIUURJWW9hbF9SQURYY1JPTFRJRzhVVzVpUmdFbmdmNE9zZjlkUEJ0dXBweGR6MGtOWWtBRTVrNGtFeVB6Y0xZbUlOTk41YVM3UnB4Nmd4bjRiNTVSTXZ1b0hfaWlWR1pTTktoU1lJWHJEaVdpZkF2b1lzV0x1ZXhrazg0bjFUTjRmUm9CVW42N2FXdw?oc=5"
+            }
+          ]
+        },
+        {
+          "title": "Bitcoin's volatility has plunged, but extreme price swings are more frequent than in 2018",
+          "link": "https://www.coindesk.com/markets/2026/10/09/bitcoin-s-volatility-has-plunged-but-extreme-price-swings-are-more-frequent-than-in-2018",
+          "date": "Sat, 10 Oct 2026 05:43:00 +0000",
+          "summary": "CoinDesk analysis finds 10 unusually large trading days in 2026, raising questions about how investors measure risk in an increasingly institutional crypto market.",
+          "publisher": "",
+          "_via": "coindesk.com",
+          "source": "coindesk.com",
+          "_hash": "203d63a5e6c48028",
+          "_ageHours": 1,
+          "_inWindow": true,
+          "_score": 52.43017416666667,
+          "_corrob": 1,
+          "_cluster": [
+            {
+              "source": "tradingview.com",
+              "title": "Bitcoin's volatility is falling, but its extreme price swings now outpace 2018",
+              "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxPeXFvam9UYjd5WE9BemY1dGVQNThLd3VUd041OHNUYzViYnRPbVpiTWEyVlkzVjBURUw5eWxfTU93Z3ZGVWNSenhkYVBtd1BXMDVYZEs4NXdsOFNZMW9jYnVEc1BnT2s0ekRkZVZzZlh1bVBMSGxaQUVEekJuVi0xc3VQZFhOT21jbmFzdXNUTjNZVjBXQjNuaTRsTGZkeGx3X2ZtbzVVUk96TEEtdDlwdVUxQVBnZi1Sel94T29HbzJ0dG5FRElUNFliVzRCS1drQ1RwMGtMNFRVdw?oc=5"
+            }
+          ]
+        },
+        {
+          "title": "Thailand opens door to locally listed bitcoin and ether ETFs",
+          "link": "https://www.coindesk.com/policy/2026/10/09/thailand-opens-door-to-locally-listed-bitcoin-and-ether-etfs",
+          "date": "Fri, 09 Oct 2026 10:16:55 +0000",
+          "summary": "Thailand’s new crypto rules taking effect Oct. 16. They allow Thai asset managers to launch crypto ETFs on the local stock exchange, with bitcoin and ether initially eligible.",
+          "publisher": "",
+          "_via": "coindesk.com",
+          "source": "coindesk.com",
+          "_hash": "f4d2b8b92bce3beb",
+          "_ageHours": 20,
+          "_inWindow": true,
+          "_score": 49.99545194444444,
+          "_corrob": 2,
+          "_cluster": [
+            {
+              "source": "finance.yahoo.com",
+              "title": "BTC USD Outlook: Thailand Opens Bitcoin ETF Route on Oct 16",
+              "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQdmZWSDV4emFMSWFnZ09zTGJLRE9tRGlYYkVKN1VUTEJSZ0E2WFI5Mm42MkVLNXNxV1FNTFlvRDduODZyU0lfTEhOQXgzS1pfc1ZYck1pRlV4S190RUItRXFRSTVmNWRYMmxTb1BWTjVuNUdLdndEU0VDU2c5eks1TEdBOHduNF9nVVNCeWdnZzR5c3JRWlFmVWowTQ?oc=5"
+            },
+            {
+              "source": "cointelegraph.com",
+              "title": "Bitcoin, Ether ETFs’ October outflows swell toward $1B",
+              "link": "https://cointelegraph.com/markets/bitcoin-ether-etfs-october-outflows-billion?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound"
+            },
+            {
+              "source": "cointelegraph.com",
+              "title": "Thailand finalizes rules paving way for Bitcoin, Ether ETFs",
+              "link": "https://cointelegraph.com/news/thailand-finalizes-rules-paving-way-for-bitcoin-ether-etfs?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound"
             }
           ]
         },
@@ -824,9 +863,9 @@
           "_via": "bitcoinmagazine.com",
           "source": "bitcoinmagazine.com",
           "_hash": "63791c23cb5443e5",
-          "_ageHours": 7,
+          "_ageHours": 10,
           "_inWindow": true,
-          "_score": 51.659393333333334,
+          "_score": 48.88406305555556,
           "_corrob": 1,
           "_cluster": [
             {
@@ -850,9 +889,9 @@
           "_via": "news.google.com",
           "source": "etfdb.com",
           "_hash": "7750dc49afddcfd0",
-          "_ageHours": 8,
+          "_ageHours": 11,
           "_inWindow": true,
-          "_score": 51.12356,
+          "_score": 48.34822944444444,
           "_corrob": 1,
           "_cluster": [
             {
@@ -871,9 +910,9 @@
           "_via": "cointelegraph.com",
           "source": "cointelegraph.com",
           "_hash": "178594d619725288",
-          "_ageHours": 7,
+          "_ageHours": 10,
           "_inWindow": true,
-          "_score": 50.722726944444446,
+          "_score": 47.94739638888889,
           "_corrob": 2,
           "_cluster": [
             {
@@ -897,67 +936,41 @@
           "_via": "bitcoinmagazine.com",
           "source": "bitcoinmagazine.com",
           "_hash": "0157d00b0650c82b",
-          "_ageHours": 11,
+          "_ageHours": 14,
           "_inWindow": true,
-          "_score": 48.218004444444446,
+          "_score": 45.44267416666666,
           "_corrob": 1,
           "_cluster": [
             {
               "source": "cointelegraph.com",
               "title": "Ledger investigates fund losses linked to Southeast Asian reseller, warns users",
               "link": "https://cointelegraph.com/news/ledger-investigates-fund-losses-linked-to-southeast-asian-reseller-warns-users?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound"
+            },
+            {
+              "source": "bitcoinmagazine.com",
+              "title": "Ledger Warns Buyers Not to Set Up Wallets From Reseller After Users Report Losses",
+              "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1VUWxIQVNNUng5RDZ4YW1zTHR6V3FkelZxN01feFdYa0xpN29wS0NkbzFPVzZaVzJtc3ZnOVg5LVZOWEI3Uks5UGNOVzh2VUpsd00xWVY2VHFGX2luZC02OW0ydVJrdlJ1YXV2ZGZHTnA1d21SeDdYNEpPUE05QQ?oc=5"
             }
           ]
         },
         {
-          "title": "Thailand opens door to locally listed bitcoin and ether ETFs",
-          "link": "https://www.coindesk.com/policy/2026/10/09/thailand-opens-door-to-locally-listed-bitcoin-and-ether-etfs",
-          "date": "Fri, 09 Oct 2026 10:16:55 +0000",
-          "summary": "Thailand’s new crypto rules taking effect Oct. 16. They allow Thai asset managers to launch crypto ETFs on the local stock exchange, with bitcoin and ether initially eligible.",
+          "title": "Blockchain.com pursues CFTC approval for prediction markets: CNBC",
+          "link": "https://cointelegraph.com/news/blockchain-cftc-approval-derivatives-prediction-markets?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "date": "Fri, 09 Oct 2026 16:22:45 +0000",
+          "summary": "The crypto company has reportedly applied for two licenses with the US commodities regulatory as the courts weigh prediction markets cases.",
           "publisher": "",
-          "_via": "coindesk.com",
-          "source": "coindesk.com",
-          "_hash": "f4d2b8b92bce3beb",
-          "_ageHours": 17,
+          "_via": "cointelegraph.com",
+          "source": "cointelegraph.com",
+          "_hash": "00174a1305f9b239",
+          "_ageHours": 14,
           "_inWindow": true,
-          "_score": 47.770782499999996,
+          "_score": 45.09267416666667,
           "_corrob": 1,
           "_cluster": [
             {
-              "source": "coindesk.com",
-              "title": "Thailand’s SEC approves spot Bitcoin and Ether ETFs for Stock Exchange of Thailand",
-              "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQRGJzalRVVTY0Uy1LMjFmZ29BTC05TTdKX2VWdnhRd09VdHFSUTIzemJwRGVkd2xDMW9Ma0x4Yl95UDFMZjE4Z1djcTlUendOVW9oUEZWcEw1MlZseFR2Mm5PWDlNcHFYVzJtQm9PaGZYeGJIb2V1cjZ5Z0plc2ZHNjlfNncwYW84RUlUSkcwNUdydDgwV2ZxZnZQZ0hQaG5zU0dWQ2dB?oc=5"
-            },
-            {
-              "source": "cointelegraph.com",
-              "title": "Bitcoin, Ether ETFs’ October outflows swell toward $1B",
-              "link": "https://cointelegraph.com/markets/bitcoin-ether-etfs-october-outflows-billion?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound"
-            },
-            {
-              "source": "cointelegraph.com",
-              "title": "Thailand finalizes rules paving way for Bitcoin, Ether ETFs",
-              "link": "https://cointelegraph.com/news/thailand-finalizes-rules-paving-way-for-bitcoin-ether-etfs?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound"
-            }
-          ]
-        },
-        {
-          "title": "U.S. CFTC moves to fold event contracts into swaps regulations as legal fight rages",
-          "link": "https://www.coindesk.com/policy/2026/10/09/u-s-cftc-moves-to-fold-event-contracts-into-swaps-regulations-as-legal-fight-rages",
-          "date": "Fri, 09 Oct 2026 21:21:54 +0000",
-          "summary": "The derivatives regulator is proposing a formal rule to include certain contracts traded on platforms like Kalshi's as swaps that require the agency's oversight.",
-          "publisher": "",
-          "_via": "coindesk.com",
-          "source": "coindesk.com",
-          "_hash": "8f195e19cd6f9982",
-          "_ageHours": 6,
-          "_inWindow": true,
-          "_score": 46.853838055555556,
-          "_corrob": 1,
-          "_cluster": [
-            {
-              "source": "247wallst.com",
-              "title": "Retail Money Shifts From Crypto to Event Contracts, Says Eric Liu: Could This Explain Why Dogecoin and XRP Are Lagging Behind Bitcoin?",
-              "link": "https://news.google.com/rss/articles/CBMimgJBVV95cUxNaDh3aWU1STV6MURpR05mbUVXN01oZTFhUm9nZjRGczdvVzBoTVlOa0cxYTluRGwtNUM0Y2hNZTFBRG0ySjhBLXVFejRrRmI3ejhsS2VqUHZ1LWFkaHpVeEtJVHhRYWRlUjhZbWRNbWNKd2lZVnBydWNCRlE3WWdHeFpGdGptZXliSktQd3IwUktkeTdYeFVnY2djYUhvQXJ5U3NMTnNKQVdPRlBVVTNLVzZTcWU2WlFSUTc5dHRHbVpZNEdPd2lvQ2t6MjFUWGI0TV9MZ1JnOEc0OW5zOWx1XzBQUVF4NDUtVG9oUDlGU0ktSkZIQ3gzQWVUek5RR2U5c3RMLVhKSDdZQzBfRTEwRUpvZlFoRUY2NlE?oc=5"
+              "source": "theblock.co",
+              "title": "Blockchain.com seeks CFTC greenlight for US prediction markets, crypto derivatives trading: CNBC",
+              "link": "https://www.theblock.co/news/business/2026-10-09-blockchain-com-cftc-license-prediction-markets-derivatives-418192"
             }
           ]
         },
@@ -970,36 +983,15 @@
           "_via": "news.google.com",
           "source": "cnbc.com",
           "_hash": "015074b2f6919803",
-          "_ageHours": 7,
+          "_ageHours": 10,
           "_inWindow": true,
-          "_score": 45.98744888888889,
+          "_score": 43.212118333333336,
           "_corrob": 1,
           "_cluster": [
             {
               "source": "wsj.com",
               "title": "A Year On, Bitcoin Languishes a Third Below its All-Time High. What’s Next For The Cryptocurrency?",
               "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxPbS1hcXNNbk9MQkZjN1dRQlVWcTVkVUtiQ21KNjBmNS0weWo5enAtcTVKU3M2MUlfbE54ZWVpUEVXVlFsMmEydXZIai1vdTlBVTdUbFduQ0d6bzl5N0lsNjBVYXNTXzVQLXg3OHZ4dnk3MlVsRzdvRVlEMU5qRlNzSUFaZEg5bGhoYldZdEtGbkNFRy1mLXNidk51eGE1QnpRT2hDOHFUc0dQOUJyQ3lCYktCckk1TmNmdk9LQ1ZuNEQ4OWhyUXNuNHlaUEJjUXNDTXMxdWZ4V21fZw?oc=5"
-            }
-          ]
-        },
-        {
-          "title": "Bitcoin Drops to $80,000: Buying Opportunity or Another Crash on the Horizon?",
-          "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOVkNyb3lhaGhOVDJ6aXhFSHJJZkR3MUZ6dGlRblpkZXZhZHVGMDU3ZE1pMF9va1dkY1NPSGg0NG1pRVFsVm9WZE5wMlVXWGpqYW5wR2xsdnhCX3M1RWNiU0NBVXV1cW9yc0U2VnlKLWhqOHp1R0tMeTdwMUstRzM2bDZLb1pta3dDVVE2UHl6d0lUYTRmYkdPaDBobm9CQmxIME5fTXhzVVROUkJTY0s2a0o0d2hGTEY3RjQ3dzgteXJRRDl4dmhTcGp5VTc?oc=5",
-          "date": "Fri, 09 Oct 2026 20:20:00 GMT",
-          "summary": "Bitcoin Drops to $80,000: Buying Opportunity or Another Crash on the Horizon? 24/7 Wall St.",
-          "publisher": "247wallst.com",
-          "_via": "news.google.com",
-          "source": "247wallst.com",
-          "_hash": "75e9efa060ea251e",
-          "_ageHours": 7,
-          "_inWindow": true,
-          "_score": 45.82217111111111,
-          "_corrob": 1,
-          "_cluster": [
-            {
-              "source": "finance.yahoo.com",
-              "title": "Bitcoin Drops Below $81K, Triggering Nearly $1B Crypto Liquidation Wave: Crypto Stocks Fall With AI Infrastructure Plays",
-              "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOd3ZaYzk5VWplcXM1dVB6V3RjM0M4ZEhxQ2FRTEdaUENlV0g2RDZZT0tDbU5jR21IdlZxRldDM05LUGFpZWJTMWNMbDlEOVRiWW10YlplS0c2RzNlWVlLM0lKcm1DNFl5YklIZFllSkRvdFVfT08zZ2ExQ0cwU1NaeVZZMDVmWFpmbm01eHNlQW9ja2swVVpYSVJUdW1Sd21M?oc=5"
             }
           ]
         }
@@ -1009,6 +1001,32 @@
       "name": "Biotech & Longevity",
       "candidates": [
         {
+          "title": "Biotech IPOs Charge Ahead as Tech Deals Stall",
+          "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNZHRrVENLNGNOVGM4MGZzNlZIWVk2YWJ2Y3VDdTR4Vjk0S0hpNm9fb0FtU2hZcXhOU21mN0QzMklwNU1tb282dXozb3h2LUJRWmhhQWwyVU10N2tLQWhfYVRTZ1J0TmJ2R0xiX3M1ZGZUYkVzZVdObmpLSFp1RlVOaURUVTZzbDB2ZHNVWC1BMEZDYWU5N3h4UjNR?oc=5",
+          "date": "Sat, 10 Oct 2026 05:10:05 GMT",
+          "summary": "Biotech IPOs Charge Ahead as Tech Deals Stall WSJ",
+          "publisher": "wsj.com",
+          "_via": "news.google.com",
+          "source": "wsj.com",
+          "_hash": "4b0df0afdeb2dc44",
+          "_ageHours": 1,
+          "_inWindow": true,
+          "_score": 51.880516388888886,
+          "_corrob": 1,
+          "_cluster": [
+            {
+              "source": "seekingalpha.com",
+              "title": "U.S. IPO Weekly Recap: Biotech IPOs Keep Flowing As Data Center Developer DayOne Joins The Pipeline",
+              "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPNllXekItb0gtT25XbGZnNWhqazk5REU3WVdteVZjSjVvbnpwWFMyQ09CdUkxeGpHVnFncTNTcjZlZnB6ajZ6cXo2dml5ei1kbEYweHR5eUZsX0xjWnVteG9aSUlCcWRudkNUTGVaYzFDUnlVS1laV2ZEdmtzWnJSNlRERXFMZmI2cVFlV1dFYUdXdWFXakFqaFEzNkd3dDlpRDduZmZfSXJuNXp0SFl3?oc=5"
+            },
+            {
+              "source": "wsj.com",
+              "title": "Biotech IPOs Charge Ahead as Tech Deals Stall",
+              "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNeXNoekZPVllNOThoV3dhZ0c5WG40aDJ0elRvYmE1M2ZDbER2ZWZfandyZWNPaWgwU3hrcnRmdFVGbk5NWUhVOFRRNlp5SHUzSmZzRmpUUjBsSER1NGNuWmNORmpVQTNVUkpBSlM4LTVEN1lVQ0t0LV9idlczQzJJWlJ6R1VaRDdrUS0yV0U3Z1FTSnFyZ0FITDRn?oc=5"
+            }
+          ]
+        },
+        {
           "title": "Why AI drug discovery is a tough sell on Wall Street",
           "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQUUxvU0E4SFJMQS10cVZFNzdLbUYxV1dmZ0M3dnVLb3AxMmdVb3BSNmprQkxTZ1g3QTYyc0w0V25YVERzc1lmMUNLZGRSdUNHeG10X0JBYkxpMWVzOVlNMUNaRVNjV084RUt6ODlIdXNocjE2VE9uY2ZaRVZUYkJNNXZtZHpPQnNPMUY1SkVDbmY0dGk5Zzk0U0hmZV8?oc=5",
           "date": "Fri, 09 Oct 2026 20:20:23 GMT",
@@ -1017,9 +1035,9 @@
           "_via": "news.google.com",
           "source": "axios.com",
           "_hash": "09b4bfe992acdce8",
-          "_ageHours": 7,
+          "_ageHours": 10,
           "_inWindow": true,
-          "_score": 51.82828638888889,
+          "_score": 49.05218305555556,
           "_corrob": 1,
           "_cluster": [
             {
@@ -1030,30 +1048,40 @@
           ]
         },
         {
-          "title": "IPO News - US IPO Weekly Recap: Biotech IPOs keep flowing as data center developer DayOne joins the pipeline",
-          "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQelFabHNnX3ZkYVotaC00R1lUMjloTnp5czJFa2QyaVVDMlBqWE5VZVhrb2thMFdQR1Jqa25pZHlicXQyMFYxSU5fU0w5V0ZlaGNRLV9uLVRvdENkMGRORUFMektoLVJDLWVQTHVCdEhldVRCajgzMGZqYnhwMkYwN2xETzBmb083T1F0a05wUkgyd3IxY25TUUJQYjdlbmVGSVFVYzNkeXc0OU9xejBHaTV4Y295bFIzT2dSb2VPcUI1VDhxeEh3TjZmS2gzZw?oc=5",
-          "date": "Sat, 10 Oct 2026 00:20:00 GMT",
-          "summary": "IPO News - US IPO Weekly Recap: Biotech IPOs keep flowing as data center developer DayOne joins the pipeline www.renaissancecapital.com",
-          "publisher": "renaissancecapital.com",
-          "_via": "news.google.com",
-          "source": "renaissancecapital.com",
-          "_hash": "9a10b68dbec60585",
-          "_ageHours": 3,
+          "title": "Parkinson's cell therapy biotech Aspen and I&I startup Bambusa file for IPOs",
+          "link": "https://endpoints.news/parkinsons-cell-therapy-biotech-aspen-and-ii-startup-bambusa-file-for-ipos/",
+          "date": "Fri, 09 Oct 2026 22:48:48 +0000",
+          "summary": "A Gilead-backed cell therapy maker and an I&I biotech from BioNTech vets are looking to ride the biotech industry's IPO momentum. Aspen Neuroscience and Bambusa Therapeutics are the latest drug developers to ...",
+          "publisher": "",
+          "_via": "endpoints.news",
+          "source": "endpoints.news",
+          "_hash": "4ea6d2238fbdad50",
+          "_ageHours": 7,
           "_inWindow": true,
-          "_score": 49.8218975,
+          "_score": 45.52579444444444,
           "_corrob": 1,
           "_cluster": [
             {
-              "source": "wsj.com",
-              "title": "Biotech IPOs Charge Ahead as Tech Deals Stall",
-              "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNeXNoekZPVllNOThoV3dhZ0c5WG40aDJ0elRvYmE1M2ZDbER2ZWZfandyZWNPaWgwU3hrcnRmdFVGbk5NWUhVOFRRNlp5SHUzSmZzRmpUUjBsSER1NGNuWmNORmpVQTNVUkpBSlM4LTVEN1lVQ0t0LV9idlczQzJJWlJ6R1VaRDdrUS0yV0U3Z1FTSnFyZ0FITDRn?oc=5"
-            },
-            {
-              "source": "wsj.com",
-              "title": "Biotech IPOs Charge Ahead as Tech Deals Stall",
-              "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNZHRrVENLNGNOVGM4MGZzNlZIWVk2YWJ2Y3VDdTR4Vjk0S0hpNm9fb0FtU2hZcXhOU21mN0QzMklwNU1tb282dXozb3h2LUJRWmhhQWwyVU10N2tLQWhfYVRTZ1J0TmJ2R0xiX3M1ZGZUYkVzZVdObmpLSFp1RlVOaURUVTZzbDB2ZHNVWC1BMEZDYWU5N3h4UjNR?oc=5"
+              "source": "renaissancecapital.com",
+              "title": "ASPE IPO News - Parkinson’s disease biotech Aspen Neuroscience files for a $100 million IPO",
+              "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNY0c1MVE4YUZPWG1SSTI3LXNUSmNuWk1UQV91N25BcFhFYkIwUzdqUGg3M2s2TnQ5X1U4QWhRTm1jWUZKdTdsTWcwN1QtdWN2d1lyN1dQTE5GbUotYnljQ2d1ZWRHWl94bGZZaHpaNGlWaVp1eDVqRUk2ZGNoQVZRSERhMHhmWXlQVTRmaEJ0RGotYTAzOG9Kc0xDWXcxamxoUUNNaU12U1hXN1JkU1dGSDRoaE5BeE1rY0Q5RndkU0NXdkVDNHE1TkhkSnZYdWppMk5sRlBGQQ?oc=5"
             }
           ]
+        },
+        {
+          "title": "Curium prices generic radioligand at 5% discount to Novartis' Lutathera",
+          "link": "https://endpoints.news/curium-prices-generic-radioligand-at-5-discount-to-novartis-lutathera/",
+          "date": "Fri, 09 Oct 2026 18:28:05 +0000",
+          "summary": "Curium has set the list price for Bexlutry, its radiosimilar to Novartis’ Lutathera, at $63,524 per infusion — about a 5% discount to the cost of the pharma giant’s drug. Challenging Novartis in the tricky field ...",
+          "publisher": "",
+          "_via": "endpoints.news",
+          "source": "endpoints.news",
+          "_hash": "aa9b0ce3eef70896",
+          "_ageHours": 12,
+          "_inWindow": true,
+          "_score": 42.18051666666667,
+          "_corrob": 0,
+          "_cluster": []
         },
         {
           "title": "City Therapeutics targets $158M IPO; Iambic seeks $135M Nasdaq debut",
@@ -1064,16 +1092,11 @@
           "_via": "endpoints.news",
           "source": "endpoints.news",
           "_hash": "2a2831109355820d",
-          "_ageHours": 13,
+          "_ageHours": 16,
           "_inWindow": true,
-          "_score": 49.74745333333333,
-          "_corrob": 3,
+          "_score": 41.97135,
+          "_corrob": 2,
           "_cluster": [
-            {
-              "source": "renaissancecapital.com",
-              "title": "CTY IPO News - RNA interference biotech City Therapeutics sets terms for $175 million IPO",
-              "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQZDk4bU83WFRFeDI2XzRNNVhrT1pEeU9ObDY5MVI5ZjBQNlJxV1I0b3BJSVdCcDVpbjNjQ3JJTWh5YWFXdjVCV0YxaE9iX1Y5OXVYS1daN0lYdnBQcEVPNzRWa3B3OXhBUVNMU0s1dkN0MDRLWU1zU1NIYmJPRndOcTJNSTVhdG40WWt6dkN2SG12aV9HaXR1b3R2ZF9XUFUxMmF6NEJNMFhNLXRPX3NBdlhzdGtJWm1ocHlDUzJIalIzR0NXVi14amZNZ0U?oc=5"
-            },
             {
               "source": "qz.com",
               "title": "City Therapeutics is seeking up to $185 million in a U.S. IPO for its gene-silencing drugs",
@@ -1100,52 +1123,17 @@
           "_via": "news.google.com",
           "source": "pluang.com",
           "_hash": "591169867cce6d49",
-          "_ageHours": 9,
+          "_ageHours": 12,
           "_inWindow": true,
-          "_score": 48.72411944444444,
-          "_corrob": 2,
+          "_score": 40.94801611111111,
+          "_corrob": 1,
           "_cluster": [
-            {
-              "source": "finance.yahoo.com",
-              "title": "Novavax Soars 16%, Moderna Surges 11%, Merck Climbs 3% as Biotech Rallies",
-              "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxONUJXaENYaDBjeHMtUF9ZOXMwM2dQSEtvQlRNa2dNTVhtdDc4eEFyZ3VXNEQzeTdDall6OG1rMl9uazdOeEJRWms1OGU5SC1zcGM2X3YxdG5kcndZemNPdlAybW5mbllZZklIbXExdnB6LUJvNmU1UzU5U3k5WVhZczJaMmEzZU8yNUlSby03bmRjaW9tdlpJ?oc=5"
-            },
             {
               "source": "247wallst.com",
               "title": "Novavax Soars 16%, Moderna Surges 11%, Merck Climbs 3% as Biotech Rallies",
               "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNS0VpX2tjVXkyTWVaZjg4R2RLMEpKb21uRG16UkxxbHhrU1Qyb1liUGtwd3QxX1Q0V3lrMFBUMzRVYnZsSDBnYzJqWGNEVGppWG43QTFndzNXZkZORl9ad0lSOWlzeXBmSWZGdGZYanR4RmsxQ0xaU21GM01xb3BhN1JTZW5GUlltakMzbkJSYm5uUmd1dWdWazU3RFJGT19jQ1k4dzNpUmtfN05wSVRiNXZB?oc=5"
             }
           ]
-        },
-        {
-          "title": "Curium prices generic radioligand at 5% discount to Novartis' Lutathera",
-          "link": "https://endpoints.news/curium-prices-generic-radioligand-at-5-discount-to-novartis-lutathera/",
-          "date": "Fri, 09 Oct 2026 18:28:05 +0000",
-          "summary": "Curium has set the list price for Bexlutry, its radiosimilar to Novartis’ Lutathera, at $63,524 per infusion — about a 5% discount to the cost of the pharma giant’s drug. Challenging Novartis in the tricky field ...",
-          "publisher": "",
-          "_via": "endpoints.news",
-          "source": "endpoints.news",
-          "_hash": "aa9b0ce3eef70896",
-          "_ageHours": 9,
-          "_inWindow": true,
-          "_score": 44.95662,
-          "_corrob": 0,
-          "_cluster": []
-        },
-        {
-          "title": "Parkinson's cell therapy biotech Aspen and I&I startup Bambusa file for IPOs",
-          "link": "https://endpoints.news/parkinsons-cell-therapy-biotech-aspen-and-ii-startup-bambusa-file-for-ipos/",
-          "date": "Fri, 09 Oct 2026 22:48:48 +0000",
-          "summary": "A Gilead-backed cell therapy maker and an I&I biotech from BioNTech vets are looking to ride the biotech industry's IPO momentum. Aspen Neuroscience and Bambusa Therapeutics are the latest drug developers to ...",
-          "publisher": "",
-          "_via": "endpoints.news",
-          "source": "endpoints.news",
-          "_hash": "4ea6d2238fbdad50",
-          "_ageHours": 5,
-          "_inWindow": true,
-          "_score": 43.301897777777775,
-          "_corrob": 0,
-          "_cluster": []
         },
         {
           "title": "Chai Discovery signs GSK deal to make biologics with AI",
@@ -1156,9 +1144,9 @@
           "_via": "endpoints.news",
           "source": "endpoints.news",
           "_hash": "9b709dd8e49a9d5a",
-          "_ageHours": 16,
+          "_ageHours": 19,
           "_inWindow": true,
-          "_score": 42.50328666666667,
+          "_score": 39.72718333333333,
           "_corrob": 1,
           "_cluster": [
             {
@@ -1177,32 +1165,11 @@
           "_via": "statnews.com",
           "source": "statnews.com",
           "_hash": "3d4fc721fb7d1db9",
-          "_ageHours": 12,
+          "_ageHours": 14,
           "_inWindow": true,
-          "_score": 42.41828666666667,
+          "_score": 39.642183333333335,
           "_corrob": 0,
           "_cluster": []
-        },
-        {
-          "title": "Biotech Stocks To Follow Today - October 9th",
-          "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPeFFvTVFpNmd2dGlvMUs4VWpCeDVwcDlFQjQ5TDFMMkF1VU5IS0tDdUwyV09KeEJTMngyd3ltRFBPQ001dEhzd0stamRqTGFKNS0xczk1eE91MFhKOEVXR0hXajJrR3FGR2gtYlZ4UktWSlpJT1JsMkZ3MngyaVFWeGFGU3haUWttODFjT2g2aTVLUXluN0tlLVlycnQ4ZFB5bDVJ?oc=5",
-          "date": "Fri, 09 Oct 2026 16:25:05 GMT",
-          "summary": "Biotech Stocks To Follow Today - October 9th MarketBeat",
-          "publisher": "marketbeat.com",
-          "_via": "news.google.com",
-          "source": "marketbeat.com",
-          "_hash": "311e3789df08330d",
-          "_ageHours": 11,
-          "_inWindow": true,
-          "_score": 41.906619444444445,
-          "_corrob": 1,
-          "_cluster": [
-            {
-              "source": "simplywall.st",
-              "title": "Top 3 Biotech Stocks To Watch In October 2026",
-              "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNUFFEVW5DLU4tNWRMMTgwRjZXaWRIZGtTOVlVdy1iR042ZXM5TXpQWXJNY1Y5ZUM5SEgzMmlXcmxpeThObkFCRHdPa2xMb0JvRWc0YzV5RzNaaFQzZ09HakVFRTB5T0lubnQ0c1I3QTFzUGF4YnFhS3RQbkRJSlBrakNobGFZWjFBU01kRjdlM2lVSGVhNGhDYTNrYmVySjg4bnlOVnAteFZkbE9RLUF3MzVxY3V2QmJzSkw4cVFVM0xycEXSAcgBQVVfeXFMUHZQNTV0ZGNPM1FhMDY0UnpYdmZydkNBeC1CYTV1TWNtUFZ4bXA0dzk1QUFGSnV5bmFsel9DdXc3NE1uazZLRHgxX1RuVG80amdZUjFkU0hwZ0FRbl8tU3FpVGIxeGdBX0ZMUE1LRVRPZDY1NmtwbmpIMmdJY1VkNWp6TkRVNG5UTHFPN1d1S0llMDd3YTBOMlNSTFU2azJWcHB3SFZJeS1DQWd0RXNzNThiU3d5SUVkZVhYNl9TTFk4QWU2YkJjd2w?oc=5"
-            }
-          ]
         },
         {
           "title": "STAT+: Biotech leader, leading lab leak theorist no longer in consideration for top infectious disease role",
@@ -1213,9 +1180,9 @@
           "_via": "statnews.com",
           "source": "statnews.com",
           "_hash": "45d6e308e2fe6303",
-          "_ageHours": 6,
+          "_ageHours": 9,
           "_inWindow": true,
-          "_score": 41.55300888888889,
+          "_score": 38.77690555555556,
           "_corrob": 0,
           "_cluster": [
             {
@@ -1234,9 +1201,9 @@
           "_via": "statnews.com",
           "source": "statnews.com",
           "_hash": "6d5bbf9c0e6f1475",
-          "_ageHours": 7,
+          "_ageHours": 10,
           "_inWindow": true,
-          "_score": 40.946064444444445,
+          "_score": 38.16996111111111,
           "_corrob": 0,
           "_cluster": [
             {
@@ -1248,16 +1215,16 @@
         },
         {
           "title": "Did AI Discover A New Gene-Editing Tool? The Anthropic Controversy Explained",
-          "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxONzNnM3BlbVByLUtaVDVpc0ZHNW4zSTNFV05oZVI0MnQyVVBnVm9mMEpSVFZDZ2U4V3c2TU5TUTJaQTBOaWZSR2x3V19SbUQ0M0xLX3pFdEFQU0M2eWhVeUF5eWNkUTRlY1R2SW52SmxGYk01Z0M4SUR4SjhIUFdyc0RkUm9yc3gyd0Q0V1NLQ1lQNWVXU1VpVGFBSmJKcGlwVWt1eUpMRDZjb1lZdDNZQ0l5TWw2c2I4Q1drZE5iMmVsX1RqV2ZfN9IB0AFBVV95cUxOZ1Rjc1g1ZC1QbjQ0X3h2VjdhNy1ENno5RXdhV1libWlUUEhwUVFDaGJrem8xd1M3VnM3QVpHYWwtUVNQRF8tN3RjU210cld1bU5hSFJPM3JXb2hBXzVOaEZVZXE5M3EtazNmRlVlNm4teWJIMFU4SlVyVHZwcXY2eG40ZkZPeVJVRHcyMGRkR1Q2RHJCczlGSlU0T2lEa1lUX0poSHN3WVhlZGlwYVI3UW93MUJjTURsQk5uUnZ1XzVNNmQtdXF5Wk9zRkVFQkdx?oc=5",
+          "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxONzNnM3BlbVByLUtaVDVpc0ZHNW4zSTNFV05oZVI0MnQyVVBnVm9mMEpSVFZDZ2U4V3c2TU5TUTJaQTBOaWZSR2x3V19SbUQ0M0xLX3pFdEFQU0M2eWhVeUF5eWNkUTRlY1R2SW52SmxGYk01Z0M4SUR4SjhIUFdyc0RkUm9yc3gyd0Q0V1NLQ1lQNWVXU1VpVGFBSmJKcGlwVWt1eUpMRDZjb1lZdDNZQ0l5TWw2c2I4Q1drZE5iMmVsX1RqV2ZfNw?oc=5",
           "date": "Fri, 09 Oct 2026 09:52:29 GMT",
           "summary": "Did AI Discover A New Gene-Editing Tool? The Anthropic Controversy Explained NDTV",
           "publisher": "ndtv.com",
           "_via": "news.google.com",
           "source": "ndtv.com",
-          "_hash": "989bb7bd5b08c7bd",
-          "_ageHours": 18,
+          "_hash": "73ff5feb9bf6e254",
+          "_ageHours": 20,
           "_inWindow": true,
-          "_score": 40.36328611111111,
+          "_score": 37.58718277777778,
           "_corrob": 2,
           "_cluster": [
             {
@@ -1271,12 +1238,64 @@
               "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOMVpvVUdaNHNkVlZNX2R3dnhLaFJwS0RiN2ZNdm9WUkt2NndyVjhCcnljMVBIaVhiNm82bklVcG93amNnOHFRb2d6cWdfXy1Db0l6amFUdFdqY2hjb1R5Tk5kdklkVzY3WnNZRW9RRlo1cEdRY0ZKT2pDdFhrM1VYV0ppdFFuSzRvaTNkRUk1eFFweEdrVTc1aUozUU5PNDREeTVaOHRpMVUxSVB0OXhBRW1QLW80NDdpbDBV?oc=5"
             }
           ]
+        },
+        {
+          "title": "STAT+: Pharmalittle: We&#8217;re reading about a setback for Argenx, Lilly suits over copycat versions of an obesity drug, and more",
+          "link": "https://www.statnews.com/pharmalot/2026/10/09/pharmalittle-were-reading-about-a-setback-for-argenx-lilly-suits-over-copycat-versions-of-an-obesity-drug-and-more/?utm_campaign=rss",
+          "date": "Fri, 09 Oct 2026 13:17:20 +0000",
+          "summary": "The FDA flagged a potential safety signal after four patient deaths in a trial testing a schizophrenia drug, Argenx faces an unusual setback, and more pharma news.",
+          "publisher": "",
+          "_via": "statnews.com",
+          "source": "statnews.com",
+          "_hash": "d27de6f2e5ce143e",
+          "_ageHours": 17,
+          "_inWindow": true,
+          "_score": 37.00135,
+          "_corrob": 0,
+          "_cluster": [
+            {
+              "source": "statnews.com",
+              "title": "STAT+: Argenx sees unusual setback with failure of late-stage study of drug for autoimmune disease",
+              "link": "https://www.statnews.com/2026/10/08/argenx-autoimmune-disease-study-sjogrens/?utm_campaign=rss"
+            }
+          ]
         }
       ]
     },
     "energy": {
       "name": "Energy",
       "candidates": [
+        {
+          "title": "‘World-first’ 1 keV fusion milestone set without lasers or superconducting magnets",
+          "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxQUkdtWXMtX3ctSUk5WDIzdUZWTzFOelZQVFlCVmY5NVV3ZUNxRWIyQTFISXNkckFLcFVWMWlaUEFNQTFZc0VOck1pdHQxVmNzZWhlM0Z3M2tOalMtSlhhQ3FFZlNtU1NYMmJmc0lEd2lrWUJtVU94ZFFNQThUeFYzMmdDMFdqUUE4Q0Jwb0FOTUZQQkRwVkdEbmppVlFEQQ?oc=5",
+          "date": "Fri, 09 Oct 2026 14:10:00 GMT",
+          "summary": "‘World-first’ 1 keV fusion milestone set without lasers or superconducting magnets Interesting Engineering",
+          "publisher": "interestingengineering.com",
+          "_via": "news.google.com",
+          "source": "interestingengineering.com",
+          "_hash": "d91497daa2dcc9cf",
+          "_ageHours": 16,
+          "_inWindow": true,
+          "_score": 64.87882194444444,
+          "_corrob": 3,
+          "_cluster": [
+            {
+              "source": "nbcrightnow.com",
+              "title": "Tri-Cities picked for Avalanche Energy’s first fusion machine plant",
+              "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxOMjJhR3hDWEJfVXV5VWJ2UWJNbXU3Y1Q1U0VlMmdwYVNBWkx4RVJ4Z21DWldwczRtUzhqLUdydkQ5SllJUHhtbDRGeWNOa3pLS3BwcXpTM2JERnVYbmVnc1d1LUM3d3ltQ0E0R2hhVVNTSnF2a24xaHFLblhheWRLdHhmcnhNRnJSU3lEamJ5aW1ncFJrcEJ0bm5DdEhiMEc5RmhLbkVSVzdEaVg0SW9PclJfYmFSNk42eFR1VXR2QjBfU0RyYnBlelkzMDczbFNoYkkzaW1WbHdBUk1SWTZnalNOOGU?oc=5"
+            },
+            {
+              "source": "globenewswire.com",
+              "title": "General Fusion Achieves World-First 1 keV Electron Temperature Milestone on its Path to Commercial Fusion Power",
+              "link": "https://news.google.com/rss/articles/CBMikAJBVV95cUxNZ3R6YXdZeG9UOXFjal93ejZsR0FKOWlqcng5SS0xVGtXZDYyNkpBaWlBblNzT1ZzUVJVRFBvcTU4WjdWckZFV0czMWFyTDhidVI3QkdSTlpTLVdPVF81bHYzbE5iQTFnRVBNVEQ3eHdBNFJTUGx5NW1vZ3BYc2pudjIzQ3k2bzZJUEtBa1BWSFd5RFRiRngzMmdORmJJNzBVbHhJMjh3NEM5RllrRnc1bjJhLUt4TVJEOE05SGcwSGM3cHBxQkJXTkpKWjgwWFNybnVFMHJaSExWWDZPaVJzZ3lCX3ZsLTFOLVFqTzY0dV9fSXB1czltSkRsaGZic3BGRGE1R01qRWFPcDZLSEZ2NA?oc=5"
+            },
+            {
+              "source": "quiverquant.com",
+              "title": "General Fusion Achieves World-First 1 keV Electron Heating in LM26 Fusion Demonstration with UKAEA Collaboration",
+              "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxONnFtSDRUU1l1Z25vaTlZWlBVQWNNQmpkS1RxT3U2eGVfbVJQRkZoT0lETzdKNXZ1eVlWOFNwMHdlcVhESm9lYzQwb1lmTkNtRXRlZXBsaFRZYWEzalRhUkxWcEZuOHZxYWh3REJBdE56RlZlTFhkQzdqM2FGN29hWEFhM0J2TnlXZzE1MTBQamRTaHZzLTkwVEU5TXZxb0J4aUdVcy0yRkJ0ZW9CMVAzSVAyMGZPRXBUX3hsZkdfcEJORGVNUXpKLUhaOEdSWllxOUJjSklqMUhwUmg0WXc?oc=5"
+            }
+          ]
+        },
         {
           "title": "Green Taxonomy paradox ahead of COP31: ‘Nuclear energy and fossil gas are unacceptable’",
           "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNOUQzMWNyZElpcjlhbWdybHExSUIzbFVVcGNZZVhlZXQyZEQwRjZlQjBpNzkxLU0zSXhydHFKazJVdGFNWDhRdlh4MTlwWmJmRzBjR2ttb1dqUXVpU0VmcVJjQ21XUmg2bEtHb3VTWUluaGZUVnRCWDROdWRUZzR4QldWRE8tejBTSHZuSkhLZ3F6a3VpTG9SaUVhUE9wU0lHV3NSTm5URXdnUjg3MG5meTlqam1VMVU?oc=5",
@@ -1286,9 +1305,9 @@
           "_via": "news.google.com",
           "source": "bianet.org",
           "_hash": "2bae39d375d803ee",
-          "_ageHours": 1,
+          "_ageHours": 3,
           "_inWindow": true,
-          "_score": 67.48812444444445,
+          "_score": 64.71215527777778,
           "_corrob": 4,
           "_cluster": [
             {
@@ -1322,9 +1341,9 @@
           "_via": "news.google.com",
           "source": "dredgewire.com",
           "_hash": "245e9fc79370b386",
-          "_ageHours": 6,
+          "_ageHours": 9,
           "_inWindow": true,
-          "_score": 61.964235555555554,
+          "_score": 59.18826638888889,
           "_corrob": 4,
           "_cluster": [
             {
@@ -1355,85 +1374,17 @@
           ]
         },
         {
-          "title": "GlobalFoundries Tops Out Dresden Fab Expansion and Unveils FDX Fusion",
-          "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOYUY0djNCaE9pNExyWHZLeE40dWgtd2V1bFB2dzZtTS05OG0xMXQzYTdNaW53WmhybTVxRjExVDU1Z0tqdE9DTDBiUVFHRGpKaUh1a3pRbDRBeFBWTkVORXpZaXhzcEdqdHktUTF5bHlDLXl4YkVGTkplM0VPajg5amNpSWZPdUFER3IwWHFHbW5UdjNBblE?oc=5",
-          "date": "Fri, 09 Oct 2026 21:07:01 GMT",
-          "summary": "GlobalFoundries Tops Out Dresden Fab Expansion and Unveils FDX Fusion Unite.AI",
-          "publisher": "unite.ai",
-          "_via": "news.google.com",
-          "source": "unite.ai",
-          "_hash": "53257f07f8685a47",
-          "_ageHours": 6,
-          "_inWindow": true,
-          "_score": 58.60506888888889,
-          "_corrob": 1,
-          "_cluster": [
-            {
-              "source": "gf.com",
-              "title": "GlobalFoundries marks Dresden expansion milestone, announces next-generation platform for Physical AI",
-              "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNa2hMSGxRVHhWVnBiQ0loZ3E2NHV0aGt1RGZRVno2cTNuaGIybXVfS0tuaGg1Tnc2TWdMck44N1R6cndTd1lVbEk3MlBPeHRPVzFjOVNiY01rUHFmU200TXI4QkZEQjRXVUhRTDRfMXVsbDlyQVpYTVRtdUFDZk9Ua01oU08wUTZYei1VZUx6Rk1obFhBZExOTXFTN2hrWW8yQkJ2YkpUdHRfWlF0eFVWeFU0NmQ1dTFvMjNLQ21uVjZjUk9ILXFXRWUzS0l4VE93MEhV?oc=5"
-            }
-          ]
-        },
-        {
-          "title": "‘World-first’ 1 keV fusion milestone set without lasers or superconducting magnets",
-          "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxQUkdtWXMtX3ctSUk5WDIzdUZWTzFOelZQVFlCVmY5NVV3ZUNxRWIyQTFISXNkckFLcFVWMWlaUEFNQTFZc0VOck1pdHQxVmNzZWhlM0Z3M2tOalMtSlhhQ3FFZlNtU1NYMmJmc0lEd2lrWUJtVU94ZFFNQThUeFYzMmdDMFdqUUE4Q0Jwb0FOTUZQQkRwVkdEbmppVlFEQQ?oc=5",
-          "date": "Fri, 09 Oct 2026 14:10:00 GMT",
-          "summary": "‘World-first’ 1 keV fusion milestone set without lasers or superconducting magnets Interesting Engineering",
-          "publisher": "interestingengineering.com",
-          "_via": "news.google.com",
-          "source": "interestingengineering.com",
-          "_hash": "d91497daa2dcc9cf",
-          "_ageHours": 13,
-          "_inWindow": true,
-          "_score": 57.65479111111111,
-          "_corrob": 1,
-          "_cluster": [
-            {
-              "source": "nbcrightnow.com",
-              "title": "Tri-Cities picked for Avalanche Energy’s first fusion machine plant",
-              "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxOMjJhR3hDWEJfVXV5VWJ2UWJNbXU3Y1Q1U0VlMmdwYVNBWkx4RVJ4Z21DWldwczRtUzhqLUdydkQ5SllJUHhtbDRGeWNOa3pLS3BwcXpTM2JERnVYbmVnc1d1LUM3d3ltQ0E0R2hhVVNTSnF2a24xaHFLblhheWRLdHhmcnhNRnJSU3lEamJ5aW1ncFJrcEJ0bm5DdEhiMEc5RmhLbkVSVzdEaVg0SW9PclJfYmFSNk42eFR1VXR2QjBfU0RyYnBlelkzMDczbFNoYkkzaW1WbHdBUk1SWTZnalNOOGU?oc=5"
-            }
-          ]
-        },
-        {
-          "title": "New to The Street Signs American Fusion (OTCQB: AMFN) to 12-Month National Media Series",
-          "link": "https://news.google.com/rss/articles/CBMihwJBVV95cUxOTWtsYjRzejYydXZEcEdXQjhhT2tIczV6SmgxLUFzRWZKREE0Yl9FRk1QZWliRWFTRDRIU2k0MzZaMHRoeTRNS3NnclhJaG5HdTFLRnEyeGlNUEpQNksxcjdRV1h6aXFMMThRTkgtSVNabklaYTUyNmNpcTJTNU1CVEJVZWt1TEp4YjNvOVB6b1ljaU9HcGdaSzN1WkkyZTFSYThjUktyMzVlbVQzeGlxOUpmYmJYSm5GUzJMLWo4UDBlekg1Q3dnVUtfNy0yaWtrak5PdHlsLVhjemxqVjU0bGlHOXVVYjkxZk9KQTBSNjNaT2d2OXR5d1hQYzJaWWxxRFpJSWRBcw?oc=5",
-          "date": "Fri, 09 Oct 2026 18:41:49 GMT",
-          "summary": "New to The Street Signs American Fusion (OTCQB: AMFN) to 12-Month National Media Series The Batesville Daily Guard",
-          "publisher": "guardonline.com",
-          "_via": "news.google.com",
-          "source": "guardonline.com",
-          "_hash": "4267518e1200f1ad",
-          "_ageHours": 9,
-          "_inWindow": true,
-          "_score": 55.18506888888889,
-          "_corrob": 2,
-          "_cluster": [
-            {
-              "source": "itemonline.com",
-              "title": "New to The Street Signs American Fusion (OTCQB: AMFN) to 12-Month National Media Series",
-              "link": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxOLUYwRW5KMk9uRVg2QjZ4Q1RpM2dGY0ZQUW5RQTZrRUVYcVJFYjhfWndXVEpYQ19ESDVNU25qeDRkY1hMcndiWm9uYkgtZGNOczVIOTlQZ0RQS0JPM3NEc1hQU3BLdS1nQXlIN0NCeDFYZHpDMTNZUkozUUhrXzNqREhCLU1aTm1mVGhWcEltYWYyUWpQcnIwT0UzLXdlNmcxa21CRVg4MXZOWnRBaVMtcTQ0N0huNndlbnNCRnp2ZlNHU3QwREZMOS1KcTN3QTJyQjQ5Z2dLdS1NNWpQazViOVBBTVAyQUhsUDVjRXlWWHJkRUhPSU4yTWJWOA?oc=5"
-            },
-            {
-              "source": "finance.yahoo.com",
-              "title": "New to The Street Signs American Fusion (OTCQB: AMFN) to 12-Month National Media Series",
-              "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQb0swTHNyTHh3T205VUM5cHExdERTYVRhNzRONmNMbXVEUGJLT3FIdHBiQjBUZVo4QjB1LUM5VGQ4OHRzVEtDVWcwR0EtaW9nZHNvSXBZaDVhVDRZNFlwVVBPTGZQbXEtMUVsMXZfSWdFYURheWNMNlZZMFpieE0zUjJUbTItV3l2YngyMi1QN0hsbjBLWlE?oc=5"
-            }
-          ]
-        },
-        {
           "title": "General Fusion reports electron temperatures exceeding 1 keV - American Nuclear Society -- ANS",
           "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPemJUUmotdk9jREI4VGFjNHdfQ0YzUVA5ZHZtSWhtTmxUbXVBeHZXeVhFWkk0eTQ2R2JkYXhpU3lNc2NWTjF6STY2dnItWGNXYmxJSUlFd09fSXdfX3FwYUFwc0tUU3RoNWM5VC0xMUVuN2hSdEZTSko0RDFvbkhmUUVLN0g3RWs4WWZER1poR3N3M0w0MFFzczkwNWZIRktm?oc=5",
-          "date": "Fri, 09 Oct 2026 18:07:59 GMT",
+          "date": "Fri, 09 Oct 2026 23:07:59 GMT",
           "summary": "General Fusion reports electron temperatures exceeding 1 keV American Nuclear Society -- ANS",
           "publisher": "ans.org",
           "_via": "news.google.com",
           "source": "ans.org",
           "_hash": "d29d05c82f7a4fa3",
-          "_ageHours": 9,
+          "_ageHours": 7,
           "_inWindow": true,
-          "_score": 54.62118,
+          "_score": 56.84521083333333,
           "_corrob": 2,
           "_cluster": [
             {
@@ -1449,6 +1400,53 @@
           ]
         },
         {
+          "title": "GlobalFoundries Tops Out Dresden Fab Expansion and Unveils FDX Fusion",
+          "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOYUY0djNCaE9pNExyWHZLeE40dWgtd2V1bFB2dzZtTS05OG0xMXQzYTdNaW53WmhybTVxRjExVDU1Z0tqdE9DTDBiUVFHRGpKaUh1a3pRbDRBeFBWTkVORXpZaXhzcEdqdHktUTF5bHlDLXl4YkVGTkplM0VPajg5amNpSWZPdUFER3IwWHFHbW5UdjNBblE?oc=5",
+          "date": "Fri, 09 Oct 2026 21:07:01 GMT",
+          "summary": "GlobalFoundries Tops Out Dresden Fab Expansion and Unveils FDX Fusion Unite.AI",
+          "publisher": "unite.ai",
+          "_via": "news.google.com",
+          "source": "unite.ai",
+          "_hash": "53257f07f8685a47",
+          "_ageHours": 9,
+          "_inWindow": true,
+          "_score": 55.829099722222225,
+          "_corrob": 1,
+          "_cluster": [
+            {
+              "source": "gf.com",
+              "title": "GlobalFoundries marks Dresden expansion milestone, announces next-generation platform for Physical AI",
+              "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNa2hMSGxRVHhWVnBiQ0loZ3E2NHV0aGt1RGZRVno2cTNuaGIybXVfS0tuaGg1Tnc2TWdMck44N1R6cndTd1lVbEk3MlBPeHRPVzFjOVNiY01rUHFmU200TXI4QkZEQjRXVUhRTDRfMXVsbDlyQVpYTVRtdUFDZk9Ua01oU08wUTZYei1VZUx6Rk1obFhBZExOTXFTN2hrWW8yQkJ2YkpUdHRfWlF0eFVWeFU0NmQ1dTFvMjNLQ21uVjZjUk9ILXFXRWUzS0l4VE93MEhV?oc=5"
+            }
+          ]
+        },
+        {
+          "title": "New to The Street Signs American Fusion (OTCQB: AMFN) to 12-Month National Media Series",
+          "link": "https://news.google.com/rss/articles/CBMihwJBVV95cUxOTWtsYjRzejYydXZEcEdXQjhhT2tIczV6SmgxLUFzRWZKREE0Yl9FRk1QZWliRWFTRDRIU2k0MzZaMHRoeTRNS3NnclhJaG5HdTFLRnEyeGlNUEpQNksxcjdRV1h6aXFMMThRTkgtSVNabklaYTUyNmNpcTJTNU1CVEJVZWt1TEp4YjNvOVB6b1ljaU9HcGdaSzN1WkkyZTFSYThjUktyMzVlbVQzeGlxOUpmYmJYSm5GUzJMLWo4UDBlekg1Q3dnVUtfNy0yaWtrak5PdHlsLVhjemxqVjU0bGlHOXVVYjkxZk9KQTBSNjNaT2d2OXR5d1hQYzJaWWxxRFpJSWRBcw?oc=5",
+          "date": "Fri, 09 Oct 2026 18:41:49 GMT",
+          "summary": "New to The Street Signs American Fusion (OTCQB: AMFN) to 12-Month National Media Series The Batesville Daily Guard",
+          "publisher": "guardonline.com",
+          "_via": "news.google.com",
+          "source": "guardonline.com",
+          "_hash": "4267518e1200f1ad",
+          "_ageHours": 12,
+          "_inWindow": true,
+          "_score": 52.40909972222222,
+          "_corrob": 2,
+          "_cluster": [
+            {
+              "source": "itemonline.com",
+              "title": "New to The Street Signs American Fusion (OTCQB: AMFN) to 12-Month National Media Series",
+              "link": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxOLUYwRW5KMk9uRVg2QjZ4Q1RpM2dGY0ZQUW5RQTZrRUVYcVJFYjhfWndXVEpYQ19ESDVNU25qeDRkY1hMcndiWm9uYkgtZGNOczVIOTlQZ0RQS0JPM3NEc1hQU3BLdS1nQXlIN0NCeDFYZHpDMTNZUkozUUhrXzNqREhCLU1aTm1mVGhWcEltYWYyUWpQcnIwT0UzLXdlNmcxa21CRVg4MXZOWnRBaVMtcTQ0N0huNndlbnNCRnp2ZlNHU3QwREZMOS1KcTN3QTJyQjQ5Z2dLdS1NNWpQazViOVBBTVAyQUhsUDVjRXlWWHJkRUhPSU4yTWJWOA?oc=5"
+            },
+            {
+              "source": "finance.yahoo.com",
+              "title": "New to The Street Signs American Fusion (OTCQB: AMFN) to 12-Month National Media Series",
+              "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQb0swTHNyTHh3T205VUM5cHExdERTYVRhNzRONmNMbXVEUGJLT3FIdHBiQjBUZVo4QjB1LUM5VGQ4OHRzVEtDVWcwR0EtaW9nZHNvSXBZaDVhVDRZNFlwVVBPTGZQbXEtMUVsMXZfSWdFYURheWNMNlZZMFpieE0zUjJUbTItV3l2YngyMi1QN0hsbjBLWlE?oc=5"
+            }
+          ]
+        },
+        {
           "title": "‘You bring the project. We build the workforce’: Fusion Rise launches project-to-career initiative",
           "link": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxNVUNHMldrdmJRVy1MdW4xb19uUTcwRG8xYjM4TmNuTGVJSjliaE00aElsUGlrVEZmU2hEcTdRNTBNWmo2VWpOMVpDM3FOSFE1Q0ZWQnBneVM5cFp5VjB5dVNleHNVWmh6Z3c4YnJpLUg5RmJNRy1LUEpobTRGeWJ5eXNqbG9XYkljSFF4Ym5ldFp0c280Q0VMTFNxbHFaMDZxQjAtN3E0NVhyS2JtMjhyMkd4bm52MVZmcC1qaEdua2xLSXQ0aGMzNkJwYU83YVpLQ05obDhXVHRSVEdFSTdreFJKZEpwaFNlR0E?oc=5",
           "date": "Fri, 09 Oct 2026 11:37:51 GMT",
@@ -1457,9 +1455,9 @@
           "_via": "news.google.com",
           "source": "canada.constructconnect.com",
           "_hash": "cfc193fa994b210b",
-          "_ageHours": 16,
+          "_ageHours": 19,
           "_inWindow": true,
-          "_score": 49.11895777777778,
+          "_score": 46.34298861111111,
           "_corrob": 1,
           "_cluster": [
             {
@@ -1478,32 +1476,11 @@
           "_via": "utilitydive.com",
           "source": "utilitydive.com",
           "_hash": "235f892cd60fe56d",
-          "_ageHours": 13,
+          "_ageHours": 16,
           "_inWindow": true,
-          "_score": 46.95173583333333,
+          "_score": 44.17576666666667,
           "_corrob": 0,
           "_cluster": []
-        },
-        {
-          "title": "JAIF estimates economic impact from nuclear power plants",
-          "link": "https://www.world-nuclear-news.org/articles/jaif-estimates-economic-impact-from-nuclear-power-plants",
-          "date": "Fri, 09 Oct 2026 13:52:48 GMT",
-          "summary": "The economic impact generated over the lifecycle of a single 1,200 MWe nuclear power plant is about JPY4.3 trillion (USD27.2 billion), according to the Japan Atomic Industrial Forum.",
-          "publisher": "",
-          "_via": "world-nuclear-news.org",
-          "source": "world-nuclear-news.org",
-          "_hash": "7c6c18fd9e3df306",
-          "_ageHours": 14,
-          "_inWindow": true,
-          "_score": 45.36812472222222,
-          "_corrob": 1,
-          "_cluster": [
-            {
-              "source": "sphericalinsights.com",
-              "title": "Vietnam AcceleraRtes Nuclear Power Push as Rising Electricity Demand Reshapes Energy Strategy - Expert View by Spherical Insights",
-              "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQeUJyT2FJZ2hYbVhCbktrelpJNkRxc2J3ZkRUV2hrcnU3WjdXU2EwVW9RUU1iMnhLVzJVeExIZXRFU2xpNHdRTFJiVE1VaTUzcllWTi1oMmhuclJ0cFphbTR1YlVKanBLVkdmOUV3NTlmUTB6NGxkbkZ1ZUpONWsxdU53Nk5DdkItVEs2Wlc2UnhHNk1pVTN1cHRnZ1lxVk5ib2VXZll5ZjYzVllabTNjemI5bDFtNVl2Ylhsc1hVZEpiU2Q3cXk2U0VKd0Rndw?oc=5"
-            }
-          ]
         },
         {
           "title": "Master AI Chip Principles With New IEEE Design Program",
@@ -1514,9 +1491,9 @@
           "_via": "spectrum.ieee.org",
           "source": "spectrum.ieee.org",
           "_hash": "b3171856d469b315",
-          "_ageHours": 10,
+          "_ageHours": 12,
           "_inWindow": true,
-          "_score": 44.48868,
+          "_score": 41.71271111111111,
           "_corrob": 0,
           "_cluster": []
         },
@@ -1529,15 +1506,41 @@
           "_via": "news.google.com",
           "source": "einpresswire.com",
           "_hash": "eb2eed5039f9bc88",
-          "_ageHours": 11,
+          "_ageHours": 13,
           "_inWindow": true,
-          "_score": 42.488124166666665,
+          "_score": 39.71215527777778,
           "_corrob": 1,
           "_cluster": [
             {
               "source": "klcc.org",
               "title": "Eugene Clean Energy Fund supporters promise millions for climate projects, while critics warn of higher retail prices",
               "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQNFlJbU5jdlFldGZVbjltMWl2eUp5NkFvNDZxUXRFWDRuQjdOWHZJMDhUeWJta0xjWHhGVGVRMFBWQ2EtSWREdnY0RlFOLTc2QU9OXzRRODRFUXVQdkM4dmZHM0ZhQmJ3V1JJUFlyRDRBd0J6MXB2QWhXTURSblVZQVFpbXFKZWJMeTRCdFFjZTJGMjlkb2ktQjdXY1E1SWxvcklJU2RtSV9iWWptWHNzS3RFcw?oc=5"
+            }
+          ]
+        },
+        {
+          "title": "Reducing tritium permeation in nuclear fusion applications",
+          "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPX1U3NTJ4QnZEODB0OGxSVjE4SWlZT3NZazdkdlVTTUg1UHJxeS1lM1lSUS16am9VNnFxNm1henFTRUNHVTJMdU9RRTB0UV9yU0V1LUlJXzZIdDFBUWNGczQwMjNtVktoWG8ydW1QQjhCTno5MVV3NFBQUmpiTVVBWldEakFCZjJGZk14aF90aVFIQQ?oc=5",
+          "date": "Fri, 09 Oct 2026 04:11:02 GMT",
+          "summary": "Reducing tritium permeation in nuclear fusion applications AIP.ORG",
+          "publisher": "aip.org",
+          "_via": "news.google.com",
+          "source": "aip.org",
+          "_hash": "833ad4e9328eb49a",
+          "_ageHours": 26,
+          "_inWindow": true,
+          "_score": 37.89604416666667,
+          "_corrob": 2,
+          "_cluster": [
+            {
+              "source": "interestingengineering.com",
+              "title": "US nuclear fusion technology advances as high-power gas lasers get DOE funding boost",
+              "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNLWl5dFZxODE3c1MydC16MG45VkhNWEVYMGdIS1dHVFBSb0R2OXMxd3h0SnFYRU9naGFoR096a2FyYnREbDR0VmlRbFRZX3lOX1RYVEg2Ri10S3JJRU1CVkRuNDljd2NCOEVEdmctSXg5WkdHSEd0OXlTc29DeWpKcmxGQ2JvZksy?oc=5"
+            },
+            {
+              "source": "deutschland.de",
+              "title": "Germany invests €500 million in nuclear fusion",
+              "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOaUNybjR1SFRPWG81WFNJR2ZTVkVnemdwRDV6RXk3VXhCRmdjSkpsamtBRmMxRDhFOXV5X3VCYVl6Y2pvekNFdXVZM0FJVG5DSjlWMzBmVGNadENDQzE2UVVfS0Z3aUdha0ZLT0lCZmpFN05vdEZyX2haYTdSOHlESjlydERVeS10Y1E?oc=5"
             }
           ]
         },
@@ -1550,9 +1553,9 @@
           "_via": "utilitydive.com",
           "source": "utilitydive.com",
           "_hash": "ed0a1dba91e79968",
-          "_ageHours": 14,
+          "_ageHours": 16,
           "_inWindow": true,
-          "_score": 40.30618027777778,
+          "_score": 37.530211111111115,
           "_corrob": 0,
           "_cluster": []
         }
