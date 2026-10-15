@@ -1,129 +1,58 @@
 {
   "date": "2026-10-15",
-  "generatedAt": "2026-10-15T03:30:35.347Z",
+  "generatedAt": "2026-10-15T05:03:20.475Z",
   "pillars": {
     "ai": {
       "name": "Artificial Intelligence",
       "candidates": [
         {
-          "title": "OpenAI sued by 8 states over ChatGPT safety concerns",
-          "link": "https://www.cnbc.com/2026/10/14/openai-sued-by-8-states-over-chatgpt-safety-concerns-.html",
-          "date": "Wed, 14 Oct 2026 21:09:20 GMT",
-          "summary": "OpenAI is facing mounting scrutiny over its safety and security practices, including around how the company is working to protect children.",
-          "publisher": "",
-          "_via": "search.cnbc.com",
-          "source": "search.cnbc.com",
-          "_hash": "983b4f862f336da2",
-          "_ageHours": 6,
+          "title": "Anthropic Q3 Revenue Hits $16.8B, Jumps 45% Pre-IPO [2026] - https://tech-insider.org/",
+          "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1PdGtaZzlIUWp3N19UY2xDODhDd0E4Q0VwLTRCeG5NUnhPZmlySE5oUjRzc2pTSVpldnloUEM4SXlseS1INHpiNUIxLWt0aXlhcHFLTjVsakhUWnRYZnFVcl9udXdPb3Rnd3NWRjRPMnBwcUU?oc=5",
+          "date": "Thu, 15 Oct 2026 04:53:55 GMT",
+          "summary": "Anthropic Q3 Revenue Hits $16.8B, Jumps 45% Pre-IPO [2026] https://tech-insider.org/",
+          "publisher": "tech-insider.org",
+          "_via": "news.google.com",
+          "source": "tech-insider.org",
+          "_hash": "1ae094b91718cb44",
+          "_ageHours": 0,
           "_inWindow": true,
-          "_score": 96.64552277777778,
-          "_corrob": 11,
+          "_score": 72.84269305555556,
+          "_corrob": 5,
           "_cluster": [
             {
-              "source": "kark.com",
-              "title": "Arkansans react as attorney general sues OpenAI over ChatGPT safety concerns",
-              "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxObkp2akd1OU13YXR2OTBiZTZHVjRwZDVvSF9lNTFtb2xEUXJZVGVNTUljM0p5S052a2s2R18yeVUxRXpleTE5Z0tiX1ViOHl0UVpLQWVCa2VDU1F0VjlhLU1uOVNtTDB6Nmk1RjFxbWMwRHNDcEdRWGpRZFBmVkxtWkJwNEZUTWdBby1NNl82cG5pdC1lM041MWtUcFY5MVdKVWpXLWRXQnlNbVNUX2FtTUszNVI?oc=5"
+              "source": "tech-insider.org",
+              "title": "NJ AI Data Center Sued Again: 1,013 Homes in Class [2026] - https://tech-insider.org/",
+              "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQMVAteTVLSnp1YTk5aDV6bV9zTUZLZ29nZ0hGMHM4NmFLallpUl9EWjVEMXNQUm05Z1VRbXFuOXlwWE8yMzZYeWNDYWZ5eWhMZlBMOXFxSzQ3YUxMQWs4eHdmUE1iOGppUGJva0ZTR1JObl83cTBPWmlBc2pJOGljQWpR?oc=5"
             },
             {
-              "source": "thegazette.com",
-              "title": "Iowa sues OpenAI over ChatGPT child safety",
-              "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOcFNXQjh6a0hYSjJoMEdDajg5ejN4QUFKNEJqakpzTjJvQmhrVWtlX2c3QnExdFl4OFpmY3BONFBuZXc2bTh4TE5HZXkySm43TXJ0WnNSUlVhOW9pdWhFY0NhZjRXTnVkQzhRWnlCYmN5MEpEcFBZQVA2VDB6emlVaHY0XzduSTNhU3B5ZDVPT2JoN18wV0Uwc1I5OTByeGNEYXBwM2NpTWpJSFNwSjFKaEgzeXB5b1VKQTBHbHNCQThydWV4VmNHd3Nn?oc=5"
+              "source": "investors.com",
+              "title": "Tech Futures Fall; Anthropic Revenue Jumps, But Not Enough?",
+              "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxObkt6ekRhM01GYllSNng3cnhNQjJHZlBSVjZ0d2d3aElqTFpSd2hWOWxOdG54ZHhSa0wtSUFtX2JLSXcxRnF6TVNtcUV1ZXhlb2ZqdHZ6YzFlb3BVV0pmaEVlZzgyU1RXZDB5c3RFNEpmT3ZsZXI1NjBKcDVCQjRmUExrakhTWDFJODI2bHlfV29nZXlJYTdMcFlpLVhXbEFta0xMSlQyM2FiYlNDOXNWM2s4NVdCUWp0eUlJQkpoUVFEQ0FpM2JnUjlCTFVDMDVxLUtsUUZ3?oc=5"
             },
             {
-              "source": "wowktv.com",
-              "title": "West Virginia Attorney General J.B. McCuskey announces lawsuit against OpenAI, citing safety concerns for W.Va. children",
-              "link": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxQR05JekZObmJZQ3NFcVFMOVl1TURGSVRnLVU2Z0RIWDhVbzlrRHhtZ21Vc2xQSW4taXVBRklYM2ptSzMzTHdRRU9Wc3lYRE91b2FWQTBBal80TTA3YkpYcVVYQ3lJVjZaZmNaeTd3bkdYb01sWUlHc0FPM3RpT2Nfc0xFVnVZM2djajJwQWItNi04ZXVhWnc1RFBleXlEZXdiOXpVdlhzMmREVkFKdVdWWVRzakhZUUpLRDV1ckhmTFRNZlR0WkxQaExoX0FTaWVzc0dXUWRWTnMyUUNiN2prT1RXN1A4dHlZWHFyb0FYRmgzQdIB9wFBVV95cUxNYmxaNnJqTzJneGduYjZLRUtHQ084Q3NfbEhmdWJia1p1dkNOWlAtbnQtQU9tSHJQc3Q1V3hqUzBNZWl6eW5ZTVk4RUo2R0JydHpqeGlfOTlQeFBnNWpRdFN2dnhkQlpYTE9sWm5GV3JfOTlPbXVnMkFiWUlTRlhCa3ZxMlNPemFnZ2RfbXJCekNkRjZvWnFiRi12cnBRbTE1T3hvT05QY2tiNG5ET29TelhWRG9RbE1TclRENllkaVhYRHpVWlJaZnhJOThMUlJINUMzVWUzZU94UUJHYlNYZHJMNGo1a0p3Nno2SkRmYVdSZXMyc1Uw?oc=5"
+              "source": "nytimes.com",
+              "title": "Anthropic Says Revenue Jumped 45% to $16.8 Billion in Third Quarter",
+              "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPTzNSa01ZdlJVSWlCelZQd1ZsNXV5clhHaHE2bHNXbm1HR3dBdEZ0VW8zcVRpN0lxSzJrMDlBN1dKdDNraHM1V1IyWW5iY1MwUjVxQzVlbFpmX3QyRlpVVnVQUzNQN1dRYXFTUVFZOHMxLUtQX3VKM3ppdzBzcGhKSEktMzQ2Zw?oc=5"
             },
             {
-              "source": "kcci.com",
-              "title": "Iowa attorney general sues OpenAI, alleging ChatGPT harms children",
-              "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNWmJON0dORE9lLTRGTmlyNzBfZnZXZGszZjl0RXdja0I0QnRFczFuaG1fc1EtdVZWZ21xbzBoYTJ5NUMwX29CY1NMRV9teWQ5bkNQYnZRNzhjcUZKNWhVMGQ4aGNkdVc2WFNEX0dPX1JndGlsS2E1YkZMWU5XTmdxM1plX2liem0wY3Z4T2xLeUw1dUJudmNlRVZTSTZ2NTFHWHBBOWhn?oc=5"
+              "source": "bloomberg.com",
+              "title": "Anthropic Revenue Jumps to $16.8 Billion in Quarter Before IPO",
+              "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPQU84aFhKaGNhRmkxOW4xRGJOZ0hBZC1rcFR5R2YyS2RqTHNaZExvaTg4ckppc2tTaHZUaFRzWmVTY2IxMXlUMFlpT1pBWk1zY1ZtZVpLdHBGZ1AzbEVSS29zMDB2eFQ4Wnhab0RrSnVxUFhkWHBfVVdDUHFIR3FGb05odzJEQ0VlQkF5QzYxYnlSRHZJd055blRMRTJTWXA5U0VWZ1Q5OWZ5VDBTcDJFWHZ3?oc=5"
             },
             {
-              "source": "arkansasadvocate.com",
-              "title": "Arkansas sues OpenAI, claiming company misled consumers about ChatGPT safety",
-              "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPbENDQzlJMExmS0dFeWswcmlaMmFVXzc5RjNkd2RfcEFPVkxtRlNLV0dDdm1xbFd5T1p2WkRxN2ZMTUVleGNGakRJbXBwUFF5aUZuSmNlem1yQ2I4aFBiLUFiVEZLdkhvOHdYUDB3aVdFOFhuMjRHV3RzQmJtVzc2Nl9pbWNGVHFZNkJpUGlKM0JSVWlfRS1NRHhBbEVaS01SNjRsaTRlVVdSVnhOdHFOZWpaOVR2OGc?oc=5"
-            },
-            {
-              "source": "nbcnews.com",
-              "title": "Eight states sue OpenAI over ChatGPT’s alleged harms to users",
-              "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOZGNQSVdYV0tjSzZsZDN3ellzU0lzUGMtMUxlZk5PUnhKZE5hcTVrTWlFTU9POUlfVm1zSzc1S0s2amdFR3dmUHE1Z2JraHE0RDduQ3A4ZFM0bmVaZEJxQnNyMWpMZ1gtVklYX2VFMmhiZXdVVWwtVVBHX1V6N2xrZmwwZl81dDFiZGI5ZE9yeUUtTlRuaU5IUEZiMA?oc=5"
-            },
-            {
-              "source": "idahocapitalsun.com",
-              "title": "Idaho Attorney General Raúl Labrador sues OpenAI for alleged harms of ChatGPT",
-              "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOaE01LUR4RWpGSXJ3c2N5Zl9BeW4wQlFiVk5qckp0WXRtdjFiN2JPQ1JucHBZRk1ZNU11NmlhUzJ1RDBEUzVWUnVpc09JWXZNeVlkSWNkWEhJeDNLTnowR0dVSjdDWHhkVWRja21VYy0yMDE4S1JMOFF1a19sbERob21CX091MGp0T3p0TTBTWnRYdkxoTlBVLWEtMGxIcHdXUmpDTm1TR2hyTEQxTGQxaFBsR3J0N0lv?oc=5"
-            },
-            {
-              "source": "iowacapitaldispatch.com",
-              "title": "Iowa Attorney General Brenna Bird, other AGs move to sue OpenAI in state courts",
-              "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOT2ttYkpZeUstQ2dNOTNKUGZDTzAyU1A2YjRIcVFWUzFhc1M4TFpqTnJCS3plbG8yQkt2NWtsdE45Y1B0SEZ2YlRZWG4yREVhNkYzWGxkOXNKdXYzN1hUWE5taTJsdTVDU25SRVhRMDBaN0k3cVpuRmdfUEYzTElaRW1taFBoaGNKMi1OOUIzQjhMaU84bER1UEtORnMxMWlSa0ZtaXhPUlFKV1BGTUZPTHJWSm5INndyTGdQSW0wNA?oc=5"
-            },
-            {
-              "source": "kmvt.com",
-              "title": "OpenAI deceived parents about ChatGPT safety, Idaho lawsuit claims",
-              "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNNlJUblkxcVQ4X3gtbUxYMmU1TmJHTDQyaEIxVlBnQkZNenpxTFZRVEN4MlZuLTZ3ejdwTWlERXhBZnJNd1JQeHVocW9KdktDMFFsWHl2alhLWFk0cWlDeENfVFBwbVg4OGpURWdrQ1FlcTZTRVplWGM5eXFQWkV5RVRTWjEwV0R4UWVjTl8xdGRXbU9TRjhLa3Bxd1ZMdG8?oc=5"
-            },
-            {
-              "source": "krem.com",
-              "title": "AG Raul Labrador sues OpenAI for deceiving Idaho parents about ChatGPT’s safety",
-              "link": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxPUnoyS3kxT1Y1MmJ5MlEwOW00MFZ0MWJ4M2Q1blpoaUlINkhfMXdWSm1FUlFzbmh1TTNVYTBQekp5a0oxTjBUSGJnb1U5ajRhNHQzZUhYY0VZYlB1TjE0Zzd3Ukt0aXJNaUJFVmxtS0c1bldBSkt6ZzctZktjRktobG9OdktjdWdid0tfcmJMQlJIQTVLdjlXZmxkTWpwdFZTaWtXRElOWFprcjRNRXJDMmlscFlLT05rSXk0djZjVzRISGZxQmdKMHJkNUlKWGJCRU1oQ2pfMHQ5QThYLWFJeVVfZE5sckpFVUg2TVh0VzdvLTU3TnREWA?oc=5"
-            },
-            {
-              "source": "cnbc.com",
-              "title": "OpenAI sued by 8 states over ChatGPT safety concerns",
-              "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPSFJIMFZPVi1xNjBnTXdHUjBMSW56OFVoQWxYRjBSUHh2V1cwQ2QzSWhpVm5fSzhWMW9RVUdXV1gxVjdqVUhBb2ZaNFJ0SVlYRXlxeGR4OXRnWGVaUjJVanRzUy10NUxnWTJpc3E0X2VKMTVGazZzME9SUUMwWlB1Tm1fZ2dVYkUwSFhaQ3dxRmxJSGlv0gGaAUFVX3lxTE9lTzhXS0pJaG1NS2dwNU5Ya2JTY0FFZUFBWmlHdFV6akFWME9mejN1MWJoZGFsQXo3YW42eDZua1dPcDNDUDA2SWtNZGduMENsNkh3LWZ5c09WalcwNk1LSkd0Y0xSc2pOOF9GVGtCNnRSN28tZ3JBekJXbURGcmN0X0gxeHk5VWhCNmhoOGtWNUM4eDJ3anpWUkE?oc=5"
-            }
-          ]
-        },
-        {
-          "title": "Eight states sue OpenAI, saying ChatGPT isn&#8217;t safe for kids",
-          "link": "https://www.theverge.com/ai-artificial-intelligence/1011500/openai-state-lawsuits-chatgpt-safety",
-          "date": "2026-10-14T17:11:28-04:00",
-          "summary": "OpenAI is facing a new wave of lawsuits from eight US states that accuse the company of harming children and misleading customers about the safety of ChatGPT, as reported earlier by Reuters. The lawsuits, filed separately by Iowa, Kansas, Nebraska, West Virginia, Arkansas, Arizona, Idaho, and Montana, allege OpenAI unlawfully put profits over safety when [&#8230;]",
-          "publisher": "",
-          "_via": "theverge.com",
-          "source": "theverge.com",
-          "_hash": "8ed99e8adef159ee",
-          "_ageHours": 6,
-          "_inWindow": true,
-          "_score": 76.68107805555556,
-          "_corrob": 7,
-          "_cluster": [
-            {
-              "source": "nbcnews.com",
-              "title": "Eight states sue OpenAI claiming ChatGPT harms children",
-              "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOTW5ET2JLYkRIMjh2LXNWc3kxTjd0X25fdkxOWUN3TjhFVmNsTGhoV0ZsdmxUUEtrcUowN3V1R3NTd091MVJXNllPQ1JOdEphRVVpYURrcnIzMGNmSVJXRU5IZmNReEVscmc2WUxtcHJsbnJReGlUX0pUYUk5M2RaVElLcEYyeHpJbkpRUDZHNm1sSXdWRTVXQjVBU0pQOTA?oc=5"
-            },
-            {
-              "source": "businessinsider.com",
-              "title": "8 states are suing OpenAI, saying ChatGPT harms kids. Here are their demands, from data deletion to halting AI testing.",
-              "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOQVp4cENGNDFMRE5DcE5qYmdTMENJaFFETzdBdWRMRG1FRVZ1TGQ5MUNhMmp5NjFIcW5FYjhQOTJ5NVFLY2haZmpveVlHV1pYcGVUOS1wb0w3SEx2VjJyazFkdWxCaGtMSW5EYWJSUXl6NzZweFNaQzNjeXZRQVVpNENfVk5aSmFoTUt2SEZnZnYwaDhiWlVpZg?oc=5"
-            },
-            {
-              "source": "siliconangle.com",
-              "title": "Multiple states sue OpenAI, accusing it of harming children and deceiving parents",
-              "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNWnBOOFlpc19kdldLbldaeDVXdGVtVXRhSjZ6ZF9KU2h4dEJna3FPZDFON1JwUTlYdUpfSW5OOGRoejg2RV9nMkY5VW4yQmRicWNBVTJYMmlrTWRIa21ISDNHN2xzV1dqeVlpMXZfakdEQWk3Y3lMa1JzaVE3VFF3VG5XUGJmZXByNDYxck1iS0VTNE5uWHQ1QklIbGNnYzBVZ0g0RXdnU1FWckgwU2lVMVg5NVB2LTZR?oc=5"
-            },
-            {
-              "source": "azfamily.com",
-              "title": "Arizona AG sues OpenAI, alleges ChatGPT harms children, deceives parents",
-              "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOMHFjaDZlUmlEZzRnOXNnSmxwSkxpb1lkSFdLMFFJSWYyOURkMDVhRUQzeFlVRkpGZW9QOWRkYVVEaFVnSEFhR05UQ2tlS2tSSVFDRkFXYmRfa2lSOEUzUUEyQXZHbXBScUhKcUtzM05tbWpPd0I1ck51MFY5QWM0SmtSck1MT3l1a2VhS1I1NUhWalM1dXlmNWk3bDFIWXA1QTRrMnZ4OXJKT2vSAb8BQVVfeXFMT0hfMkdIQmdsZXJ0ZlVlelRtazFaeE5SQm81Q2RSampSYlVlRFdZWXhlOG1DXzBuRkp2UWRiNzZvU1JtUXh0bzlmdEhPZzhmeVlUM2JaLVMzbTVfdS1KV21QVy1ZYmwxX1R1b05JUWdrWkdPeUZkMkI3bVNvalE4NnRNMnoyaEhUd28xTk5QSkhUa215R2FfdURhTFk3ZUdYdGI4am1wODZNd0NMUTA1Y1R2QVRFMXNmTlhvbS1yMFE?oc=5"
-            },
-            {
-              "source": "idahostatesman.com",
-              "title": "Idaho sues OpenAI — maker of ChatGPT — citing harms to children",
-              "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOaUlOUmRISFVuYi12cllnVDlFUjhSNmZ2eTFRWlVRTDM0ME1TaUJPMUQ5Q2dQd3IxTkpGbC1pdzdKYVM5dW1Xd25PZ29EWkxEQWtjQy1RVVBvdk80RWJJSC0wc0xYTG1iREExMWszVThqZkI3bUY3aWlncFZrRGFCLTNJQkVOWVZnOEtyWHBxWlFla0s2ZHZJ0gGXAUFVX3lxTFBTTjdkUWhLX0p0bXVaODVFQUUxcGFrMTBLcElFeUxCdWdrQVJjS05XbWVhNGdpSnF4cE0xdEQ5R3NicVhyVFl0bC1JUXE0YWdXUnVnaVB1ZFRMMmVRNExvcnh0UUE3cHFOQ1ZiMmZtYUhQNjc1QndsWkp0ZWlmcHNmdFdiWU5kemJBdzZfTWxPMDR3VkZiakU?oc=5"
+              "source": "finance.yahoo.com",
+              "title": "Anthropic Q3 revenue climbs to $16.8 billion: Report",
+              "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPY2pzTHJjWlBCcmx0RU9QNnBBLW16ZmNLS0RqMHc4NlgyalZhU09Eel85SDFTLWlpVTVQVTZYT1AtTUV2MXVWVnNyU3VsZmVyMVBaYzVuMDlYNnNyUnhzaUM1U3YyVklEVVZKSVBuZ25ZSllpRmZTbnRHdDZ0ekZCQ0hxaUNONXpYa24tUEtYNUxtWWhXTVhRSzRXSWhOMkh2THc0LWQtbTRKQjZJbGc?oc=5"
             },
             {
               "source": "reuters.com",
-              "title": "Eight US states sue OpenAI, claiming ChatGPT harms young users",
-              "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNVjc1cUY3cXJlLWNETVRLdnEzVGt4QzlBRFFFZ2p1aUVqdFRGMUNxMHFnNTlZVk5Pcmg0dUUyUkVhWnFJeWpLWnI5a2lMNjR3WGVRRlV6NnZiOTZnUXUtUnJteWZ2VEVwVW1wX1NkdThUSE9kck41ZFc1ZmlwS0FLVmxQS0k5WFEyMDM0cS0xVWxyQnBzVUJka0lhRm04Znp4TUE?oc=5"
+              "title": "Anthropic revenue jumps to $16.8 billion in third quarter, FT reports",
+              "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxONTdYMW9PZjBTS1VtYnkwZ1lTa2o5UFhESGpJdk5jcFF2VEFyY3dNMC1aOXY1M3liaWU1RENuT292NjM5dmp1VGNOSDFJeDBUalJuaGoxTlNLN1g2U3RXQ3N2M1JiLVdIaGQ4Z3dya2J4dXhzdGU2X2Z4ckg3RFFmc1FMenF0NHFLZ2FWbDBJSkFLMld4OS10cGFFcWV0cGVib1FFY1A3a0RGTU0?oc=5"
             },
             {
-              "source": "theguardian.com",
-              "title": "Eight states accuse OpenAI of coaching children to harm themselves in lawsuit",
-              "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNUFRZb3RDSE9DZDBnMmVaMm1ldEV2TUZaM3ZiVHhUWkFVbG1CS3EwU3ZzUTRvT2l2elVHR2NLc2thQXJpRElxcEhJcDBPN1pwVmhvQllETVl0QVpucUFTMXJiQldCQXlLUlJMZmFQSS1wZWRhY2VpcDFOWWtwZWZuWjA4bmNVMVhw?oc=5"
+              "source": "tech-insider.org",
+              "title": "North Wales Data Center Protest: 24K Sign Petition - https://tech-insider.org/",
+              "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPRzFRTDQ1U1JyTEcwdUhHdXBrcUt6RmxVakZXV0RWd3pQSUJ2NldQNkk4aDJ1VFVzVkxwcTAyVmpJeTZmN3VOVlBjMmJSRUVENlIxLVg5RW1TSDVvNHg3NGFfSWVjMkpRSkwyRzlJQ3d1eERKTGVzcU0zVXoyaFFZMHlMaw?oc=5"
             }
           ]
         },
@@ -136,9 +65,9 @@
           "_via": "arstechnica.com",
           "source": "arstechnica.com",
           "_hash": "1dee04bfa3129ff4",
-          "_ageHours": 11,
+          "_ageHours": 12,
           "_inWindow": true,
-          "_score": 73.18691166666667,
+          "_score": 71.64102527777777,
           "_corrob": 6,
           "_cluster": [
             {
@@ -179,6 +108,93 @@
           ]
         },
         {
+          "title": "Eight states sue OpenAI, saying ChatGPT isn&#8217;t safe for kids",
+          "link": "https://www.theverge.com/ai-artificial-intelligence/1011500/openai-state-lawsuits-chatgpt-safety",
+          "date": "2026-10-14T17:11:28-04:00",
+          "summary": "OpenAI is facing a new wave of lawsuits from eight US states that accuse the company of harming children and misleading customers about the safety of ChatGPT, as reported earlier by Reuters. The lawsuits, filed separately by Iowa, Kansas, Nebraska, West Virginia, Arkansas, Arizona, Idaho, and Montana, allege OpenAI unlawfully put profits over safety when [&#8230;]",
+          "publisher": "",
+          "_via": "theverge.com",
+          "source": "theverge.com",
+          "_hash": "8ed99e8adef159ee",
+          "_ageHours": 8,
+          "_inWindow": true,
+          "_score": 70.13519194444444,
+          "_corrob": 6,
+          "_cluster": [
+            {
+              "source": "openthemagazine.com",
+              "title": "When ChatGPT Becomes a Confidant: Why Eight US States Are Suing OpenAI",
+              "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOSGloTWEtVHdiRDFGR0dqSHNCVDVub0o1V2U1U19iWFNhcGFpamZGaFNtRkFXM0xEbWVsNXRneWFUdlJ1Q2ROZjJOYWhUWk5BVjkwekRFU1hqekw5b01SOEN2VENXYXVYU0pCVmJjNEw2UlNNQms2eEliOVlkSV9aRmhHeXpmcGZRcEd2YTFiQ1dGUnItM3VXT0dYRjRQZXlzREZjamszTXBDcmJw?oc=5"
+            },
+            {
+              "source": "nbcnews.com",
+              "title": "Eight states sue OpenAI claiming ChatGPT harms children",
+              "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOTW5ET2JLYkRIMjh2LXNWc3kxTjd0X25fdkxOWUN3TjhFVmNsTGhoV0ZsdmxUUEtrcUowN3V1R3NTd091MVJXNllPQ1JOdEphRVVpYURrcnIzMGNmSVJXRU5IZmNReEVscmc2WUxtcHJsbnJReGlUX0pUYUk5M2RaVElLcEYyeHpJbkpRUDZHNm1sSXdWRTVXQjVBU0pQOTA?oc=5"
+            },
+            {
+              "source": "12news.com",
+              "title": "'Deceiving Arizonans about the safety of ChatGPT': AG Kris Mayes suing OpenAI for violating AZ Law",
+              "link": "https://news.google.com/rss/articles/CBMijgJBVV95cUxNbDdEaER5YUMwOWNhcGpOaEt0T09kWnVGM0xaSnlKQ2JYWjJfQmVMMEdvUTBxazM2TEs4dWYyQUxuMTZKUFI5d2RqX3U0RWdTUWJkdVJpb0xGWE1ickJhRUlYakZlck9HMU1zODB2bjFzdzU5T0xNYXpJVVdkbjJjNURBQnhYUGZ1eXdOTHNtNVE2VnUzV0hVb0VfeFRVU3JMYnI0TzBkVUR6eXhwemVXRkRFelRoVTdIb2VOYVNNM1VqSzJ6VFBINHJMVkJJbG1pb2R6R1ZnSmswZ0lVak1wc2llTTQ2Z191UWlGOFJpbUhBRlpOaDR0azVEQ3pZcnMxQ0lrMERvUnFzWWJYdWc?oc=5"
+            },
+            {
+              "source": "nbcnews.com",
+              "title": "Eight states sue OpenAI over ChatGPT’s alleged harms to users",
+              "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOZGNQSVdYV0tjSzZsZDN3ellzU0lzUGMtMUxlZk5PUnhKZE5hcTVrTWlFTU9POUlfVm1zSzc1S0s2amdFR3dmUHE1Z2JraHE0RDduQ3A4ZFM0bmVaZEJxQnNyMWpMZ1gtVklYX2VFMmhiZXdVVWwtVVBHX1V6N2xrZmwwZl81dDFiZGI5ZE9yeUUtTlRuaU5IUEZiMA?oc=5"
+            },
+            {
+              "source": "wsaz.com",
+              "title": "West Virginia among states suing OpenAI",
+              "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5aV3hYOW1LNFU3UjFIQkNrY01YUkhZSk9OTmpXMlVqWERrX3BTRDc5ejIwdFlXdmh6SVoxZmNDNnRsWnpsRVFSbWZVX2VtZk9rUmFGZ0FQdDQ2YjRqZTh2aFdYYWQtMnJ0bzVjd0d0TXZNUHdseG9fNXRBTnnSAZABQVVfeXFMT21pMjJGSW5WaUw4d2NQdmR0bmp2OWd3bTUyQ0YxNmZDNXJQLXhFeENGMDVmd3JwTXJxYmRGcjVnN3hVcUJEbnhsazZlLXNTM2hsM1FwY1ZwU3hWMkFjQWR2OXZKa0J5S1YtN0VONjNvcWlicVJuWWo1UXdlZDE4TktTZXRpcWxYS0NXRi1vUkdq?oc=5"
+            },
+            {
+              "source": "reuters.com",
+              "title": "Eight US states sue OpenAI, claiming ChatGPT harms young users",
+              "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNVjc1cUY3cXJlLWNETVRLdnEzVGt4QzlBRFFFZ2p1aUVqdFRGMUNxMHFnNTlZVk5Pcmg0dUUyUkVhWnFJeWpLWnI5a2lMNjR3WGVRRlV6NnZiOTZnUXUtUnJteWZ2VEVwVW1wX1NkdThUSE9kck41ZFc1ZmlwS0FLVmxQS0k5WFEyMDM0cS0xVWxyQnBzVUJka0lhRm04Znp4TUE?oc=5"
+            },
+            {
+              "source": "theguardian.com",
+              "title": "Eight states accuse OpenAI of coaching children to harm themselves in lawsuit",
+              "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNUFRZb3RDSE9DZDBnMmVaMm1ldEV2TUZaM3ZiVHhUWkFVbG1CS3EwU3ZzUTRvT2l2elVHR2NLc2thQXJpRElxcEhJcDBPN1pwVmhvQllETVl0QVpucUFTMXJiQldCQXlLUlJMZmFQSS1wZWRhY2VpcDFOWWtwZWZuWjA4bmNVMVhw?oc=5"
+            }
+          ]
+        },
+        {
+          "title": "Kansas joins multistate lawsuit against OpenAI over ChatGPT safety - KSN-TV",
+          "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQLTFwOVZsbzRWeW9UeVI1V2w2cndlbGV5VXVSN3dLZWZuQlBEWkZOSVpnQ2ZEQlRtSTBvUjdyUFNWbG9YMFVSeE1TcHlFT0F5aXBfS1NmYmY1MjFJazQwdXVxdFpJTEZDU1l1UWNYYTVsU05uZUJ6clhHWlhZbWdxYlVSenAyd1Y3RmI0Nm85bmJsMkhSaW5yOC05NDJPTk5feWxxd0RZal9vQ03SAbABQVVfeXFMTnZEck0xRlVhOVhnb1NYZDhiS1FIcV9waTVCR1R3RWJPbmtseV9GeTdHclR4NzdsTC1IOVBrcy16cmhobFRTZ2w0b3Z3cWwyWmtiM0VPSGk4QjdYTF82OTk4NEp2ZHZ1OG1fVFJXd1VwbTA1d3pLZS1Fd05JSzBWSFpvUGN3bUtmd2lDTjNlVGhPQTIzZ0lfR2l4UjFMV2gyS3djdFdITlpvektVNm5WbTc?oc=5",
+          "date": "Thu, 15 Oct 2026 03:46:51 GMT",
+          "summary": "Kansas joins multistate lawsuit against OpenAI over ChatGPT safety KSN-TV",
+          "publisher": "ksn.com",
+          "_via": "news.google.com",
+          "source": "ksn.com",
+          "_hash": "cf034025f36a9d8b",
+          "_ageHours": 1,
+          "_inWindow": true,
+          "_score": 66.72491555555555,
+          "_corrob": 4,
+          "_cluster": [
+            {
+              "source": "fox16.com",
+              "title": "Arkansans react as attorney general sues OpenAI over ChatGPT safety concerns",
+              "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPTWs4eHVBSkdMcFkzSkdwZnF2ZUJLUFl3eGpTUmtZVnBOYjVZa2tkZHhoSUdxbU92b0Z1bkNFOTJEbWtXQjVubjlvZjE3YTZXNWd5NGhWdTRRc0dZeHdPZTFRLTdFU2FlUzJHNy1RRld2MXV4VFVLUWVwaXpMeF9UY0RGUW9fYVhvVWFMUnhwVnhnM1BNUHR4Q3pWcTNWVWZMR2FnRHZ6MzM5bmtxSzhsTjdRdVdzZ9IBuwFBVV95cUxNUUh4dU9UaENiOV8wV0VaOWdQNm1PN2gxZFUtQVdSYTBZYUJaSG5LcHM2cGZFMkxZVEJoOWVlLUNpTFc3VXBCcnA0T3dIRWxwaFM4dlA0X3lZVXZORXg4Ry1Pa1JMNXd4MHdzb21HQ0FFNmlOUVgzVG1EV0UwUnEtV1ljeVJBcDE2NUQtSTlpempPaW10aTFQTmNlTERMU21xcFNCV2dlZWQ3SDZVNDhtVS1tMEZ2SVRzeDlV?oc=5"
+            },
+            {
+              "source": "thegazette.com",
+              "title": "Iowa sues OpenAI over ChatGPT child safety",
+              "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOcFNXQjh6a0hYSjJoMEdDajg5ejN4QUFKNEJqakpzTjJvQmhrVWtlX2c3QnExdFl4OFpmY3BONFBuZXc2bTh4TE5HZXkySm43TXJ0WnNSUlVhOW9pdWhFY0NhZjRXTnVkQzhRWnlCYmN5MEpEcFBZQVA2VDB6emlVaHY0XzduSTNhU3B5ZDVPT2JoN18wV0Uwc1I5OTByeGNEYXBwM2NpTWpJSFNwSjFKaEgzeXB5b1VKQTBHbHNCQThydWV4VmNHd3Nn?oc=5"
+            },
+            {
+              "source": "wowktv.com",
+              "title": "West Virginia Attorney General J.B. McCuskey announces lawsuit against OpenAI, citing safety concerns for W.Va. children",
+              "link": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxQR05JekZObmJZQ3NFcVFMOVl1TURGSVRnLVU2Z0RIWDhVbzlrRHhtZ21Vc2xQSW4taXVBRklYM2ptSzMzTHdRRU9Wc3lYRE91b2FWQTBBal80TTA3YkpYcVVYQ3lJVjZaZmNaeTd3bkdYb01sWUlHc0FPM3RpT2Nfc0xFVnVZM2djajJwQWItNi04ZXVhWnc1RFBleXlEZXdiOXpVdlhzMmREVkFKdVdWWVRzakhZUUpLRDV1ckhmTFRNZlR0WkxQaExoX0FTaWVzc0dXUWRWTnMyUUNiN2prT1RXN1A4dHlZWHFyb0FYRmgzQdIB9wFBVV95cUxNYmxaNnJqTzJneGduYjZLRUtHQ084Q3NfbEhmdWJia1p1dkNOWlAtbnQtQU9tSHJQc3Q1V3hqUzBNZWl6eW5ZTVk4RUo2R0JydHpqeGlfOTlQeFBnNWpRdFN2dnhkQlpYTE9sWm5GV3JfOTlPbXVnMkFiWUlTRlhCa3ZxMlNPemFnZ2RfbXJCekNkRjZvWnFiRi12cnBRbTE1T3hvT05QY2tiNG5ET29TelhWRG9RbE1TclRENllkaVhYRHpVWlJaZnhJOThMUlJINUMzVWUzZU94UUJHYlNYZHJMNGo1a0p3Nno2SkRmYVdSZXMyc1Uw?oc=5"
+            },
+            {
+              "source": "kait8.com",
+              "title": "Arkansas attorney general sues OpenAI over ChatGPT safety claims",
+              "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNOE0wdy1PRDFqeTNNOUNZZjc1RW5IM21WVkFzOTU2OXg1VFdOcERlbXl2OF81RFhVc0pjM0NtSndReGJST1F3UW1lZ0c5eWktQTVHbTM4OHBaSTdXcndVOTZ0QlBFclUzMm1jWFlieWNNSHMwOHBpbllmNDhxV2xHZDQ2ZUtnOW9jcEpUZDNJcjV1VjhRNDBDUWZzeU5vdU9xTHhrVlptdw?oc=5"
+            }
+          ]
+        },
+        {
           "title": "Zenzap Emerges From Stealth With $44 Million In Funding Led By Bessemer And Lightspeed",
           "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9UWmdsLVNiSVNQbjQ3dzZNMlBGTUgwemp3R1AzZUtsanFwMFl3VWpySm1HYTZDZVdGNFJIY3dIXzFORGdvT20xcE9wMEhqb1pWM04wd3F3dlRCOW9DSGk5VXdNZWoyUUxKT1YwMzlKUXg?oc=5",
           "date": "Wed, 14 Oct 2026 21:29:54 GMT",
@@ -187,20 +203,15 @@
           "_via": "news.google.com",
           "source": "pulse2.com",
           "_hash": "a54be36ed0dc19bf",
-          "_ageHours": 6,
+          "_ageHours": 8,
           "_inWindow": true,
-          "_score": 72.98830111111111,
-          "_corrob": 5,
+          "_score": 66.442415,
+          "_corrob": 4,
           "_cluster": [
             {
               "source": "programbusiness.com",
               "title": "Harbor Launches With $10 Million in Funding to Address AI Agent Risks",
               "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPaklNZDY4YnRvWkY5VktUSjl4WmVyX2VuVFQ3c0FKUU5fRHFkS1F2WDFxM25aUWJJM01ubTVkWXR0dUxla2pNX0drM2VhNWdVMm9oanVTMzJNOWJoVXM4RUQ0NTB6WnN5bGlzMGpqTTBxY1ExYmZPYVgwa3l5V24wV3NiODk0RnptcU5mcHYxSlI0YXBrX3JRZ0RGZUFDMThFakFneQ?oc=5"
-            },
-            {
-              "source": "coverager.com",
-              "title": "Bind AI launches with $10 million in funding",
-              "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBWSk53N3JOUlFrRVJFS1hSclZUMTVHX0stLUE5QnFrc0J0UVotMTgxUzY0TGtxcUhkWmt4b3FRaUIteEVKSzBrcWJBVVdiM3kyQXE3dFdhU0prVVdaaG5oa24zNFZiU3l6V2ZjcmJpZzZxVXhl?oc=5"
             },
             {
               "source": "unite.ai",
@@ -228,9 +239,9 @@
           "_via": "news.google.com",
           "source": "thenevadaglobe.com",
           "_hash": "93a090f40d9b511f",
-          "_ageHours": 5,
+          "_ageHours": 6,
           "_inWindow": true,
-          "_score": 63.17413416666667,
+          "_score": 61.62824833333333,
           "_corrob": 4,
           "_cluster": [
             {
@@ -256,94 +267,6 @@
           ]
         },
         {
-          "title": "Tech Futures Fall; Anthropic Revenue Jumps, But Not Enough?",
-          "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxObkt6ekRhM01GYllSNng3cnhNQjJHZlBSVjZ0d2d3aElqTFpSd2hWOWxOdG54ZHhSa0wtSUFtX2JLSXcxRnF6TVNtcUV1ZXhlb2ZqdHZ6YzFlb3BVV0pmaEVlZzgyU1RXZDB5c3RFNEpmT3ZsZXI1NjBKcDVCQjRmUExrakhTWDFJODI2bHlfV29nZXlJYTdMcFlpLVhXbEFta0xMSlQyM2FiYlNDOXNWM2s4NVdCUWp0eUlJQkpoUVFEQ0FpM2JnUjlCTFVDMDVxLUtsUUZ3?oc=5",
-          "date": "Thu, 15 Oct 2026 03:10:00 GMT",
-          "summary": "Tech Futures Fall; Anthropic Revenue Jumps, But Not Enough? Investor's Business Daily",
-          "publisher": "investors.com",
-          "_via": "news.google.com",
-          "source": "investors.com",
-          "_hash": "0ccde2c7d9f1ba72",
-          "_ageHours": 0,
-          "_inWindow": true,
-          "_score": 62.65663444444444,
-          "_corrob": 3,
-          "_cluster": [
-            {
-              "source": "bloomberg.com",
-              "title": "Anthropic Revenue Jumps to $16.8 Billion in Quarter Before IPO",
-              "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPQU84aFhKaGNhRmkxOW4xRGJOZ0hBZC1rcFR5R2YyS2RqTHNaZExvaTg4ckppc2tTaHZUaFRzWmVTY2IxMXlUMFlpT1pBWk1zY1ZtZVpLdHBGZ1AzbEVSS29zMDB2eFQ4Wnhab0RrSnVxUFhkWHBfVVdDUHFIR3FGb05odzJEQ0VlQkF5QzYxYnlSRHZJd055blRMRTJTWXA5U0VWZ1Q5OWZ5VDBTcDJFWHZ3?oc=5"
-            },
-            {
-              "source": "reuters.com",
-              "title": "Anthropic revenue jumps to $16.8 billion in third quarter, FT reports",
-              "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxONTdYMW9PZjBTS1VtYnkwZ1lTa2o5UFhESGpJdk5jcFF2VEFyY3dNMC1aOXY1M3liaWU1RENuT292NjM5dmp1VGNOSDFJeDBUalJuaGoxTlNLN1g2U3RXQ3N2M1JiLVdIaGQ4Z3dya2J4dXhzdGU2X2Z4ckg3RFFmc1FMenF0NHFLZ2FWbDBJSkFLMld4OS10cGFFcWV0cGVib1FFY1A3a0RGTU0?oc=5"
-            },
-            {
-              "source": "finance.yahoo.com",
-              "title": "Anthropic revenue jumps to $16.8bn in third quarter",
-              "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOWWRZdzdSYlcxLVJiMVZHLV9scFREMlhqZkNia05jb2FkbjJ6X3FYcU81RjJ0MHFIbXhaTEpIWkxTcllMbzBCQkhwR0RDYkpzcF9rMjRCd0U3WFgzOXZCZXRaem10Z1cyX0RLMHY0U25TWlJPZmhLdmh0cGx2T0xuOUpBWkJxanpuWU1iVFZjMXl6MFVfdElzdFFB?oc=5"
-            }
-          ]
-        },
-        {
-          "title": "Anthropic tells investors Q3 revenue jumped 45% to nearly $17 bln, FT reports",
-          "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOcUNEME9vbDFxcW0wSmcwak4yOEpYQXVFU2JNNnVLNXg5U1RnU0dDQ3lOUExBeDBBMXBSRl83SGxTdExXQ0R2eUt1SWY5MDJtQ0I4bl9NUlNQRVUyM05mdHhJYy0xYzN0eER4R0E0SlA2VVNGb2R1VXZSdkxTcm5vNnByMnNYdm5Gb3N0RUNJZXlmNFJLYzdHNGFUeTI2bVk0N0E?oc=5",
-          "date": "Thu, 15 Oct 2026 03:01:00 GMT",
-          "summary": "Anthropic tells investors Q3 revenue jumped 45% to nearly $17 bln, FT reports Yahoo Finance",
-          "publisher": "finance.yahoo.com",
-          "_via": "news.google.com",
-          "source": "finance.yahoo.com",
-          "_hash": "c17ceb59a01b07e4",
-          "_ageHours": 0,
-          "_inWindow": true,
-          "_score": 62.50663472222222,
-          "_corrob": 3,
-          "_cluster": [
-            {
-              "source": "wsj.com",
-              "title": "Anthropic’s Quarterly Revenue Jumped 45% to Nearly $17 Billion",
-              "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOU2M4WXNsVVl6WXU3NlpOdDVOSGdxTW9rT2RGWnRSRTNpMmM2WXlRMEIzLXlFbzNIdk1jOFBOWUJ0UXhraF9rMWRmZ3p5MTVyYVZhdlNTdjRETXdKR3NxZ1hENlE5WlJRNU1yYmxuR3k3bm90OEh1M2JQSnFUenFtdE5vdVZWb1B2R2xqbkJnTjBfVFRmNWFPZlFlVEo?oc=5"
-            },
-            {
-              "source": "nytimes.com",
-              "title": "Anthropic Says Revenue Jumped 45% to $16.8 Billion in Third Quarter",
-              "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPTzNSa01ZdlJVSWlCelZQd1ZsNXV5clhHaHE2bHNXbm1HR3dBdEZ0VW8zcVRpN0lxSzJrMDlBN1dKdDNraHM1V1IyWW5iY1MwUjVxQzVlbFpmX3QyRlpVVnVQUzNQN1dRYXFTUVFZOHMxLUtQX3VKM3ppdzBzcGhKSEktMzQ2Zw?oc=5"
-            },
-            {
-              "source": "ft.com",
-              "title": "Anthropic tells investors quarterly revenue up nearly 50% to $16.8bn ahead of IPO",
-              "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPREFXR25nQUF4WXJFTFcwN01WaS1OUWphZkFKWmRLVFlza2c3Q194d1JVdWdpRU9LWlNyZlE4REZEUEdhZzA4Ykc4UEpxZmdaaUp5ckZIcG5zNXdOYUdIYm9WQ3JxOXktR2I0d1Jab0g1T0lRcERma2FrUmx6ekZoRGJPazE?oc=5"
-            }
-          ]
-        },
-        {
-          "title": "Icon Raises $200M in Series D Funding to Scale Robotic Construction Systems",
-          "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOaXJRLWR4T2dmRDZOd2JtTG9fR01kRWUtNDZWZC1OdFZZN09RTXRSMGg2VWhmb3lNQXE2MHVTQzlpNmRxdk9PRkl0d0hzbXM4STlaLWliMHRzUEVZS2JjOTh5QjhpWFhUQlNxRkFJZzFTSGxBTkxFajVPOEkwOElBcldUWVZZMjJsMWs1RzY3QmRmcmgzTXZBM3ZNaHBHanRpNGRSWGhrenFBcGZ5aGNrSVJ3?oc=5",
-          "date": "Wed, 14 Oct 2026 21:59:15 GMT",
-          "summary": "Icon Raises $200M in Series D Funding to Scale Robotic Construction Systems AI Insider",
-          "publisher": "theaiinsider.tech",
-          "_via": "news.google.com",
-          "source": "theaiinsider.tech",
-          "_hash": "8dc89bb1d61c3955",
-          "_ageHours": 6,
-          "_inWindow": true,
-          "_score": 58.4774675,
-          "_corrob": 2,
-          "_cluster": [
-            {
-              "source": "prnewswire.com",
-              "title": "Labelbox raises $100 Million+ in Series E funding to advance reinforcement learning and enterprise AI agents",
-              "link": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxQVW01SVVoLXRIa1hDMU0xcjkyRUE0ekJ6dFBLUGxoNVVBdzdmd0NCcURQWl9PMkpFU25Zb2ZMNFR1YVZmMnNMdVpYWlczYVZhcnFad2k1V3YyZmI4TnlSM1RfWXgzV1JlckZwdDBPUnVDaTdieU96M2lvT0FiMDRZekhOT2Y5VjZXZWNpT3FuZXFzenhqWTRmSVV0REI2ZXl2X2NXVEFSYko3dmRHZF9salFnMlRrWjdERV8ydFhMM0gwOEVPTmxXaTgycE1yTllJUmJpWGhVMUVRWWhfYmxoenRRUXZ5Yk94RHdFelZzUTNyd2JK?oc=5"
-            },
-            {
-              "source": "embeddedcomputing.com",
-              "title": "Salience Labs Secures $125 Million in Series B Funding to Scale Photonic Networking Chips for AI Datacenter Infrastructure",
-              "link": "https://news.google.com/rss/articles/CBMiiwJBVV95cUxQa1dQa1pLRllwMldVejI4NzFwMml4M1dRN0Z2dmd4T2l3ckx2ZXB3bk14c2hTZXc3dG1tSnY4dzlqdDBFN242YmNLdGJnNk1ZeGxSS3Mwb2pWOHVKa0V2dWtDSmJEQ3ZOMEdYLWFwNG9HSUhZU3M5OEc2THl4RGFjRGpyM3E4Vm5fdzZlVS1hd0NBX2FBaC1FZjhmb2dZZTV3Z0hjMEk4Mkk5M3Y4N2NXYjZIem5PMlNlX2U2Qy01eU1GZGdrS2dqV2tMeFZMeGkxalU5Ui05REhnR1AtREhHcmFEWGFPUTdfYmJ6UWpKWW5jZDVXUHRNYWpxYVBxUjdyVDdlS3lCSG84Vjg?oc=5"
-            }
-          ]
-        },
-        {
           "title": "Bytedance In Talks To Secure Mediatek AI Chips For Data Centers - Bloomberg News",
           "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxPTE96dXNvWDI1cjlzTTQ3ajZJNm5nZVcyOEN3TGk5VlBfMjZONkh1VTlqM3lOXzdBZnVDbVFlUXhXRVQ0ZGpqdjhnSUYySzFXOVZnaFhJaHk0ZTNvZ0hYVzBwUGFDbUV4QjB5NVJLWmR2TzBJVDExeWRUU2tBVmhiWXBSMVdHS1lPOHF2ZXlEVE9xaFdGVGZ0cjQxc25ibnlPUUU2Q2R4TTNPR21Ka2ZyME1hdFB5REw0SW16eXhWVmItbzlsSFV1UFp5VjJZd2Nvc1pzQlpCaG5nQkZRbGwxMy13?oc=5",
           "date": "Thu, 15 Oct 2026 02:51:00 GMT",
@@ -352,10 +275,10 @@
           "_via": "news.google.com",
           "source": "tradingview.com",
           "_hash": "ac4d9fbf051b73ca",
-          "_ageHours": 1,
+          "_ageHours": 2,
           "_inWindow": true,
-          "_score": 57.33996777777778,
-          "_corrob": 2,
+          "_score": 60.79408166666666,
+          "_corrob": 3,
           "_cluster": [
             {
               "source": "bloomberg.com",
@@ -363,45 +286,14 @@
               "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNaFlzZWE3cWRERDdpeHZBaFdCbFEtYkpCOUFaamFJNURYQmNVWExxWnQ2NmNHRUIwXzR1dFgzaVhOUnZkS25yQk1Sd3VvTDFTQnFlSlN5YzI0Q210bGVuS0NhZkFFRDJvU08wSjRqNEdxZXhtVVhYZTRaTGEybmxBWjgxUGNKMjZoclhLTDFSYnFGQlluaTdabW1hQjV4a1RORTRUbkxvdjFUQ256c2JGR0pvcnk?oc=5"
             },
             {
+              "source": "finance.yahoo.com",
+              "title": "ByteDance in Talks to Secure MediaTek AI Chips for Data Centers",
+              "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNQUVYTmdBZUpiSWNPODd0ZEVSQ1FiYk14V2szTHdJMXo5QWtIdl9kSXkzbHd6eldBaXJRVS10VmlGM0tSdnpiTzZ3VGwyRGczbGJVblQ0UklPSzRoTEtoNGpjamVSbDNKeU9WdlZ1bVI0MzNxTkozTGsxYmFxNmhZV0otWktyM2wwa3VnY2o2WldJTkJRc1FDUXFuaHFqX00?oc=5"
+            },
+            {
               "source": "tech.eu",
               "title": "Salience Labs secures $125M to scale photonic chips for AI data centres",
               "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOOWZLUEVLb1l4U0x3U2pLNlpGRVM4VzZhdzNDS0xScUpPSkw1aFBwNW5QOTNHbVpUREliZDNfcURWSUdkWXJxSzBDWHFDa3ozTENJUUhPSU1RWnhyUnNGUHptd1pwX3hqT25BM3kwMUtkX0dsREJfeVdCSGVzSVRrLWVjZjJ4WWNTSzFma1M0NDZNeTBJOGVQVXhSeXMtejQ?oc=5"
-            }
-          ]
-        },
-        {
-          "title": "OpenAI claims an ex-employee took its product plans and presented them to Apple",
-          "link": "https://www.theverge.com/ai-artificial-intelligence/1011276/openai-employee-unreleased-product-plans",
-          "date": "2026-10-14T12:43:24-04:00",
-          "summary": "OpenAI claims a former employee took more than 100 files related to its product plans before joining Apple. In a document filed on Wednesday, OpenAI accuses the unnamed employee of sending this information to a personal account and then presenting it to Apple leadership, including the vice president of the company's operations in Asia. The [&#8230;]",
-          "publisher": "",
-          "_via": "theverge.com",
-          "source": "theverge.com",
-          "_hash": "1b403fde4a4b3e22",
-          "_ageHours": 11,
-          "_inWindow": true,
-          "_score": 57.213300277777776,
-          "_corrob": 4,
-          "_cluster": [
-            {
-              "source": "nypost.com",
-              "title": "OpenAI claims ex-employee brought confidential docs about ‘unreleased device’ to Apple",
-              "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPY3JVRVkyOTlHZk9sZGJENEVBQjV3RmFaanNON0ZyT2JNT2kzaEFXQV8tZzdQdHNCMkgwQk9yOU42dkllTm5vMzhUcGRBZTUwOFBCQXhoZU96TG5TQjVaX05JYmxCM0gyc1YtWnU0R29BekFhR3NqcjJfZEktMnhUdHNlUGZqWFJEVXlkU08wREVmOWFtVGdiUXNmMFhTdHVodGlkWGtoeUQ2a0pCSzVhc0JRTEh6N25BbFhyQ0JYOEpRQQ?oc=5"
-            },
-            {
-              "source": "theguardian.com",
-              "title": "OpenAI accuses employee who left for Apple of leaking plans for unreleased device",
-              "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPOGQ0VDlmQzZ0VFNnVGNRWTkxTU9zTmRCdTY5alAtTFVYVG01dXc0aXNmc2JTSjdydFhyZVBfRm94RVhwZklkZHVDc1VJOTUtSTNiNmJCajVBeTAteDk4ZHlGY1Nia1NMRFUySVBQSldLaVQ0YUJzdDk2TkdCZW5VSDJLekJiMUxCOFBFR3Fn?oc=5"
-            },
-            {
-              "source": "cnn.com",
-              "title": "OpenAI accuses former employee of leaking intel on AI device to Apple",
-              "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNZnB5TXNvLU5qT2pwUnVzWVNxVzN2RnRNenpoRUQ2dktjeUhNYzJHa1JSWUlxNzlnNUlEQmJHa2tZOVhXUjA3ckVCN2s5U3pIQk1PZ2E2VnRqeXFfaFhKQU41ZUN4aFYwNjRrRmpORUY0LU1xU2p4RTROTmwxaDc4WUhWZ1ViTEU1aGlKQ0FsSm9jSWNhNGRDS0M1cWhsUE1saVhEM0dXUnc?oc=5"
-            },
-            {
-              "source": "reuters.com",
-              "title": "OpenAI employee who left for Apple took files about unreleased device, OpenAI alleges",
-              "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxOcjgxdHhRZV9nbnF4cVNBbkg0ZGJGWXFTZ2hDa2dTMXVCT3R4OWF6aDNZSjVnaDJEYm5pbUJqSzdtaDhPei1VbXU1SGlsZHFIOFhBNEVsaUZ1WlFsYjJ6ZGNPc1NVNk9fVVVQTVlYMEtPbjdKZ2hNcG9xM0VBLUpTVFlHSi0yTVZtNGpTODA2SGpOb3JLUXQ1S1E3WHZ6RzRldnZkeF8tamJodUZjMUc1OXN2dWI2QmhfUUk3bkZzR0ZaXzZnd2lNMndLMUZGamRhMHo3LUVfdm8?oc=5"
             }
           ]
         },
@@ -414,41 +306,129 @@
           "_via": "search.cnbc.com",
           "source": "search.cnbc.com",
           "_hash": "aaef4699ce9361db",
-          "_ageHours": 2,
+          "_ageHours": 4,
           "_inWindow": true,
-          "_score": 56.60691166666667,
-          "_corrob": 1,
+          "_score": 60.06102555555555,
+          "_corrob": 2,
           "_cluster": [
             {
               "source": "cnbc.com",
               "title": "SK Hynix shares plunge 10% amid Asia tech rout as Fed rate hike fears, AI funding worries mount",
               "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPaGhRTkZ4cjB1WFcxY0ZaekZ0anhJSW1MYlRMVV9pZzFacHJySWt5QkZaSEFoMmVBbVZKRzc0TmloQXkydmRSaGs5RW1vQjIyZ1hhQzFBSXN1ZGlJVmI1b2VKU1FIaXlZVTJBZHZZMUkxemJ1ZWZUY3E5Q205RWp1WFItS2FJMEx2Zjg4ejRHQy11UjRMbkFPSXJnSkluT01nMVNKbHRn0gGrAUFVX3lxTE1fQkI2UFBBMEExelZWTnRzQ1lzaE1Hdms2R3hjLW9tVmdsZ1hWNGdxRVE1VnlZWVBQU1ZZTW56SUJrYVNYX25QTFFOMExfZmpZY1RCRkpwZmFZX3d6T1BCdU5Rd3ZsME5zdHJhUFRkNG5KUHdkNUsyRHBjX3I1VWNpZkhWRVZ4eFZlS3Jhc1ZoS1dBbVpPRlFyTkRUd1pRNDNqMHNDTWgzV1VGaw?oc=5"
+            },
+            {
+              "source": "finance.yahoo.com",
+              "title": "Chip Rout Deepens as Rate Fears Collide With AI Funding Woes",
+              "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPQWZkUElRZ2l4UEIyM1lKOTNrcmttSUp4d2RNWFpWSExzclU4WFl4Y0I4cV9NWGw1SXNxSm5UV0lFVTB1NkRFcjBweWNCdnRyVFBWT3VOaGQzenhDdlNqOUNWU0daSUEteTlFU2xSakZNSTNvX09vbUoyZ055ajlTUmJIV1FWa1RqNGVfQnFfMV9CLVU?oc=5"
             }
           ]
         },
         {
-          "title": "Ukrainian drones hit Russia's top data center in attack on AI ambitions",
-          "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOOVlfRExJY3RhWG9kY05idWUtMU4weHhnazlhSVNoRk9VenFsTXZnN2hHamQtNXlJTGJxWGFmSzJXSkc2Q0FnXzM4RVJkMjJ2bDhUMlBBczE4bVNRZnZOTkYtRnJSMlJwRHMzWHUwT1VWc094SVdaMWE1eTdrMFZiVk5fdzVEcGcxTkR2Q1NUT3FpUU1oaldPdnVDNFhMUjZtY0dCMHlwS2pYNGs?oc=5",
-          "date": "Wed, 14 Oct 2026 23:36:21 GMT",
-          "summary": "Ukrainian drones hit Russia's top data center in attack on AI ambitions KSL News",
-          "publisher": "ksl.com",
+          "title": "Arizona AG sues OpenAI, alleges ChatGPT harms children, deceives parents",
+          "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOMHFjaDZlUmlEZzRnOXNnSmxwSkxpb1lkSFdLMFFJSWYyOURkMDVhRUQzeFlVRkpGZW9QOWRkYVVEaFVnSEFhR05UQ2tlS2tSSVFDRkFXYmRfa2lSOEUzUUEyQXZHbXBScUhKcUtzM05tbWpPd0I1ck51MFY5QWM0SmtSck1MT3l1a2VhS1I1NUhWalM1dXlmNWk3bDFIWXA1QTRrMnZ4OXJKT2vSAb8BQVVfeXFMT0hfMkdIQmdsZXJ0ZlVlelRtazFaeE5SQm81Q2RSampSYlVlRFdZWXhlOG1DXzBuRkp2UWRiNzZvU1JtUXh0bzlmdEhPZzhmeVlUM2JaLVMzbTVfdS1KV21QVy1ZYmwxX1R1b05JUWdrWkdPeUZkMkI3bVNvalE4NnRNMnoyaEhUd28xTk5QSkhUa215R2FfdURhTFk3ZUdYdGI4am1wODZNd0NMUTA1Y1R2QVRFMXNmTlhvbS1yMFE?oc=5",
+          "date": "Thu, 15 Oct 2026 00:29:00 GMT",
+          "summary": "Arizona AG sues OpenAI, alleges ChatGPT harms children, deceives parents AZ Family",
+          "publisher": "azfamily.com",
           "_via": "news.google.com",
-          "source": "ksl.com",
-          "_hash": "544c6b21a0d42158",
-          "_ageHours": 4,
+          "source": "azfamily.com",
+          "_hash": "d4039bbdd283cc69",
+          "_ageHours": 5,
           "_inWindow": true,
-          "_score": 54.095801111111115,
+          "_score": 58.427415555555555,
+          "_corrob": 3,
+          "_cluster": [
+            {
+              "source": "kcci.com",
+              "title": "Iowa attorney general sues OpenAI, alleging ChatGPT harms children",
+              "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNWmJON0dORE9lLTRGTmlyNzBfZnZXZGszZjl0RXdja0I0QnRFczFuaG1fc1EtdVZWZ21xbzBoYTJ5NUMwX29CY1NMRV9teWQ5bkNQYnZRNzhjcUZKNWhVMGQ4aGNkdVc2WFNEX0dPX1JndGlsS2E1YkZMWU5XTmdxM1plX2liem0wY3Z4T2xLeUw1dUJudmNlRVZTSTZ2NTFHWHBBOWhn?oc=5"
+            },
+            {
+              "source": "azmirror.com",
+              "title": "Arizona sues OpenAI over the dangers ChatGPT poses to children",
+              "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOWDg3bHRld2YtQWxMekF2UDFfalQxWWZJREZXM25BbXg1eG5kNTVXNUdNYzV2RHN2TnJQc28xZ01uQTRzNkthS3F1Uzl4bkgxbXFmVjl5dWJGeWp2YmNIQnNCajgwbVBDcDE4aWlNYzAzLTRFNVdpT3dYRWJYSTUzelJEVVlVTGZ2TUFjaXJuWEpWdFlzWmdvU3B5dw?oc=5"
+            },
+            {
+              "source": "idahostatesman.com",
+              "title": "Idaho sues OpenAI — maker of ChatGPT — citing harms to children",
+              "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOaUlOUmRISFVuYi12cllnVDlFUjhSNmZ2eTFRWlVRTDM0ME1TaUJPMUQ5Q2dQd3IxTkpGbC1pdzdKYVM5dW1Xd25PZ29EWkxEQWtjQy1RVVBvdk80RWJJSC0wc0xYTG1iREExMWszVThqZkI3bUY3aWlncFZrRGFCLTNJQkVOWVZnOEtyWHBxWlFla0s2ZHZJ0gGXAUFVX3lxTFBTTjdkUWhLX0p0bXVaODVFQUUxcGFrMTBLcElFeUxCdWdrQVJjS05XbWVhNGdpSnF4cE0xdEQ5R3NicVhyVFl0bC1JUXE0YWdXUnVnaVB1ZFRMMmVRNExvcnh0UUE3cHFOQ1ZiMmZtYUhQNjc1QndsWkp0ZWlmcHNmdFdiWU5kemJBdzZfTWxPMDR3VkZiakU?oc=5"
+            }
+          ]
+        },
+        {
+          "title": "OpenAI Accused of Using Children's ChatGPT Data to Train AI, Family Demands Company Shares",
+          "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOdTdGU1RoM0RTd3kzNmFLRktnSnhUNndtdzl3bXBfMi1CMS12d1o4VWkzUkZrdmtoSDZxNmx4TDlLTVlmMmxwWkVheU5hV2I1dUN5Zl84NTh4X3NRc3BMZnBMTm13aTVfOVhZdlpQS3NDaUc0SC1aRmZ0eXUyS0w3Zg?oc=5",
+          "date": "Thu, 15 Oct 2026 04:41:47 GMT",
+          "summary": "OpenAI Accused of Using Children's ChatGPT Data to Train AI, Family Demands Company Shares Law Commentary",
+          "publisher": "lawcommentary.com",
+          "_via": "news.google.com",
+          "source": "lawcommentary.com",
+          "_hash": "5edd1e925401e3d9",
+          "_ageHours": 0,
+          "_inWindow": true,
+          "_score": 57.64047111111111,
           "_corrob": 2,
           "_cluster": [
             {
-              "source": "insurancejournal.com",
-              "title": "Ukrainian Drones Hit Russia’s Top Data Center in Attack on AI Ambitions",
-              "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1xdDIxRnhVUVRYY3dWZW0xbVo2UmlnU0pZcmRuVkZzUzZHVjlqQWUwU3hSemxpZjE4YTIycS1VekhUZHJZeS1oNXJ6aDJBc3RIY2hXN2l2eUpNbkRBTi1KTENUYmxYLVhRUTZHUURjWTlSajQ2TTU0UnZhYXpkUQ?oc=5"
+              "source": "businessinsider.com",
+              "title": "8 states are suing OpenAI, saying ChatGPT harms kids. Here are their demands, from data deletion to halting AI testing.",
+              "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOQVp4cENGNDFMRE5DcE5qYmdTMENJaFFETzdBdWRMRG1FRVZ1TGQ5MUNhMmp5NjFIcW5FYjhQOTJ5NVFLY2haZmpveVlHV1pYcGVUOS1wb0w3SEx2VjJyazFkdWxCaGtMSW5EYWJSUXl6NzZweFNaQzNjeXZRQVVpNENfVk5aSmFoTUt2SEZnZnYwaDhiWlVpZg?oc=5"
             },
             {
-              "source": "dailysabah.com",
-              "title": "Ukrainian drones hit Russia's top data center in attack on AI ambitions",
-              "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQRTlPZGlieEljeEZDa2NMbDd1akVvWnRJak5mRHNLbnhpRWM5czNnZG5BZG9iQkNSa2Y5YmJLV2kzazlwbEQwXzZEZmlMYWxyNUVyY3FrMEZtZ3RidXk3QjhEMlI3NEVjMEpVY1NrSVZMbFdybHRhbGlWNmZuUk9zSTNpazJaclhVTW9ub2pkbUpIVVhaZGhDVFVFQ3Z4TnBGZFFaVEtTdG1EeUwzMDdfdlBPUTc?oc=5"
+              "source": "cnet.com",
+              "title": "OpenAI Sued Over Children’s Data Used to Train ChatGPT",
+              "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPQ1NOTS1IekZnbmFkVEwzUXZVZE1jZkotWEJkd1pSMTBLUUNBNHFMTWVRZHQ2M2ZBV3ZrdkZLTVBReGhkZzZoTmprbXhiM2FCMlAxS0pjUWJmRW1mNExDVVdSQzVQb01md2tJWEF0MnVhMlBCUFdUSS1uREVOaFl1NXhOOU9NUzVhWlZZVVpn?oc=5"
+            }
+          ]
+        },
+        {
+          "title": "Anthropic flags revenue surge to investors ahead of stock market debut",
+          "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBTUHRCTEVSeENpRVNzbEZTb1IyNEw4aHpsTFFWTnFBY3RxNngzVFRJZEhNelQ1NnZJcG9QanVId2FPX3Znem55WEJ6N0hJNVJlZFpEVFBkYW0xYmM?oc=5",
+          "date": "Thu, 15 Oct 2026 04:19:17 GMT",
+          "summary": "Anthropic flags revenue surge to investors ahead of stock market debut BBC",
+          "publisher": "bbc.com",
+          "_via": "news.google.com",
+          "source": "bbc.com",
+          "_hash": "5607f8f44f8e9f64",
+          "_ageHours": 1,
+          "_inWindow": true,
+          "_score": 57.26547027777778,
+          "_corrob": 2,
+          "_cluster": [
+            {
+              "source": "ft.com",
+              "title": "Anthropic tells investors quarterly revenue up nearly 50% to $16.8bn ahead of IPO",
+              "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPREFXR25nQUF4WXJFTFcwN01WaS1OUWphZkFKWmRLVFlza2c3Q194d1JVdWdpRU9LWlNyZlE4REZEUEdhZzA4Ykc4UEpxZmdaaUp5ckZIcG5zNXdOYUdIYm9WQ3JxOXktR2I0d1Jab0g1T0lRcERma2FrUmx6ekZoRGJPazE?oc=5"
+            },
+            {
+              "source": "cnbc.com",
+              "title": "Anthropic to disclose new revenue numbers to investors today ahead of anticipated IPO: Sources",
+              "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOT0JTa01WVWRqUk9CRnZLYVdtN1ZvYk9TdDAzT2dGeXJpdjhUd0pjOVd5TWd5bEN1WHpIVERwbGZoS2pUcERod0FGdUdKRnFmcmhGamtibjQ0amQzSXIzLUNEdjNoNFd3NjUwMUNqd3FBSTh2djY2UnJZR09saE94YUNUR0g4UWJZaS00SDdNVjd0eEJWTjc0eVZyV0xMWDlyVENsUXdtbzMxZzJhRzhpMy1BYjltd2g4SW5KMHMtaFZUVHNXZlNJaWt2WXYtQTdnWnc?oc=5"
+            }
+          ]
+        },
+        {
+          "title": "Icon Raises $200M in Series D Funding to Scale Robotic Construction Systems",
+          "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOaXJRLWR4T2dmRDZOd2JtTG9fR01kRWUtNDZWZC1OdFZZN09RTXRSMGg2VWhmb3lNQXE2MHVTQzlpNmRxdk9PRkl0d0hzbXM4STlaLWliMHRzUEVZS2JjOTh5QjhpWFhUQlNxRkFJZzFTSGxBTkxFajVPOEkwOElBcldUWVZZMjJsMWs1RzY3QmRmcmgzTXZBM3ZNaHBHanRpNGRSWGhrenFBcGZ5aGNrSVJ3?oc=5",
+          "date": "Wed, 14 Oct 2026 21:59:15 GMT",
+          "summary": "Icon Raises $200M in Series D Funding to Scale Robotic Construction Systems AI Insider",
+          "publisher": "theaiinsider.tech",
+          "_via": "news.google.com",
+          "source": "theaiinsider.tech",
+          "_hash": "8dc89bb1d61c3955",
+          "_ageHours": 7,
+          "_inWindow": true,
+          "_score": 56.931581666666666,
+          "_corrob": 2,
+          "_cluster": [
+            {
+              "source": "prnewswire.com",
+              "title": "Labelbox raises $100 Million+ in Series E funding to advance reinforcement learning and enterprise AI agents",
+              "link": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxQVW01SVVoLXRIa1hDMU0xcjkyRUE0ekJ6dFBLUGxoNVVBdzdmd0NCcURQWl9PMkpFU25Zb2ZMNFR1YVZmMnNMdVpYWlczYVZhcnFad2k1V3YyZmI4TnlSM1RfWXgzV1JlckZwdDBPUnVDaTdieU96M2lvT0FiMDRZekhOT2Y5VjZXZWNpT3FuZXFzenhqWTRmSVV0REI2ZXl2X2NXVEFSYko3dmRHZF9salFnMlRrWjdERV8ydFhMM0gwOEVPTmxXaTgycE1yTllJUmJpWGhVMUVRWWhfYmxoenRRUXZ5Yk94RHdFelZzUTNyd2JK?oc=5"
+            },
+            {
+              "source": "businesswire.com",
+              "title": "Salience Labs Secures $125 Million in Series B Funding to Scale Photonic Networking Chips for AI Datacenter Infrastructure",
+              "link": "https://news.google.com/rss/articles/CBMijgJBVV95cUxNZTRwTm5vR2FsTElqNDFLZm1UZWh6UkVONnRlRC1YNzdIQUZTeC1WZnBBODc5M0VydGpfLW9FYWU0YmZfd2t4dWtqd2VzeGFXeDJTUE5Mel85aG5JN0pwbjRBcVNQNkV4bUJQTFRYaTFndDVyZGQyY0pJQnZsTmhMRXY1RVc1cGxDZE9HNG9SSEtnbU0wUDR5U2Zrc0hVc2Q5THdySUhvbEFibnNGY2NrX1VQUWJIbXNWYkNWeXQyRHNPcXVtZzlBVF9mSjVmNk4xeV9aM0c1LThVdDJIX3NxUWl1X1d3QW9IQXRDM0dqZFF1OXpXVHVjdERvZ1FVemhMNzNBSkFrZm9vZ0w1VGc?oc=5"
             }
           ]
         }
@@ -458,6 +438,42 @@
       "name": "Space",
       "candidates": [
         {
+          "title": "APOD: 2026 October 15 – The Milky Way over Manhattan",
+          "link": "https://science.nasa.gov/image-article/apod-2026-october-15-the-milky-way-over-manhattan/",
+          "date": "Thu, 15 Oct 2026 04:05:00 +0000",
+          "summary": "APOD Science APOD APOD: 2026 October 15 – The… Today’s APOD Archive Submissions Index Search Calendar RSS Education About Discuss APOD Astronomy Picture of the Day Discover the cosmos! Each day a different image or photograph of our fascinating universe is featured, along with a brief explanation written by a professional astronomer. The Milky [&#8230;]",
+          "publisher": "",
+          "_via": "nasa.gov",
+          "source": "nasa.gov",
+          "_hash": "da421cd492fae4a8",
+          "_ageHours": 1,
+          "_inWindow": true,
+          "_score": 47.02723916666667,
+          "_corrob": 0,
+          "_cluster": [
+            {
+              "source": "nasa.gov",
+              "title": "APOD: 2026 October 14 – Mars and the Beehive Under an Aurora",
+              "link": "https://science.nasa.gov/image-article/apod-2026-october-14-mars-and-the-beehive-under-an-aurora/"
+            }
+          ]
+        },
+        {
+          "title": "Fires Arrive in the Amazon Rainforest",
+          "link": "https://science.nasa.gov/earth/earth-observatory/fires-arrive-in-the-amazon-rainforest/",
+          "date": "Thu, 15 Oct 2026 04:01:00 +0000",
+          "summary": "During El Niño, a cascade of fires across the tropics begins in equatorial Asia and continues in the central and eastern Amazon.",
+          "publisher": "",
+          "_via": "nasa.gov",
+          "source": "nasa.gov",
+          "_hash": "edef5f470c5a41d4",
+          "_ageHours": 1,
+          "_inWindow": true,
+          "_score": 46.9605725,
+          "_corrob": 0,
+          "_cluster": []
+        },
+        {
           "title": "NASA to Host News Conference Previewing US Spacewalks 100, 101",
           "link": "https://www.nasa.gov/news-release/nasa-to-host-news-conference-previewing-us-spacewalks-100-101/",
           "date": "Wed, 14 Oct 2026 20:13:29 +0000",
@@ -466,9 +482,9 @@
           "_via": "nasa.gov",
           "source": "nasa.gov",
           "_hash": "59b53e256dc62588",
-          "_ageHours": 7,
+          "_ageHours": 9,
           "_inWindow": true,
-          "_score": 46.71452055555555,
+          "_score": 45.16862777777778,
           "_corrob": 0,
           "_cluster": []
         },
@@ -481,9 +497,9 @@
           "_via": "nasa.gov",
           "source": "nasa.gov",
           "_hash": "e620c05a3324e9cf",
-          "_ageHours": 8,
+          "_ageHours": 10,
           "_inWindow": true,
-          "_score": 45.703965,
+          "_score": 44.15807222222222,
           "_corrob": 0,
           "_cluster": []
         },
@@ -496,9 +512,9 @@
           "_via": "news.google.com",
           "source": "uafsunstar.com",
           "_hash": "e9f6def521f03183",
-          "_ageHours": 8,
+          "_ageHours": 10,
           "_inWindow": true,
-          "_score": 44.995353888888886,
+          "_score": 43.44946083333333,
           "_corrob": 1,
           "_cluster": [
             {
@@ -517,37 +533,11 @@
           "_via": "nasa.gov",
           "source": "nasa.gov",
           "_hash": "a3fefa04526be675",
-          "_ageHours": 12,
+          "_ageHours": 14,
           "_inWindow": true,
-          "_score": 41.80035388888889,
+          "_score": 40.25446111111111,
           "_corrob": 0,
           "_cluster": []
-        },
-        {
-          "title": "Life after the moon: Artemis II's Christina Koch steps down from active astronaut duty",
-          "link": "https://www.space.com/space-exploration/artemis/life-after-the-moon-artemis-iis-christina-koch-steps-down-from-active-astronaut-duty",
-          "date": "Wed, 14 Oct 2026 16:00:00 +0000",
-          "summary": "Artemis II mission specialist Christina Koch will become NASA's acting deputy chief engineer on Nov. 1. All four Artemis II crewmates have now stepped away from active spaceflight duties.",
-          "publisher": "",
-          "_via": "space.com",
-          "source": "space.com",
-          "_hash": "f3445a3cbea71916",
-          "_ageHours": 12,
-          "_inWindow": true,
-          "_score": 41.48979833333333,
-          "_corrob": 1,
-          "_cluster": [
-            {
-              "source": "space.com",
-              "title": "Life after the moon: Artemis II's Christina Koch steps down from active astronaut duty",
-              "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOR1loVlF5N3pvbEhWRTJEMEdUcXUxWFZKcUdUa0VJOHdJaHM5bnJtYTRnWWlQMVBSN1pyc3RjcS1Db2dUdVo4VmY5QWJKU2ZvM2JyQl8zRVUwLVQwWlV5SFBGVjh3MnFZQnNPUzF4YndhT2RIRkR1REVwbXFIMFJweVFWUTZzWGczWjRSV3daRTV4TUZqbHNOXzlWN0NUdEZBTVNNRFp6U1R4QUtHVko2R2FuWTl5ZlZzSlBuOU9VZDNuN2ttUHF4dk41dlg?oc=5"
-            },
-            {
-              "source": "nasa.gov",
-              "title": "NASA Names Astronaut Christina Koch Acting Deputy Chief Engineer",
-              "link": "https://www.nasa.gov/news-release/nasa-names-astronaut-christina-koch-acting-deputy-chief-engineer/"
-            }
-          ]
         },
         {
           "title": "NASA Develops Batteries to Power Humanity&#8217;s Return to Moon",
@@ -558,9 +548,9 @@
           "_via": "nasa.gov",
           "source": "nasa.gov",
           "_hash": "27cc830accbe9dd7",
-          "_ageHours": 13,
+          "_ageHours": 14,
           "_inWindow": true,
-          "_score": 41.178965,
+          "_score": 39.633072222222225,
           "_corrob": 0,
           "_cluster": []
         },
@@ -573,9 +563,9 @@
           "_via": "news.google.com",
           "source": "simplywall.st",
           "_hash": "ab79766f68ba73d3",
-          "_ageHours": 14,
+          "_ageHours": 15,
           "_inWindow": true,
-          "_score": 39.24563166666667,
+          "_score": 37.699738611111115,
           "_corrob": 1,
           "_cluster": [
             {
@@ -594,9 +584,9 @@
           "_via": "nasa.gov",
           "source": "nasa.gov",
           "_hash": "6cbef3b706fa8e43",
-          "_ageHours": 11,
+          "_ageHours": 12,
           "_inWindow": true,
-          "_score": 37.27257611111111,
+          "_score": 35.726683333333334,
           "_corrob": 0,
           "_cluster": []
         },
@@ -609,24 +599,9 @@
           "_via": "nasa.gov",
           "source": "nasa.gov",
           "_hash": "1ed40f06d390f8b0",
-          "_ageHours": 14,
+          "_ageHours": 16,
           "_inWindow": true,
-          "_score": 34.030076111111114,
-          "_corrob": 0,
-          "_cluster": []
-        },
-        {
-          "title": "APOD: 2026 October 14 – Mars and the Beehive Under an Aurora",
-          "link": "https://science.nasa.gov/image-article/apod-2026-october-14-mars-and-the-beehive-under-an-aurora/",
-          "date": "Wed, 14 Oct 2026 04:05:00 +0000",
-          "summary": "What a cosmic coincidence! In today’s image, Mars joins the Beehive cluster below an auroral curtain and above a horizon of happy little trees near Lansjärv, Sweden.",
-          "publisher": "",
-          "_via": "nasa.gov",
-          "source": "nasa.gov",
-          "_hash": "a3e9345abe43e2d0",
-          "_ageHours": 23,
-          "_inWindow": true,
-          "_score": 24.573131666666665,
+          "_score": 32.484183333333334,
           "_corrob": 0,
           "_cluster": []
         },
@@ -639,9 +614,9 @@
           "_via": "nasa.gov",
           "source": "nasa.gov",
           "_hash": "f4a1fadec1af0676",
-          "_ageHours": 23,
+          "_ageHours": 25,
           "_inWindow": true,
-          "_score": 24.506465,
+          "_score": 22.960572222222222,
           "_corrob": 0,
           "_cluster": []
         },
@@ -654,9 +629,9 @@
           "_via": "space.com",
           "source": "space.com",
           "_hash": "42acbba0c7483877",
-          "_ageHours": 37,
+          "_ageHours": 39,
           "_inWindow": true,
-          "_score": 21.731187222222225,
+          "_score": 20.185294444444445,
           "_corrob": 1,
           "_cluster": [
             {
@@ -677,38 +652,141 @@
       "name": "Bitcoin / Crypto",
       "candidates": [
         {
-          "title": "Marex Launches First Institutional QIS Indices For Bitcoin And Ethereum",
-          "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNaFpndm45LXFyenc3aEZRbjRSTFJuZkIyYk1CalNTTUEtRVptOHZrN09SZ1o4eDdnbzJtTUtVN25uaEtyem91c2J5M19OOUxPMmNHekZ6MGlnZFh4TzVtMHVGNzNNVVo1SWdiajJXUGY4YnhlVEFRYnBoenk5OVVwZG4zd1ZIc3hJNEprbldFLU9uMi01aGc?oc=5",
-          "date": "Wed, 14 Oct 2026 20:14:13 GMT",
-          "summary": "Marex Launches First Institutional QIS Indices For Bitcoin And Ethereum Pulse 2.0",
-          "publisher": "pulse2.com",
-          "_via": "news.google.com",
-          "source": "pulse2.com",
-          "_hash": "adedb0e17c46ebdf",
-          "_ageHours": 7,
+          "title": "Bitcoin drops below $81,000 as risk-off sentiment weighs on Asian equities",
+          "link": "https://www.theblock.co/news/markets/2026-10-15-bitcoin-drops-asian-equities-tumble-418623",
+          "date": "Thu, 15 Oct 2026 04:38:48 +0000",
+          "summary": "Asian equities tumbled on Thursday, with South Korea's Kospi losing 8% and Japan's Nikkei 225 declining 5% during morning trading.",
+          "publisher": "",
+          "_via": "theblock.co",
+          "source": "theblock.co",
+          "_hash": "2fcd70baae840c34",
+          "_ageHours": 0,
           "_inWindow": true,
-          "_score": 72.72664777777777,
-          "_corrob": 4,
+          "_score": 62.59039277777778,
+          "_corrob": 3,
           "_cluster": [
             {
-              "source": "benzinga.com",
-              "title": "Bitcoin, Ethereum, XRP and Dogecoin Slide After Hotter-Than-Expected CPI: Analyst Says 'Decisive' BTC Bre",
-              "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNY1liaWRzS1FQMVBLNkZaUUg5SUdONHBONTBiSVVnc0Z3WVhvSy1XMVBhTWdiSXlQYWtUVWNHSFVVMmJ5NzNmRWI0T0x6VVhCU1JLa3duWGVwclBLZ0lHaXJiYzdEdmhLV2dsblV0NVlBMXBsODlxTU1BVjd6N3JjeTlMMnNJbnM5UUV5bFRidFJCMkRNemVha1ZSYjNDakwwOXNjRGM4S1VfM2ktOHF3dU5UZmNXSUpy?oc=5"
+              "source": "theblock.co",
+              "title": "Bitcoin drops below $81,000 as risk-off sentiment weighs on Asian equities",
+              "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQNTgwRmRLSHhUS3JiUS14YlFtU2dna0NUd3VlSXVna1BvUWU5ZzdfdEZVZUttQktvOHl0ZllhVkRiUDNDcjZLTjJQODRlWllSalJmdFViSDRVR0NQV0dFY0p6MHR1cGhhMnZEV1NEWUlRWTVKeWg2VXlXU01ST2lHdl9sdHJtRGpPUGRuckdiSjk4XzVNTTRQaWFqSFMxclpDZnVOdENmai1NbzA4c3lIcFpPUkVPZzZmWXE1T19EdjVIZjVkYVhN?oc=5"
+            },
+            {
+              "source": "coinmarketcap.com",
+              "title": "Bitcoin Drops 3.5% as Hot CPI Print Triggers Macro Selloff",
+              "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5OVFQwbU44dlRYSGY4ZUljTE9lNnBDbThmRF9OVVRtOFZTUUxwX2EtNFh2NldpNlN6RjYyVjl3MGdxQTZzWWp1WlRDeFZWYTN5R240UTRXbFBiZXhXbDBqRjJ3WWFmTmlJWmkxOGZ1elk?oc=5"
+            },
+            {
+              "source": "coinmarketcap.com",
+              "title": "Bitcoin SV Drops 3.45% Amid Macro-Driven Market Selloff",
+              "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFA2Y1dlbm5hZ2JuYS1zREwyd2liUDBrMVFqVS1iNWFmcXBhX0lEcV9nWGtnU3BPSHpwQkx1eGNpempwanU1NWNNZlRNRUJQNU8zTHRBRDJBYkxPLV9lVnVtTjk3WEM0N2pzcXlWRURKdDI?oc=5"
+            },
+            {
+              "source": "briefs.co",
+              "title": "Bitcoin Drops 2.3% as Risk Appetite Fades",
+              "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNYURMdnFkR21IZTBqWVB6dk5RaHpxaTlUcVZtLUVRNXZ3M2x4ZnhfMlVMUlNPTm1yWlhHQWU1R2R2ZlJZRS16UjRNazZRSDRET21mWkVUMGF2bjFkOE41TXFwX0o5eGsxMVFzbEdFWDE2MnJjM3d1cjBGN2hXWndDd1gwZVg5NEgzQmt0QWNDYlQ?oc=5"
             },
             {
               "source": "finance.yahoo.com",
-              "title": "Standard Chartered Opens Bitcoin and Ethereum Trading to Wealthy UAE Clients",
-              "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNT0wtSE1hWEh3Y1Y0NXBWRGFET3RpZ2lPc0VqVnYwRXRfanc5b3ppVEZXVlZwMHZseGRwLVJpeVF5TjM3LUEwdE05eWlVVXV1X1I2TDNXU3pzWlc0ekdjMUVVY3FZam5vS09LVHNTUlZMY0JXN25BdVphM2U4SEF2TV9rYXctTUhPR19BRTMtQm9NRThJNVhmUjFzaEhIMTZUZ2s5THZOTHpvQQ?oc=5"
+              "title": "Bitcoin drops below $82,000 after U.S. inflation hits 3.7%",
+              "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQRnVYV0hOSEZKelYwcVc4SHphZ3BycmM1cF92dnhtbkNKMmtwaW5zZ0s4VXJYZGZmNVR1X2hWR2JfX3RTRmtEZW41ZjRlaThDTkREUzdNZGNvN2pDd01nekJDLTFqUko1Ti02TEpZcnByRlNOSmJQbkxib1hzeDhzRDFIWTIwQXBBYnZpZHJvS0FlNVNZZUE?oc=5"
+            }
+          ]
+        },
+        {
+          "title": "ETF Market Watch | Cryptocurrency-themed ETFs Plunge Amid Rising Fed Rate Hike Expectations; U.S. Crypto Stocks Under Broad Pressure",
+          "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNbHlScXEtSmw2c0tRYWI1elFoN1VfT3R2c2RjRDZlYVNzcWQ2R1U3X2JsRDdjaWtWcHpwWTczR2tTNmZFQnJtQnpnVWpIU01HUGdvN2V3bVRGa3lkNnNmZHJNV0dZdWpnWnFTUnVCT1hobVVVVnBZeGdXRzZQZl9EODFHazZ1UlZmck9WZllHblNtTDI5QXN6bjFxSTduT2c5bXBHUmZVUXZ6ZjlCOVZJ?oc=5",
+          "date": "Thu, 15 Oct 2026 03:42:10 GMT",
+          "summary": "ETF Market Watch | Cryptocurrency-themed ETFs Plunge Amid Rising Fed Rate Hike Expectations; U.S. Crypto Stocks Under Broad Pressure Moomoo",
+          "publisher": "moomoo.com",
+          "_via": "news.google.com",
+          "source": "moomoo.com",
+          "_hash": "081be487e7d9b6f4",
+          "_ageHours": 1,
+          "_inWindow": true,
+          "_score": 57.64650388888889,
+          "_corrob": 1,
+          "_cluster": [
+            {
+              "source": "moomoo.com",
+              "title": "Bitcoin Eases to One-Month Low on Rising Fed Rate-Hike Bets -- Market Talk",
+              "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOZ2FjNEdrejN0MGhCNWRJcEpBZ2dBT1hJS2owdnB4eExUWWxMamQtTzNYb2l2UWZ0NzZTcFptOTJ0bTQtSmxuSFJ6X1lEbWV5dzBTWnBjV3B4RVJqc21Td2QyanhTbUV1eUZscVBndE03eTNxUUpVeWR1N3Y3SW5sTkNzMzBueVVwalJQWnhONG5HRUlnd211Sg?oc=5"
             },
             {
-              "source": "decrypt.co",
-              "title": "Standard Chartered Opens Bitcoin and Ethereum Trading to Wealthy UAE Clients",
-              "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5Ra1dzcFFOUUUzQlZBVWx1QXR6TWRUQk1hblByR1RfY0I2YzkydTNxb244T2tnakd4aHVfamNLM0k4MXFMb2h4dXcxUFQzM1dieHUyLVV4ZTR0UTZ0YkVqXzV6TDBKYWd3REhvTjk3ZjJTSjVwWk41SQ?oc=5"
+              "source": "moomoo.com",
+              "title": "Bitcoin Consolidates But Fed Rate Hike Expectations May Weigh -- Market Talk",
+              "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPSkJXdm5hWktzR3FKV1B1R01sVHFZNEIyWXdXUXg4bkExX2djRFJwVldLOXBGZV9Iald1WG54WHA4STMzS29HSjJPM3l2TDFZOVVPaUcxTmU3MzFSajRtNGd4ZW5ROGw3aUF4Z2gzcHk5dFJoMFNXSlJOQ21ya2tZbXEtZ3B4MnVkUGl5U010b182YW1JdnM0bUEzYzI4NVN3dFdCYzNjYzM0VjRIejR1empR?oc=5"
             },
             {
-              "source": "fxstreet.com",
-              "title": "Top 3 Price Predictions: Bitcoin, Ethereum, Ripple – BTC eyes $85,000, ETH holds support, XRP stabilizes",
-              "link": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxPR1RhcGtsbFlUZTdnWkRhTTNtbHAwd0ZxcWpKTTlnbm5UaUt3NS1OS29fczdDcjZsc1IzaG13eHBfRW4xSHliY1l5M1JCU3NhQ2czZm9ZMjZHamNyUTlHM2tPLVZESnBlS2Q1T1laSlo4eV84ZDJQeUZMUllkMDdVM2JWREZrMUhIVUZfemZhdTU0OF9YZUUwamxFTEEyamlMLUEwbHpwcWpObndKRWdVaUdBQjdVeFdiOTRWcENZc3AtT28zTjJjaEtYU3pXaHBJWGU2VFA0VFE4a2tjUzBUQkVva29oTTRYTHdMbA?oc=5"
+              "source": "ca.finance.yahoo.com",
+              "title": "Bitcoin slips under $82k as hot CPI data fuels an uptick in Fed rate hike bets",
+              "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPSzFPV3RQMWhZM0E3Vzh4RlFMbmRhUG9BOFpvcVBuWVhEUEhEbUlwaEhmSkd3ZGN0TXhydHVGd0ZweWFzaDQtdnhsYV93MkNBcDZudTJ6ckZrLXFGZTVaOHhGamlHQWpfWHFvNWpfZC1YMmRCdHRZX1pwRjRQU0pfTEZB?oc=5"
+            }
+          ]
+        },
+        {
+          "title": "Nearly $1 billion in crypto bets liquidated as bitcoin, ether and XRP slide",
+          "link": "https://www.coindesk.com/markets/2026/10/15/nearly-usd1-billion-in-crypto-bets-liquidated-as-bitcoin-ether-and-xrp-slide",
+          "date": "Thu, 15 Oct 2026 04:25:15 +0000",
+          "summary": "Ether accounted for nearly 60% of the forced closures across the two largest cryptocurrencies, falling roughly twice as much as bitcoin.",
+          "publisher": "",
+          "_via": "coindesk.com",
+          "source": "coindesk.com",
+          "_hash": "106636947beebd2d",
+          "_ageHours": 1,
+          "_inWindow": true,
+          "_score": 57.364559722222225,
+          "_corrob": 2,
+          "_cluster": [
+            {
+              "source": "coindesk.com",
+              "title": "Nearly $1 billion in crypto bets liquidated as bitcoin, ether and XRP slide",
+              "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNblZQX0dpQWN2aUFZRklDRUdNZklJSzR5RDNhdXAyN0RlYk5qOW94TEROU09sdGR0X09tWXVQOEp3b1ZqTTY3X1RiSGMybEtaMTRfUko2X0pWbWhHMzYxRTNKTnQ2QTZYWW4yQWdCVmNmMVFVSGZULWJoekMyUExzQ3J4c0R0SXkwLWFFT01maDVpR2d4RFY4V1NIS0U3aEVielA4NTNTbGk1Ry13ZFlVVkowdWlPdmp3ZGg5ag?oc=5"
+            },
+            {
+              "source": "finance.yahoo.com",
+              "title": "Standard Chartered Opens Bitcoin, Ether Trading to Wealthy UAE Clients",
+              "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPRVN4ZTEtRVB3NGpGaXlxdllWLVlablZCcjYzYlJsbU1zc1BXYVZDS1RBejdzTzBiUEJZYUYyT21EVXF3YU1RLUYtbjNiS0Zab2hqQXVaX0pCWkpma2p6d0hvZmZCWXdveEtWVmYweUFUOWg2QXVsWEU4QVcwQW9OamJXa2pTcWxmelhfbTF1SEpxNGlOd2k2OEFYM25uWlBFeWFSMFNn?oc=5"
+            },
+            {
+              "source": "coindesk.com",
+              "title": "Standard Chartered unlocks direct bitcoin and ether trading for affluent UAE clients",
+              "link": "https://www.coindesk.com/business/2026/10/14/standard-chartered-unlocks-direct-bitcoin-and-ether-trading-for-affluent-uae-clients"
+            },
+            {
+              "source": "cointelegraph.com",
+              "title": "Standard Chartered expands Bitcoin and Ether trading to professional investors in UAE",
+              "link": "https://cointelegraph.com/news/standard-chartered-bitcoin-ether-trading-professional-investors-uae?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound"
+            },
+            {
+              "source": "coindesk.com",
+              "title": "Standard Chartered unlocks direct bitcoin and ether trading for affluent UAE clients",
+              "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQMXhwRkJ6b1Z2aDI5UzZ2VzVPMlJzMXlFMjdQQ1VpWEpueUY2RVZ0OFNqcmczOVJ2Y1Frd04za1NxaTJaekxyUnFFZU15TjlLLWRFYWU3V1l4eEd0R1BBZUo1M2FHZkhvMk1jbmR0YnRCQVlETmZCc21SZENCOGhQeU9XY0xEQ1BYc3Bpd1RmQ2RFSUpYMkRSLVhodkthNTVCYUx0QV9Md2tJZVhRdDlMMXF0MTNIVV9qdFVmZVNQRXdGSHBFZGF5MA?oc=5"
+            }
+          ]
+        },
+        {
+          "title": "Analyst predicts Bitcoin to surpass $175K as in...",
+          "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOZUxKTWc3RWFEcUoxSGlYUUpFR2xFUngza0kwZGdVWlp5Mk5CYXVKQ0l2UVFTUG1ZcUUzZFZjOGNQdzZ1eVk4X3FiVVdoRnJiOG5ISGFhcGR4RW1KUlRsd0ZubTlJTXZNdUY4U3VMcTZRNXRzdUJINC1XSmJuY2NiS3c5Zm5uYk5MMlA0b1hLZDNURWJocEQ2UkUwaV93cFI2LUU2WnQzTGpBbHloLWc?oc=5",
+          "date": "Thu, 15 Oct 2026 03:51:44 GMT",
+          "summary": "Analyst predicts Bitcoin to surpass $175K as in... Pluang",
+          "publisher": "pluang.com",
+          "_via": "news.google.com",
+          "source": "pluang.com",
+          "_hash": "2844b1483986cec2",
+          "_ageHours": 1,
+          "_inWindow": true,
+          "_score": 56.805948055555554,
+          "_corrob": 2,
+          "_cluster": [
+            {
+              "source": "foxbusiness.com",
+              "title": "Michael Saylor predicts bitcoin will blow past $100K as he declares new bull market underway",
+              "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNVmFPUFJCNEZtUjhyOUtKelYyZVRfU2ZzbjVBcXFHSlFESDU2bDl3NGg0elJ0VjZTaTNMZWZOczdtaXJTUU1SckEwMW5HcWhHM2Q0T2l1QW1FZERELXBjN3phbVJSbFVhUUsyVWoxblVjU25qeWZ0RS1seHRtZ2lyd1FwMVNhMzJJY1E0REIydFBqZzNyZUMtMkJORWFQM3FJeFNlNjlMZkVJTzV5SlBKaS1tblpNU2NDNGdr0gHAAUFVX3lxTE80YjJ4VjI3R3A5MkRTYk9rOHZWam95QUljOU45TDdOWkgtR3piaE5ERk5uSGo2UVVWb3hlWW9yaHQwYVMxR2lyVjNyc0RqdUw3cXdob011VDJDczRkY3VraHBxT1E5by1qc3BGSkxXRGZIU0dna25MN0R6ajc2cXJoNFkya0ZsdzlXN2R2SWxqdE4xNnIxLUxPU0dTaTVYRmVxVERlQUtQTnpkd0NLUWVJQ1FJWng3MGhHVDJZR185MA?oc=5"
+            },
+            {
+              "source": "benzinga.com",
+              "title": "Bitcoin, ETH, NEAR Are the Best Bets for the Rest of 2026, Analyst Predicts",
+              "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNem8ta0EwYmtobmhuNlA5MF82NWxQLXkyRUZPMkVVOGNaSVB3bHE3N3hhQ0hqMnF6Y0hjQWRnczNMd1gwZWJvZk5YdnVKUklfM3YwX0plc25GWFFsYTNoNkM0QWJKdUtYdENrMldwaC03ckxKc0dXbS02ZVB4bV9SVjk4N2w0emRabExFNlVEc0xsTHp6cVZhNFlnODNudkdXeHAxTG9kMVlvYXplYkVOck9kUkNZU1A0THlDZmZfeDRwYm5qemNlNlI5UkNYTUU?oc=5"
             }
           ]
         },
@@ -721,9 +799,9 @@
           "_via": "bitcoinmagazine.com",
           "source": "bitcoinmagazine.com",
           "_hash": "547a550f11050806",
-          "_ageHours": 6,
+          "_ageHours": 8,
           "_inWindow": true,
-          "_score": 57.99359222222222,
+          "_score": 56.44761527777778,
           "_corrob": 2,
           "_cluster": [
             {
@@ -744,28 +822,28 @@
           ]
         },
         {
-          "title": "Bitcoin Consolidates But Fed Rate Hike Expectations May Weigh -- Market Talk",
-          "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPSkJXdm5hWktzR3FKV1B1R01sVHFZNEIyWXdXUXg4bkExX2djRFJwVldLOXBGZV9Iald1WG54WHA4STMzS29HSjJPM3l2TDFZOVVPaUcxTmU3MzFSajRtNGd4ZW5ROGw3aUF4Z2gzcHk5dFJoMFNXSlJOQ21ya2tZbXEtZ3B4MnVkUGl5U010b182YW1JdnM0bUEzYzI4NVN3dFdCYzNjYzM0VjRIejR1empR?oc=5",
-          "date": "Thu, 15 Oct 2026 01:37:46 GMT",
-          "summary": "Bitcoin Consolidates But Fed Rate Hike Expectations May Weigh -- Market Talk Moomoo",
-          "publisher": "moomoo.com",
-          "_via": "news.google.com",
-          "source": "moomoo.com",
-          "_hash": "d4af383b63ad8846",
+          "title": "Bitcoin miners plunge up to 13% in Wall Street’s worst selloff since July",
+          "link": "https://cointelegraph.com/markets/bitcoin-miners-plunge-up-to-13-in-wall-streets-worst-selloff-since-july?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+          "date": "Thu, 15 Oct 2026 03:29:22 +0000",
+          "summary": "TeraWulf, Core Scientific, Cipher Mining and IREN each lost more than 12% as hotter inflation hit AI infrastructure companies.",
+          "publisher": "",
+          "_via": "cointelegraph.com",
+          "source": "cointelegraph.com",
+          "_hash": "7183e11fec7db145",
           "_ageHours": 2,
           "_inWindow": true,
-          "_score": 56.119147777777776,
+          "_score": 56.433170833333335,
           "_corrob": 2,
           "_cluster": [
             {
-              "source": "cryptoslate.com",
-              "title": "Surging dollar forces Bitcoin sell-off as rate hike odds double",
-              "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOamVPZlJuTDY4ZUJLX0dzLWRUWTV3QWExNlBqQnM5UENJZG1FRUV3UXRYaDhPSm41SzV1Ri1VcC1TbmRTbFc2TU5XQVE5OUQwRUFpLW9MV1V3NjhaQTA3eEFXYzR6MUJ6NXozb3ZWZTlBVzgxNWhXejg5dExpMTRfZ055alFxUjNLMC0wZ2RXQlhTQQ?oc=5"
+              "source": "linkedin.com",
+              "title": "#CryptoCorner Season 2 | Crypto Market Upbeat As Altcoins Rally; Wall Street Tokenisation Momentum Builds - Avalanche, Polkadot, and Cardano lead altcoin gains over the past month - Stacks token surges 50% on unique Bitcoin staking model and bond d",
+              "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNVWRDUGIzTXVpemVaRmcwUlJKTEVuNTQ2VmJ0cnZqQTBSU083UlotNHRFdEY4bk1NZXdNQ0N5OUl1alJyWUQ0dEE3NjlVa1k4dS02MnFwVUtZUUFWTTJ3Vk1GZFJ4Vll4Qk1XdF91aHJBRjBNeVdCMlY4LTZDY0U4amYxYTJzLTdfUkNKMUF2OFZlVUQ0bndtU0laLS1fd0k3QUpHV05idDh6ZklUVXc?oc=5"
             },
             {
-              "source": "ca.finance.yahoo.com",
-              "title": "Bitcoin slips under $82k as hot CPI data fuels an uptick in Fed rate hike bets",
-              "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPSzFPV3RQMWhZM0E3Vzh4RlFMbmRhUG9BOFpvcVBuWVhEUEhEbUlwaEhmSkd3ZGN0TXhydHVGd0ZweWFzaDQtdnhsYV93MkNBcDZudTJ6ckZrLXFGZTVaOHhGamlHQWpfWHFvNWpfZC1YMmRCdHRZX1pwRjRQU0pfTEZB?oc=5"
+              "source": "tradingview.com",
+              "title": "Bitcoin miners plunge up to 13% in Wall Street’s worst selloff since July",
+              "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNbFBUWHBXbGhKZS1pU2VFRGFOQWhzQWs4UmhYZlpmalMzVTFZbkVUSzZHMmVWbWEyU2V6cFRsd0lKRmFwcm9YZHlsV2psQWtmWnhDaUh3S19pVVhLSjVSQldnWlBuQlhzdUYxdnlaOGF5UDlkUF9GYy0xaFFmdEMtN0dWMXdiMGZGWmpuY2hOcWFZYWh2V3lnYUtrbXprb1VNLU5iRzFSLWdUbVBKbkNLUlpTYkpkU0xKVzQ5bnV0NmZUTTF2T3hyMmZTX2RnV3NlOFE?oc=5"
             }
           ]
         },
@@ -778,9 +856,9 @@
           "_via": "theblock.co",
           "source": "theblock.co",
           "_hash": "ff0cc3c09327221b",
-          "_ageHours": 13,
+          "_ageHours": 15,
           "_inWindow": true,
-          "_score": 56.03387,
+          "_score": 54.48789277777778,
           "_corrob": 3,
           "_cluster": [
             {
@@ -801,28 +879,23 @@
           ]
         },
         {
-          "title": "Bitcoin Drops 2.3% as Risk Appetite Fades",
-          "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNYURMdnFkR21IZTBqWVB6dk5RaHpxaTlUcVZtLUVRNXZ3M2x4ZnhfMlVMUlNPTm1yWlhHQWU1R2R2ZlJZRS16UjRNazZRSDRET21mWkVUMGF2bjFkOE41TXFwX0o5eGsxMVFzbEdFWDE2MnJjM3d1cjBGN2hXWndDd1gwZVg5NEgzQmt0QWNDYlQ?oc=5",
-          "date": "Wed, 14 Oct 2026 22:40:00 GMT",
-          "summary": "Bitcoin Drops 2.3% as Risk Appetite Fades Briefs Finance",
-          "publisher": "briefs.co",
+          "title": "Bitcoin Breaks Below $81,000 Support, Liquid Capital's Jack Yi Sees Further Drop Before Rebound",
+          "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9wTzFqN04zQUY0S1NsOWVZZE05ZUlUX0llbmlZa3ZPZGhhenV0VkZNUVBxZ0ZlRHd5OGJfVHpjQlRDTmJNdFFCdGlhRmNkXzNEdVFqVA?oc=5",
+          "date": "Thu, 15 Oct 2026 03:36:20 GMT",
+          "summary": "Bitcoin Breaks Below $81,000 Support, Liquid Capital's Jack Yi Sees Further Drop Before Rebound bloomingbit",
+          "publisher": "en.bloomingbit.io",
           "_via": "news.google.com",
-          "source": "briefs.co",
-          "_hash": "3579af6f2fb17209",
-          "_ageHours": 5,
+          "source": "en.bloomingbit.io",
+          "_hash": "179ecf7c975738e2",
+          "_ageHours": 1,
           "_inWindow": true,
-          "_score": 53.15636972222222,
-          "_corrob": 2,
+          "_score": 51.549281388888886,
+          "_corrob": 1,
           "_cluster": [
             {
-              "source": "bloomberg.com",
-              "title": "Bitcoin Hits Lower End of Trading Range as Risk Appetite Wanes",
-              "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQYUxSWmdWZVZEMXBuY3BOQlM4M0tMVGp1MzNuSm5YWHhmaFB2eHRET3BHWDF6WnBNZGJZMGxCVWdpVmd2MkNBQllrTUYxVzJiVmlQLWdfZTl3R2l2ZGs3YndoTF9KQUF4LWVzeFdiczlVUG83ZDJuMktoMmozQzJUMmtJMkExT3NPcU1OVjhfMldSYzZfNHZIX1dKdmh5anA4bktoSGp0TmIyMW5HSFdkUGRldw?oc=5"
-            },
-            {
-              "source": "finance.yahoo.com",
-              "title": "Bitcoin drops below $82,000 after U.S. inflation hits 3.7%",
-              "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQRnVYV0hOSEZKelYwcVc4SHphZ3BycmM1cF92dnhtbkNKMmtwaW5zZ0s4VXJYZGZmNVR1X2hWR2JfX3RTRmtEZW41ZjRlaThDTkREUzdNZGNvN2pDd01nekJDLTFqUko1Ti02TEpZcnByRlNOSmJQbkxib1hzeDhzRDFIWTIwQXBBYnZpZHJvS0FlNVNZZUE?oc=5"
+              "source": "tradingview.com",
+              "title": "Bitcoin Falls To $81K After Hotter-Than-Expected US Inflation Breaks BTC Below Tight Trading Range",
+              "link": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxNakkzemF4TnBoS2JRM09RaWNQVTN6WFBrTjNmTGlya1h1WGFnUV9Nb29sdDBUclF0d2RxNklxWHRXdUFNT2c5WDBmUm5zSGNmT1dmM25DY2ozYmdIUXRRY3J0QUg1NVF4cDgyWE1mTzg0Vlg5a0FIdUw4ei1qZFl4SFNmN0h0ZThudXRRUUl6VG1qZTk1Sk02T1VBdUlnUFJEUDFxQUI5eDhGZDkzQTh1WG04SGhWSG9ZWFVxQnhhLW9KMURhMmF0UmZFekQ2eUJ4VlRtakRhT1FiMU00NXd4TG1XeVdJNW1udEF6ZnRPYw?oc=5"
             }
           ]
         },
@@ -835,9 +908,9 @@
           "_via": "bitcoinmagazine.com",
           "source": "bitcoinmagazine.com",
           "_hash": "391e9ac93c510e30",
-          "_ageHours": 11,
+          "_ageHours": 13,
           "_inWindow": true,
-          "_score": 52.98998111111111,
+          "_score": 51.444003888888886,
           "_corrob": 2,
           "_cluster": [
             {
@@ -866,9 +939,9 @@
           "_via": "news.google.com",
           "source": "etfdb.com",
           "_hash": "463f73e2887251d2",
-          "_ageHours": 6,
+          "_ageHours": 8,
           "_inWindow": true,
-          "_score": 52.73637,
+          "_score": 51.190392777777774,
           "_corrob": 1,
           "_cluster": [
             {
@@ -887,20 +960,15 @@
           "_via": "news.google.com",
           "source": "decrypt.co",
           "_hash": "e7efd5b3d140f448",
-          "_ageHours": 8,
+          "_ageHours": 9,
           "_inWindow": true,
-          "_score": 51.25720333333334,
+          "_score": 49.71122583333333,
           "_corrob": 1,
           "_cluster": [
             {
               "source": "finance.yahoo.com",
               "title": "Russia's Biggest Bank Sberbank Wins Approval to Trade Bitcoin",
               "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNRUxhMVlYb0VSVWE4QVAwT2VCQWJJZ2Uxbm9LV25mcXB5eGhmMEhselVwQkU4ZVByS2hoR0dhOUh1NmhJVnkybzR6S21sY0s1RXpxNThXd3lBZ0FFaWthUThzblh4WGdsZTh2NXEtQ19aY19CVmJORWFrUm0yR3lJVUE2emtKbkF3TUdQNlNWRVhmWFdHSUE0c2Q3aTVabkE4?oc=5"
-            },
-            {
-              "source": "finance.yahoo.com",
-              "title": "Bitcoin to $1M? Calamos CEO Doubles Down as Russia’s Biggest Bank Prepares Crypto Trading",
-              "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPWk1ncHRSMzB6YWwxN3h3VXc1TnZwa0t2VGJnVmx1VnBtSWhhNXNDQUhTOTh5eEd3dWhQSkJYMHNwaXZnUVJCcG5sQnoyaS1xcmVUN2J2NnBaS041Smw3aTZwTzQ0NkQ2QVlobjhtN2tTVUFtNjhQS0NZTnpJLUJFQ1lSckFlX1FLeWR1UDVJWmtiQVkzR1pYd0xMWQ?oc=5"
             }
           ]
         },
@@ -913,108 +981,15 @@
           "_via": "cointelegraph.com",
           "source": "cointelegraph.com",
           "_hash": "cbcf05c95afd401e",
-          "_ageHours": 3,
+          "_ageHours": 4,
           "_inWindow": true,
-          "_score": 50.41220333333333,
+          "_score": 48.86622638888889,
           "_corrob": 1,
           "_cluster": [
             {
               "source": "theblock.co",
               "title": "Polygon Labs completes Coinme acquisition, bringing regulated payments coverage across 48 US states",
               "link": "https://www.theblock.co/news/business/2026-10-14-polygon-labs-completes-coinme-acquisition-bringing-regulated-payments-coverage-across-48-us-states-418518"
-            }
-          ]
-        },
-        {
-          "title": "Standard Chartered unlocks direct bitcoin and ether trading for affluent UAE clients",
-          "link": "https://www.coindesk.com/business/2026/10/14/standard-chartered-unlocks-direct-bitcoin-and-ether-trading-for-affluent-uae-clients",
-          "date": "Wed, 14 Oct 2026 08:10:07 +0000",
-          "summary": "The bank manages custody and settlement in-house via a closed-loop model, removing the need for separate crypto wallets.",
-          "publisher": "",
-          "_via": "coindesk.com",
-          "source": "coindesk.com",
-          "_hash": "f2b866efbd3bd325",
-          "_ageHours": 19,
-          "_inWindow": true,
-          "_score": 49.65831472222222,
-          "_corrob": 3,
-          "_cluster": [
-            {
-              "source": "thedefiant.io",
-              "title": "XLM Drops 4%, Lagging Bitcoin and Ether",
-              "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5wZVB6cFRKZ1c1TGFHTDA4STdPaUpxMVNyM0RTNUxLTE9zRWFTZWY1Wk5KUmJKM09UaTA3NlJQWlltNGg3eUpzeXFHTWF1Vl9uV0FjaGpnNjZDSm91Vk1JaTdnWnJSWEtocTBXQWVrUUI4VjZDT0dZLTJ1UXE?oc=5"
-            },
-            {
-              "source": "wealthbriefing.com",
-              "title": "Standard Chartered Opens Bitcoin, Ether Trading To UAE Wealth Clients",
-              "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPVzB1TGhXYzExNktoelVQWVBGUlA0MS0wOWVYWkRYZlBOSEsyb2wzQTZRbl9QLVc1MkpiRE9KeDRSV3Z1MENBbUt0WlZudWRjN2s4Q2stNnpKWnY1ai12MzBUMS1QWm5Tbzd3dGxULWQ5TVhETEY4YzFZbEs0WEZQM3BnMTBuaHcyQUt5b2VFV0h5aDkzeW1lX3JGNEt1SDJ2TkFxSDFtcGlsd3VFcko5Q2lFaUdLVjVyU3lv?oc=5"
-            },
-            {
-              "source": "cointelegraph.com",
-              "title": "Standard Chartered expands Bitcoin and Ether trading to professional investors in UAE",
-              "link": "https://cointelegraph.com/news/standard-chartered-bitcoin-ether-trading-professional-investors-uae?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound"
-            },
-            {
-              "source": "coindesk.com",
-              "title": "Standard Chartered unlocks direct bitcoin and ether trading for affluent UAE clients",
-              "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQMXhwRkJ6b1Z2aDI5UzZ2VzVPMlJzMXlFMjdQQ1VpWEpueUY2RVZ0OFNqcmczOVJ2Y1Frd04za1NxaTJaekxyUnFFZU15TjlLLWRFYWU3V1l4eEd0R1BBZUo1M2FHZkhvMk1jbmR0YnRCQVlETmZCc21SZENCOGhQeU9XY0xEQ1BYc3Bpd1RmQ2RFSUpYMkRSLVhodkthNTVCYUx0QV9Md2tJZVhRdDlMMXF0MTNIVV9qdFVmZVNQRXdGSHBFZGF5MA?oc=5"
-            }
-          ]
-        },
-        {
-          "title": "Standard Chartered Debuts Bitcoin Trading For Wealthy UAE Clients",
-          "link": "https://bitcoinmagazine.com/news/standard-chartered-debuts-bitcoin-trading-2",
-          "date": "Wed, 14 Oct 2026 16:22:15 +0000",
-          "summary": "Bitcoin Magazine Standard Chartered Debuts Bitcoin Trading For Wealthy UAE Clients The service allows affluent clients to buy bitcoin via their bank accounts. This post Standard Chartered Debuts Bitcoin Trading For Wealthy UAE Clients first appeared on Bitcoin Magazine and is written by Mathew Di Salvo .",
-          "publisher": "",
-          "_via": "bitcoinmagazine.com",
-          "source": "bitcoinmagazine.com",
-          "_hash": "1e96a6cb979e30fd",
-          "_ageHours": 11,
-          "_inWindow": true,
-          "_score": 47.86053666666667,
-          "_corrob": 1,
-          "_cluster": [
-            {
-              "source": "bitcoinmagazine.com",
-              "title": "Standard Chartered Debuts Bitcoin Trading For Wealthy UAE Clients",
-              "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxONHFaX2hvQVVSQlM4QVpnbnh6TkFORG05TU1YMHhMQ083Xzc0UFM5WEFWX3p1NTlCSGk4VjVMWUdxdktvbUMxcVY1elpnQ3dxSHJtMnN1bkJhZUJ2bGY1TTRDRWRSaEs3SmljT3FpS0Y1a1BxQThyVHdBX1BxT051U1Vn?oc=5"
-            },
-            {
-              "source": "finance.yahoo.com",
-              "title": "Standard Chartered Opens Bitcoin, Ether Trading to Wealthy UAE Clients",
-              "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPRVN4ZTEtRVB3NGpGaXlxdllWLVlablZCcjYzYlJsbU1zc1BXYVZDS1RBejdzTzBiUEJZYUYyT21EVXF3YU1RLUYtbjNiS0Zab2hqQXVaX0pCWkpma2p6d0hvZmZCWXdveEtWVmYweUFUOWg2QXVsWEU4QVcwQW9OamJXa2pTcWxmelhfbTF1SEpxNGlOd2k2OEFYM25uWlBFeWFSMFNn?oc=5"
-            }
-          ]
-        },
-        {
-          "title": "Bitcoin falls below $82,000 as hotter core CPI revives Fed hike concerns",
-          "link": "https://www.theblock.co/news/markets/2026-10-14-bitcoin-falls-below-82000-core-inflation-fed-rate-hike-418582",
-          "date": "Wed, 14 Oct 2026 16:51:54 +0000",
-          "summary": "Bitcoin dropped below $82,000 after September's core CPI beat forecasts as analysts weigh price targets and an October hike.",
-          "publisher": "",
-          "_via": "theblock.co",
-          "source": "theblock.co",
-          "_hash": "36f3f0f9c182ecb2",
-          "_ageHours": 11,
-          "_inWindow": true,
-          "_score": 47.35470333333333,
-          "_corrob": 2,
-          "_cluster": [
-            {
-              "source": "tradingview.com",
-              "title": "Bitcoin falls below $81K, triggering $485M in liquidations",
-              "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNOHFiTmJVcHYzR3NkT0ZRWWV4ZjFLbmx2a28tMVF5N08ybmxlYW9qNWFpQmRDaHNiQWlFVkRJUUM0b2Nhc2lxTnNRdGg1UU9uRmY0eGFQUWtKbklIUEp3Y3pIR1EwWWxaaEladGIyVnJvbFg1ZlNjZHJzeXN4YnF4YnVXaU0wZjhlaEtaa1E5WEQ3WlRkVnBkTzQ3Nnp5QU42cWpwS25PbjJQSmpQNS1OUDJiZnZRanhNOXVkdQ?oc=5"
-            },
-            {
-              "source": "streetinsider.com",
-              "title": "Bitcoin Price Prediction: Even Citi’s $113K Target Falls Below 2x as AlphaPepe Offers a 100x Presale Entry",
-              "link": "https://news.google.com/rss/articles/CBMiigJBVV95cUxPdUpJWGdBYlJ3MlI1dzNhR09TcWkzdGRMU21SNEktbE4wanlMSF9lQ0dlTW1pRFlENnozY1dMTXZBR05kMU1IVUtiRXloaER5cGgyM25MT2d6Q09VcFRqLWJ6YkxrbldkSy1OMFdPYTdGbThFaFBIb2I1VWlPcVd6MmI1Y3RxWmdreUYxd1RWZnRIU1ltQnBScFRnWU92aGlUaHZLOXI2SlR1Yl9JemZNYVBlTThaV2pMLVo4VHY0UVRYdEFOeTF5S2hCcjBiVklsVUE0VlJQZXI3TEU0RmhON0Y4UWVxLTRiQ2taQjd0M2pBcnpGS0MyNGdyUGN5UmVlWHdjOWI4MTJpUQ?oc=5"
-            },
-            {
-              "source": "theblock.co",
-              "title": "Bitcoin falls below $82,000 as hotter core CPI revives Fed hike concerns",
-              "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPYndQbXBQRnBmR2RWQjV1Mlh3cGlwdW5jWXktaTJUbzJ6WlNYSkg2YVFjZmJrbnQxRWlOUWFpVlcwVGt3Tjdya3NsbnBOWndoVEFjWHdFdXJWQm1jMHNjWjZHaE5sMU0tXzRNdWJwR29zRy11WW8xTjRKUlN3UElsM3dsSjJpbkg2SDhjdEZWdUFqUkVqeHlnUzV1bmtUV1p4Y0NhMTRPY3c5YjF3cFE?oc=5"
             }
           ]
         }
@@ -1024,43 +999,38 @@
       "name": "Biotech & Longevity",
       "candidates": [
         {
-          "title": "Christ Hospital launches CRISPR gene-editing trial for patients with high cholesterol",
-          "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPQnVJMFo5N1NuQVk5MEdEN0FmTVVBeDBjSTB1eDZSSzJmaHNtRTd4VWlrV0JpRzh5M2tEWEJXOFBYNzVablVLbnJQOUFULTRDOGV0U1plMGF3Qk9rWnhNaGkzNUJZTXZkelZuNkp0RmxUbFJMQ0FYUm9Vb05ES2VVM1dDbmhWRWV2V3FGWWUzUUpTOXJFaTZxeWh2Vm1yTkZyZm9zdjdQWUhDbDFhb2QxUTVSRU1XRk9FTmJmR0JzLXo0NUxxM2c?oc=5",
-          "date": "Wed, 14 Oct 2026 20:53:26 GMT",
-          "summary": "Christ Hospital launches CRISPR gene-editing trial for patients with high cholesterol WKRC",
-          "publisher": "local12.com",
+          "title": "Oncolytics Biotech (NASDAQ:ONCY) Stock Price Up 9.8% - Here's Why",
+          "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPWkJyNkJraGRva1pkQVdyQllwRG1xT0Zua0ZzVmQ3OC16V3lDMjZKOWZpXy14dkpwTDhaMXNKY0hrT2hDZFYtN040el9mS2MzYUVuaHgxa3lxMWNiZzRXWnZOZm1Rdl9yT2lUTjJLZHZrZXZvQ1BURERQYUlMOFhHVFVHS2c2bVJCQnZWZFl5bm15Z291U2RTQ3RKYlI1aG02bWtZWExfQ0tCdEd5UjhTdlQxd3Q4dWwtbnc?oc=5",
+          "date": "Thu, 15 Oct 2026 04:50:56 GMT",
+          "summary": "Oncolytics Biotech (NASDAQ:ONCY) Stock Price Up 9.8% - Here's Why MarketBeat",
+          "publisher": "marketbeat.com",
           "_via": "news.google.com",
-          "source": "local12.com",
-          "_hash": "f174432f885f01d3",
-          "_ageHours": 7,
+          "source": "marketbeat.com",
+          "_hash": "48d245dd5deeb374",
+          "_ageHours": 0,
           "_inWindow": true,
-          "_score": 78.38003694444444,
-          "_corrob": 5,
+          "_score": 62.79233472222222,
+          "_corrob": 3,
           "_cluster": [
             {
-              "source": "newscord.org",
-              "title": "Colossal Biosciences Unveils GenoMorph AI To Identify Dodo Gene-Editing Targets: 8 outlets compared",
-              "link": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxQNzYtVThtRDJTSm5mVEpIb2s2Uk94SFE1YWFNcnM5VFA2bEhaN21UNWY1TEc5aWhCLXZVa184dzNDbVpXd29icEt1X01SMGFZdWVGZ0VsNkVRVzdVQUlRX0dGQ0ZBR2hjbjVVZ1VfSGpzT2g3bGZVOGRLYm9lRlozWnVLeGFBNWg2QjR3eTg4Q3dMQks0SWZaUmpqQnV2WkpIMWdCZ3ZGbThVNzhoU190TlNYQ2F4emFoVXRxTnAtbGRnZzFPbU05YmxCVUltQ2dUOUFMSklUY01SOHpjV21BeXdPYUtubV9J?oc=5"
+              "source": "tradingview.com",
+              "title": "Oncolytics Biotech Expects Final Cohort 4 Results Of Goblet Study In Q4 2026",
+              "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxOdDRsRzZ4X19VSFN3Y29FcmdhcVQzY2lxTjBnUERUOFZPUHJKNmdVVDJOLUhKVWZlelhOYUE5akY5MUs4bllxNVJMZzJMZDZTckVucUktaDdhclZiZ25BMThFTUtMTUpGYnlrVF9uY1ZPR1dYd2VSeUk1UjFwcFFBQ1JZSjlWVFo0VGdMWnBRUFFITG5SSUwtN1YwOVg4NWVXTkpPRzZvRDFPdmMxRHlpMkx4b3JmQTdrZG43U0xlQlgzTUNWbXg2QndQUGlPQXpsamZKN1JLNFB2UUJhbWlj?oc=5"
             },
             {
-              "source": "unite.ai",
-              "title": "Colossal Unveils GenoMorph AI to Identify Dodo Gene-Editing Targets",
-              "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPR0V3V2ZtNHZFSEtuSEVhNGVkb2lobTU0Z2hxTG1xbjBqWExrMXlNbEFENHlPNGxNNUk1MWNHTDlsRGFnODBCRm4yaXl2MTJUVTJRSlBobzhJZTVmRUtJcDNweUlGZUQtUURpTUlhWGtNWndiY3ltVnV0Y1ZReF9FSWJPVW1kRkJCZHVRY3B0TTJORXc?oc=5"
+              "source": "tradingview.com",
+              "title": "Oncolytics Biotech expects final PanCAN grant payment, Cohort 4 data due Q4 2026",
+              "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxObElrU2VKamxwU3FtZlVqWUstdC1RSlE1aENhZ1EtSnRQRjdVLW5WNHZfWWJKcGpGeUtYbUFOdFZzYWs4bGtGeFFyVnNNZmVIU1EwcUhlZTMxNGRhZE04cld2Y2g0VUpMOGlyT3E2UzU1Vnc1X0ktZ29tWGRHeFppZEs1ODdDMUlYZm1Scm45ZVZUTHQ4aTNMRm9lcjZJWUQtWk5ob19kVm5TWjROa3YyMlJicUZXX09pdTMxdThEbzFHejltSzVKYzFqdUlZRDJUdFl2QktYSEI?oc=5"
             },
             {
-              "source": "biotechniques.com",
-              "title": "New gene editing system offers promising CRISPR alternative",
-              "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNWGFaOGE4YS1zVUUwS3ZUWVFNX25CMDRwYjRzcHdEUEgzeURhWXluc0JSWTdyQjBlZXpaSnExT0RLQWNSY2ZBN1F6VE9SWmhXUmFuV2hnQU1XS0U2cHIzNlBBcVhWNWRSaUdTcFA4S1RMbjAtdUtmWVVzeVd1RFpxREQyN3Jmam52WmdCT3Q0SGRzXzZyVEpXVEZRR1RCWUQ1SFVzSnExNVMzdUxBaEFB?oc=5"
+              "source": "quiverquant.com",
+              "title": "Oncolytics Biotech Announces Completion of GOBLET Enrollment and Updates Timeline for Cohort 4 and 5 Results",
+              "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQeV9EYUVsUzV1eEFWeU1nZmNBWTF4RUk4eTlXdWlWc3Nfd3d4SGZWNTVkWVN3dVJqU3ZfOUV5V3RNakRYUHpNZmNsdnYyR0VWZGtncnMwckFFa1VWWTVNX2t5MXhQamU0bjRXcHpWUUZHLXRPVnRZdTNRcWhOQXJMNEIyb1o4MUdwbjV6YlhXdC04NFdxWTAxQXg5NUM4NTJkX0ZaSm16V0l6dkNSNlI3SWEwVURqT3RwNUw0cFlISnBzaUowMUVNNjR0RnN5S3dKZ0VoNzY2dDg?oc=5"
             },
             {
-              "source": "bioengineer.org",
-              "title": "Two-Layer Gene Editing Delivers Elite Herbicide-Tolerant Crops",
-              "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNdnVvVEktay12VVZ2LURGMVREMEoyNmx3eGxIaEhsMGdyTld2NjRtTnoyUFROWVZDREhFXzB5S2NnTHZBSDN4TjZoOWgyWmtqX01wR2pVbTBjMGNhVjRlTUZDZlBEQ29aRUVJeEtYR2RpamFzMFlPZm1uUzhaQ0N3UmF6N3ZMMU14MXMzUTdfQzY?oc=5"
-            },
-            {
-              "source": "thepigsite.com",
-              "title": "ICRISAT secures long-term licensing agreement for gene editing technology",
-              "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOLUY4clB4SUNEOEVvaklybXRGQmp5RnIzZUpVZ1dLX0o2bG1lcExrWTNJZ0UzM21zUWpOdTRzQjAzZ0J1Zmdka2JpaVByNVFocjI1M0ZEbFpaVVlONm5PR0FMM245bnBveU41X1kxajVhNnZONWgwMTkycko4UzB2SkVBOFVGcXcyWGx3S1hHWmZjaXUwTTh2dG1mT2hKSmJQQnoxNDQyMjFpbDVPblE?oc=5"
+              "source": "globenewswire.com",
+              "title": "Oncolytics Biotech® Provides Update on GOBLET Study Clinical Data and Final PanCAN Grant Payment",
+              "link": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxNQVFURGQ0c3ZsVXJDSXBzQjZEYnE2UXVOblZEdGlJclZSZDUyZzVTX3RYSlVRbXk0TlMxdnU4dkFPaGljTFFLazVzM0s5YXNJb1V2WW9mai1PY282ZnJGWnpEMFZoSjNLVHBkU0l6SjAwSHdUcVRZWVdfdVJYdTNKYjljdTBWellyNUZrRTBPYzVhRGNxV3FEbzNTbEdTbGctbW5YdF9KekF5amtKbEVlWEViV2JSalg0ZlpRQmtwdHV4ZDlDdnhoQjYzR251OGFCcndZVXpmMTNWbVdBSlVhY3pTSVZ0LWRJNDFDcGpMZkdIYU51b2hWODV6NA?oc=5"
             }
           ]
         },
@@ -1073,9 +1043,9 @@
           "_via": "news.google.com",
           "source": "biopharmadive.com",
           "_hash": "2edb854b3f79f66b",
-          "_ageHours": 3,
+          "_ageHours": 5,
           "_inWindow": true,
-          "_score": 60.718648055555555,
+          "_score": 59.1726125,
           "_corrob": 2,
           "_cluster": [
             {
@@ -1091,6 +1061,27 @@
           ]
         },
         {
+          "title": "Colossal Biosciences Unveils GenoMorph AI To Identify Dodo Gene-Editing Targets: 8 outlets compared",
+          "link": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxQNzYtVThtRDJTSm5mVEpIb2s2Uk94SFE1YWFNcnM5VFA2bEhaN21UNWY1TEc5aWhCLXZVa184dzNDbVpXd29icEt1X01SMGFZdWVGZ0VsNkVRVzdVQUlRX0dGQ0ZBR2hjbjVVZ1VfSGpzT2g3bGZVOGRLYm9lRlozWnVLeGFBNWg2QjR3eTg4Q3dMQks0SWZaUmpqQnV2WkpIMWdCZ3ZGbThVNzhoU190TlNYQ2F4emFoVXRxTnAtbGRnZzFPbU05YmxCVUltQ2dUOUFMSklUY01SOHpjV21BeXdPYUtubV9J?oc=5",
+          "date": "Wed, 14 Oct 2026 23:22:54 GMT",
+          "summary": "Colossal Biosciences Unveils GenoMorph AI To Identify Dodo Gene-Editing Targets: 8 outlets compared NewsCord",
+          "publisher": "newscord.org",
+          "_via": "news.google.com",
+          "source": "newscord.org",
+          "_hash": "4b730e1a377e47bf",
+          "_ageHours": 6,
+          "_inWindow": true,
+          "_score": 53.3251125,
+          "_corrob": 1,
+          "_cluster": [
+            {
+              "source": "unite.ai",
+              "title": "Colossal Unveils GenoMorph AI to Identify Dodo Gene-Editing Targets",
+              "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPR0V3V2ZtNHZFSEtuSEVhNGVkb2lobTU0Z2hxTG1xbjBqWExrMXlNbEFENHlPNGxNNUk1MWNHTDlsRGFnODBCRm4yaXl2MTJUVTJRSlBobzhJZTVmRUtJcDNweUlGZUQtUURpTUlhWGtNWndiY3ltVnV0Y1ZReF9FSWJPVW1kRkJCZHVRY3B0TTJORXc?oc=5"
+            }
+          ]
+        },
+        {
           "title": "US biotech company enforces eye treatment award against Novartis",
           "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPdzRPUUJOd3lmRWY3SVZBbnNTdkU4ZkoyOW80YkxZTHN1YmFrZVZmWGdyUXNxb19hRXByLXZIQ2lSTW00UUNFY1Z3THRBSnRYdHREb1pRR2Z4RzRvVVkzT21ldGwtM0VISWhzSlQybGJHaU1PQkRVamRIUlVMMFJodTd6T050dEtwNjUtaS1ZdXJzQUM5NHBfUU5VU0k2TkNDVW1PenhFejdraW10?oc=5",
           "date": "Wed, 14 Oct 2026 20:19:02 GMT",
@@ -1099,9 +1090,9 @@
           "_via": "news.google.com",
           "source": "globalarbitrationreview.com",
           "_hash": "85367cc9fcef1275",
-          "_ageHours": 7,
+          "_ageHours": 9,
           "_inWindow": true,
-          "_score": 50.80670361111111,
+          "_score": 49.260668055555556,
           "_corrob": 2,
           "_cluster": [
             {
@@ -1125,9 +1116,9 @@
           "_via": "statnews.com",
           "source": "statnews.com",
           "_hash": "6919d35d45707a50",
-          "_ageHours": 5,
+          "_ageHours": 7,
           "_inWindow": true,
-          "_score": 48.715315000000004,
+          "_score": 47.16927944444444,
           "_corrob": 0,
           "_cluster": []
         },
@@ -1140,9 +1131,9 @@
           "_via": "news.google.com",
           "source": "longevity.technology",
           "_hash": "5e05b12d06bb9255",
-          "_ageHours": 11,
+          "_ageHours": 12,
           "_inWindow": true,
-          "_score": 48.49837027777778,
+          "_score": 46.95233472222222,
           "_corrob": 1,
           "_cluster": [
             {
@@ -1161,46 +1152,15 @@
           "_via": "news.google.com",
           "source": "investors.com",
           "_hash": "a53bff288d953129",
-          "_ageHours": 7,
+          "_ageHours": 9,
           "_inWindow": true,
-          "_score": 45.62281472222222,
+          "_score": 44.07677888888889,
           "_corrob": 1,
           "_cluster": [
             {
               "source": "marketbeat.com",
               "title": "Top Biotech Stocks To Research - October 14th",
               "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPcXFoVVhfYzI4MmtMYUR2UDBWR3RjNndiSVQwanM4Wm5nbFlLRFpzTFV4R0V0YWNFb0VFTGNuSlh4TDRya3Z6ZVBwNFBiNEJpOFBzd0VyeHdzYkhsQ1BOUWs0Wm5ZZE9qY294RW9qMlFlQ0lTTGx1VWQtZE9oTUNjcjdwZ3prZWdDU0NwWFRDYVlSZjREX050RWdfbzNobklxcFRCdA?oc=5"
-            }
-          ]
-        },
-        {
-          "title": "Oncolytics Biotech Expects Final Cohort 4 Results Of Goblet Study In Q4 2026",
-          "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxOdDRsRzZ4X19VSFN3Y29FcmdhcVQzY2lxTjBnUERUOFZPUHJKNmdVVDJOLUhKVWZlelhOYUE5akY5MUs4bllxNVJMZzJMZDZTckVucUktaDdhclZiZ25BMThFTUtMTUpGYnlrVF9uY1ZPR1dYd2VSeUk1UjFwcFFBQ1JZSjlWVFo0VGdMWnBRUFFITG5SSUwtN1YwOVg4NWVXTkpPRzZvRDFPdmMxRHlpMkx4b3JmQTdrZG43U0xlQlgzTUNWbXg2QndQUGlPQXpsamZKN1JLNFB2UUJhbWlj?oc=5",
-          "date": "Wed, 14 Oct 2026 14:36:25 GMT",
-          "summary": "Oncolytics Biotech Expects Final Cohort 4 Results Of Goblet Study In Q4 2026 TradingView",
-          "publisher": "tradingview.com",
-          "_via": "news.google.com",
-          "source": "tradingview.com",
-          "_hash": "a8abf8008c431cff",
-          "_ageHours": 13,
-          "_inWindow": true,
-          "_score": 45.096425555555555,
-          "_corrob": 2,
-          "_cluster": [
-            {
-              "source": "tradingview.com",
-              "title": "Oncolytics Biotech expects final PanCAN grant payment, Cohort 4 data due Q4 2026",
-              "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxObElrU2VKamxwU3FtZlVqWUstdC1RSlE1aENhZ1EtSnRQRjdVLW5WNHZfWWJKcGpGeUtYbUFOdFZzYWs4bGtGeFFyVnNNZmVIU1EwcUhlZTMxNGRhZE04cld2Y2g0VUpMOGlyT3E2UzU1Vnc1X0ktZ29tWGRHeFppZEs1ODdDMUlYZm1Scm45ZVZUTHQ4aTNMRm9lcjZJWUQtWk5ob19kVm5TWjROa3YyMlJicUZXX09pdTMxdThEbzFHejltSzVKYzFqdUlZRDJUdFl2QktYSEI?oc=5"
-            },
-            {
-              "source": "quiverquant.com",
-              "title": "Oncolytics Biotech Announces Completion of GOBLET Enrollment and Updates Timeline for Cohort 4 and 5 Results",
-              "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQeV9EYUVsUzV1eEFWeU1nZmNBWTF4RUk4eTlXdWlWc3Nfd3d4SGZWNTVkWVN3dVJqU3ZfOUV5V3RNakRYUHpNZmNsdnYyR0VWZGtncnMwckFFa1VWWTVNX2t5MXhQamU0bjRXcHpWUUZHLXRPVnRZdTNRcWhOQXJMNEIyb1o4MUdwbjV6YlhXdC04NFdxWTAxQXg5NUM4NTJkX0ZaSm16V0l6dkNSNlI3SWEwVURqT3RwNUw0cFlISnBzaUowMUVNNjR0RnN5S3dKZ0VoNzY2dDg?oc=5"
-            },
-            {
-              "source": "globenewswire.com",
-              "title": "Oncolytics Biotech® Provides Update on GOBLET Study Clinical Data and Final PanCAN Grant Payment",
-              "link": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxNQVFURGQ0c3ZsVXJDSXBzQjZEYnE2UXVOblZEdGlJclZSZDUyZzVTX3RYSlVRbXk0TlMxdnU4dkFPaGljTFFLazVzM0s5YXNJb1V2WW9mai1PY282ZnJGWnpEMFZoSjNLVHBkU0l6SjAwSHdUcVRZWVdfdVJYdTNKYjljdTBWellyNUZrRTBPYzVhRGNxV3FEbzNTbEdTbGctbW5YdF9KekF5amtKbEVlWEViV2JSalg0ZlpRQmtwdHV4ZDlDdnhoQjYzR251OGFCcndZVXpmMTNWbVdBSlVhY3pTSVZ0LWRJNDFDcGpMZkdIYU51b2hWODV6NA?oc=5"
             }
           ]
         },
@@ -1213,9 +1173,9 @@
           "_via": "statnews.com",
           "source": "statnews.com",
           "_hash": "2ca71ce485b05055",
-          "_ageHours": 3,
+          "_ageHours": 5,
           "_inWindow": true,
-          "_score": 44.512815,
+          "_score": 42.96677944444444,
           "_corrob": 0,
           "_cluster": []
         },
@@ -1228,9 +1188,9 @@
           "_via": "endpoints.news",
           "source": "endpoints.news",
           "_hash": "c3b906f5cc9d7a2a",
-          "_ageHours": 15,
+          "_ageHours": 17,
           "_inWindow": true,
-          "_score": 43.99531472222222,
+          "_score": 42.44927944444444,
           "_corrob": 1,
           "_cluster": [
             {
@@ -1249,9 +1209,9 @@
           "_via": "statnews.com",
           "source": "statnews.com",
           "_hash": "c261e74f5692eed5",
-          "_ageHours": 4,
+          "_ageHours": 6,
           "_inWindow": true,
-          "_score": 43.878370555555556,
+          "_score": 42.332335,
           "_corrob": 0,
           "_cluster": []
         },
@@ -1264,9 +1224,9 @@
           "_via": "statnews.com",
           "source": "statnews.com",
           "_hash": "3b4b851180460823",
-          "_ageHours": 7,
+          "_ageHours": 9,
           "_inWindow": true,
-          "_score": 40.772537222222226,
+          "_score": 39.226501666666664,
           "_corrob": 0,
           "_cluster": []
         },
@@ -1279,9 +1239,9 @@
           "_via": "endpoints.news",
           "source": "endpoints.news",
           "_hash": "f2a4f236f68f6797",
-          "_ageHours": 13,
+          "_ageHours": 15,
           "_inWindow": true,
-          "_score": 39.89503694444444,
+          "_score": 38.349001666666666,
           "_corrob": 1,
           "_cluster": [
             {
@@ -1310,11 +1270,16 @@
           "_via": "news.google.com",
           "source": "news.ruc.edu.cn",
           "_hash": "301750cc3fa4aae8",
-          "_ageHours": 3,
+          "_ageHours": 4,
           "_inWindow": true,
-          "_score": 76.19308749999999,
+          "_score": 74.64698833333333,
           "_corrob": 5,
           "_cluster": [
+            {
+              "source": "tristatehomepage.com",
+              "title": "Nuclear energy focus of Rockport community meeting",
+              "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPUVpqSVRxMkI4QktkY1lhTTBqR0NBQWxDd3o1b3YwQWRPYWw4WXZmUVY0ZjBSN0FhQTF1YmZWSWhkRWdaTm1idUdqVkhzM3lKeGlnaUk0aEROdnotcUd3N2JpRGNreWlDbTNXbEdFVFJHUHpTUHNBd0JzQU9pZ1RjdjhfVl9ldVE3UXU5YmtpM3Z1MWllRkFkemJJUXFOTEpmMFlDMzhZakhuSUx6elIwb0RzZ3ZyUdIBuwFBVV95cUxNWk1zT2NjN3VIWVZpMzdPUFltT1F5S21yeWVfV0lNaHpKYzZPVFZldjBxU3JfX0xCSW5aeVdDbHVZbGVSaGpQT2lsT2xjU3dBWmJ6R0pOTDBmQ2kwa1oxdWx3LTU4OC02cm1BVGkweklfNmxkZUxjV1R0WW13S1BaeVktUGF0SDJvSHhoZG5QaXdzMW5xam1VRnllMFJfbTNUQWtqMDluVTRCcU9ENkdOTFFQaVpXYk01eVh3?oc=5"
+            },
             {
               "source": "marketbeat.com",
               "title": "Nano Nuclear Energy (NASDAQ:NNE) Stock Price Down 11.1% - Time to Sell?",
@@ -1334,11 +1299,6 @@
               "source": "tradingview.com",
               "title": "Nuclear Energy Index Hits 13-month Low",
               "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQZ1BOdXJCSDNwYXJzMElHYzBoNENTTnZqRlhnT0QtZlBFQjNGajZLQ21rNFBncWdhMFp6c2p0VS1rZGxtZXN0dUgzVlpMbEV4WWIzclMtWFdPYUtWSDlHRmlHb1VVNFJmZ01sSWVlcV9IY1p0YXd0NlhsbkxtS3dNa3NQZ2dSbF9GSENvRU5wakttakU?oc=5"
-            },
-            {
-              "source": "businesswire.com",
-              "title": "Clean Energy to Report Third Quarter 2026 Financial Results on November 5; Conference Call to Follow at 1:30 p.m. Pacific Time",
-              "link": "https://news.google.com/rss/articles/CBMijgJBVV95cUxQQTBnYlJqTXlDZl9uSUh2aE1GUmpRMkExVG9mTXJCejdZZHlHQ0hsUm83Z0hVSURTWGM2ZlAzNFBYV0tDWUVwRFFSWWFhc0pBUTFKRktDZi1TZXNpdW9YcjRpLVVSeGppZ0pjczhYLWs0OU9FLU9xMWNyd0VPX2JqNUppdVgzQTNuUGNOUXhlc0VxU0xKVkdFZlRNcWtrSEJMUlk5RTlIZzdEbUw5UGg2QV93eEVXX2hUcGYzWFdyVWllYVVvLU9ac1E2X1lTTW1DVWtJSkFwcWI1NmYzSW1iNUcxS3FTcDVGOHliWU9NRFFNVHVrRndtQzJuNWRJaUJUcHZyM0p2eER4WEI2TkE?oc=5"
             }
           ]
         },
@@ -1351,9 +1311,9 @@
           "_via": "cleantechnica.com",
           "source": "cleantechnica.com",
           "_hash": "059170782428cc69",
-          "_ageHours": 13,
+          "_ageHours": 15,
           "_inWindow": true,
-          "_score": 62.85836555555556,
+          "_score": 61.31226638888889,
           "_corrob": 2,
           "_cluster": [
             {
@@ -1377,9 +1337,9 @@
           "_via": "cleantechnica.com",
           "source": "cleantechnica.com",
           "_hash": "8904851057e87976",
-          "_ageHours": 6,
+          "_ageHours": 7,
           "_inWindow": true,
-          "_score": 60.31003222222222,
+          "_score": 58.763933055555555,
           "_corrob": 0,
           "_cluster": []
         },
@@ -1392,9 +1352,9 @@
           "_via": "cleantechnica.com",
           "source": "cleantechnica.com",
           "_hash": "3c9b61ade08f4f3b",
-          "_ageHours": 0,
+          "_ageHours": 2,
           "_inWindow": true,
-          "_score": 59.57725444444444,
+          "_score": 58.03115555555556,
           "_corrob": 0,
           "_cluster": []
         },
@@ -1407,9 +1367,9 @@
           "_via": "cleantechnica.com",
           "source": "cleantechnica.com",
           "_hash": "f4d186e8afcbbc40",
-          "_ageHours": 2,
+          "_ageHours": 4,
           "_inWindow": true,
-          "_score": 57.92308777777778,
+          "_score": 56.37698888888889,
           "_corrob": 0,
           "_cluster": []
         },
@@ -1422,9 +1382,9 @@
           "_via": "news.google.com",
           "source": "theglobeandmail.com",
           "_hash": "0c93d3761bbd4c60",
-          "_ageHours": 2,
+          "_ageHours": 3,
           "_inWindow": true,
-          "_score": 57.40947638888889,
+          "_score": 55.86337722222222,
           "_corrob": 1,
           "_cluster": [
             {
@@ -1443,9 +1403,9 @@
           "_via": "cleantechnica.com",
           "source": "cleantechnica.com",
           "_hash": "ab2e54d4317f5ca3",
-          "_ageHours": 3,
+          "_ageHours": 5,
           "_inWindow": true,
-          "_score": 57.015587777777775,
+          "_score": 55.46948888888889,
           "_corrob": 0,
           "_cluster": []
         },
@@ -1458,9 +1418,9 @@
           "_via": "news.google.com",
           "source": "espn.com",
           "_hash": "8f18d8d1c995d2ba",
-          "_ageHours": 4,
+          "_ageHours": 6,
           "_inWindow": true,
-          "_score": 54.88919861111111,
+          "_score": 53.34309972222222,
           "_corrob": 1,
           "_cluster": [
             {
@@ -1479,9 +1439,9 @@
           "_via": "news.google.com",
           "source": "citybiz.co",
           "_hash": "fa7bd60e6336aef3",
-          "_ageHours": 14,
+          "_ageHours": 16,
           "_inWindow": true,
-          "_score": 54.534754166666666,
+          "_score": 52.988655,
           "_corrob": 3,
           "_cluster": [
             {
@@ -1510,9 +1470,9 @@
           "_via": "news.google.com",
           "source": "globenewswire.com",
           "_hash": "4c8c74c4e6830e36",
-          "_ageHours": 16,
+          "_ageHours": 17,
           "_inWindow": true,
-          "_score": 54.239198611111114,
+          "_score": 52.69309944444444,
           "_corrob": 2,
           "_cluster": [
             {
@@ -1536,9 +1496,9 @@
           "_via": "cleantechnica.com",
           "source": "cleantechnica.com",
           "_hash": "7a30d2ef03275bc0",
-          "_ageHours": 2,
+          "_ageHours": 4,
           "_inWindow": true,
-          "_score": 51.61586555555556,
+          "_score": 50.069766666666666,
           "_corrob": 0,
           "_cluster": []
         },
@@ -1551,9 +1511,9 @@
           "_via": "cleantechnica.com",
           "source": "cleantechnica.com",
           "_hash": "1997f768c3cdb26b",
-          "_ageHours": 4,
+          "_ageHours": 5,
           "_inWindow": true,
-          "_score": 50.309198888888886,
+          "_score": 48.7631,
           "_corrob": 0,
           "_cluster": []
         }
