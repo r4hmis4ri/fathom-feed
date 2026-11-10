@@ -1,58 +1,53 @@
 {
   "date": "2026-11-10",
-  "generatedAt": "2026-11-10T03:30:35.436Z",
+  "generatedAt": "2026-11-10T07:39:44.560Z",
   "pillars": {
     "ai": {
       "name": "Artificial Intelligence",
       "candidates": [
         {
-          "title": "Everything we know so far about the Nvidia spy scandal targeting CEO Jensen Huang",
-          "link": "https://www.theverge.com/ai-artificial-intelligence/1030422/nvidia-jensen-huang-ai-china-alice-huang",
-          "date": "2026-11-09T18:07:59-05:00",
-          "summary": "The leather-jacketed CEO of Nvidia, Jensen Huang, has acknowledged an affair with Megaspeed exec Alice Huang, spurring an investigation by his company and intense discussions worldwide. Recent reporting noted that since last year, US intelligence reports had identified Alice Huang (no relation) as not only the exec for an AI compute company renting access to [&#8230;]",
+          "title": "Jensen Huang affair puts Nvidia's future at risk, with no clear successor to the renowned CEO",
+          "link": "https://www.cnbc.com/2026/11/09/jensen-huang-affair-nvidia-succession.html",
+          "date": "Tue, 10 Nov 2026 06:52:30 GMT",
+          "summary": "Jensen Huang is practically synonymous with Nvidia, the chipmaker he co-founded in 1993 and turned into one of the most valuable companies on the planet.",
           "publisher": "",
-          "_via": "theverge.com",
-          "source": "theverge.com",
-          "_hash": "1d1ab35fefeb43db",
-          "_ageHours": 4,
+          "_via": "search.cnbc.com",
+          "source": "search.cnbc.com",
+          "_hash": "adbdcc6e14e8e429",
+          "_ageHours": 1,
           "_inWindow": true,
-          "_score": 78.622935,
-          "_corrob": 7,
+          "_score": 72.21240944444445,
+          "_corrob": 5,
           "_cluster": [
             {
-              "source": "washingtonpost.com",
-              "title": "What to know about the Nvidia scandal and CEO Jensen Huang",
-              "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQaXZvUkpkcjVhSW5ac1dXOGIwOTkxNTJhOVFEYlJFWF83SGNRSFJOOTdhaWVYOG40SDZ2RTBCYTNwYW9yanoxbkxuSDd6NTVNeG9yZmdIN0RoM0xVcE1QNk4yM3BNbW53aDZWWVVqMWJGZEZpanJDcjBUcl8zQjU1WmlEUl8zT2FrclVLSnVsUGhHbUc3MGNKQVBqMUprWHFMY0Jz?oc=5"
-            },
-            {
               "source": "axios.com",
-              "title": "What we know about the mystery woman at the center of Nvidia's spy scandal",
-              "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE42M2pRSWVMM0s3YV9LdS1FQVF0WTktQ1VfZXBPYU1VODdZZENGeEh1eEtwVURkSjJya2o3ZEtqRk9SVWZUZzNhVzhwcGFNcXRCbGY2Y2dVSzdoZWFtaTFoUDFWZmZSOURxbm92SXZ5TmczSVZxQ2l3?oc=5"
+              "title": "Nvidia has no obvious successor to Jensen Huang — and that's a problem",
+              "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE53d1JxeEtOcWI3MGx1OG5RN2ZEUkhsRUlCZEF1R1JzYWVYTWp3NTZuV291UDlieHNBVnpNNVRtYjcxYms4cDl4eDZEYm5lOGJMV0JqSS1NVnBvWkpKYS1GRXVkTjdERHdaVEM4UWwteVRqemJwQnNj?oc=5"
             },
             {
-              "source": "wsj.com",
-              "title": "Investors Brush Off Election, Selloff and Even Nvidia’s Spy Scandal to Buy Stocks",
-              "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPQzZBYnFiMzhxMGpQVVRoMWdFdFVIWGFfLS1LNC1JXzBtWWNiRnpDVEhnN3ZpVXZ3SmN3Qmw5RXhyVDFRWGsyMG5DbXk2R1JtMGlYUWJYSUs3STNWRk5iUENQY295bDViSHQ5aXNTMzZ4QmU3a0w3ak53SUtDVU5BMXFpNUxObGY1eGZtTDlHRlR1ZDh2TGJEMzJ5bUU0VDJzQ3VYOHBBZXNjV1Z4UTc3aWZERE9lbzlYa0d4cDB1eFE?oc=5"
-            },
-            {
-              "source": "bloomberg.com",
-              "title": "Nvidia Scandal Creates Risk for Entire AI Industry, Not Just CEO",
-              "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOeU5sZExFMm9PT0FDekcxMEVUWTFWVEJVNUNBcmx0bFlzNkI2SnZYLWVlanJfdEtxN0lMV1RMZ2lfRHlYVHMwMm05dU1lNlQzS21OQlJwY1J2VThCVUpxZU5hcmxRWE8yTUNaVzlnZzRCTUJUNFFfSERTZ0RQaU9QdmRTMUZ1dEwxVDR5MzFOOXNBVmt4eW0zbHlEaWVRWWdFQUYydXVXWFIxcE5scC05YlZ4ckw1VkNtUDd1UXBGa2I2cjg?oc=5"
+              "source": "finance.yahoo.com",
+              "title": "Nvidia is about 6% of the S&P 500. If Jensen Huang is ousted, there’s no clear successor — could chaos hit portfolios?",
+              "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNQ2VmYTZ3VTRfRGpwTEhadWw0Nm1JcTY3SnJ2SXlCUU4wMTU5VlhlREJPN0I0Q0R3RHE4SzVpa1hBMmQtOXNxQkIxSXhRQk5vVjRJS0d0SkcycFJ6MjZaQVIwSE5FVEdnMXJDMHdBMUx6NUFJc1czVVczUGIybnlFbC00R3ZpVWNSSFlMcXRRNA?oc=5"
             },
             {
               "source": "apnews.com",
-              "title": "What we know — and what we don't — as Nvidia investigates an alleged spy plot involving its CEO",
-              "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPVlpxelBXZlVqS3JrUFY1YlZKTzdYRXhmSmZBWU0xcFBIaUpob1FGM0FTOTd5RDVEaV9MZkkxT0F3R1oyLVczcjBvYjJWSTRjQnVfbnlBZXJHNS1ITGpkTXdxRHN6NVEwLVB1UURJZHl5OGtoeTlHZG9BM3BUcGNlbmVmTlgwN3pHS1RuWTBscS1vbW5qcHl1elZJeWVyNzlWeFJTd2Z6ODI?oc=5"
+              "title": "Nvidia's investigation into CEO Huang's affair puts a spotlight on chip billionaire's personal life",
+              "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQd3c1TVlxVTZjTy1DWHdTc3d6Nl9COVgtQ2x1TmNGd1JKNV95eVJPRnV6QWFZQklwUEgyenNSQkZsMUpKdXZvRUFEMjZNUGdOWGZBUnFpLWJPZ2NUb1JtUGY0MlF6VEZqeXhlQkFjZjFYT1Q4Z0JWcElaUUZEeHJKaXpMaThJUmlKaGhlczhwd3ZFMGh1MldkVGtFSEJvWW1OczhrMXhSaTY0Uy01WFhwemZrb2t5Zw?oc=5"
             },
             {
-              "source": "politico.com",
-              "title": "Nvidia’s spy scandal hands Hill hawks fresh ammo on China chips",
-              "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQTWNTSUtmSWRyMWJoVDcxX3pBYmdyTFlONS1KSVRqSjBYTDc4dlItSkNzelljU1ZadXF6bE84RXExS1lFS011QlVpODlKTU03UDdsbEVhbVdFa0gtWlNPTEhTd2RzX2JQYzlla1hPV0FmajM1NmsyZkQwaW5yZDRYZlVIZkJqSzlO?oc=5"
+              "source": "cnbc.com",
+              "title": "Jensen Huang affair puts Nvidia's future at risk, with no clear successor to the renowned CEO",
+              "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5EcnlNdzFRY2RtTFNiaVYxeFhDSnJIck5qckxaeE4wLVRVYWFFSkZoc2tJNjRmLWxXSGxQMXFuYi1YeHpYbGNjOW5CMy1rNHNTaDlCWEpfUEpvYkprUEVkZjBJTTl6SmZRLWtNd1B3czh3ckl2ejlYcHFUN1FUODQ?oc=5"
             },
             {
-              "source": "nytimes.com",
-              "title": "What to Know About Nvidia’s Investigation of CEO Jensen Huang",
-              "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNRVkxZjg5UmtfRlNGbHF6VGlMMFBaWHY0SVl6QkdtUEJYT3hid0JWdWJrTE1iaFZDYzdYcmwzNzN3NFFfdzJLQjlnN2xDTnRkSVdmLXF3SXpkN2t6c0JtaXhOUUZTenBTMzUwYWN5OTRkLTh1VFdSbUZDbVlLeW1TOHVPcEpsWUlzNGZCUw?oc=5"
+              "source": "techcrunch.com",
+              "title": "Jensen Huang’s affair with alleged Chinese spy puts Nvidia’s China ambitions under scrutiny",
+              "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPSVZ4NVpac1l5cWs4dFVydHlyUlpnRFdQLVpoM1JYTExyUG9uNlZ5bmRWSWNILUxiOXB4a1hSZ2JuNmdiYk1CMkdvSHVsbVBTUnNaVXhUQThabEc1Q1BBaDlYS1RaSXlDM0JUMG96b3NMWmJnMWtDd2JjbWhELWlUWGF6bnNsdEFPSU13NDJPU1c4Wk9hdl9xdWs0a2tIcUV3UXF0czYxbGZ6akVNM0xDSWdfNXdLM0liaGdIdG5tMWR3UQ?oc=5"
+            },
+            {
+              "source": "techcrunch.com",
+              "title": "Jensen Huang’s affair with alleged Chinese spy puts Nvidia’s China ambitions under scrutiny",
+              "link": "https://techcrunch.com/2026/11/09/jensen-huangs-affair-with-alleged-chinese-spy-puts-nvidias-china-ambitions-under-scrutiny/"
             }
           ]
         },
@@ -65,9 +60,9 @@
           "_via": "search.cnbc.com",
           "source": "search.cnbc.com",
           "_hash": "a7336f12050ad1b1",
-          "_ageHours": 9,
+          "_ageHours": 13,
           "_inWindow": true,
-          "_score": 73.49015750000001,
+          "_score": 69.33768722222223,
           "_corrob": 2,
           "_cluster": [
             {
@@ -96,15 +91,15 @@
           "_via": "theverge.com",
           "source": "theverge.com",
           "_hash": "e5e117188413418b",
-          "_ageHours": 9,
+          "_ageHours": 13,
           "_inWindow": true,
-          "_score": 71.48987944444444,
+          "_score": 67.33740916666667,
           "_corrob": 4,
           "_cluster": [
             {
-              "source": "reuters.com",
-              "title": "Anthropic unveils new Fable, Mythos models as competition heats up ahead of IPO",
-              "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNVzhYdUhsNzNPQkZ3aVh2eGJ4NEgtNlpiX0tRaDA3UFpFclkzMWRycGVrQlhaZVRNSnVoSlFBY2tWR0dyV2JTWWRBcy1qVnZyQ0VFWWE4SkozSFgyMmdzSXdQMkVLaXVJS0dFUUh5WXd6N1UyRjFGczJvU2VycHVEemxlZkRKQk5PRWtyakNiM0dSdzllZ1ItcjlJRzcyWnhkVE0zTy1paTZpWmJhLWZPaFVpeVFvWjMwNDdn?oc=5"
+              "source": "business-standard.com",
+              "title": "Anthropic launches Fable 5.2 and Mythos 5.2 with faster AI capabilities",
+              "link": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxQMlhlekRnZlZvSGt5RkMxamtEczlCcnRQMmJ3SkUyUTlQdjE2RFlCR0RIb1kwNDZtQ1c5OHVHSWliSUFaaHlObzJ6S3dSZHA4Z0szRV9WSW5XNHh0bXMtNXE0OTJsb0VZZDREdDdEVzB6blBUMDVGTFdCOEhfclI4NHRsNDM5U3d3c1JVdUtlRUNmbHo3VWphS3JIVzc5eVRTVGdudjUtdHlJaEVsbV9lZGh5RWJzaWZZMXJERWtCMEY3aGs5SXVUOENDcG4xYUJVa2RsbHFVV2dJclFKUWJrcmVWN0RJNEtybWdxblBSblBYUdIB9wFBVV95cUxNbTQ5MTNoYTBkVF9jWmM5dUtPQ2VjUmRjaXUxZ09CMi1WRUdxWjA5MTVtV1VKalBJcngwc2F5ZDhxZDVOYjQxMEc5UnJxeVNJZzJndHBhUjJ3dWFWbXpkNEdHTl8teWhieWd3dnZDMFBIR3FlRUo2dXF0U2RDVXFJT1JPMk1PZ1JLdGFCd0xlZVV5UHhYUVBDSVQwRHBVOEtkWlVfenpmMDB6cmpNU3dWd24zUEVKb1kxZkIyZ1RUR3lGWVNmbTh6a2s3X3Q0dVA4a0dIS21UbHE3aGtKNWd2UERzakZNdFlWT3NuOXVvZHN5cy02V2tr?oc=5"
             },
             {
               "source": "bloomberg.com",
@@ -124,6 +119,47 @@
           ]
         },
         {
+          "title": "How China gets the Nvidia chips it needs to develop AI",
+          "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQdmRDdWlfN01nOER0YmE0RXNDNm9tcm9FOS1NY04zVzR1WWpJcl9aZWZwUlhBcjJ0eFZfanFVcmNkNHBiMGVHU21QbnhfaE94Tmkzdk9nYUVfS3VRc2VQelVHenRRME12V1U2LW53MlBiWXdaalFlU2g5dWhfdS1sWlI0UWhEZmxMUEN5VHZBUzhGek9FNC1YOVlXSEJfS00?oc=5",
+          "date": "Tue, 10 Nov 2026 06:20:00 GMT",
+          "summary": "How China gets the Nvidia chips it needs to develop AI The Straits Times",
+          "publisher": "straitstimes.com",
+          "_via": "news.google.com",
+          "source": "straitstimes.com",
+          "_hash": "2d9d0f5a7fa78fe1",
+          "_ageHours": 1,
+          "_inWindow": true,
+          "_score": 66.67074416666667,
+          "_corrob": 4,
+          "_cluster": [
+            {
+              "source": "koreatimes.co.kr",
+              "title": "How China gets the Nvidia chips it needs to develop AI",
+              "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQWDlleTl4b1VyZXpaWVA0THhuOFg2Zk1GNDY0dXA0TWduRjFkWEpnYXlHbHJPTjdYWVV6aHlYelF6d1pyQ3JYc2V2YVNCdzd0NGF1RWFSdmU4U2dmVzFLTzRRMzlVNFJfZEpTWWlUYzRrVjlNUHR6UkVBalBNalRoWllEVEViNDg1YzhqZnQzMDNUUHpjX3NoTEkwMmZmeEhIajE0etIBpAFBVV95cUxQWDlleTl4b1VyZXpaWVA0THhuOFg2Zk1GNDY0dXA0TWduRjFkWEpnYXlHbHJPTjdYWVV6aHlYelF6d1pyQ3JYc2V2YVNCdzd0NGF1RWFSdmU4U2dmVzFLTzRRMzlVNFJfZEpTWWlUYzRrVjlNUHR6UkVBalBNalRoWllEVEViNDg1YzhqZnQzMDNUUHpjX3NoTEkwMmZmeEhIajE0eg?oc=5"
+            },
+            {
+              "source": "investing.com",
+              "title": "Moonshot AI rents Nvidia’s top chips in China, Bloomberg reports",
+              "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNQjZKMUVaSUdLc1FoX2IyQzIzSzR2YW9ENlZNYm5RM2RkT2JkdXQ0RWpoUmc4OUVKOWtIVXNKbjNnSDFWMzdoTFZiWWJVN3J6Vk9iejFIQ296MkNZZDE0ZjZEUjJseWFqU21PTlNWdHFxZi15RGEtbjVWZ3ltUTV4dTFrdFJLcFdWUFFwTFJsWW9Ecm9xSjJ6NnlsVS1Cd2t6UlB3R2Z4YUhwWmx4WHc1aWNsRmVDR1lBTE5v?oc=5"
+            },
+            {
+              "source": "bloomberg.com",
+              "title": "Moonshot Rents Nvidia’s Top AI Chips in China, Documents Show",
+              "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNRXFQdXM5NGdadXhNSnRhalRtOE9aSHdPYUNyeWtIam9xZ3JjMEI5cGxyUGpZbXBQamZlY2hxZFdTRC1NbllidG1MdDNpb193bGdmMEpwdGhLMmxLQjVQekZGNEpRY181RkVick94WHlDMTMtblVBaTNWT0tRSkVmNXhlSEZYcFFRTV96WVAzLURWcEo3MGx1RDZFdk1KQ1plTldWdHlxbkdHVlVsX1k0bw?oc=5"
+            },
+            {
+              "source": "decrypt.co",
+              "title": "Google Takes Aim at Nvidia With New AI Chips Built for Privacy and Massive Memory",
+              "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPX0tjVUxOM2EzN25ycWc4TU94TXdaVnd5X09nWm5XX25TeE10SWs0SllSc0xjTndrUkRrZFgyLWp3WDFMcFZOcnJCdndSTHR0V0lmTUtjdGhBS2RKZGFQNEtCcWp4b2dEei11TzZiSnBJc28xdTZ5NGRVekJ2amh4SUtQVFZzNmtz?oc=5"
+            },
+            {
+              "source": "bloomberg.com",
+              "title": "Deutsche Telekom Adds Latest Nvidia Chips in German AI Buildout",
+              "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQTGlfcXo2b1dOUURzYWNXbjRlU0xkYlU4TGtWblMtZW02a1IwM0xRd2VCOUZkdHVDNUgyckhrVzFmX0l1VzkydjdKaE95dkI2RkxyRXBoQjVVa2s5Z01CNDRESDZNNEFON3F0WEFHM1EyekkwZVg1OUJWMXY0clRHQ2U3Z3pDbENaNDBWUVprcUhtSTdKNW1paW9CcDB5UkRmZjlCYU1kOGxCbWE3am5HajVEZW0?oc=5"
+            }
+          ]
+        },
+        {
           "title": "Nvidia stock closes lower after company opens probe into CEO Jensen Huang - ABC News - Breaking News, Latest News and Videos",
           "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOSGdCVXFUbVFHRGZpeE1wVjZ1ekhMRHh0aVZmSG5sZTl6Q1dSeUVwTFBsQ09iTlVHNURTT3M4b2ttTGRqU0xWQTlUcld5dG55Zlh6ay11NFY2VGQ0djc2NWliS1RSYnVqYWRyajRUZ0YtWWtVaDRxcHNJcjlCUGw3bGFFWDgyT2J5M2d3aGNtYldaZXpDTWdJdm9aTDPSAaIBQVVfeXFMT0Z3cEdFWWhNemxyYVlQWFJEQm8tYllLbm1MTzFZektNR0RKczg3b2U1NXNfVkYxWklzQUR6bHVqQ1IyaU9KWnZER3VLUlRITnFaU3VhRTR6alp4dUhOeXFKM3BUZG1XeTQ5WFBRUGtBYlBRY3F6dzhYSkZNX3RuUFZKS2RHN1Z5MlNsTjdKelk5Q2RmT1hwT2hqU1h5LS1kQzh3?oc=5",
           "date": "Tue, 10 Nov 2026 00:00:14 GMT",
@@ -132,9 +168,9 @@
           "_via": "news.google.com",
           "source": "abcnews.com",
           "_hash": "6285c11aecd90b04",
-          "_ageHours": 4,
+          "_ageHours": 8,
           "_inWindow": true,
-          "_score": 69.49376944444444,
+          "_score": 65.34130027777778,
           "_corrob": 5,
           "_cluster": [
             {
@@ -148,55 +184,14 @@
               "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQSEhrUnZGa3lEQ2lQMHhzWVJrdkVIcF9ZVnEtcjdiUFhNMEFLWk9SRTNwbVNNNmhSc3lGdTRkY09OVVhpOTNPajFZM1BrcmxJYS0xMHZ4eTN1bG0wS0ZVOW9CVEtDU3dfaU9URUZoUXl2QWw4VzRsekZKVl9WcmVHNWFPZDhXY3ZHRWE2bXZBaUY?oc=5"
             },
             {
-              "source": "fortune.com",
-              "title": "Before news of his spy-linked affair, Jensen Huang said Nvidia “could be of great service” to China",
-              "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPNE83YjdSOHdaQ2dfSVhLVE55Mk5mVU54bEJsMG9mRjk1b1I1U2VIZFFwMTVWNkl0WC1ESWEyb3RGQS14UldyY3lOZWlzaDRYMld4Y2psWG5oZTFTX2hsUmt4M2tPa1N4MURLR2YxRXNWLUllaWc1ZDlhUjczclVuUWkwRmRPN08zMkx1aWl3NEJlVVR5cVpBaHNSWVVCSmc?oc=5"
-            },
-            {
               "source": "kwxx.com",
               "title": "Nvidia launches independent probe after CEO Jensen Huang was allegedly targeted by Chinese intelligence - KWXX - Hawaii",
               "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOSDNDM0R1RnlLQ0VBcmYxYmp5YWNVdHB0VzJQNE1xSWJvYW8tSHBVM1ItZ2VfV0ZwZTBUWlFPMnVBSTJja0V1UVpjVW8waFl0SWlTU1lGSjFYdlRlQ3RrTHRXNnhrUGdna09sbHB0c2hpQVdDZDRiRjNveGlZTDBIOTRUb3ZraEFMb21neWl6YTB1VHZRaFVFSmZhWE9NaTdTTW43YjhDZjR5S2lVS0k1TE1OdjVGcEl4ek8wS2NUVDlta05HNXJEOXVKTDg3Y0RvaHc?oc=5"
             },
             {
-              "source": "nbcbayarea.com",
-              "title": "Internal probe into CEO Jensen Huang and ‘foreign intelligence' weighs on high-flying Nvidia shares",
-              "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNMHY0S2NqZlJFdng2STBzMW5Ybjd1cjdGR29LZUsyTmtRT2xJRGVmOWs1b1IwSGc2T2V1Y3o0YTAySmgtLXg2TlNYLXg2T3VuTTdSa1RTdmRDa0hmc25kVDZmem15Y3JmcWktM3E4UVNpazVtNnRKYnBTZUtNN2FRcXBDUXdTOTdOZkxJYjVUUkHSAZgBQVVfeXFMT1JibzNHQi1rMnpRdDBUN0ZyX1Mzd2RielpPR01DNkxvYXRTakt0eVJOdE41NWU5U2Y5TWdHOGRvaWVqTXE3REVhTkRJWlBRQ1FSZmR0dnFWZmM1OUdEUFB0aWs3cFJuTmpSUFJxQ25Pck1BXzRPRkFkcGxGdkNtOU03LVFDbG5Nb0NBUGR6V2xPQUdLbEdvcnA?oc=5"
-            }
-          ]
-        },
-        {
-          "title": "A short seller flagged Nvidia CEO&#8217;s ties to a suspected Chinese spy six months before the scandal",
-          "link": "https://techcrunch.com/2026/11/09/a-short-seller-flagged-nvidia-ceos-ties-to-a-suspected-chinese-spy-six-months-before-the-scandal/",
-          "date": "Mon, 09 Nov 2026 22:46:09 +0000",
-          "summary": "Six months before Nvidia's spy scandal erupted, Culper Research was already questioning Jensen Huang's unusually close relationship with a Chinese executive.",
-          "publisher": "",
-          "_via": "techcrunch.com",
-          "source": "techcrunch.com",
-          "_hash": "0c1f2ccd85668c86",
-          "_ageHours": 5,
-          "_inWindow": true,
-          "_score": 63.25904638888889,
-          "_corrob": 4,
-          "_cluster": [
-            {
-              "source": "facebook.com",
-              "title": "Nvidia controls much of the market for the computer chips used in the A.I. projects that are driving the U.S. economy. That has made Jensen Huang, the co-founder being investigated for his affair with a suspected Chinese spy, one of the wealthiest people in th",
-              "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQalNCZGQxZm43dzFURjdWWU44dURNS0FmZE0tZE1ZNVdtampsUW1rQXhVcDBpLW1jUTJVUllWdHlFd1pqTW1ydVhQMDBENVZZUnZMQ1NZNEhFdTFndmtTOF8xWjlyUHZYVW52a29LbV9QaUNxVEdHNnpvUU81ZlVtaC01OERKM01CdUFPZ1dFeUxWaWZYZHE1a2FPUWQyYWk3bzZvVm5PUTRQRjd5OEZnY3VpR3IxTVc1dlZTcWMxWl80a1Fva0lKTmdUdVhzSFhYZ1dR?oc=5"
-            },
-            {
-              "source": "bbc.com",
-              "title": "What we know so far about Jensen Huang's affair with suspected Chinese spy",
-              "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBLdVRudVhSejZlMXpvRlVhd1B0UlhUdmtmanU3NjNHNFhVVi1TUEMwVmpaZktkNG5XeV9CZ0ZOQ2duOEt2UlE5YWxSUkdwVU1acHBJTS13NndtS0U?oc=5"
-            },
-            {
-              "source": "reuters.com",
-              "title": "Nvidia, CEO Huang sued over disclosures related to suspected Chinese spy",
-              "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPc3pwXzVncjFkZFl3THF5NjBkQmFOMmpMc3RvR2ZmNmw4WnRtTHBhNkQzWlR0eE1yWW84ZnI5ZzlWSWlBRU41RkZUR2hJakpsS29VVHdhS3ZGR2NYdmg0UEtXblA3ajN1dFY2ZEJ1eGQtTG9kRDU4Sl9lcFhIMGpfUFNWYWNSUFJ0UE1SemM0ODhZRF9UUUVQZF9rdjZEMEFKQmh0MEZXdHFMRlhtSlBV?oc=5"
-            },
-            {
-              "source": "techcrunch.com",
-              "title": "A short seller flagged Nvidia CEO's ties to a suspected Chinese spy six months before the scandal",
-              "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOZXJiaTdrLTJPT0c5MzNWQ0tldUVWWkN6MEdxU0xzSHdDUEwtQ2VrN1RpWndpUXBhb1AwN2JQZnpxeHJvY0M4US0zMnRTdDhEMDhtek51Q0lxaGV0ZDlhNFA3NllXNmlBWWpOUHI1OXZ3SEgwZEZQdVU0c2ZSc1ZZRjkzS2h2cXUtdFMwR180eDU5dWlzOVk4dUZUamNESGU5eDYwWDBFSE1mRmZBZk80VFBNS2tacW9mU2VlUHBYc1ZFZmRLWWVpaU42MA?oc=5"
+              "source": "usnews.com",
+              "title": "Internal Probe Into CEO Jensen Huang and 'Foreign Intelligence' Weighs on High-Flying Nvidia Shares",
+              "link": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxOR3JLN1lLcVdFRnM0TEVBd1hlYUJhTlBJZzBLQ3NBcXdwcmpxSWVPekNJNm9GOF9ZSU9mWnJUU1FtTGE1RFVFQ3VKZ2diaVA0eUl2ZnppcV9QT3hSZGwyc01nZE15c0dvYWZiY3hnQjJnYUp0a2FqenVmN09WUW4ycWRXYWx6dHZXX0JpWEp6OVFXcW1uay1hVm5tUFUxd2pFWDlwWDJTX050SmMyVXEyY2dPczJ6R1I4RW1sSFE2Zng1OV9UYnRCYUdCVzVqNjFUeUlQakZDSkRGOWZHSjZJS2x5dkdHeG11?oc=5"
             },
             {
               "source": "nytimes.com",
@@ -206,199 +201,214 @@
           ]
         },
         {
-          "title": "Jensen Huang affair puts Nvidia's future at risk, with no clear successor to the renowned CEO",
-          "link": "https://www.cnbc.com/2026/11/09/jensen-huang-affair-nvidia-succession.html",
-          "date": "Mon, 09 Nov 2026 22:56:39 GMT",
-          "summary": "Jensen Huang is practically synonymous with Nvidia, the chipmaker he co-founded in 1993 and turned into one of the most valuable companies on the planet.",
+          "title": "Everything we know so far about the Nvidia spy scandal targeting CEO Jensen Huang",
+          "link": "https://www.theverge.com/ai-artificial-intelligence/1030422/nvidia-jensen-huang-ai-china-alice-huang",
+          "date": "2026-11-09T18:07:59-05:00",
+          "summary": "The leather-jacketed CEO of Nvidia, Jensen Huang, has acknowledged an affair with Megaspeed exec Alice Huang, spurring an investigation by his company and intense discussions worldwide. Recent reporting noted that since last year, US intelligence reports had identified Alice Huang (no relation) as not only the exec for an AI compute company renting access to [&#8230;]",
           "publisher": "",
-          "_via": "search.cnbc.com",
-          "source": "search.cnbc.com",
-          "_hash": "adbdcc6e14e8e429",
-          "_ageHours": 5,
+          "_via": "theverge.com",
+          "source": "theverge.com",
+          "_hash": "1d1ab35fefeb43db",
+          "_ageHours": 9,
           "_inWindow": true,
-          "_score": 58.43404638888889,
-          "_corrob": 3,
+          "_score": 64.47046472222222,
+          "_corrob": 5,
           "_cluster": [
             {
-              "source": "finance.yahoo.com",
-              "title": "Nvidia is about 6% of the S&P 500. If Jensen Huang is ousted, there’s no clear successor — could chaos hit portfolios?",
-              "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNQ2VmYTZ3VTRfRGpwTEhadWw0Nm1JcTY3SnJ2SXlCUU4wMTU5VlhlREJPN0I0Q0R3RHE4SzVpa1hBMmQtOXNxQkIxSXhRQk5vVjRJS0d0SkcycFJ6MjZaQVIwSE5FVEdnMXJDMHdBMUx6NUFJc1czVVczUGIybnlFbC00R3ZpVWNSSFlMcXRRNA?oc=5"
+              "source": "washingtonpost.com",
+              "title": "What to know about the Nvidia scandal and CEO Jensen Huang",
+              "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQaXZvUkpkcjVhSW5ac1dXOGIwOTkxNTJhOVFEYlJFWF83SGNRSFJOOTdhaWVYOG40SDZ2RTBCYTNwYW9yanoxbkxuSDd6NTVNeG9yZmdIN0RoM0xVcE1QNk4yM3BNbW53aDZWWVVqMWJGZEZpanJDcjBUcl8zQjU1WmlEUl8zT2FrclVLSnVsUGhHbUc3MGNKQVBqMUprWHFMY0Jz?oc=5"
             },
             {
               "source": "axios.com",
-              "title": "Nvidia has no obvious successor to Jensen Huang — and that's a problem",
-              "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE53d1JxeEtOcWI3MGx1OG5RN2ZEUkhsRUlCZEF1R1JzYWVYTWp3NTZuV291UDlieHNBVnpNNVRtYjcxYms4cDl4eDZEYm5lOGJMV0JqSS1NVnBvWkpKYS1GRXVkTjdERHdaVEM4UWwteVRqemJwQnNj?oc=5"
+              "title": "What we know about the mystery woman at the center of Nvidia's spy scandal",
+              "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE42M2pRSWVMM0s3YV9LdS1FQVF0WTktQ1VfZXBPYU1VODdZZENGeEh1eEtwVURkSjJya2o3ZEtqRk9SVWZUZzNhVzhwcGFNcXRCbGY2Y2dVSzdoZWFtaTFoUDFWZmZSOURxbm92SXZ5TmczSVZxQ2l3?oc=5"
             },
             {
-              "source": "cnbc.com",
-              "title": "Jensen Huang affair puts Nvidia's future at risk, with no clear successor to the renowned CEO",
-              "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5EcnlNdzFRY2RtTFNiaVYxeFhDSnJIck5qckxaeE4wLVRVYWFFSkZoc2tJNjRmLWxXSGxQMXFuYi1YeHpYbGNjOW5CMy1rNHNTaDlCWEpfUEpvYkprUEVkZjBJTTl6SmZRLWtNd1B3czh3ckl2ejlYcHFUN1FUODQ?oc=5"
+              "source": "bloomberg.com",
+              "title": "Nvidia Scandal Creates Risk for Entire AI Industry, Not Just CEO",
+              "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOeU5sZExFMm9PT0FDekcxMEVUWTFWVEJVNUNBcmx0bFlzNkI2SnZYLWVlanJfdEtxN0lMV1RMZ2lfRHlYVHMwMm05dU1lNlQzS21OQlJwY1J2VThCVUpxZU5hcmxRWE8yTUNaVzlnZzRCTUJUNFFfSERTZ0RQaU9QdmRTMUZ1dEwxVDR5MzFOOXNBVmt4eW0zbHlEaWVRWWdFQUYydXVXWFIxcE5scC05YlZ4ckw1VkNtUDd1UXBGa2I2cjg?oc=5"
+            },
+            {
+              "source": "apnews.com",
+              "title": "What we know — and what we don't — as Nvidia investigates an alleged spy plot involving its CEO",
+              "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPVlpxelBXZlVqS3JrUFY1YlZKTzdYRXhmSmZBWU0xcFBIaUpob1FGM0FTOTd5RDVEaV9MZkkxT0F3R1oyLVczcjBvYjJWSTRjQnVfbnlBZXJHNS1ITGpkTXdxRHN6NVEwLVB1UURJZHl5OGtoeTlHZG9BM3BUcGNlbmVmTlgwN3pHS1RuWTBscS1vbW5qcHl1elZJeWVyNzlWeFJTd2Z6ODI?oc=5"
+            },
+            {
+              "source": "nytimes.com",
+              "title": "What to Know About Nvidia’s Investigation of CEO Jensen Huang",
+              "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNRVkxZjg5UmtfRlNGbHF6VGlMMFBaWHY0SVl6QkdtUEJYT3hid0JWdWJrTE1iaFZDYzdYcmwzNzN3NFFfdzJLQjlnN2xDTnRkSVdmLXF3SXpkN2t6c0JtaXhOUUZTenBTMzUwYWN5OTRkLTh1VFdSbUZDbVlLeW1TOHVPcEpsWUlzNGZCUw?oc=5"
             }
           ]
         },
         {
-          "title": "Nvidia Shares Slump on Spy Probe",
-          "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE1NU1pkdzRHeTF1RGpBaUFhMVFEV3QzZTlaUEZBM2k3dGdrUGkxSFlYTzlvZ1o0czVMeE9WZHM1Q05YRVRNWUlyMnFweF93LUZOaGxma1BZQmF3Vll6cFgyRUNYcWo3akdTTUNNaG9MSFM1TkVPazBBRDJn?oc=5",
-          "date": "Mon, 09 Nov 2026 22:35:00 GMT",
-          "summary": "Nvidia Shares Slump on Spy Probe WSJ",
-          "publisher": "wsj.com",
+          "title": "Trump says Nvidia CEO denied knowing woman he had affair with was a Chinese spy",
+          "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQOW1HU00tbS1Cc1hhRHRONTBJakI4QW15UDhOUWFqVVByOXdEcWpUeXFpMVFwQ2wySFg0UkRfd3NjX0lma1RhX1k3cjJpcXRQd2FfbzFvdS1nUjdPcTJXSW1TRWpDV0drNnJqRG1iZks0TkJ2dEFadGFBZlJNcVdFdUU5OUVWYXpsTjFhMXRYenhsM29zUkFXT0tlRFc5SDJfYWJIYjFmQjhYRlB2dUdweVBHZGgxeVE?oc=5",
+          "date": "Tue, 10 Nov 2026 07:10:47 GMT",
+          "summary": "Trump says Nvidia CEO denied knowing woman he had affair with was a Chinese spy The Washington Post",
+          "publisher": "washingtonpost.com",
           "_via": "news.google.com",
-          "source": "wsj.com",
-          "_hash": "5d58e326905601b5",
-          "_ageHours": 5,
+          "source": "washingtonpost.com",
+          "_hash": "f21209496aebe8a1",
+          "_ageHours": 0,
           "_inWindow": true,
-          "_score": 58.073213611111115,
+          "_score": 62.517133333333334,
           "_corrob": 3,
           "_cluster": [
             {
-              "source": "finance.yahoo.com",
-              "title": "Jensen Huang’s wife is a co-trustee to more than 500M of his Nvidia shares. Here’s what his affair could cost him",
-              "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNR1E4a1czc0VRREQxRUdlTGQxc2xMX1A1ZHRjdDh1Y015SUNnRmVhd0k2Z3RYcjRoSUhUNUtYRUNDdkJVeXNKbzBaUGZFUGZvOFk5ZlNrbzRWTF9CSktBbWYwbVpkRG9EMFNpUmEzemFNb3Y2ODJRSi1aMHhZVW12OWE3d3UzRUZBZTVxcGlFLVByNFdUX21F?oc=5"
+              "source": "nytimes.com",
+              "title": "Nvidia CEO Jensen Huang Told Trump He Did Not Know Chinese Woman Was Suspected Spy",
+              "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBWc0swNFhFTHlRNHhjZ1paZU5JZHU3N2pxQkIwV0hqRTJBb01ZQ0VDWkNFZG1Ya2FmS084dUdham83b2t0RDhDbHV1cFpQb3V0dzZQZlloV3FxLTY5cEhnQlFxRUliYWtHVEh4WFhEMndzYVJMaXJPSkJJTUlST28?oc=5"
             },
             {
-              "source": "nbcnews.com",
-              "title": "Nvidia shares sink while stock market surges",
-              "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPXzlZWVRPREFzUWR3QTU0d2NGLTJ6cWhvZVdjbkY1eWRVa2RyUGRPSFpBaGlmMjNvTVpBTDZjbkR1NlFLRGkyZ291OWxHWC1xRVk3YkVmNjhOb1dJNDI3blNnV19XU3Jwa3JNNUVYWVFhYl80TVVzSzN1cGU4SmFDZ09FVEFuV29zUlV0Rk1SZU9Ec3ZSdlh3QVZ0aTAzbGxtbnd3SGJkN1FkQQ?oc=5"
+              "source": "pbs.org",
+              "title": "Nvidia's Jensen Huang faces scrutiny over alleged affair with Chinese spy",
+              "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOWV9BOVl3aFJiZW9yUXNoSVgxWWtPUVdtNTMxcE8wdVRSMEx2TWJiTHdhYjB0eWtRNWcwejByTzhKdHRPX3hBUVVPX2VwY09BYVVkU05ScC1LOFNaNlRVbFJibjNmSHAtaWpxNUpWbjRISHVGczVZUElTTHdfMW5YWXk4MU9fYXE1WWlmaGNhYmE1dlV2VU5ZU2FoeTlEMXpmc3RTVzY2NWF2Zw?oc=5"
             },
+            {
+              "source": "abcnews.com",
+              "title": "Trump says Nvidia CEO told him he 'didn't know' he was involved with alleged Chinese spy - ABC News - Breaking News, Latest News and Videos",
+              "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPNVZtSlZYZUF2VmhaczdLeWtobEJWUnp5Z0Y4cUprUVlQdkNpZnBqd2xoaUkyTHpRN1NqdTROaE4xa2pDUC0xejJwcFl3VlY0RWhaVHp0eXJxb0haRS0tOXpvcVZBd2d4dWhwaHZBcUtrS2FKT1htR29mOHV3c3BjR1Ryd3MzSk16eTFvcGwtM1VfSGVRMFpQQUtIanlDMEJvaUx2MzNFQk5GTGhySWdqbU95Z1dNc01P0gG-AUFVX3lxTE53N0tmdkg4TzIyejVSX184MWFMWDdTOU1iMnNRUVVYVTVTTlZhbTdINjlaSVc5Mk5EUTNrTXNlbVhXc056M3ozZ2I3Uk9lcTVDenJmal9nWDAwWnJXYktfUXZVSFFlazE1OWVPN0lha3o2N1h4em4tY0xIb2ZYMnVpdkdFal9qandxckZLMkp2XzZFaG15aEh5OTJrbTdPS0xBMHcwMF8yZGhzdXpPZVpDZklKQjIxb2p6aU9CX1E?oc=5"
+            }
+          ]
+        },
+        {
+          "title": "Australia to launch AI safety regulator after OpenAI’s breach of a government portal",
+          "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNYlo5Tlc2MlJSQWdPVkpWSUw3UFlUMnUxX05wUk5QZ3lrV0ZRT1MyQUY1WHlJV3BHdnhJeDZueGNEWGFlMC11ckd6WDBPZ0Jud1FfOXhIWVFPem5XdllSUFplQWdiaGI2ZmRUUEtjeDZwSnlyVC16d2thVlJESkZDb0RRVHdySUxfeENLd1dsWk1uRTNybmw2Zm0yMmp3VDBZMXJmS2o0ZUN2d3FyaXlNNEo3LVE4Zw?oc=5",
+          "date": "Tue, 10 Nov 2026 05:08:09 GMT",
+          "summary": "Australia to launch AI safety regulator after OpenAI’s breach of a government portal WTOP News",
+          "publisher": "wtop.com",
+          "_via": "news.google.com",
+          "source": "wtop.com",
+          "_hash": "f43549c2c4cbc1f2",
+          "_ageHours": 3,
+          "_inWindow": true,
+          "_score": 61.47324388888889,
+          "_corrob": 2,
+          "_cluster": [
+            {
+              "source": "aljazeera.com",
+              "title": "Australia tightens AI oversight rules after OpenAI government breach",
+              "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQbmdiWHo0N0RhNnE1MEVZYlA3NU82VF83YUZRalVqRnYwZmlSVG1uSXVYYWt1bW5lMHNxaEJiNzhKUFd0cEZfdFo3ZFBjUUVKajl0T0c4SlRQdVpzSU5uM0RzdmtxOU5najk0eG5KcTRDWTZmRmhJT3llYjB5VnA5QkhvSmFjNklFU2pkVkR0eEJPOEx4TDZnZlhTd3NVLXh1UE9NeXluTmZHaEpwZ2s40gG0AUFVX3lxTE56dThZc2hOQlMtNk9uY2RtbW5tYk5GYmpKY0ZYV3lkaDVrUmtRejBhWGZJNEotajVxYUpBQnJmSXJFV29vMzVnWl9YUXhJZ3VDMDRqYTFDMzIzRHNqeDZMNnZtZG9SNmctblZxbUUtLVNONEFZcWhfUjJ3ZDlMQm9sbnkzb0hpWjNaU1pzUml1MW1PZ3RtRmlOa1h4VmkzMnRkMDhRZDFaZGRlZUNfckFEeUo3VQ?oc=5"
+            },
+            {
+              "source": "reuters.com",
+              "title": "Australia to mandate AI breach reporting, create regulator after OpenAI breach",
+              "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPZVJXX0F6amhIRlpRZGpsTmNHenBVYndTci03aEFma05jOHYtNElITWF6TnVscnNfTndvaHFjeEVHNTRfSGZubWxESVlLQ295RWNCb3ZWMmpBdDJ0aVNYYktyb1RVTVRaZTFQVmRORXZ2TmpfakRQWm1aNGdlS0J3d3pENXc3NmNoSDN4Rms4UDNkYzFLNkFBSjJJSHRoNUhhYktVNl9XYmdNdFZVNjdTdk9YQlR4bDRpcmc?oc=5"
+            }
+          ]
+        },
+        {
+          "title": "Chicago Fed's Goolsbee Warns AI Data Center Boom Is Overheating the U.S. Economy",
+          "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTFAxZmVBUTVweGJZSGV1VWVxU3RrX2wzb0FIYk9vOE5qYUZ1amMzWTc1UUp1SV9iTm93UW9RRlBaV0UyTHJKa05fYmc2UmVPR3IzM2E0TzNuS2o5UF9uZ0xVeEF3WEx0aDIxSWtCc0ZTby03RzBnZFE?oc=5",
+          "date": "Mon, 09 Nov 2026 22:35:00 GMT",
+          "summary": "Chicago Fed's Goolsbee Warns AI Data Center Boom Is Overheating the U.S. Economy BigGo Finance",
+          "publisher": "finance.biggo.com",
+          "_via": "news.google.com",
+          "source": "finance.biggo.com",
+          "_hash": "a85d81785533aad0",
+          "_ageHours": 9,
+          "_inWindow": true,
+          "_score": 58.920744166666665,
+          "_corrob": 4,
+          "_cluster": [
+            {
+              "source": "finance.biggo.com",
+              "title": "AI Data Center Building Spree Looks Like 'Old-Fashioned Overheating,' Chicago Fed President Says, With Inflation the Biggest Problem",
+              "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5ncnRVQ2J1bnhTVUYtRFVrWXNNTWNHN0szN05SZTMxQ2h1REF1UDFGX3NmaE9YS0VMQUNPbFNDZTZzbjJUbkd1SFFVcHBmaklUOG5MX1NmY1YxcUQ2UndmS2VyTERwUTA5T2dCVGhoMW5vYTlCTlE?oc=5"
+            },
+            {
+              "source": "stocktwits.com",
+              "title": "Fed’s Goolsbee Says AI Data Center Boom Looks Like ‘Old-Fashioned Demand Overheating’ – Flags Inflation Risks",
+              "link": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxPNDA5eWdKc3RqcGgyc21jbzJlUFV6NXRIYnNSVHBwZ2QzcDdQd081YmpJc0hGTmd6NE9UUTNZWTF1U2h4OWtiRWFvVldVVkRHMlA4YnFlc2xjbHAwbkZ6b2VteEdQQ2dCV3ljeEZjY3dOV2hRWUx0a1JwSW8teXFLZnE1SFRVTnBUYlJtUjFmc0VUT0JpQVpXd0psM1BjQ2FTcUwyNVpYQjEtYUNtc3JjaWl1SjRZcDh5YzFZOERPX1BUeWVFSVNZMUtBZy1TSjRWeTN0MVpDOVNfWm04MmdtbTFUQ2kySk1BakllcXdLbHNadWp4YzBhMmhyekptUQ?oc=5"
+            },
+            {
+              "source": "zacks.com",
+              "title": "Cummins After Q3: Is the Stock a Buy on AI Data Center Boom?",
+              "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPRXBnbjlzQU1wT3o0OG1CYXFFUExIbTFlLVRHN1ByblZFNk9MZWVpXy03QlVWZTQ1ckk3dTQ4emU5YWRjUE9Bd0duZDg0WVhFcEhOVGFXV3Bmd3lyd0ZSN3RXV1VrOHBMa3NxemFrdDg4aW1hUzg2Rk1mUWVSRGx0aG9VX1pTcUFwWU9ZZEkwNkg0dDIyVHZrajlPc2dsaTlH?oc=5"
+            },
+            {
+              "source": "finance.yahoo.com",
+              "title": "Cummins After Q3: Is the Stock a Buy on AI Data Center Boom?",
+              "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNazRYY3FHWUVuQkJDRXRzNTNYaGZ1c2puTzRZR1NFVjhTdVZHUkxVZ0pvQ0pTcE90d2tvQ05maFRmM2Y3ZFdmVlRJVlg5SGJsZWVNRW85cm5va0Y3d3ltWmVJSTVzMTJsRmlkNVVoX1lmdUtmam1ES2tSWE1DMmlRUlRmdDhPYVVfckloZWF1N3VuQQ?oc=5"
+            },
+            {
+              "source": "insideclimatenews.org",
+              "title": "Britain’s Data Center Boom Meets Growing Resistance",
+              "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNSUtYaFdiOFZTNUVtbXBUeDlMZlFGaHZEMElhZlRSOXpXOWVEdW9CUE80M3AzVDFUZjhaYzZpWW5QcXNCRXNKYTNMUjJSS1VLOGdIajc4Q2NqbVlEU3dkaTFQeXJoakNrOXBzSjhrY1ZGLW9hQVc5R0NwZUZwRVlXbQ?oc=5"
+            }
+          ]
+        },
+        {
+          "title": "Nvidia’s Intervention in Chip Probe Brings Fresh Scrutiny",
+          "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQVXJIMjFzcURXMGg3d1h1SndfTVVQUERDZDhuVkhHMVg5T1NJdFV3VHFCVUlpZm1GdmhJeFpobGllVVNaMWtJWENibC1rOFY0RlRySGlycTlSbUxrc1F1V2xFZkotQl8yLWIzR0ZXX2ZJV18yT1NJV1ZES0k0LVJ0VkZMMmRzVGFxaS1XMldtYS1CSGpiYTV0eWhfS01VN1l5a1ZCZWtBX09pQ3IzRlRHRg?oc=5",
+          "date": "Tue, 10 Nov 2026 07:29:36 GMT",
+          "summary": "Nvidia’s Intervention in Chip Probe Brings Fresh Scrutiny Bloomberg.com",
+          "publisher": "bloomberg.com",
+          "_via": "news.google.com",
+          "source": "bloomberg.com",
+          "_hash": "acfa6777170f100a",
+          "_ageHours": 0,
+          "_inWindow": true,
+          "_score": 57.83074444444444,
+          "_corrob": 2,
+          "_cluster": [
+            {
+              "source": "nbcnews.com",
+              "title": "Justice Department took over chip probe after Nvidia contacted federal investigators",
+              "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOUFVqYlB6VDBEVEVsaHhMRHdxaVRqNDJTUmktb2dxTGhMOUFVVmtMOFYyVGRZc012NnpoTnU4ZmdLenplT3l5RGlnT29DVXRsbXJfVUoycDd2V3d1WGpObjNLdDlfZXRpNmtGTktrSFo0VDRmSjJydnNlUm1YM29wWTVqSmUzS3BqTGc4THlRN2VwaXVqOW44MTdWTWJ3QzBRMFBUbWZCNkhRSF9CbkxGNG9yS09QTXM?oc=5"
+            },
+            {
+              "source": "nytimes.com",
+              "title": "U.S. Commerce Dept. Inquiry Into Megaspeed Was Halted After Nvidia Intervention",
+              "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQRUh5TFdGSHdZMldSRkxUUjRNYjFRV3ZVdURtUkEwSG9mSHVhdlhES2ZObmtJVzFLRUhNbm4xdkl6YmZHV2d1VUNHNE9Md2ZKVlowUU5yOU8wa1AyMGNtdWNlX2NIUXpsOUJVa3pJNjRKa2MxWGdrTW9jYVNqLVM5cmpCblZSVzkwTVR5YzJ2TER0c3VpZ3AyZw?oc=5"
+            }
+          ]
+        },
+        {
+          "title": "Multimodal Artificial Intelligence Framework Models Real-Time Classroom Interactions in E-Commerce Education",
+          "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPanVVTDlaRmtVMF9PSWFQSW1TNklJdXM4WnZMcWNKb1hfZlNWOXhpa2d2VVJnb3R3WkkxR2FvT0MzNjcyVVdnaXRnUDNmYTQ2X3RwLUtGZHFFLTJPUEZRS1MydXZCTmlUdDhUb19YZ1dtU0Q4MWYwa2pRQ3VFNGJRR3Frd0hyR3puUTBPOUp4OTdHYURqWGFtS0pxVHBNNzJlV05HclRfVXdraFJMa09TV1o5WXhDNEdrQ1gzSmtKaFFJejlKcE80UUUzYjJnUQ?oc=5",
+          "date": "Tue, 10 Nov 2026 06:18:44 GMT",
+          "summary": "Multimodal Artificial Intelligence Framework Models Real-Time Classroom Interactions in E-Commerce Education Bioengineer.org",
+          "publisher": "bioengineer.org",
+          "_via": "news.google.com",
+          "source": "bioengineer.org",
+          "_hash": "add8a20af4348581",
+          "_ageHours": 1,
+          "_inWindow": true,
+          "_score": 57.649632777777775,
+          "_corrob": 1,
+          "_cluster": [
+            {
+              "source": "finance.yahoo.com",
+              "title": "Artificial Intelligence in IoT Market to Reach US$ 58.02 Billion by 2034 at 19.56% CAGR, Driven by Edge Computing and Real-Time Data Intelligence| Exclusive Report by The Insight Partners",
+              "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOanBOR2ZVWHJ0d2VWOXZTcWVFcXJDaFFhT3pac3RlMjhfVjVSNC1QNHFOeWVOamVUZWQtenZJUW1tcVpkMkpWSWI1bkVFSVJsNTR6WUhWaXR3S3hRb0IxWmZJc3V5Y3l1X3hJaWI4MlpjdXRDbEEtUEZRUFVGelBFOUlZUHNPY2FqN1JaeVA5ejllR0diV0YzTm1wa2JId2s0blBhT0F6TQ?oc=5"
+            }
+          ]
+        },
+        {
+          "title": "AI bites back: Nvidia boss Jensen Huang’s affair scandal sparks memes, from Coldplay kiss cam to Usher’s ‘Confessions’",
+          "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1WQ0J4dzVNeUhyWXdCenFGcXNvZ0pKbDg1TVpqVXNFMTdkTzQ2Q2t0OVlCVUhxajBqLWwxLUZ1ZTZmOC1ETmRLNXRjeVV5ZWc2YUdnTlBFVkkwNlNKcy1hQzhRUVFoZWpvckU5d3FpSEZPTzJ5UnAxWGExN3A?oc=5",
+          "date": "Tue, 10 Nov 2026 06:41:00 GMT",
+          "summary": "AI bites back: Nvidia boss Jensen Huang’s affair scandal sparks memes, from Coldplay kiss cam to Usher’s ‘Confessions’ Yahoo",
+          "publisher": "malaysia.news.yahoo.com",
+          "_via": "news.google.com",
+          "source": "malaysia.news.yahoo.com",
+          "_hash": "8ee852a5d60b513b",
+          "_ageHours": 1,
+          "_inWindow": true,
+          "_score": 57.02074416666667,
+          "_corrob": 2,
+          "_cluster": [
             {
               "source": "bbc.com",
-              "title": "Nvidia shares tumble over investigation into Huang's affair with alleged Chinese spy",
-              "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFA3SnFrMWdwdjhjUHBLanpUNnZ3LVJMVXp2SjdGNzZWaldUTW5pY1hNUExxUzhYR0pTSXlFLXI1LTZNTnhIOHJGXzVpYkNBdDQ2b19GeW5GSjZTLTQ?oc=5"
-            }
-          ]
-        },
-        {
-          "title": "Nvidia stock falls 4% as scrutiny turns to Jensen Huang’s affair with alleged Chinese spy",
-          "link": "https://www.cnbc.com/2026/11/09/nvidia-jensen-huang-chinese-spy-investigation.html",
-          "date": "Mon, 09 Nov 2026 21:04:19 GMT",
-          "summary": "Nvidia said its board has launched an independent investigation following the reports that Huang was the target of a \"foreign intelligence effort.\"",
-          "publisher": "",
-          "_via": "search.cnbc.com",
-          "source": "search.cnbc.com",
-          "_hash": "de2231efc5bb23ff",
-          "_ageHours": 6,
-          "_inWindow": true,
-          "_score": 57.56182416666667,
-          "_corrob": 2,
-          "_cluster": [
-            {
-              "source": "marketwatch.com",
-              "title": "As Nvidia’s stock falls, here’s what Wall Street has to say about the Jensen Huang scandal",
-              "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNRVRnNGxxTlJScW5MRGdWMmk1bkFpTUFSQ1pNYngybk93a29aREl6bV92a0p1ajR6OV93LXh4Unk0eXU5aVUtT0ZyS3VCTExmTWFxSXNtYU4tbHhfaUE4Qy1aV0M5UllUMUUyWHZNcVR4LWpqeWFUT0thak5LOEpiZHp3SVUtYXhrblNMYTl4TWV6RGcweGx6TlByNWhkWDJENkhwa1RKMGtDSzhMZlB2bDNkd09fUGVlN0xQZmpCdGwyZG91bHJfN0hyWnIxdW1sRlE?oc=5"
-            },
-            {
-              "source": "cnn.com",
-              "title": "Nvidia stock falls after investigation into CEO, bucking market rally",
-              "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE50WjBIUUkwd0ZNMkFYTzZjQjRnOFZoc2lPTFVORzZtU0ZwOV9SNldqdUxPZ0NsUEFLZ3lDdzh3RV9ZTWZ4ek9KaWR4aENKVEFtdFIybjhqUkxvTHRFYWFocVgta1ZKRWJYYTFIZ1JpaE5uTVBfNzMzb3VkUC1iUQ?oc=5"
-            }
-          ]
-        },
-        {
-          "title": "Trump says FBI investigating Nvidia boss's affair with alleged Chinese spy",
-          "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1VYUxyVHdHSk13YlNwc0JfajNMejBiRVAwYzJPbGl1cG9fZUlsUFZOSHNhWVJodHBFYTR3dFBraWlUbVd2cTl5Vl81cjhlS21RR1hoM0x4dWI4bk0?oc=5",
-          "date": "Tue, 10 Nov 2026 01:44:53 GMT",
-          "summary": "Trump says FBI investigating Nvidia boss's affair with alleged Chinese spy BBC",
-          "publisher": "bbc.com",
-          "_via": "news.google.com",
-          "source": "bbc.com",
-          "_hash": "04c41eb8a69867f9",
-          "_ageHours": 2,
-          "_inWindow": true,
-          "_score": 56.23793611111111,
-          "_corrob": 2,
-          "_cluster": [
-            {
-              "source": "nbcnews.com",
-              "title": "Trump says FBI is investigating Nvidia CEO Jensen Huang’s relationship with alleged Chinese spy",
-              "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQU3JYMUpGSGdOUUZwTDRZSjM2bmlSLTJlbU1rQmFMNTdfalVuWE9aRndmUUxtOU0xazBWdkIzUmVhamNqdHhVTzJtQ1FjZHNpZFZveG1DNnZULVZLbTRJekJmOTBET2pHdmVrWEhFcy16TEZlR05WN3N2MU5RWDhHemJvT05mQi1KX1FRNFdRMjUzUjN1VWstaEZ0SVE?oc=5"
+              "title": "Trump says FBI investigating Nvidia boss's affair with alleged Chinese spy",
+              "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1VYUxyVHdHSk13YlNwc0JfajNMejBiRVAwYzJPbGl1cG9fZUlsUFZOSHNhWVJodHBFYTR3dFBraWlUbVd2cTl5Vl81cjhlS21RR1hoM0x4dWI4bk0?oc=5"
             },
             {
               "source": "economist.com",
               "title": "Can Nvidia’s boss survive a Chinese-spy controversy?",
               "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNcnE0QURXVHllci10blA2SjFKT1VyUFBlQjNudkpHaWlXMWdUUmxWeHoxWE5jbVVQU0pxWmpuZEtmdnhVSm9aNVZyLTlmTGVZcFR2Z28zbUhKWlVrdDBTWnVYUHZlcEtZVjNFT29EOURORWdqck1JU0JiajlveGtCbWJzNXVDd0xZQzVqR2xheWtJbUoxRlhBYlY3NGY?oc=5"
-            }
-          ]
-        },
-        {
-          "title": "The backlash about data centers might really just be about electricity",
-          "link": "https://www.technologyreview.com/2026/11/09/1148194/the-backlash-about-data-centers-might-really-just-be-about-electricity/",
-          "date": "Mon, 09 Nov 2026 19:35:33 +0000",
-          "summary": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here. As voters went to the polls across the US last week, I was in Ashburn, Virginia, part of what’s known as Data Center Alley—the world’s largest data center hub. It’s also where&#8230;",
-          "publisher": "",
-          "_via": "technologyreview.com",
-          "source": "technologyreview.com",
-          "_hash": "67069d672b00da5f",
-          "_ageHours": 8,
-          "_inWindow": true,
-          "_score": 56.08237944444444,
-          "_corrob": 2,
-          "_cluster": [
-            {
-              "source": "dailynews.com",
-              "title": "AI data centers took a beating in the midterm elections. A reckoning may be ahead for tech giants",
-              "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNYWhSMFVHVmR6V1J6V1V1SWdsRFoyRkJJVTVNS2xQdG9OTUZLdXREeEdCQl9Db1ZqQUtXUWlFTkt5ZFpKcVRyVV9fZWNHZTFnRjhSNmtEU3lGOW5vYzFOWG82dlNuY1JpZVZJb1FMWmhuZERmWUo5VzZTdWlIaEtwQVBYSlJjem0wUkdETlBrV0FLRER4YVphYTl6Y3FtcGYwNXBlOExDRkNiQUh5VU9HekVIa0EzdW1Nam1ERENGejZWbGxCdFZhMWpTeEtKYWc?oc=5"
-            },
-            {
-              "source": "inspenet.com",
-              "title": "Turbines used as an alternative to power AI data centers",
-              "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1sNDZLN1lMQm1FN3dycjRnQlZIWWluTUIxQ21qQTZTZUZsZ0U2MTlJTzktVDFKM3VSRk9ieDR5N21famVWWlllOGZlRzAyRk5lbHdQY0xDY2tYMVZxbWg3eFlhVkxMN0JfTkFZ?oc=5"
-            }
-          ]
-        },
-        {
-          "title": "Meta releases Muse Ember, a new lightweight model for agent execution",
-          "link": "https://techcrunch.com/2026/11/09/meta-releases-muse-ember-a-new-lightweight-model-for-agent-execution/",
-          "date": "Mon, 09 Nov 2026 18:00:00 +0000",
-          "summary": "At 10 cents per million input tokens, Ember is significantly cheaper than frontier competitors like Haiku and Luna.",
-          "publisher": "",
-          "_via": "techcrunch.com",
-          "source": "techcrunch.com",
-          "_hash": "dd018d08e7f5fdbe",
-          "_ageHours": 10,
-          "_inWindow": true,
-          "_score": 55.48987972222222,
-          "_corrob": 1,
-          "_cluster": [
-            {
-              "source": "marketscreener.com",
-              "title": "Meta Platforms Launches Muse Ember Artificial Intelligence Model",
-              "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNQ1hPbVRFWTJ3Wjc2UU56RWNONURfQ0l5MXMxblI2dlE0WHhWWERVbHMtYmJrUW5qd2RsbWZ1WWtFR3VJcFROSVFtV0RHVVZJQWxVU3FzMWZ1cElFVkp0MVdGa0Jtc2tvWjIyalNVVGQ3Z1RjX1FIMHJHZVFQcnJXRlVDX25NU3BoWlRBVk1Ja0huVzM2dDVsU0tmaDVvLVA0UEhzV1picTFqRHk2emlTTTJmdjIyN3pu?oc=5"
-            }
-          ]
-        },
-        {
-          "title": "Google is unveiling two new specialized AI chips to widen its challenge to Nvidia",
-          "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5UbFM4MlZtdVR4YUZsZzkzaUhtamJ2dHA3czdhXzhDNGI3TFpvUVllbVVGN2o2WWIwTmw2dGN0SGpXcXoteVl6WlFEZjc3dUkzNTVvSFhYWF85Z3dZbmJOR1ZaTWRfdk1Rdkx6MQ?oc=5",
-          "date": "Mon, 09 Nov 2026 13:41:07 GMT",
-          "summary": "Google is unveiling two new specialized AI chips to widen its challenge to Nvidia Quartz",
-          "publisher": "qz.com",
-          "_via": "news.google.com",
-          "source": "qz.com",
-          "_hash": "64823daaae0da549",
-          "_ageHours": 14,
-          "_inWindow": true,
-          "_score": 55.175158055555556,
-          "_corrob": 3,
-          "_cluster": [
-            {
-              "source": "nationalcioreview.com",
-              "title": "Google Introduces Two New AI Chips to Challenge Nvidia",
-              "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNZmRqTW1JclAzSnZwQS05R2RNX0tfTE1sTkJhai0zSVVPTERjOTRuN2oxeTc1ZGk3ZTJsY2xKNVd2YlFpMmxGZXhDcE9XbGFUV0tNWkRJTFRoU1RNU2Q0aDRERUIxLU5jZGM3MmdPQ0VQSVMzOG9KUVp0UW1ibGRvdzg2X2t1ZHFlc0JLYXlwbjZPWVZOZjdmRzVLWlpjQUdoRUptU3ExR0I3WllJalFIZ1p6Q3Bpdw?oc=5"
-            },
-            {
-              "source": "bloomberg.com",
-              "title": "Google Escalates Nvidia Rivalry With Specialized Versions of AI Chips",
-              "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOd1V0MldQSFM0LVp0VmM2M3BCeE9oTHlUaElxY2R2NWZ1aTJzdjJtZmc3QkRLYndVaGpDVnF3TXBPUWhsSldrdnQ1M0RScWV2YlJJdS1iV0h1U1hZbkg0VGdWM0Mwak1nNDFiaDVCTUlTUWVaNDdnRWhjUUJDRTNiT214d2Vmcm05YXV3S3NIM0x4eDVnYnJ4OVFRTHlxcE5qRk0yZlN6d0lTN0NzQ2w4R25WOUdNYVVZREtr?oc=5"
-            },
-            {
-              "source": "finance.yahoo.com",
-              "title": "Google Escalates Nvidia Rivalry With Specialized Versions of AI Chips",
-              "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPam04WS0zYVBvV09xOExDV2hWRTkzRUNIbjZlZHRieVc4enl1blJqa05udTBYb0dRbUwxcWdVUThLUTBhcHpvNzJJTWtZZFV6Q2EtZzUyalczTmJpUFhpTmRPckwtMWx4VmoxQU9rVWpqWjVxcVB2ZklTSnAxLTRBeTEyQXNfdmlwZ2c2MXhscmtTSkFoVTRMX1BSMVpWc0ttSF9GSDQxdVZYSGc?oc=5"
-            },
-            {
-              "source": "bloomberg.com",
-              "title": "Watch Google Rolls Out New AI Chips to Challenge Nvidia",
-              "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNV2JybGRZMUYyUGp4QkJDYnZwSlBkbS1uS0MxWDNqeXJGRXpDT2ZZc0JIVVRPbWdJUkV5ajBlbFlZdEhScVJ3YnV0M1FCc1BycFdYd0RIWVItMHFKajhVaElOSUt2ZEV1RFcyeEFOLW1GcWxrSXJYcmpKMUZVZHFNWEdJWjl3TUFzd0twYkpLTEFxRlZlY1BUckM5TXNGUFQ2YVFyNnN3Zw?oc=5"
             }
           ]
         }
@@ -408,23 +418,23 @@
       "name": "Space",
       "candidates": [
         {
-          "title": "Space Exploration Technologies Corp. (SpaceX) Plans a 32 Trillion Won Gas-Fired Power Plant and AI Center in Texas",
-          "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBOSFVGN0J1ZWJZbk5HN2N1OHVvSGx6bVhwYllRWGV2SDhqUkpkeDRZZ1ZpQ2dWZW00T2g2RXAyWFBYRTFYRVYwcE1HdWpnNjR0RWc1a3ZpNXk?oc=5",
-          "date": "Mon, 09 Nov 2026 22:20:39 GMT",
-          "summary": "Space Exploration Technologies Corp. (SpaceX) Plans a 32 Trillion Won Gas-Fired Power Plant and AI Center in Texas 파이낸셜뉴스",
-          "publisher": "en.fnnews.com",
+          "title": "Space Exploration Technologies (NASDAQ:SPCX) Broadens Compute Strategy With Major GPU Financing Commitment",
+          "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxQa1BIRHlIaXRhRzBqcGY3OGJvX2dqNGs0Sm1qeVRLM2dqdUxKVmhWOUFwTEh6SXNZYUpFSmhhMjEyRlAydnl2QldPT2tWa1lmWi1WMnAxQkZBLS0ydkp3QUsxYkNwYkYtZ3VkYy0zdlhlZTVaNG9Gbk1tNXRvQ3g3cmVQVjE3RmpRekpTOEM5a3RuZldYQmxoakRFN1UxNGhvU3hZMUpURktuc3hRNDNDbWF1aTh5VFYxMGRrNFNHUzJUazJrRVBKOVhzcWhzcWd6bFRBR3p5REVLWTA?oc=5",
+          "date": "Tue, 10 Nov 2026 03:59:00 GMT",
+          "summary": "Space Exploration Technologies (NASDAQ:SPCX) Broadens Compute Strategy With Major GPU Financing Commitment Kalkine",
+          "publisher": "kalkine.com.au",
           "_via": "news.google.com",
-          "source": "en.fnnews.com",
-          "_hash": "10ef9b8a0d7cb056",
-          "_ageHours": 5,
+          "source": "kalkine.com.au",
+          "_hash": "ee4b978a96516075",
+          "_ageHours": 4,
           "_inWindow": true,
-          "_score": 62.833934166666666,
+          "_score": 64.32062722222221,
           "_corrob": 4,
           "_cluster": [
             {
-              "source": "reuters.com",
-              "title": "SpaceX plans $24 billion gas power plant, data center project in Texas",
-              "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNZGhRNnpDTGdodFotZVZacFc5cC1NdnhETU5xb19iMFIxUUgySlJiOEYyX1RsdnFwY1h5VkM5RWpoVVVseFVJMFFFQ3ByaGxUOXZxY3R2M2RNSFJGaXhqU3VzSmhndWpmdklTd2RIekc1Nlg2b1FRVGdsdnN0YzVEQVVrZmpqT1JUVG9GamZ1U29EZjdaV0xFZEJTemZxdUZleGlLb055UEo0Slhod1VBU09kNWw0ajZmQnJmQUp3?oc=5"
+              "source": "en.fnnews.com",
+              "title": "Space Exploration Technologies Corp. (SpaceX) Plans a 32 Trillion Won Gas-Fired Power Plant and AI Center in Texas",
+              "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBOSFVGN0J1ZWJZbk5HN2N1OHVvSGx6bVhwYllRWGV2SDhqUkpkeDRZZ1ZpQ2dWZW00T2g2RXAyWFBYRTFYRVYwcE1HdWpnNjR0RWc1a3ZpNXk?oc=5"
             },
             {
               "source": "marketscreener.com",
@@ -457,9 +467,9 @@
           "_via": "space.com",
           "source": "space.com",
           "_hash": "85d718aeae2a6952",
-          "_ageHours": 15,
+          "_ageHours": 19,
           "_inWindow": true,
-          "_score": 55.4897675,
+          "_score": 51.337293888888894,
           "_corrob": 2,
           "_cluster": [
             {
@@ -498,9 +508,39 @@
           "_via": "nasa.gov",
           "source": "nasa.gov",
           "_hash": "b13dd589cd7cf1a0",
-          "_ageHours": 9,
+          "_ageHours": 13,
           "_inWindow": true,
-          "_score": 51.420323333333336,
+          "_score": 47.26784972222222,
+          "_corrob": 0,
+          "_cluster": []
+        },
+        {
+          "title": "APOD: 2026 November 10 – Saturn Behind the Moon",
+          "link": "https://science.nasa.gov/image-article/apod-2026-november-10-saturn-behind-the-moon/",
+          "date": "Tue, 10 Nov 2026 05:05:00 +0000",
+          "summary": "APOD Science APOD APOD: 2026 November 10 –… Today’s APOD Archive Submissions Index Search Calendar RSS Education About Discuss APOD Astronomy Picture of the Day Discover the cosmos! Each day a different image or photograph of our fascinating universe is featured, along with a brief explanation written by a professional astronomer. Saturn Behind the [&#8230;]",
+          "publisher": "",
+          "_via": "nasa.gov",
+          "source": "nasa.gov",
+          "_hash": "395462ceabdfd119",
+          "_ageHours": 3,
+          "_inWindow": true,
+          "_score": 45.4206275,
+          "_corrob": 0,
+          "_cluster": []
+        },
+        {
+          "title": "Autumn Mornings Bring Valley Fog",
+          "link": "https://science.nasa.gov/earth/earth-observatory/autumn-mornings-bring-valley-fog/",
+          "date": "Tue, 10 Nov 2026 05:00:00 +0000",
+          "summary": "Low clouds trace the branching valleys of the Appalachian Plateau and the Cumberland River, then burn off by afternoon.",
+          "publisher": "",
+          "_via": "nasa.gov",
+          "source": "nasa.gov",
+          "_hash": "682fb3af947980a3",
+          "_ageHours": 3,
+          "_inWindow": true,
+          "_score": 45.337294166666666,
           "_corrob": 0,
           "_cluster": []
         },
@@ -513,9 +553,9 @@
           "_via": "nasa.gov",
           "source": "nasa.gov",
           "_hash": "3ec4ede4debb362b",
-          "_ageHours": 10,
+          "_ageHours": 14,
           "_inWindow": true,
-          "_score": 49.201434444444445,
+          "_score": 45.04896083333333,
           "_corrob": 1,
           "_cluster": [
             {
@@ -534,9 +574,9 @@
           "_via": "nasa.gov",
           "source": "nasa.gov",
           "_hash": "62962c1098a022a7",
-          "_ageHours": 5,
+          "_ageHours": 9,
           "_inWindow": true,
-          "_score": 48.94310111111111,
+          "_score": 44.7906275,
           "_corrob": 0,
           "_cluster": []
         },
@@ -549,9 +589,9 @@
           "_via": "nasa.gov",
           "source": "nasa.gov",
           "_hash": "2cd738b9ede65f94",
-          "_ageHours": 8,
+          "_ageHours": 12,
           "_inWindow": true,
-          "_score": 45.945323333333334,
+          "_score": 41.79284972222222,
           "_corrob": 0,
           "_cluster": []
         },
@@ -564,9 +604,9 @@
           "_via": "nasa.gov",
           "source": "nasa.gov",
           "_hash": "1122f1d429ffe4d4",
-          "_ageHours": 2,
+          "_ageHours": 7,
           "_inWindow": true,
-          "_score": 45.61893444444444,
+          "_score": 41.466460833333336,
           "_corrob": 0,
           "_cluster": [
             {
@@ -585,9 +625,9 @@
           "_via": "nasa.gov",
           "source": "nasa.gov",
           "_hash": "8a0b7eb728e58fa0",
-          "_ageHours": 10,
+          "_ageHours": 14,
           "_inWindow": true,
-          "_score": 44.098934444444446,
+          "_score": 39.94646083333333,
           "_corrob": 0,
           "_cluster": []
         },
@@ -600,9 +640,9 @@
           "_via": "news.google.com",
           "source": "theglobeandmail.com",
           "_hash": "66a91b5efc75401c",
-          "_ageHours": 9,
+          "_ageHours": 13,
           "_inWindow": true,
-          "_score": 43.91782305555556,
+          "_score": 39.765349444444446,
           "_corrob": 1,
           "_cluster": [
             {
@@ -621,39 +661,9 @@
           "_via": "nasa.gov",
           "source": "nasa.gov",
           "_hash": "26f1292d06791b38",
-          "_ageHours": 5,
+          "_ageHours": 9,
           "_inWindow": true,
-          "_score": 42.920878888888886,
-          "_corrob": 0,
-          "_cluster": []
-        },
-        {
-          "title": "MAX POWER: NASA’s Inaugural Aerospace Expo Ignites America’s Future",
-          "link": "https://www.nasa.gov/general/max-power-nasas-inaugural-aerospace-expo-ignites-americas-future/",
-          "date": "Mon, 09 Nov 2026 16:07:10 +0000",
-          "summary": "Thousands gathered over several days in early November to experience MAX POWER – NASA’s first exhibition of America’s superiority in space, aeronautics, and technology on and around the agency’s Kennedy Space Center in Florida. The multi-day, family-friendly event honored the nation’s 250th anniversary and served as a culmination of the agency’s Inspiration Tour. Among the [&#8230;]",
-          "publisher": "",
-          "_via": "nasa.gov",
-          "source": "nasa.gov",
-          "_hash": "6d1e4a518872e416",
-          "_ageHours": 11,
-          "_inWindow": true,
-          "_score": 42.609212222222226,
-          "_corrob": 0,
-          "_cluster": []
-        },
-        {
-          "title": "Astronauts Across Generations Share the Stage",
-          "link": "https://www.nasa.gov/image-article/astronauts-across-generations-share-the-stage/",
-          "date": "Mon, 09 Nov 2026 16:56:29 +0000",
-          "summary": "On Nov. 6, 2026, Purpose Entertainment hosted the Artemis Celebration Gala at NASA&#8217;s Kennedy Space Center Visitor Complex in Merritt Island, Florida. Held on the eve of NASA&#8217;s MAX POWER event, the gala celebrated the explorers, innovators, and visionaries advancing the next era of human spaceflight. The event honored the successful completion of the agency&#8217;s [&#8230;]",
-          "publisher": "",
-          "_via": "nasa.gov",
-          "source": "nasa.gov",
-          "_hash": "d61d2be458d4776f",
-          "_ageHours": 11,
-          "_inWindow": true,
-          "_score": 37.431156666666666,
+          "_score": 38.768405277777774,
           "_corrob": 0,
           "_cluster": []
         }
@@ -663,6 +673,42 @@
       "name": "Bitcoin / Crypto",
       "candidates": [
         {
+          "title": "Bitcoin Price Forecast: Can US CPI revive the BTC bulls or trigger further losses?",
+          "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPeDBWTGlQN0ctaERJSjZiQV9hSS03VWRiQjRIUWhjSjVyTGRPWEFHYlR3RE5pc3NuVGdnc0ljZkUzVWRETzhTWjdoUXhVN3h6UERLclllYUxsTDM0Qi1pOEgyc1VvLWx4clFIWWRsOExGNjhOVHlwT25HNkt4Q3pmSzgtYlZyNWctVHVQdTg2a0xtbXppOE9IVXdCd09KUkxpWUdtaFZZclhIRWFqdnhrNDVZZlkzNmlDZm1Ick1kVHpjcUw5?oc=5",
+          "date": "Tue, 10 Nov 2026 06:08:31 GMT",
+          "summary": "Bitcoin Price Forecast: Can US CPI revive the BTC bulls or trigger further losses? FXStreet",
+          "publisher": "fxstreet.com",
+          "_via": "news.google.com",
+          "source": "fxstreet.com",
+          "_hash": "e358c91fedb6025f",
+          "_ageHours": 2,
+          "_inWindow": true,
+          "_score": 66.47912500000001,
+          "_corrob": 4,
+          "_cluster": [
+            {
+              "source": "crypto.news",
+              "title": "Why is Bitcoin price stuck below $75,000?",
+              "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5xNEFDZ1dhQUZHcjltMm40YmZveHZTMzkxS2hxdGF2RDBzNmhHay0zY1d0cmpYbEJhOURuTGdOc1d6ZVFRT05xdVFyX2JYNE1HNlhDN0NnYzQ0dVVDZUUwaW9LVFVYblU0WHA4?oc=5"
+            },
+            {
+              "source": "cryptoticker.io",
+              "title": "Bitcoin price $74,600: US CPI without an annual rate",
+              "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBtNW9Bak5xRnJmcVhpRUZSaEd3akFrTHNsbE1aU0UxSkd2OFQ2NHNMb0d6ZENTWkNUaGFaeUxoSTBORThxTW5OdkVJWTNzSDJUMkFBMWVBUldidFVvay1GNHViUDV4LUpNbExXQ21kNDQ?oc=5"
+            },
+            {
+              "source": "forbes.com",
+              "title": "Elon Musk Confirms ‘Global Bankruptcy’ Fears As Tesla And SpaceX Explore Bitcoin Price Game-Changer",
+              "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNWm1DVnZDWlVCRjE2NkVqaFdnZEhsNE9UWHZLZVB2UzJHTFR6c3RwbGFfSWRKZjZ5ZW03OWFqSFcwN2dWd2VldTJTT05NeDRTeHExVXJVc094VFItNk8yZHZTOGNvV1ZraDVpRGdkSElTVVFmWU5oazdHZzRwX2hreHhleVViSmpWcFhSakl4dk9RNmhXSnZiY0pnMmszQndXY0ZNX0UwZHdoLUlWODRBZHhmQ2s2b2RYTTNsYWIwVUtRbHNOWXZ6eTRraF81VVdlZEFGRk5R?oc=5"
+            },
+            {
+              "source": "247wallst.com",
+              "title": "Public Companies Sold $869 Million of Bitcoin in One Week. Is a Bitcoin Price Crash Coming?",
+              "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxQVksyRXRzc2dPbm5XUFJvTXFjcld1NGtLYmFZOTVEeEEtLVFnQUllV0E1WlMzUXJOSG00czRNNHJyUnRlcHRYcDZnRlB2cHNOMVg3Y0M1N1ZmV09SMTFZQXZMOFROdDVJU24zZFplaVJRbVJSTUUwcnVPbjJQa05SSURmcERsU0VLTWZ6MmVWWWo4VmZtdjRpSFhlZjVzZzZ6WDZQSnZfMjdFcThkblBDR0UyUl9Ob1F0U0VraTVQZkRTQUFsOGlDZGNTRDZlOExaVHV4U3JQdUItYWZ0N0tNOQ?oc=5"
+            }
+          ]
+        },
+        {
           "title": "On the Chain: Bitcoin holds near US$75,000 after flash crash as ETF pressure persists",
           "link": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxNSGlzeFBaRmdjRUVIemllVzZfc0hYaVNBeHMzemswbWJBcjRlTm9WWDRPd2lfTDlRdjJuemRLdlVzSm83NTN1ZGIwWUxfazBrbVoxX2NFVzVZUXp6ZVd2M3VnaFFheVBkSGVoOXhuaE93U3c2M1BXVk5haXU4SnJFc0JNSWdBQ3Y5UTExUGZLZlpqQUlrNk9KbS1iVzBBbWc5UmhmSjI3d0JONEVNdkZLd3dhZnZJVU93blo1ZG9Nb1pGbHdqd0hVYjNyV1hVRGN6N0oyNTlPN1ZuYktYQTRPLXNQRnpiYzlRNXRr?oc=5",
           "date": "Tue, 10 Nov 2026 01:47:36 GMT",
@@ -671,16 +717,11 @@
           "_via": "news.google.com",
           "source": "proactiveinvestors.com",
           "_hash": "de0a9a6fc0cb669b",
-          "_ageHours": 2,
+          "_ageHours": 6,
           "_inWindow": true,
-          "_score": 72.28299527777779,
-          "_corrob": 4,
+          "_score": 58.13051388888889,
+          "_corrob": 2,
           "_cluster": [
-            {
-              "source": "indexbox.io",
-              "title": "Bitcoin Holds September Pivot Low, Ethereum Outperforms — Kitco Crypto Technical Analysis - News and Statistics",
-              "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOS0hvR205TzF6VHZwbG5pemFuQ0F5dDNJN09iTTh5eWd0WWQ3S2x0amt3Q3RrM1E3cllpLVdkU3VXcWJzT2FVTllvR0liUlNDcVBya3hNbDVSd0dHellwYkZSSS02MUxONWZTZWpzWjdPcFlaRnltOXVQS3VzRUQ1NC1ZUGZiUjU4UEE0X1paZ2I0WUZ3ZlNHaExhMjFiVmxGZ00zdkF5bG9GM3dlNjdTYUN1QmIySXEwX09YUUNR?oc=5"
-            },
             {
               "source": "seekingalpha.com",
               "title": "Bitcoin Struggles Below $75,000 As Institutional Selling Pressure Persists",
@@ -690,62 +731,6 @@
               "source": "fortune.com",
               "title": "Bitcoin holds near $75,000 after tech stock rout, altcoins suffer steeper losses",
               "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNZ1JkcDV0dTNRVXBPMUdTTjZhaVA1a2FNMTlCQnZ6Z1EwSjAyLWxjSk1zZVVOdWJZLVE3X2FUaVNlQUtUaWgtaExiMk5YNk04QzN2bGhpa094SGxEcXZ5NDRfOHc1SlZyS1dCdXV4VXVNWXZuMjVvaEZkbWFhc2RwR1ZFY3hBTXFVV0pSOV9R?oc=5"
-            },
-            {
-              "source": "finance.yahoo.com",
-              "title": "Bitcoin holds below $76K as Binance EU closures add to crypto market pressure",
-              "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQTXNJODEtQ2tFSVhQUWkzY255dG9kMEdRYWRtaC00MW1TXzFKQmR4U0NxaUEta2pwOTRKMGsteldTQ2VPSy1kTkJJMG1ybDB1TkpLT3oyc2VzVW9tOE9vTXdfN0RUdW5vZUdlTmNuUGEzdWRxYW5EdW9aTEVYWi1SMjA4QWVlWDdkVHRvRjQ1ZHNQSkRlYXJZS21KVE8?oc=5"
-            }
-          ]
-        },
-        {
-          "title": "Bitcoin ETFs shed $1.3B in biggest weekly outflow since late June",
-          "link": "https://cointelegraph.com/markets/bitcoin-etfs-13b-biggest-weekly-outflow-late-june?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-          "date": "Mon, 09 Nov 2026 08:17:35 +0000",
-          "summary": "Investors pulled a net $1.21 billion from BlackRock’s IBIT last week as Bitcoin fell below $76,000 and US technology stocks sold off.",
-          "publisher": "",
-          "_via": "cointelegraph.com",
-          "source": "cointelegraph.com",
-          "_hash": "4d696c2ac9695492",
-          "_ageHours": 19,
-          "_inWindow": true,
-          "_score": 64.78271777777778,
-          "_corrob": 6,
-          "_cluster": [
-            {
-              "source": "fxempire.com",
-              "title": "Bitcoin Price Prediction: Bull Market at Risk as BTC ETFs Shed $1.3 Billion in a Week",
-              "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNOVR4RzI0X0JucTVCUmZ2T05qTW55YVpEdk53Wmd2eWdZVWx6VndLUjh3X2haYUctNi1CU29mS3lZVS1STEhkcTVvSXBycThJal9ib2RZSUFrRG9PcVoxMk1jR1NRMjJCYzBFT0pvWVEzWklHMFphaDhQNWFMaUtocWRycE93T3JDQmcySm44dUs5TXVMU05HQWFDdDczUXh2Szl2VS1EU3RUclVUX1pfclBUbUhEWGhDTDRqeW94c29ELXVlUEdMNUZVNmJlQW8?oc=5"
-            },
-            {
-              "source": "finance.yahoo.com",
-              "title": "AI Price Prediction: Is Bitcoin a Buy at $74,000? We Asked ChatGPT, Claude and Grok",
-              "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQQXl1cDJpOVR3UTctNmhNLUsza2lHZ3l5OXlqUTVJQmh3SVdsOFFZdmxLc2FpalRZTTBWVkdQc0FycjFxWjhTdkhUSG0xV2RLM19jZTR1N3BOSVpzb0pycVc1UTVIQ3NrMUZSaFlNbmZ4emhmeGNtOXFWWEZCd1JmaDdWWDR3YWxJbkZla1RNdTk1ZUhNM2otd3NVVXk?oc=5"
-            },
-            {
-              "source": "247wallst.com",
-              "title": "AI Price Prediction: Is Bitcoin a Buy at $74,000? We Asked ChatGPT, Claude and Grok",
-              "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQNU9TNkNVWXNEREt1UzhDM0lEbjMwcHRmTDI4RTB3UHdwTjFxYkVoVEhhV3RIbzgyeXVmclhybU9hN3cyeDhEYUpOTlRWbi1nRlpBbzhuZHd2a0hUSG5sODBQbWVvSEo4cGtneWRFaDRLLUJ1V2xIZ2UxcDVMNm43RnpVN25rUi1MamxrRVd0MElRZHRLbkwzNDlJNUt4Z2NUU3pCMlZ3am1iQm5FNXdhUFlISDd5Y3NPdG9kdzdsY1NOd2QycTJVN2ZkS3haOFRGTXdF?oc=5"
-            },
-            {
-              "source": "forbes.com",
-              "title": "Elon Musk Confirms ‘Global Bankruptcy’ Fears As Tesla And SpaceX Explore Bitcoin Price Game-Changer",
-              "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNWm1DVnZDWlVCRjE2NkVqaFdnZEhsNE9UWHZLZVB2UzJHTFR6c3RwbGFfSWRKZjZ5ZW03OWFqSFcwN2dWd2VldTJTT05NeDRTeHExVXJVc094VFItNk8yZHZTOGNvV1ZraDVpRGdkSElTVVFmWU5oazdHZzRwX2hreHhleVViSmpWcFhSakl4dk9RNmhXSnZiY0pnMmszQndXY0ZNX0UwZHdoLUlWODRBZHhmQ2s2b2RYTTNsYWIwVUtRbHNOWXZ6eTRraF81VVdlZEFGRk5R?oc=5"
-            },
-            {
-              "source": "coinpedia.org",
-              "title": "Bitcoin Price Today: Can BTC Hold $74,600 Before November 11, Or Is $68,000 Next?",
-              "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOZXp3Ul93TjViSHh1X1FSVmdIMnhsVnJwd3dKVHNTdEtCdGNVcndFUjB2ZzdMYldEMDhmeWtDUkl3RkVQU2NlSHN4VWVZRFllNnRPdW9uVnFaaWtsMVEwTTRUWnh4cHRqWDZRU3l6TzlIQ0lDX2M5UDhkWGJHYkc0OTBlM3JvZG1venRuXzZiNExiNGg0Qm1uUUIzWUo5NXJrWGp0d9IB2wFBVV95cUxNRkRKMUxGMkZ1VmdjNVQyNklsMmZhcDJ1LTJpVlQxUVo1XzBBQkhwMmJvTUViMkJUcHZsZUR2dGZMVmwzRFdybmx0X01nTEtSaDMxTXB6YmtqRTl4V1l0ek9UWmgtT1B1WWUyYVg4TlBnaUh4RFlNTVUtWkszWUo3MURNTkdmZm5UUExvdnFfQ0ZINWlVTFRzdkY1UkVjbW55Vi1LRmNsZDdKcU1zaGtDVDNGRlJYazhZakw2ZHdQNHpTLVhnSWFPSm1PZXJsUV9TV1BPd2Q1UHJPOEE?oc=5"
-            },
-            {
-              "source": "247wallst.com",
-              "title": "Public Companies Sold $869 Million of Bitcoin in One Week. Is a Bitcoin Price Crash Coming?",
-              "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxQVksyRXRzc2dPbm5XUFJvTXFjcld1NGtLYmFZOTVEeEEtLVFnQUllV0E1WlMzUXJOSG00czRNNHJyUnRlcHRYcDZnRlB2cHNOMVg3Y0M1N1ZmV09SMTFZQXZMOFROdDVJU24zZFplaVJRbVJSTUUwcnVPbjJQa05SSURmcERsU0VLTWZ6MmVWWWo4VmZtdjRpSFhlZjVzZzZ6WDZQSnZfMjdFcThkblBDR0UyUl9Ob1F0U0VraTVQZkRTQUFsOGlDZGNTRDZlOExaVHV4U3JQdUItYWZ0N0tNOQ?oc=5"
-            },
-            {
-              "source": "bitcoinmagazine.com",
-              "title": "Bitcoin Price Drops Below $74,000 as Nvidia Probe and Regulation Fears Spark $1 Billion in Liquidations",
-              "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE1FQmRxQ2tQNjVqRHI3TG4wVVJVUTBtRzVHN1ZkZGowQmdiNlItTDdDaTRuMC16LXhQRXRjQTZvNE1QUURNLXg3MW5mNXptd0pVeTJfU3dWSldpNXE4cFgwN1FWaHlIMDMwZkZnNlhlVkJDZw?oc=5"
             }
           ]
         },
@@ -758,20 +743,15 @@
           "_via": "bitcoinmagazine.com",
           "source": "bitcoinmagazine.com",
           "_hash": "ccf48d657c34e211",
-          "_ageHours": 13,
+          "_ageHours": 17,
           "_inWindow": true,
-          "_score": 61.798273333333334,
+          "_score": 57.64579194444444,
           "_corrob": 3,
           "_cluster": [
             {
               "source": "finance.yahoo.com",
               "title": "Strategy buys more bitcoin, and Coinbase gets final federal trust charter",
               "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNakFYZU5DVkVZSDZHMFZhWkh1TEQ5M1ZxU3N1VUt6Nld4NHI0V1EzSDdYSEJFOGlrNndCbmkwZEctQTYxcWphSGRhQVJEMDFpME82ZTBXLW9wVHNueUhaYndDV1V4dWd0ZHJTd0txU2RsOGloajAyQS11cHF5dGFQQ041dzB3ZGtXU2c?oc=5"
-            },
-            {
-              "source": "bitcoinmagazine.com",
-              "title": "Coinbase Wins Full Federal Trust Charter From OCC",
-              "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1NbHRqdFcyQTZkRHQ4RWZuUUVKYTAyclo1R1ZyQUUwM1ZiRHNxSkktRUktNnQwLW9GVXlsRU5BS2w5N3cyS0pSeE1jZVd6NzNOOUFuZVdJVEUwS05qeUVBYVI5UTRZaVR4c0xPWTNYdnlOdTlCUHU5RnlrYnhTZw?oc=5"
             },
             {
               "source": "cointelegraph.com",
@@ -786,69 +766,44 @@
           ]
         },
         {
-          "title": "MARA posts $634 million Q3 net profit on bitcoin gains, sells 13,597 BTC to pay off loans",
-          "link": "https://www.theblock.co/news/business/2026-11-09-mara-q3-earnings-net-profit-bitcoin-sale-ai-pivot-436950",
-          "date": "Mon, 09 Nov 2026 22:07:00 +0000",
-          "summary": "MARA posted a $634.4 million Q3 net profit, then sold 13,597 BTC to repay $750 million in loans as it pivots to AI.",
-          "publisher": "",
-          "_via": "theblock.co",
-          "source": "theblock.co",
-          "_hash": "802378c8069a284d",
-          "_ageHours": 5,
+          "title": "Bitcoin pinned below $75k as regulatory uncertainty, ETF outflows persist",
+          "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPd0JNdGZxaFMzMWh6VmdJcHRYNEt6Ql9iVmY5eDNpZHMwQlF6MlFJN29zOU9wbERfQzFDUmV3d2x1dllucEE4c2JmWnF1NHBIZ0ZZcUhIaEV0MExRTmlVWHQ5MzV3V21hV211Q183Y1VzODJvcjloTlBsanBFYnhISE1vOEZUVE9WZmNTa2pEbFRzek9ZM1g0ODZLSnJWSXVWZXNRb3F4dUNOQnVJQktWdXNwV2xuSHV2R0pidFZiajl0anhTc2tPaVdn?oc=5",
+          "date": "Tue, 10 Nov 2026 06:05:57 GMT",
+          "summary": "Bitcoin pinned below $75k as regulatory uncertainty, ETF outflows persist Investing.com",
+          "publisher": "investing.com",
+          "_via": "news.google.com",
+          "source": "investing.com",
+          "_hash": "7657fff84bb14668",
+          "_ageHours": 2,
           "_inWindow": true,
-          "_score": 57.60632888888889,
-          "_corrob": 3,
+          "_score": 57.4363475,
+          "_corrob": 1,
           "_cluster": [
             {
-              "source": "tradingview.com",
-              "title": "MARA Holdings posts $632.1 million Q3 profit as Bitcoin gains offset revenue drop",
-              "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxQLVIyTlhKVm81UmZiV3c4aTRkNGxSOFBHeVBBMGJFTFNMMXdnZVBqUjltOVRLN0RYblRvMFlhdGxXd1pDeHNDMl9PeEh5c0ZZRnAzZV9oN3RrOUNTUmphTkdBcFliV2thd2ZBdkFDZF95MU1oU2V2b3JfSjdwcTJ3R2dRdFJ4Z3V5NWxZNTl5N1E1QnF6d1JTVExqZGFvV0ZKYXFSUmtxTldDLWlIaUU3bmpTYk44SExIVkRMT0tTVUxHcmt1RVhXVllfdWNhc3RPemk3Y1dSMHRUQ2d3T1E?oc=5"
-            },
-            {
-              "source": "theblock.co",
-              "title": "MARA posts $634 million Q3 net profit on bitcoin gains, sells 13,597 BTC to pay off loans",
-              "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxONWJOT2U0ZHNMMWlOSXFKY3pDWFhHSTZaZkZsMGVUZ3E3WVhfRUtQb20zR2o4SzVDdmxLT1NfMVF6Snc1UzEwcTBFQXhlRU93UFpQVGQtUEtiSnpERkJTUENQX0tlMnZTSHJ2UjZEUDdVT2xYVEFZX1Zxc3lDdjBFYzBINm1jVWtKY1RpUGc5Tl9DdWxuelVCY1VjZEVOSGlfX3VlYXZvbGs?oc=5"
-            },
-            {
-              "source": "benzinga.com",
-              "title": "MARA Holdings Q3 Highlights: 2,247 Bitcoin Mined, AI & Cloud Push Continues - MARA Holdings (NASDAQ:MARA)",
-              "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOQkV1alhiSkhvWGtvS0FZaWszUVVwcUY5U3FPNU00NjdlZnp5Q0tMcVY1QzZVaHc0RDUydElqbE5wX0lrbzREUndtb0Q3YzA0RGFWQUpfaUM0blkxeUZVWnhKUDMxWUFBbmFSMW5icEtKUnZiYzg2aDFxdGw1S3A2SHh6X1dIV3NJSldnX0MyelNwalJDcjdqNVdEQndHS0JLLWw2czVOdjZQckpaRXJaR3RjZU14dDVhOVZCdU9aT0VJUXNRbHc?oc=5"
-            },
-            {
-              "source": "tradingview.com",
-              "title": "MARA Holdings Q3 Highlights: 2,247 Bitcoin Mined, AI & Cloud Push Continues",
-              "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQRUZaSVI2YUlaWlZGNGFCTnJMTDNOUk9haFowWGE5U1d6UUlZREpXelBrVHRtaHdELVBCc29JUVVRajJ1VkMwbERBMHpmSzdpdzB0RnljLV9UZXByTFlqaEZhNVRFT0JmcVU3NlhmZnI3U2lQY3BBYlRYUkFCMExnc000MDZ4YWxTZTVkRHhkN3N6a05yVlBQMTZxSDdHZG9FdG1Lbi1YR1BMUTZLd3lHZzNxaVRtZUxhZWFSV0huVmE3alNWOWFaZzdB?oc=5"
-            },
-            {
-              "source": "seekingalpha.com",
-              "title": "MARA Holdings Q3 earnings beat, buoyed by bitcoin's value increase (MARA:NASDAQ)",
-              "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPOGw4MDRHM0oxUUVlbUlpUldMdTgtRWNuaWdkcmRpbmQ4TUR5aVpfaERDYUJwcjVTMHJYZWFyNFdka2E4R0JfNnpvd1dka0FqWWVJbVY5akFXY1Z1OVd2ZTZrUGRXOFpVNDR6dlBzWWFobVZwLUstbDNZZmZkODVOZmo0b05YR0F1el92X2xHYnR0dXlyYktvR1JaemIwNU4weWF3eA?oc=5"
+              "source": "finance.yahoo.com",
+              "title": "Bitcoin dips to $74k as regulatory uncertainty, ETF outflows weigh",
+              "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPTTh1Q2dfQ0lSSWw5LWNXOW5OOWVmb2s0emJlWkgxWC1BdmI5c2FfUnZycW83aVJveF8wRERiYXhqZ1E4VlBsb2FjbWhZZHhDTV9WcEh2RGtiSktpY0swZ013blVjVnpNT0p5aUk1NXhqTmpxc0dCUmJtQk9QQ0ZqN2NuSHp2VzBqRVlkWkhTWW1vdzVCbWVuZEVRc1JXV2hMZzZvVUNIUW4?oc=5"
             }
           ]
         },
         {
-          "title": "How Bitcoin ETFs Work and What Retirement Account Access Means - Iowa City Press-Citizen",
-          "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxQNVd1Q2pndWVnVHE2T0hHckRWdTJLZk55RmFXQUFRT3R3LVZfbGl3ZEJFUkF1TDNEa21FV3VfaXJISGNFQjdsRjA3WFFab2hETktsSVYwVDVmNDF3ZnRvRG00TU8zM1I3bWhGXzNvbGE4OW5jSERLek9CX0hnOVdxUk4tYlNVVU5HMFFLc3RUNGd2NU9kTUtGZ3BLWkJiUS1oQ21HazhnY1AtbjEwR1hEYUt1UGlib2Y5UU9vdzRJQk1aLVlicDhCdjUtMTJuMGo1NlRMRGR1eVN5ald3UUtmd3dQVTA?oc=5",
-          "date": "Mon, 09 Nov 2026 20:56:00 GMT",
-          "summary": "How Bitcoin ETFs Work and What Retirement Account Access Means Iowa City Press-Citizen",
-          "publisher": "press-citizen.com",
+          "title": "Bitcoin’s $75K Selloff Isn’t Scaring These Holders, They’re Buying More BTC",
+          "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPUTh2anhLdTFuQUVqSlNRNjNYbFZKWDRaVmRlOXdvNHhoQWVPOXE4UXVQd0dSTmgtdnRnQ05FSXI4ckpSTnZuVWVnWGdvZXZ6cEhGQnJ0SF9EdGpPZDRXUDFGZ1BEeTZQNTNfWUdIckhuRVRJV2JHdVpWdW5WVklrdTdXQzY5N0lRaFNtaHBmb0lkZ0w1VldnVjQ2Zi1DelpGYkotaXJrS3Y5ak1D?oc=5",
+          "date": "Tue, 10 Nov 2026 07:24:43 GMT",
+          "summary": "Bitcoin’s $75K Selloff Isn’t Scaring These Holders, They’re Buying More BTC CryptoRank",
+          "publisher": "cryptorank.io",
           "_via": "news.google.com",
-          "source": "press-citizen.com",
-          "_hash": "ef8ff28443bd6102",
-          "_ageHours": 7,
+          "source": "cryptorank.io",
+          "_hash": "db24dc67e34cea41",
+          "_ageHours": 0,
           "_inWindow": true,
-          "_score": 57.42299527777778,
-          "_corrob": 2,
+          "_score": 52.749125,
+          "_corrob": 1,
           "_cluster": [
             {
-              "source": "finance.yahoo.com",
-              "title": "Bitcoin ETFs Bleed $1.28B as 2026 Flows Turn Negative",
-              "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNM0RtbXJPUmxGTWt4UWM2UWRsdmN0cVJGLWNtSnBlMkczVzRfSWw1d3Y0Uzc4Z1ZQQ2JSS3E5aFJPRV9PQWh1Z2tPX2JUUEFRLVBRR2ZEZjFXNHc3RU5DWFdEY3FFN2VCR01pelEyWElXR29BY2IwZFR3MnVnYklFTTlyQ0UwUDl3S1RIbFRfck9FZ2c?oc=5"
-            },
-            {
-              "source": "kitco.com",
-              "title": "Crypto SWOT: U.S. spot bitcoin ETFs saw $430.2 million in net outflows on November 5",
-              "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPamw1UERHRmY2ZEs3NHhEQlc4NTNhYzgzX0J3Rk00cUI0VGl6ZThXdkItNDZNR2VIVm4tR2lyNDZjNndlYXo5YkFfSU5pM3pFMXhBa0JKN0NSVXRyS3VnNHQxaXdzT2JveU16OFUzOF9IU3NUQnAxdDJRNFdaRnhvUFhUcGUzYVZ5RkZZbVpkNzhvOXh3RnQwTTVRQnBUdDF0d0xHTEFlTjZoREpkUU5DV3JRRmw?oc=5"
+              "source": "cryptopotato.com",
+              "title": "Bitcoin’s $75K Selloff Isn’t Scaring These Holders, They’re Buying More BTC",
+              "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNaEZQOEEwalRudnhwU25hR2ctREh3eVlONExlbEtGYjkxeGhIVG1ONXFEZG9oWEtzZ3NPb3ZjSWdtdTJCTFg5UFFvOUpPUVpHQjE3QXNXUVJXbzdmcE9yRDlCNnpjZ2duenl2MHlVb1gwRmp4WXdydDI3RlJzRG1ENEFFV1VCclU4a0dGTUE0UmpOb19xUUR6VkxJWlk?oc=5"
             }
           ]
         },
@@ -861,9 +816,9 @@
           "_via": "cointelegraph.com",
           "source": "cointelegraph.com",
           "_hash": "a60a9d09a6dea856",
-          "_ageHours": 8,
+          "_ageHours": 12,
           "_inWindow": true,
-          "_score": 56.36577333333334,
+          "_score": 52.21329222222222,
           "_corrob": 2,
           "_cluster": [
             {
@@ -879,6 +834,32 @@
           ]
         },
         {
+          "title": "Bitcoin miner MARA sold 13,597 BTC for $1.1 billion in six weeks, plans to sell more",
+          "link": "https://www.coindesk.com/markets/2026/11/10/bitcoin-miner-mara-sold-13-597-btc-for-usd1-1-billion-in-six-weeks-plans-to-sell-more",
+          "date": "Tue, 10 Nov 2026 05:18:31 +0000",
+          "summary": "MARA paid off every loan backed by its bitcoin and says the rest of its coins can fund AI datacenters.",
+          "publisher": "",
+          "_via": "coindesk.com",
+          "source": "coindesk.com",
+          "_hash": "3d8ae1396144072e",
+          "_ageHours": 2,
+          "_inWindow": true,
+          "_score": 50.64579222222222,
+          "_corrob": 1,
+          "_cluster": [
+            {
+              "source": "coindesk.com",
+              "title": "Bitcoin miner MARA sold 13,597 BTC for $1.1 billion in six weeks, plans to sell more",
+              "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOTW9Kai1jSnhka3dBUWxaUG1seURfbzFKeHVmUzFRRjlZc0U1UVlYNnlHbmRZdXBYOFpxTFltTDdaMDladzVDMkR2ZGVWejRDRGY3elBpUTZTaW5RN18wa3RGM3J0eV9GUkJVOUlrWS03a05YU0JOaDNPYXZza2M2SDI1YUNwUlJHNFdfdTl4RFpacEpXWGpVOG1NSVJkTW1PU2MtZG9XZWhQbTExOHZ1SzNjMDFZVHl6OG9UTHBHR0x6TE5hSlQ1WA?oc=5"
+            },
+            {
+              "source": "finance.yahoo.com",
+              "title": "MARA Sold 13,597 Bitcoin After Q3, and It Isn't Done Selling",
+              "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE5teFRNaS04S21Hd3BqWC1jTzJmSVp2S1hQenRVd3pFdUdKZlRGNnVjSFNFQXVwcTYxcGJ1TWZkcEZKb3dCTDgyLXlqYnNlbm1JdzZESVh1a3JZQ19KNXFhNy1SMzNDRVo2dzRuS1NHVWJjSGhpbGxhLV9R?oc=5"
+            }
+          ]
+        },
+        {
           "title": "Securitize pushes into $6 trillion asset-backed finance market with River One acquisition",
           "link": "https://www.coindesk.com/business/2026/11/09/securitize-pushes-into-usd6-trillion-asset-backed-finance-market-with-river-one-acquisition",
           "date": "Mon, 09 Nov 2026 22:56:27 +0000",
@@ -887,9 +868,9 @@
           "_via": "coindesk.com",
           "source": "coindesk.com",
           "_hash": "c418d999b747f43e",
-          "_ageHours": 5,
+          "_ageHours": 9,
           "_inWindow": true,
-          "_score": 54.43049555555555,
+          "_score": 50.278014444444445,
           "_corrob": 1,
           "_cluster": [
             {
@@ -908,9 +889,9 @@
           "_via": "bitcoinmagazine.com",
           "source": "bitcoinmagazine.com",
           "_hash": "a6b74b502f2956f5",
-          "_ageHours": 10,
+          "_ageHours": 14,
           "_inWindow": true,
-          "_score": 53.930773333333335,
+          "_score": 49.77829222222222,
           "_corrob": 2,
           "_cluster": [
             {
@@ -931,121 +912,80 @@
           ]
         },
         {
-          "title": "Prediction: This Will Be the Price of Bitcoin by the End of 2030",
-          "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPYXZjV19MRkwzeW52WWhRb1lxNnJEQjVhQi1VZ2kxSFlId1Q0T3BFZGFVSTNydTZYdWF6OTIwRnpjWnJlakMtMjBoeGs5djBGSjFESl9hTThPVE5mLWFXandROEhjRU53THNLQWRLZTc0XzdhTHVMcDhUOFh2eXE5Z3R5V3RHSC1Hb3dLT0FzR1g5V09wS0hOUTVLdmw4djA?oc=5",
-          "date": "Mon, 09 Nov 2026 23:13:00 GMT",
-          "summary": "Prediction: This Will Be the Price of Bitcoin by the End of 2030 Yahoo Finance",
-          "publisher": "finance.yahoo.com",
-          "_via": "news.google.com",
-          "source": "finance.yahoo.com",
-          "_hash": "22bc26201fabc91b",
+          "title": "Trump Media swings to $410 million profit in Q3, driven by crypto gains",
+          "link": "https://www.theblock.co/news/business/2026-11-09-trump-media-q3-profit-436964",
+          "date": "Tue, 10 Nov 2026 03:36:43 +0000",
+          "summary": "Trump Media and Technology Group reported a net income of $409.7 million in Q3, compared with a net loss of $54.8 million a year earlier.",
+          "publisher": "",
+          "_via": "theblock.co",
+          "source": "theblock.co",
+          "_hash": "ff3724b7414ff956",
           "_ageHours": 4,
           "_inWindow": true,
-          "_score": 53.70632861111111,
-          "_corrob": 2,
+          "_score": 48.94912527777778,
+          "_corrob": 1,
           "_cluster": [
             {
-              "source": "fool.com",
-              "title": "Prediction: This Will Be the Price of Bitcoin by the End of 2030",
-              "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNWm41ZXJBM3VBV0tEa2lEblJXWkJQTDVRcG90eHl4S1M3VjVUWDhsR3B3ME9Ed2FVQ1NyZmgzeUMzVDNFZkozUzlwWkdNRmxnVzJ0dDhpQjFIdzlQQThPNHhQdS1oclJGZllIaXdJVTg5bVZUd0R0ejNTRHQ2dlB1LUZpU3lCNE16eUpLMUtFb1VReWhjOG9Z?oc=5"
+              "source": "theblock.co",
+              "title": "MARA posts $634 million Q3 net profit on bitcoin gains, sells 13,597 BTC to pay off loans",
+              "link": "https://www.theblock.co/news/business/2026-11-09-mara-q3-earnings-net-profit-bitcoin-sale-ai-pivot-436950"
             },
             {
-              "source": "fortune.com",
-              "title": "Current price of Bitcoin for November 9, 2026",
-              "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFA5LUJPMnBZbk9qcW9VZVZzMzBSMEsxQklpMUNvMDJueC1vMXZVWXRLVkJBMWQ5THdodl8xb3dLTF8xZ3hxeUFwdHJCbjZ2dTNQVXV6d0pxb016M0NkdVRIbmIzMjFVek0?oc=5"
+              "source": "theblock.co",
+              "title": "MARA posts $634 million Q3 net profit on bitcoin gains, sells 13,597 BTC to pay off loans",
+              "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxONWJOT2U0ZHNMMWlOSXFKY3pDWFhHSTZaZkZsMGVUZ3E3WVhfRUtQb20zR2o4SzVDdmxLT1NfMVF6Snc1UzEwcTBFQXhlRU93UFpQVGQtUEtiSnpERkJTUENQX0tlMnZTSHJ2UjZEUDdVT2xYVEFZX1Zxc3lDdjBFYzBINm1jVWtKY1RpUGc5Tl9DdWxuelVCY1VjZEVOSGlfX3VlYXZvbGs?oc=5"
+            },
+            {
+              "source": "cointelegraph.com",
+              "title": "Should you leave Australia to avoid paying 47% tax on crypto gains?",
+              "link": "https://cointelegraph.com/magazine/should-you-leave-australia-to-avoid-47-tax-on-crypto-gains?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound"
+            },
+            {
+              "source": "cointelegraph.com",
+              "title": "Avalanche’s AVAX leads crypto gains following NYSE tokenization deal",
+              "link": "https://cointelegraph.com/news/avalanche-avax-crypto-nyse-tokenization-deal?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound"
             }
           ]
         },
         {
-          "title": "Crypto Market Today, Nov. 9: Bitcoin and Ethereum Lag as Nasdaq Surges Nearly 3%",
-          "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOODBtenhYdWlIc213OWxZNjBKaVJxQ3NpdUFIOFl2WVcya0xCSFNTbE8wUjlmd1RnLWZuVmk0Wk1TaUVzcnhwZXlaaHdwU0xRdXhfZVZ1VFhjYl96YjFoeWM1VnhWUENaZkgxVWxTRFRfZXRqOXA0Qmh0TnJqZEYyV2cwd1JzZTZNRUdkV2FkaWdXa0FBZHFZUDlvZm44Mi0wVE5OVEgwdGV6TW53VXU5T1g0WWhWOUFudUU3SDlYYS1QaG9uRklYaHJyYjVlVnBtVzBN?oc=5",
-          "date": "Mon, 09 Nov 2026 22:20:00 GMT",
-          "summary": "Crypto Market Today, Nov. 9: Bitcoin and Ethereum Lag as Nasdaq Surges Nearly 3% The Motley Fool",
-          "publisher": "fool.com",
+          "title": "Altcoin Speculation Peaked With Bitcoin Near $87,000, but Recent Buyers Now Sell at Losses",
+          "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9SdUlIU3R1VlBROUdrTXRjZmVRMk5vcFNZb1lNM0Q0SDlZUVFod3BsNWhZOFVaekx1Z1J1TXNEalJvdTMtWFA4MGxrdElIWlNLVHBhUkxMWkVzZUo0TWVLa1RhelhZYTNZZW85WDJWNnk5TGkzckhmTVFTQQ?oc=5",
+          "date": "Tue, 10 Nov 2026 03:33:13 GMT",
+          "summary": "Altcoin Speculation Peaked With Bitcoin Near $87,000, but Recent Buyers Now Sell at Losses BeInCrypto",
+          "publisher": "beincrypto.com",
           "_via": "news.google.com",
-          "source": "fool.com",
-          "_hash": "cc528fccefb16982",
-          "_ageHours": 5,
+          "source": "beincrypto.com",
+          "_hash": "296fb7d0da2f00dc",
+          "_ageHours": 4,
           "_inWindow": true,
-          "_score": 52.82299527777778,
-          "_corrob": 2,
-          "_cluster": [
-            {
-              "source": "247wallst.com",
-              "title": "Zcash Is Flat Over 30 Days While Bitcoin, Ethereum and Solana Fell 10% to 21%. Which of the Four Is the Best Buy Now?",
-              "link": "https://news.google.com/rss/articles/CBMigAJBVV95cUxOM0ZGLWFMVzFrNG1Tb2JBWjN5Z1pHTmRDaUVPeGo5dmlJS0J3cjMzSTM3MFVSVmNPb1ZPMmxXVHpnZWVfc3paaDdGQXdtSDB2bDJWUWYxcElsZ09sM2JSOVJZT3kwZ2hkVXFQWFlqRDYtX1cycXJESExkanF1UWRVNzRFQU5ZTHpMRlZZVGFkZldWR0VfSUVXMVBGaF91dFJTR0lVSkdJRTJrNHZBQ0lhWmVIYjhaX0NlSktYUzhPMXpVX3Y3Q1ppX0FrLTlIM2pMenk4RG51MlVrRE1KLTcxVEdNZjVtQzNtd1NzN25IajYtRkIwQWpNbTZiX3NWc0NV?oc=5"
-            },
-            {
-              "source": "finance.yahoo.com",
-              "title": "Bitcoin and Ethereum Just Hit Their Lowest Prices Since August After $1 Billion in Liquidations. Where Do Analysts Say They Bottom?",
-              "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxQZVNEeFpkbjRXWUFQbU1mVEtKYk5PSWNlYm9qM0U4aGtUcVd1NzA4Yzl2QzczcWJFdFAtS2lQeENFdUVpUGtzRl9UMjdkMFFXUWJ5X19BWTA5SFpCcS1rRzZCX2JLWU1WTHN1dDZFSmZZaVZnVm5rNnV3UmpFNFVSOTI1aEtNZEJ5al9kcXdSMFlaaDkzVWRPRzZvLUtEdw?oc=5"
-            },
-            {
-              "source": "247wallst.com",
-              "title": "Bitcoin and Ethereum Just Hit Their Lowest Prices Since August After $1 Billion in Liquidations. Where Do Analysts Say They Bottom?",
-              "link": "https://news.google.com/rss/articles/CBMilgJBVV95cUxPclpCZjUzcF9LbEdLM3J3LWlOVGs4dXk1eVhjdDRzU1JIc2VpdjRzbXc2bTRNajJUVkFBWTJoNGJnQVJnQlpnbEVqZVlvTHhMeld3emxVVVNDRDRISlZXZEdnbTQ4aFp4TzdhN1RkWTY1eTZKYlMxTWkzbUVHUkhiME1HMXJ1T2tqeTlraW5hblJhcUhtZGpmeEw3N2xJbkY4OFgtcXh3Zm1aZndMVW00QmJUQ0hFUWduQ2hUVkstX1JRTzkwQXpmbTgwU0ZfZC1GeFJQRGhhSndVczJjQTduMTd3ZVR3bHN2d0NSTkMzcUtFNlhUejQ5MHNKTWxTcEEtaGhsN3VVOTdsakw5aTBqemRzYjVQUQ?oc=5"
-            },
-            {
-              "source": "finance.yahoo.com",
-              "title": "Bitcoin, Ethereum, XRP Whipsaw On Nvidia Scandal, Iran Tensions: Crypto Sell-Off Sparks $1B Liquidation Wave",
-              "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNd0ZsNHpodlBpbU80cTZXNkRQVWd2RmNaUWFZVGF3T3hDVlQ5clVLZnhKdUVKc3ZzRXJoVDVFRjF5OGI3RFgzT2hUVnVqa0R1WTBaUDJBTjZhalV5OWNGeTJUaGxRb2ZqT0J6RFZSSFNCVHA1emdUU1pKWXUwNGJTUFlET2FvUDNGN2pjYnc1RXRYdm1NX2c5UUJia2YwU0R0alE?oc=5"
-            }
-          ]
-        },
-        {
-          "title": "Amundi Boosts Strategy (MSTR) Stake 44% to $291 Million as Shares Slide",
-          "link": "https://bitcoinmagazine.com/news/amundi-boosts-strategy-mstr-stake-44",
-          "date": "Mon, 09 Nov 2026 20:39:56 +0000",
-          "summary": "Bitcoin Magazine Amundi Boosts Strategy (MSTR) Stake 44% to $291 Million as Shares Slide Europe's largest asset manager raised its Strategy holding to 1.9 million shares in the third quarter, a 13F shows, even as MSTR has since fallen about 18% from quarter-end. This post Amundi Boosts Strategy (MSTR) Stake 44% to $291 Million as Shares Slide first appeared on Bitcoin Magazine and is written by Micah Zimmerman .",
-          "publisher": "",
-          "_via": "bitcoinmagazine.com",
-          "source": "bitcoinmagazine.com",
-          "_hash": "50fa39b9ab948653",
-          "_ageHours": 7,
-          "_inWindow": true,
-          "_score": 52.15521777777778,
+          "_score": 48.890791666666665,
           "_corrob": 1,
           "_cluster": [
             {
               "source": "finance.yahoo.com",
-              "title": "Strategy (MSTR) Is Building A Global Bitcoin Bank",
-              "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPd1RNUlIxSmp3MDJJbzUxMTdqTFBUQksyT0FBRjJTaHZjWk5IV04tYVlwbm5mZ21jTEY1NFJtTTI4bEFLUWstdER4eGJFbjBKS1MwRzdwMllhR0QtWktRa0pmd2R5T0dpYlYwRWkyRnBkZ3o0OW81ZWNyLVJyVXY5UldTRE1lYUkzNnFJbEF3dUFLTFNpWHBiQjlHaDYySU9iYTNINA?oc=5"
-            },
-            {
-              "source": "bitcoinmagazine.com",
-              "title": "Amundi Boosts Strategy (MSTR) Stake 44% To $291 Million As Shares Slide",
-              "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5wWnlIdFlMNnh1dmlSbDh4bGRILThXck5DbUhRRXF4eWM5RldHZGI4cDd3blZhQVQzbkt2ZzlacmNxN2NpekFkZkpEaHVhSjk4YTE5WjVxWXZoWTlkMlBndHhIaU1TeUlkN0RZOHN5TUZrSncyNUJrSQ?oc=5"
-            },
-            {
-              "source": "bitcoinmagazine.com",
-              "title": "Strategy (MSTR) Adds 1,036 Bitcoin for $81.9 Million as Holdings Slip Below Cost",
-              "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5jUjIzQUpoeUg2WldVTDFHdS1LLVoxRFJWVFMyUVVIVUdfcGQya25RNU1OaWphMnZWMGNpajBmdDE5eEJqX1RXbEgxSjBXOXhNR0pidzVLZzRNQWxjaUFEckQxYUswSkFod1dJaG9XMnJjcGszbHdsYk1XeEROZw?oc=5"
+              "title": "Altcoin Speculation Peaked With Bitcoin Near $87,000, but Recent Buyers Now Sell at Losses",
+              "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOWDhyVzFsNHpSVkpEN2pzWlpjdFMxNUJOa29tMzQ3dHBUU1FZUUgxNXdiOHhIdEJROVhwZkRWRkdrRzNITVBNT1ZGSWdiTFVlVWs5bFVMbl8zeDFEWEdrM2FKOGY5Qzl2RTRpWE45UVJIN3IwbWRSeFhXYkx5SGxoc1lsdF95WmZpbW1LYkZQU052MENxZlVrVzJvWmwtUXlRZ0xsbFhMTQ?oc=5"
             }
           ]
         },
         {
-          "title": "Elizabeth Warren Plans Prediction Market Crackdown as She Prepares to Chair Senate Banking",
-          "link": "https://bitcoinmagazine.com/news/elizabeth-warren-prediction-crackdown",
-          "date": "Mon, 09 Nov 2026 20:31:38 +0000",
-          "summary": "Bitcoin Magazine Elizabeth Warren Plans Prediction Market Crackdown as She Prepares to Chair Senate Banking A Warren banking aide says the incoming Senate Banking chair will target prediction markets' \"Wild West-style lack of oversight,\" after she and Sen. John Curtis pressed Kalshi and Polymarket on election trading. This post Elizabeth Warren Plans Prediction Market Crackdown as She Prepares to Chair Senate Banking first appeared on Bitcoin Magazine and is written by Micah Zimmerman .",
-          "publisher": "",
-          "_via": "bitcoinmagazine.com",
-          "source": "bitcoinmagazine.com",
-          "_hash": "4bf3004e7cffd66c",
-          "_ageHours": 7,
+          "title": "Miami-Dade property owners can now pay their property taxes with Bitcoin, tax collector says",
+          "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQSWRjUEZydnI3TjNLY0htODljN184QXB6c0NFc21RZmlfQm4xWGhFd2xIc1BLTnRPQmwyc2tPVGFoSzBjNXp3WlJnS0FDSkIxVm9ROGNHakZwTDZBVl9BQnpwV0cySUdxNmtuTE93WW1Ld25aTHZ6a01Ub1RCYUxNbGdQeVlrVWJvRXhQc21hbWhCYVJLNEE?oc=5",
+          "date": "Tue, 10 Nov 2026 03:30:23 GMT",
+          "summary": "Miami-Dade property owners can now pay their property taxes with Bitcoin, tax collector says CBS News",
+          "publisher": "cbsnews.com",
+          "_via": "news.google.com",
+          "source": "cbsnews.com",
+          "_hash": "1d12bf261e05ce41",
+          "_ageHours": 4,
           "_inWindow": true,
-          "_score": 52.01688444444444,
+          "_score": 48.84356972222222,
           "_corrob": 1,
           "_cluster": [
             {
-              "source": "theblock.co",
-              "title": "Elizabeth Warren vows scrutiny of prediction markets, Trump family crypto ventures as Senate Banking chair",
-              "link": "https://www.theblock.co/news/regulation/2026-11-09-senate-banking-elizabeth-warren-scrutiny-prediction-markets-trump-crypto-ventures-436898"
-            },
-            {
-              "source": "theblock.co",
-              "title": "Prediction market broker River Markets registers affiliate as CFTC futures commission merchant",
-              "link": "https://www.theblock.co/news/regulation/2026-11-09-river-markets-prediction-market-prime-brokerage-cftc-fcm-registration-436266"
+              "source": "news4jax.com",
+              "title": "Miami-Dade Tax Collector now accepts Bitcoin for property tax payments",
+              "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNLW0xNzhlWDVWdk1PaVRPR1lIb2N2VENGMVNxQWlpSkh3T1ZhVWpQTkRySWMySTMyOVJIb01zb2RoR3NNUFZESWdZRGJnQXg0cHVDZG5Kc2NDUzNCWHZVblFwVVRCVk42ZWowQ1lWaFBtQWo0OG1HSUFuWnM0RTkxY2VqSWNPanUzV25DcDh4Vld1M3BDb3hkVkE0aGFiX2FDcVVlY0dMd0pvOXZZNVI5QTctSEdyd0pIWHc?oc=5"
             }
           ]
         }
@@ -1055,38 +995,23 @@
       "name": "Biotech & Longevity",
       "candidates": [
         {
-          "title": "Why longevity experts are talking about sleep",
-          "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxQT1pGUTlVeTNHMVAybjVUOWZXRW9DSjd5TWpaRGdMWnJManhnRks4YU01MmQ0SFFzWGRBZnpRcGttaHJmaHE2bVh3bmlWeG1vbFY1TjZQR0hBQl9EcmhNQWo4cmZXVlByUDAwTDhiQmRNeGRILUVkbGt0NlFUUk42RGFFNWNTMnoxdFhXb0s1SkNJMEI1VjE1dHhUTFdQV1lZZzN1SFhPb19oYUdGajN6TmlDUFQ3V1o5SmxVQmY2Z0RpMzdXWDBNd3lraDBtYlZVdFNVcFV3UXNWOEo2?oc=5",
-          "date": "Mon, 09 Nov 2026 15:55:48 GMT",
-          "summary": "Why longevity experts are talking about sleep Caledonian Record",
-          "publisher": "caledonianrecord.com",
+          "title": "3billion Signs AI Drug Discovery Research Deal With France's DeepLife",
+          "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPOE5weHpPTXkxRUk0SXhBYkQ2ckFXem1zNjVQOHl0T2RYSmlWNFAwckdpTzE2Y0d5bmY1UF92c1VyRnZFTTRoX3FLNGgxNmZTU3N0N0ZwQ2VTYlFHc0lESTQ5RVNpMDRTbGROX1VDZmNDMGN2aC0zdGdfcDJGQ25TNXZjdnlieFJNMGpPVXZMUUF0eE8yZThObUZFNHBCMnQyTVQxNA?oc=5",
+          "date": "Tue, 10 Nov 2026 05:44:12 GMT",
+          "summary": "3billion Signs AI Drug Discovery Research Deal With France's DeepLife Seoul Economic Daily",
+          "publisher": "en.sedaily.com",
           "_via": "news.google.com",
-          "source": "caledonianrecord.com",
-          "_hash": "918993a9d9fc25fb",
-          "_ageHours": 12,
+          "source": "en.sedaily.com",
+          "_hash": "26c89d773a1c602b",
+          "_ageHours": 2,
           "_inWindow": true,
-          "_score": 68.41947416666667,
-          "_corrob": 4,
+          "_score": 57.073726111111114,
+          "_corrob": 1,
           "_cluster": [
             {
-              "source": "keyt.com",
-              "title": "Why longevity experts are talking about sleep - News Channel 3-12",
-              "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPWDlMaHJZX0k0Tm5OMkxzZ0czekJVS3MtUldGME9CenlRM0tDbXRlLWhZNU5sdVpwdVJyU3k4SlVJcXBwU1lEWVR5RFZtaVo4dVpyb1AwbEJLbUVFcmdVMUxibXBEZDlYcFJuRGxKcVBoZmkycjBfb25weEZHQXYtTFJfVndJT0dWeTF3TTJlQkEzY245ZEE?oc=5"
-            },
-            {
-              "source": "themercury.com",
-              "title": "Why longevity experts are talking about sleep",
-              "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPWVhuZktqcmQtdngzYkpkVzR5SU5CRFFWa0ZZTjZpekFGVDZoZjBHRk1yRjVjcFhnWGRvZVNNRElPazNjQnNFcE40LUF2TkVRQU8tSnh2NEpyY3hxNTliSU5oRUVUeFM2cDhUaXdhZzV4QmhSVTJBa0p6d3l4cmFVSzRXdDVhRFc1RnVOazFSUWgxNWFlb1BHeFA1dExBWHY5N1dPeE1ORDFLQ1RpZG91dnd6STJjLTdOSm8tSFhTakNzLUhjbVlHWlY0MDZzMzg5Q0E?oc=5"
-            },
-            {
-              "source": "pantagraph.com",
-              "title": "Why longevity experts are talking about sleep",
-              "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxObk55bVNwcUh0bzJBWFhCTkQ0anlqQlpUSVItajFlS1l4VWNrTU1jM2lsMFdaWUFza1dlV1MwUTVSMlBLVkZWckRFMVVXSnptcmszaHZmbDdZR0JCczJ5MkZfR3I5TlVZMUZmRTVYYUxtMjlXR1h2c2lCTlNsWkNZS25uNHpYMERTeF82RDhyU2wtcUlNbnZaeWJSU2ZRMzVFUG9XYmhieHk0a0xJSUtqTWtIcw?oc=5"
-            },
-            {
-              "source": "shelbynews.com",
-              "title": "Why longevity experts are talking about sleep",
-              "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNbW5HOEl1SjVBS3Z1NURMZ1JIcGw4eGR3U29CMHd5a3pxMnBjakY5RVpnZFNkUTJpVUcyOWxqaFd6YzBGNjcwVTd0UE9CM3J4SERSZ1hXbTRnMl9jVEdYRWFIR2VSNHI2aG50dGVUUUJZbTlJWUt1anA4MVI0dnNfVDVCc3JkZ2tnR0NCRG1ydVpqS1QzRW5wSzBBaU85ZlJmRi1uUVFNTmRNRDhDZGp1eGdFWk9pMjVWQmVuTXk1SjF4M2ZpRndnUWprYUJnYWJoenZCS2dPQQ?oc=5"
+              "source": "thequantuminsider.com",
+              "title": "Quanome Agrees to Invest in AI Drug Discovery Company QAI Labs",
+              "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOcERhaGhrSG9LNDFLZTRNOGhqZ3A5SWRtbVdhM3haLUNrMEI4MlBoWTRoc0duQnZqeFZoWTg3NTZQY2J0MzlZVWY3eEl3WVlDYnpFUG5wUi1VdG4xb29iYUdDVlBoSHB1Q2pHbi05WEpiSGNRUU5yMm5CY0ZVUE8yQkVtLUxST3UxZVE?oc=5"
             }
           ]
         },
@@ -1099,20 +1024,87 @@
           "_via": "news.google.com",
           "source": "cosmeticsbusiness.com",
           "_hash": "54d65adb34f55538",
-          "_ageHours": 15,
+          "_ageHours": 19,
           "_inWindow": true,
-          "_score": 60.928918611111115,
+          "_score": 56.77650416666667,
           "_corrob": 2,
           "_cluster": [
             {
-              "source": "americanspa.com",
+              "source": "americansalon.com",
               "title": "Estée Lauder Companies Expands Focus on Skin Longevity Science",
-              "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPOXhQVEtWTlp1V0s4RllQbzEtTVB3Rlo4NEFmRFoyc1B6Z280bTZ6VjZqX2ZVbFlPSC1PQS1rMV9iSG5RZjdkTEVZTzFCRENsN3p2UnpJOGcwUUhpUm55X1dYVnhGR2FFTHdkQVVRYU45VDA0RXVnSnpMQ1J5QjBQRjdDTEQ4c3ZlaEpHSjJkN0tIWlFlUTRoeDNJLTVRdkxBNzA0?oc=5"
+              "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOaEtjRFdpZU1xNE40RHR2VFFwLW1yeEJubUxnMWQ4aWVyLXVqRTA4RWpPTkZ1bkVJTDdxOFVGci0xdzBTcEhuNnRLd0NLVlR0dThhYWpHVW1KUi1SclVSbjB0aGxfT3U3cldLd09pMDBZNWdsT2ROSldscGJlcjVxZDJwNzFla1lJZTFfUGo1cHZpLU40ZVdYb2d3?oc=5"
             },
             {
               "source": "personalcareinsights.com",
               "title": "Estée Lauder anchors portfolio-wide innovation in skin longevity science.",
               "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPVkk0NThsN1JFM184aktTZHNDNTI0T0RuNTJubnllQTlxMk1VR1NXY3kyOG5jLVowTkxHYzhFd3l4dVBhMnpuSjhDeFRHLWgwZngxV01qSzRTemhzR1hiQXI2THFpblZubGRNWlNEU1hqeVRaNnhlRkhxelhoV096YWJaOFgxaXZBdjFB?oc=5"
+            }
+          ]
+        },
+        {
+          "title": "London startup raises $60M for degraders aimed at Alzheimer’s protein tau",
+          "link": "https://endpoints.news/london-startup-raises-60m-for-degraders-aimed-at-alzheimers-protein-tau/",
+          "date": "Tue, 10 Nov 2026 07:00:29 +0000",
+          "summary": "Oyster Therapeutics has raised $60 million to develop pills that destroy pathogenic forms of tau, a brain protein implicated in Alzheimer’s disease. The Series A-2 funding was led by life-science venture capital fund 4BIO Capital ...",
+          "publisher": "",
+          "_via": "endpoints.news",
+          "source": "endpoints.news",
+          "_hash": "1bdd70dcfd627084",
+          "_ageHours": 1,
+          "_inWindow": true,
+          "_score": 53.34511583333333,
+          "_corrob": 0,
+          "_cluster": []
+        },
+        {
+          "title": "Swiss VC Redalpine Raises $250 Million for A.I., Robotics and Biotech",
+          "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9Rd0ZkRER3eEJYRGdTek9NWkt1dEkxN0pmVlllTThWb01MeW5SS2Z2SWlUVUd2Y1RTRXptMDB5SXpneXlSV2V3eWxlSFh5Rzl1bnN2YTVrbFFERzRyZlVEcVZxOFMtcTk5MlFzU1JnT0VPQ21VQUJwUFZR?oc=5",
+          "date": "Tue, 10 Nov 2026 07:00:00 GMT",
+          "summary": "Swiss VC Redalpine Raises $250 Million for A.I., Robotics and Biotech www.trendingtopics.eu",
+          "publisher": "trendingtopics.eu",
+          "_via": "news.google.com",
+          "source": "trendingtopics.eu",
+          "_hash": "8d38b9c8383aa926",
+          "_ageHours": 1,
+          "_inWindow": true,
+          "_score": 52.33705972222222,
+          "_corrob": 1,
+          "_cluster": [
+            {
+              "source": "thepharmaletter.com",
+              "title": "SRTD Biotech raises a 31.5 million euros to develop mRNA therapeutics",
+              "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPOGJ0RXJlZ0ZzTHdKcWZyTTJzWlVkekpTa3RDOHlCRmVPdHVKZnRuTTVoLXdobjBuTGo0ZmhBc2VfUWttaVJZdmVxZGpRV2tTc2o2TEFKSzM3dEFnSXR2ZFotR0RHejFIbTB5a3l1RlpyMmRrajY5emtTLWlSTDJHVUgxVmdjZy1jR2FvaGVfWjUzUTZ2RnlUbEVXWFFoUGdSUHpRU1RBdWprRzlyZjVRdVJIQU0?oc=5"
+            }
+          ]
+        },
+        {
+          "title": "STAT+: Trump administration removes WuXi AppTec from its Chinese military list",
+          "link": "https://www.statnews.com/pharmalot/2026/11/09/trump-administration-removes-wuxi-apptec-from-its-chinese-military-list/?utm_campaign=rss",
+          "date": "Mon, 09 Nov 2026 20:51:50 +0000",
+          "summary": "The Trump administration has removed WuXi AppTec, a key partner for the pharma industry, from its list of “Chinese military companies” operating in the U.S.",
+          "publisher": "",
+          "_via": "statnews.com",
+          "source": "statnews.com",
+          "_hash": "c0e46dd6df7ffa6f",
+          "_ageHours": 11,
+          "_inWindow": true,
+          "_score": 52.20094916666667,
+          "_corrob": 3,
+          "_cluster": [
+            {
+              "source": "scmp.com",
+              "title": "China biotech giant WuXi AppTec’s shares jump after Pentagon blacklist reversal",
+              "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOcjJRYVVmLTdzOFh5NTBZeVdDNzJ0clZGODdGQnhkZXUzUHBBQTdwZDlLa2g0bkl0a3laakFET1Y3UzJzUGxCdjJmeko5TGIya0RKeWNNajAtVDdOTHJ3ZlRkckM1VXFKdTFKSFZIbjRjdWFfTlNEWV8zZE1CazVueDR4Ykg2emhuMDRLaFgxOHJyV0tJOXo2SUNlcFFnRTY3VmpBQ1ZyZnlaRVRSVmprQVlhbFZTeWVXM05rSzRjWkktSEd3VUxBVS16M1ZkOVplVmc?oc=5"
+            },
+            {
+              "source": "endpoints.news",
+              "title": "US government removes WuXi AppTec from Chinese military list",
+              "link": "https://endpoints.news/us-government-removes-wuxi-apptec-from-chinese-military-list/"
+            },
+            {
+              "source": "pharmavoice.com",
+              "title": "Could new U.S. rules on China biotech investments give Europe an edge?",
+              "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNNXd2MDMwNkkwMDV0Wm5DSEUxbGZ3NjZYSmZnSVNyM1hrSnRtV2Z1OVVObkQ2czVrdktNR0ZtMy1fcFVRT1JMOFZLLV9KU2laOE9VOTBjN0VCYkpvMEx4Z2V5Q25BOHFvLUVabENONFJ5ZC1ISWl1VXRYcHg2RFhHZTZaTWh4bzJnN1NQSTkwSGotUQ?oc=5"
             }
           ]
         },
@@ -1125,9 +1117,9 @@
           "_via": "endpoints.news",
           "source": "endpoints.news",
           "_hash": "2df11cb11db6038a",
-          "_ageHours": 16,
+          "_ageHours": 20,
           "_inWindow": true,
-          "_score": 53.87975222222222,
+          "_score": 49.727338055555556,
           "_corrob": 2,
           "_cluster": [
             {
@@ -1148,37 +1140,6 @@
           ]
         },
         {
-          "title": "Short Sellers Are Betting Against This Biotech Stock at All-Time Highs, But You Should Still Add it to Your Watchlist",
-          "link": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxOZkF3bTVvQndkTzZWeVpsX2w5MVY5X2hfWGUxam9zYUZaZ2hCZVo0RjNiMmdTYXVJdFhzNjVfVTU4VG1zbmJBeHUyLTdWc1gzdTZKUVN5UjhDWmRYMTBlWW1EWnU1a2NsSmNCRm56X3RGM1hTWHN5dE05QmRLdC1hMnNYWTVnX3hjd2NUSVJKMkJQTm9WdkdHUS05VkxXSVk5aEJtSDZpb1hlZlNZazBaQy1EZmFKVDhlSkNwbURsdk1MVm1FWkNIU09RdnJrSGNsXzE2d2h1aGZPanRBUEs5ZTNFa05CMlJVLTI1VmNMcVNwZw?oc=5",
-          "date": "Mon, 09 Nov 2026 16:35:03 GMT",
-          "summary": "Short Sellers Are Betting Against This Biotech Stock at All-Time Highs, But You Should Still Add it to Your Watchlist Barchart.com",
-          "publisher": "barchart.com",
-          "_via": "news.google.com",
-          "source": "barchart.com",
-          "_hash": "8fdd31c1c6794b5c",
-          "_ageHours": 11,
-          "_inWindow": true,
-          "_score": 52.073640833333336,
-          "_corrob": 3,
-          "_cluster": [
-            {
-              "source": "finance.yahoo.com",
-              "title": "3 Reasons Argenx Could Be a Top Biotech Stock for the Next Decade",
-              "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQVG5UVXZGcm9FZ1JmcEl0SEMxcFhiblZCX3BZUTIyQlJneFBHVEMtdE1xMzJFMFRLZEVFeFZzdW1WV09RZ3AxUWdHeG5lbGNmZnFPTzZsUFhaMDJBWFJjZTdoV2o2UmlldHdwdlZJS2UwQlNtcFlxTVRELWRGTHh5MnVQdjNYV0RGbndSZzc0VFE?oc=5"
-            },
-            {
-              "source": "fool.com",
-              "title": "3 Reasons Argenx Could Be a Top Biotech Stock for the Next Decade",
-              "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxORHVJbUV6a1hkQi11TDNiQWdjSGExTERrWVAtcDdCVTg3VEJFSHlVUU5tZmMybXNkREd4YlNNbVFwRC05ZlJDUDNDYWwxOGpyS2xHdkV0UksweHI0SEFWdXZkYzltZW9uY2FjekM1RndCWl91STFWcVN4Y2oxb3hFcFE1cW1tOUJQSkhIQmNMbm8yZzZQT3lJ?oc=5"
-            },
-            {
-              "source": "stocktwits.com",
-              "title": "HIMS, TGTX, SMMT, LQDA: 8 Biotech Stock Catalysts To Watch This Week",
-              "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPZ0dKUkZ6MFNiOTNsUU50R1VGR1ZBT0FvZDVCUVI4MjJGNHd3dUY2dUZDLXlwN0NPa0V5UV9ReV9Dbzg3alBnWFJta050ZGtHSVZjLTJveVlsdW5KTEMyQjAzenNaWHFUaVJJV3hZZHhEYlkzVEs4YVlGa2lIU0k5QUoxRXBwOU5xbXc1LXUydXZTaGFnTnhMbE1EVjZ0MEZVV0VkQVVZTENBd1VWT1dvUzE1cGEtUU1BN2xkd05tSHZ3Q0NYTkdz?oc=5"
-            }
-          ]
-        },
-        {
           "title": "#AHA26: Lilly gets another sleep apnea win, this time with obesity pill",
           "link": "https://endpoints.news/aha26-lilly-gets-another-sleep-apnea-win-this-time-with-obesity-pill/",
           "date": "Mon, 09 Nov 2026 14:30:34 +0000",
@@ -1187,46 +1148,15 @@
           "_via": "endpoints.news",
           "source": "endpoints.news",
           "_hash": "db2d48ae5a231acb",
-          "_ageHours": 13,
+          "_ageHours": 17,
           "_inWindow": true,
-          "_score": 51.99891888888889,
+          "_score": 47.84650472222222,
           "_corrob": 1,
           "_cluster": [
             {
               "source": "statnews.com",
               "title": "STAT+: Eli Lilly’s GLP-1 pill Foundayo helped alleviate sleep apnea in studies",
               "link": "https://www.statnews.com/2026/11/09/eli-lilly-foundayo-sleep-apnea/?utm_campaign=rss"
-            }
-          ]
-        },
-        {
-          "title": "SRTD Biotech Raises €31.5M in Seed Funding",
-          "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPbEM5SkJBaGNTQzVxaU5RZ09VdUFrSC00X2VDOXRjLW1uenNzd3ZjcE1sZ1hTZnYxTkx0S3pyRXFtYXAtNUxTeS1HQWlNOUJPNDhKckxNS3FNMmpiVjVfaTBONGRGZXNDbVpvY0NETjZYRUExU1ZJUEFsd0NnVzFRdmY1ckhOUQ?oc=5",
-          "date": "Mon, 09 Nov 2026 09:40:09 GMT",
-          "summary": "SRTD Biotech Raises €31.5M in Seed Funding FinSMEs",
-          "publisher": "finsmes.com",
-          "_via": "news.google.com",
-          "source": "finsmes.com",
-          "_hash": "727ebec06fe298a6",
-          "_ageHours": 18,
-          "_inWindow": true,
-          "_score": 51.15864083333334,
-          "_corrob": 3,
-          "_cluster": [
-            {
-              "source": "eu-startups.com",
-              "title": "Jülich-based SRTD Biotech secures €31.5 million to develop precision mRNA therapies targeting diseased cells - EU-Startups",
-              "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxNWWRGMWhTU3VoMlRoWDUyckVjazZ2bElxZEJ3MGVIeEZMV1ZrdmNYOU5zWUxoWWhvQjlXZEZTWEtZWXA5R0thOUNiVWJKVkRSLU1SMWZaSG1ibEJhcFcwWnlTSTJNTldRSUFOWjVEUWZKTlRVa1dXalVudGRfenZYNDVJMHU4MWhhUlZETjNwLTcyUkFRU1Y5M21rRHNyZHNfY2JxNHREUFJsa0NwSlFOVEphSzNtOVdGTGJUTGtkSjhuVkpjQWVDNEl2Sk9TSHVVUW9DSGlSNFZodmxCU3c?oc=5"
-            },
-            {
-              "source": "thepharmaletter.com",
-              "title": "SRTD Biotech raises a 31.5 million euros to develop mRNA therapeutics",
-              "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPOGJ0RXJlZ0ZzTHdKcWZyTTJzWlVkekpTa3RDOHlCRmVPdHVKZnRuTTVoLXdobjBuTGo0ZmhBc2VfUWttaVJZdmVxZGpRV2tTc2o2TEFKSzM3dEFnSXR2ZFotR0RHejFIbTB5a3l1RlpyMmRrajY5emtTLWlSTDJHVUgxVmdjZy1jR2FvaGVfWjUzUTZ2RnlUbEVXWFFoUGdSUHpRU1RBdWprRzlyZjVRdVJIQU0?oc=5"
-            },
-            {
-              "source": "app.dealroom.co",
-              "title": "SRTD Biotech lands €31.5M seed for next-gen mRNA therapies",
-              "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQQjR4cmxmdlFJWHVvNjRpdlVXWFc0UTFwUVJLWVJaN3dTOE1VemtOT3Q5em9SMUl1ZEhVQUtxb1NQWHlXOEE2OGE3MUFyRWE5MDU1LVJmLUItcVdmVUZlMW5oR0JQLVlEcTVOLVQ2cU5qMFljaHl5OTJwSE1NZjFKa3VfcTZSYk1hNDRIckdERHpHeGlBc2c?oc=5"
             }
           ]
         },
@@ -1239,9 +1169,9 @@
           "_via": "endpoints.news",
           "source": "endpoints.news",
           "_hash": "3c17586dcc144849",
-          "_ageHours": 3,
+          "_ageHours": 7,
           "_inWindow": true,
-          "_score": 50.70558555555556,
+          "_score": 46.55317138888889,
           "_corrob": 0,
           "_cluster": []
         },
@@ -1254,9 +1184,9 @@
           "_via": "news.google.com",
           "source": "newsroom.clevelandclinic.org",
           "_hash": "ad9df9b495abdd78",
-          "_ageHours": 13,
+          "_ageHours": 18,
           "_inWindow": true,
-          "_score": 50.57475194444444,
+          "_score": 46.4223375,
           "_corrob": 2,
           "_cluster": [
             {
@@ -1280,9 +1210,9 @@
           "_via": "news.google.com",
           "source": "foleyhoag.com",
           "_hash": "0d6c7ff14f768973",
-          "_ageHours": 10,
+          "_ageHours": 14,
           "_inWindow": true,
-          "_score": 49.1628075,
+          "_score": 45.010393055555554,
           "_corrob": 1,
           "_cluster": [
             {
@@ -1301,9 +1231,9 @@
           "_via": "statnews.com",
           "source": "statnews.com",
           "_hash": "b170a94d90dbb0e0",
-          "_ageHours": 5,
+          "_ageHours": 9,
           "_inWindow": true,
-          "_score": 48.968085555555554,
+          "_score": 44.81567138888889,
           "_corrob": 0,
           "_cluster": []
         },
@@ -1316,9 +1246,9 @@
           "_via": "news.google.com",
           "source": "finance.biggo.com",
           "_hash": "c4287b147dc02c07",
-          "_ageHours": 10,
+          "_ageHours": 15,
           "_inWindow": true,
-          "_score": 48.572807222222224,
+          "_score": 44.42039277777778,
           "_corrob": 1,
           "_cluster": [
             {
@@ -1327,21 +1257,6 @@
               "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxOQjZHOTR3bGswOUhiZDF5VldsQm9UZmZ6cVZPUzROUktIY1plQ29EZUF5cWdsaWk1MTJ3VWhmRVp2QkJLSEs3al9sQjJucm1JUFc1VExULU1zbmJJdENadTRQYXZTYXFwcGpIRTRObzhlYlpXUzNVbUVOZXpyMlNjSVhIenFpTlNnMDBPVkIzNlFmSDlHbDFPZWR4Um9Kc2NRT2VxMVozUmdRb3ZwLTZ4NG9ValZpRDd2bm1oV2t6V0FhZThiRHJacDU3Q1dJbkpCTVA3S3U5SQ?oc=5"
             }
           ]
-        },
-        {
-          "title": "#AHA26: Boehringer to seek approval of obesity shot, but gaining market share could be tricky",
-          "link": "https://endpoints.news/aha26-boehringer-to-seek-approval-of-obesity-shot-but-gaining-market-share-could-be-tricky/",
-          "date": "Mon, 09 Nov 2026 15:58:37 +0000",
-          "summary": "Boehringer Ingelheim will seek approval for its incretin shot survodutide for obesity next year, after a trial showed that the drug doesn’t increase patients’ risk of cardiovascular events like heart attacks and strokes. If the ...",
-          "publisher": "",
-          "_via": "endpoints.news",
-          "source": "endpoints.news",
-          "_hash": "4f5d89ff29df4f0a",
-          "_ageHours": 12,
-          "_inWindow": true,
-          "_score": 48.46641888888889,
-          "_corrob": 0,
-          "_cluster": []
         }
       ]
     },
@@ -1349,30 +1264,50 @@
       "name": "Energy",
       "candidates": [
         {
-          "title": "Sierra Club Welcomes CalPERS’ $71 Billion Climate-Solutions Investment Milestone, Urges Fund to End Financing of Fossil Fuel Expansion",
-          "link": "https://cleantechnica.com/2026/11/09/sierra-club-welcomes-calpers-71-billion-climate-solutions-investment-milestone-urges-fund-to-end-financing-of-fossil-fuel-expansion/",
-          "date": "Tue, 10 Nov 2026 02:00:21 +0000",
-          "summary": "SACRAMENTO, CA — On Monday, the California Public Employees’ Retirement System (CalPERS) reported that the value of investments it classifies as climate solutions reached $71 billion as of June 30, 2026, up from $59.7 billion a year earlier. The increase brings the nation’s largest public pension fund closer to its ... [continued] The post Sierra Club Welcomes CalPERS’ $71 Billion Climate-Solutions Investment Milestone, Urges Fund to End Financing of Fossil Fuel Expansion appeared first on Clean",
+          "title": "More than 300 Solar &#038; Storage Companies Urge Congress to Pass Bipartisan Permitting Reform to Accelerate Clean Energy Deployment, Lower Costs",
+          "link": "https://cleantechnica.com/2026/11/09/more-than-300-solar-storage-companies-urge-congress-to-pass-bipartisan-permitting-reform-to-accelerate-clean-energy-deployment-lower-costs/",
+          "date": "Tue, 10 Nov 2026 04:53:37 +0000",
+          "summary": "WASHINGTON D.C. — More than 300 solar and storage companies are urging Congress to pass the Bipartisan American Affordability and Jobs Act (BAAJA), S. 5653, warning that outdated federal permitting processes and grid infrastructure bottlenecks are delaying critical energy projects and driving up electricity costs. In a letter to congressional ... [continued] The post More than 300 Solar &#038; Storage Companies Urge Congress to Pass Bipartisan Permitting Reform to Accelerate Clean Energy Deploym",
           "publisher": "",
           "_via": "cleantechnica.com",
           "source": "cleantechnica.com",
-          "_hash": "2731c052c00500b9",
-          "_ageHours": 2,
+          "_hash": "2f44ad0ee91fd2a3",
+          "_ageHours": 3,
           "_inWindow": true,
-          "_score": 68.49501138888888,
+          "_score": 79.23042222222222,
           "_corrob": 2,
           "_cluster": [
             {
-              "source": "cbc.ca",
-              "title": "Canada's credibility on the line at COP31 as it defends fossil fuel expansion while trumpeting clean energy",
-              "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5RMmJfSmdLb1VxOC1VRlJIWTJKMXQxUjVUeW5iS3hTREFYVVhtU05uMkhKUWk3endNZG5HeElNQmVDOWtrOFRDcnNWMURTZEFjeGdaZC1VUE4yNlZTTVZZSjJzMGJ0c0dQb3prMmtPMzZoMTRWY0VsRUFMbmk?oc=5"
+              "source": "cleantechnica.com",
+              "title": "More than 300 Solar & Storage Companies Urge Congress to Pass Bipartisan Permitting Reform to Accelerate Clean Energy Deployment, Lower Costs",
+              "link": "https://news.google.com/rss/articles/CBMihwJBVV95cUxNUnRieGlmdDVyeGxHc2h6Wk5QbGNfbmRONlNPMFF2YnhldmVIVU84cHo5OUpqM2VTem5uRHQ2RVdud0h5UWFPQXJnYTlNUzM4bVhXQWJxNTQzMmRxczUyMk1DZ0lhclY3cTdhSHZEaWczdXMyX0l3Q01hRnd4UmZ4ZkxhN1k0bDAtUnNGYXp5T2gwZjlpdlVQRHM0SDV0a29hQUFsWmJRWTZiSGFadjF5VDdVdE12ZGU3dnBOWHZBaXpob0JTR2hEYUJtOXM4OVlGOUlocGdFcENiWC1IdW9iN0M1ODNRSUFaeDdLdVlzTnV5MVhNa2ZpZVBCcDJTMWdJMXZVUzJqUQ?oc=5"
             },
             {
-              "source": "africasustainabilitymatters.com",
-              "title": "Equity Group deploys ksh26 billion in climate finance as agricultural resilience and clean energy expand",
-              "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxOd3dfd3Z0U3A0OXBTblJET3RIM3hLVzRtRnBBZ1dScjYwcVVfM1lzd0lPUWdHMnc3OEs3REhRRl82cUdKZGh0RnpsV0dHa2dKYmtSS2psT0dYaTlqLW5JZVVleEoteDBEdUNmWXJydnJNQ1U4cDlQd1ZqVEZ0RzJLR25CUVRKaWlfTm00SFFaeEF3d2Y3ZkVRV3ZYU2xfendaMHBRUjZNR3pvSlBLRXhZYXBuQU1udHRTSldRWkdBMDFyZU9NWVNncm1ZSmN5OEhSWTZ1MGo1TzBQODFOUlE?oc=5"
+              "source": "powermag.com",
+              "title": "A Model for a Clean Energy Future: Arevon’s Eland Solar-plus-Storage Project",
+              "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNbW1VYWxrczZJaUNQSFdCbHVQV002anRIS3A4cU1iR1FnRDlwZ1hTRUtWTS11b0VERXhwd1lNLUpaZ29FMVQ5TGM4UFRwNHJyblJfcy1sb0ZnRktYQjF3bzRIeWFjV1kzVGE2dDRjLWRiZm1ucTZFTnhlRVkxbzdPazhxRTg5Q0RBalBFU21tY3hPeGo5Z0hKQ2otendJalFXQ2lXMA?oc=5"
+            },
+            {
+              "source": "ritzherald.com",
+              "title": "Senate Votes Today on Permitting Reform as Democrats Map Clean Energy Oversight After Midterm Gains",
+              "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQOTdUenpRXzJGbmlIT19CMTQ1dFN0LTVFNHdodi1QN0dja3RrUGt4OHlPTG9faHBERU5WMnB5bVZuN2tucGhuUkdWNC1mUzEwMlYwbzFPajBWTVREYXJSX2haQ243UlF5NEttSldfaEJGQXFLZnRkZnlUeGlGcXkwV25GdkFOR0ZVdjBjbnF1ZWxhRnQ2ajlDMWVZNDlkRDMzR2xNbmxWcjRxUTN4RG1ySHkwQW9laS1xa3drOHNXbXc?oc=5"
             }
           ]
+        },
+        {
+          "title": "5 Years In, Mustang Mach-E Battery Data Shows What Real-World Electric Vehicle Durability Looks Like",
+          "link": "https://cleantechnica.com/2026/11/09/5-years-in-mustang-mach-e-battery-data-shows-what-real-world-electric-vehicle-durability-looks-like/",
+          "date": "Tue, 10 Nov 2026 04:50:49 +0000",
+          "summary": "Five years ago, the first Mustang Mach-E customers began adding something important to the Ford electric vehicle battery validation work: real-world ownership at scale. As part of our quality process, design and validation engineering starts long before a vehicle reaches a customer. We model battery performance, run physical tests, expose ... [continued] The post 5 Years In, Mustang Mach-E Battery Data Shows What Real-World Electric Vehicle Durability Looks Like appeared first on CleanTechnica .",
+          "publisher": "",
+          "_via": "cleantechnica.com",
+          "source": "cleantechnica.com",
+          "_hash": "57400d019bc8ef1e",
+          "_ageHours": 3,
+          "_inWindow": true,
+          "_score": 63.18375555555556,
+          "_corrob": 0,
+          "_cluster": []
         },
         {
           "title": "Democrats plan to push clean energy to lower bills and challenge Trump's fossil fuel agenda",
@@ -1383,9 +1318,9 @@
           "_via": "news.google.com",
           "source": "sentinelcolorado.com",
           "_hash": "a8941674030b1b3a",
-          "_ageHours": 7,
+          "_ageHours": 11,
           "_inWindow": true,
-          "_score": 66.26306694444445,
+          "_score": 62.11069972222222,
           "_corrob": 5,
           "_cluster": [
             {
@@ -1394,24 +1329,45 @@
               "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNQjF3bndIOHA0bnk5YmZ5VktuTk9ocGVSa0YwS3VNWnNjZHo1Wmo4NGUwYnNfNl9xdUY1R1hRaEdSWGk1amczUG9scmNKRWRHZ1BVYmw2dTh2V2xZa2hLN0piek04UlNBZktlQTh6ZExWVGFqbHNnUlJRS1RYUkhyNlp2QmE3a1hnZFEyVHNGam1yZ0pkQ0FBVWRPa3J1UDZyMFZNdlJ5WW1DbkQ5VTJiS2ZsTHFaMXI0TXFVUDVOMjNvVnNWNkI5WnM5cUpkNlVPMTMza0lB?oc=5"
             },
             {
-              "source": "decaturdaily.com",
-              "title": "Democrats plan to push clean energy to lower bills and challenge Trump's fossil fuel agenda",
-              "link": "https://news.google.com/rss/articles/CBMihAJBVV95cUxNaEVlbVBSLTNMYWdWUmZfOGo3Z1B3Mlo4WHk4NUlaTl9VY3diRnhVVW50cHBCZmVaS2VVbWQtRUhhTWRMTGNoTXY5OGxNU0FwRmxLb0lEVUc1NUpKQUdhQWJVM2JsRl9rdnlQQnh0LXN6ZFJTZ19pTU1IQXkwLUprdGctTFdQcV9yYnRlWWVrWXJuZ2RPemlMMXVJNzQ1UnRCQnpHMS15SEVmRVBaUmZ6WTlBRHNfd0dXWERRM3dVYkVfN2FqTDdHR3d5bnJiTUJ2T2thZ29UUGFpV1Z4eUR3c2FGUzZ5VmV0Z2NveEZsTVJVVjRrWnRlck9mQzMtdEExZ29wYQ?oc=5"
-            },
-            {
               "source": "kdhnews.com",
               "title": "Democrats plan to push clean energy to lower bills and challenge Trump’s fossil fuel agenda",
               "link": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxPbXp2QnN4dzlacExxckFUN3RRYkRpTDlaVHNEMWlSM0YyZnUwSk9XbUhiQ0FSdlltUnNMc0FmR1NfTnVuaTMyLVlqY1BlcDd1Z3Nodm9qYjNDMG9YTnpvdThEeUZod2pfbmZDdkZxQzFPUWRaUkpCZmFrRXNCTWJCWGF6b3hjX3g2WE5tZmRmNWJpZHNDV2VZRFFuMGVDSXFLX0dLT3RTQUQySnRTOWhIckRrMWF1bmhKbFRFWERnNVNCa1doTWFoeTFXX0J3am9HVm5mWWZsUmd2TUJwWkhIOW96UFYweGVqWGd2cGRuenZsdmpEVTRvcFJ3?oc=5"
             },
             {
-              "source": "mcalesternews.com",
+              "source": "the-journal.com",
               "title": "Democrats plan to push clean energy to lower bills and challenge Trump’s fossil fuel agenda",
-              "link": "https://news.google.com/rss/articles/CBMigAJBVV95cUxNakh5U21yU1JweFFkSGc4MUI3N0tFSmV4anBDaDJDazkwMnFXT1B0UFRINVhIeV9oTHlpWE5YZWp4OWZmRDlrd0dwaXBocnJTUjIxdUxyMjVmOV9Na0VJMHZwUW9GTVk3NC1OdmZsdW0yMU9FUzluMTFGVW4yX2Fid1QtaTEwbVhNaWxMakdBSmZpbE5YOHRfQzRkZnpaRUsxV0NsUS0xblc1WXFNWmpYZDVqcDZGYTNUUHlrUzFJTHkwakE1RThnaXBQckluNFctUEZRYTRMM1ZpRURkRHhPRExFaUFXVm5EMG15R1lPTnhkMTdlR2Ftb1FyUmhYRXBZ?oc=5"
+              "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxPUW1jVFBrOU84U2s1U2wwci1NZUFqNUFjUmVjSTJjSzhYUkswbjhpSmRMRFprR1ZUcmMyeGMyUmlycmVRbzZjejgxZUswZjBoNTRPcUp3SWJOblk2SkppYjNFekNYal9YTDhZWTdrMmFwWlhMTUtsa0RhWEtxQUZpaXQ0aVFuN2MwaVc0S0RvOTA4TkQ1NnhrWVNEVE9kN1AzQXpXc0VRdWNjUkVMMURnSm0zZ1NETjJwa1lwWllmZHk3NllFY2d0aUFZSVl4c1AtTzFNenBXbXl2dVNXakE?oc=5"
+            },
+            {
+              "source": "gazette.com",
+              "title": "Democrats to push clean energy, challenging Trump’s fossil fuel plans",
+              "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOanc4UXBJUWdGazF2cmNQZ05EaURsYjEtU1oyNXRxR3Nrc3FzS05SaTgzcUZ3Znc4UTdLUmozQUd4YU9abkJwTlIxX3FUM2d2eEhNWWJhZ3YzZDBBUGt3bnFUeWhlTG15SjhRWFpkSGZGRFp3akJPSlUwS1BBOTNQeVc4ZjRydkFQM1F5aDB5RXRHTk5SeXFNTEZlcW5IcmRO?oc=5"
             },
             {
               "source": "bozemandailychronicle.com",
               "title": "Democrats plan to push clean energy to lower bills and challenge Trump’s fossil fuel agenda",
               "link": "https://news.google.com/rss/articles/CBMijwJBVV95cUxPZHI2UHV2SUFDdkFfT0xObFNLenBQdUM4Q2xHWS0tMlN3TmZjU0pqV0pzZ09FUDVWVDBiYXh0WS0xdmVkc0lLZHZ6RmVnaURqRldRbFNOYi02RHBadEpKdEN4RGpNTWl3US1oZDBmc1BteFliRzhVaFY3dXh5OXd4LXJsdUhoY1lwaW9ZMTY3ejJPZktnTEtta3dvU1JMMktCNjlGMWRZN1dWWFF4Ql9Hc0xKb01GSjI3cFpIVHQ3M3Q4QXdtX2ZqYWZrVzdtYlZqYl8wNTZoejVDdXBJZkpwMzJSVzFBbHBIWXJkMmtPM0tXdDcxM2U0clNMNjR0THduNGZZQWdGem1pSmhsc3VV?oc=5"
+            }
+          ]
+        },
+        {
+          "title": "Sierra Club Welcomes CalPERS’ $71 Billion Climate-Solutions Investment Milestone, Urges Fund to End Financing of Fossil Fuel Expansion",
+          "link": "https://cleantechnica.com/2026/11/09/sierra-club-welcomes-calpers-71-billion-climate-solutions-investment-milestone-urges-fund-to-end-financing-of-fossil-fuel-expansion/",
+          "date": "Tue, 10 Nov 2026 02:00:21 +0000",
+          "summary": "SACRAMENTO, CA — On Monday, the California Public Employees’ Retirement System (CalPERS) reported that the value of investments it classifies as climate solutions reached $71 billion as of June 30, 2026, up from $59.7 billion a year earlier. The increase brings the nation’s largest public pension fund closer to its ... [continued] The post Sierra Club Welcomes CalPERS’ $71 Billion Climate-Solutions Investment Milestone, Urges Fund to End Financing of Fossil Fuel Expansion appeared first on Clean",
+          "publisher": "",
+          "_via": "cleantechnica.com",
+          "source": "cleantechnica.com",
+          "_hash": "2731c052c00500b9",
+          "_ageHours": 6,
+          "_inWindow": true,
+          "_score": 59.342644444444446,
+          "_corrob": 1,
+          "_cluster": [
+            {
+              "source": "cbc.ca",
+              "title": "Canada's credibility on the line at COP31 as it defends fossil fuel expansion while trumpeting clean energy",
+              "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5RMmJfSmdLb1VxOC1VRlJIWTJKMXQxUjVUeW5iS3hTREFYVVhtU05uMkhKUWk3endNZG5HeElNQmVDOWtrOFRDcnNWMURTZEFjeGdaZC1VUE4yNlZTTVZZSjJzMGJ0c0dQb3prMmtPMzZoMTRWY0VsRUFMbmk?oc=5"
             }
           ]
         },
@@ -1424,9 +1380,9 @@
           "_via": "news.google.com",
           "source": "energynews.pro",
           "_hash": "d280ff396b0fa2ea",
-          "_ageHours": 11,
+          "_ageHours": 15,
           "_inWindow": true,
-          "_score": 63.002789166666666,
+          "_score": 58.85042194444445,
           "_corrob": 4,
           "_cluster": [
             {
@@ -1460,9 +1416,9 @@
           "_via": "news.google.com",
           "source": "ans.org",
           "_hash": "f723fc5394c2ff9c",
-          "_ageHours": 5,
+          "_ageHours": 9,
           "_inWindow": true,
-          "_score": 62.7111225,
+          "_score": 58.55875527777778,
           "_corrob": 4,
           "_cluster": [
             {
@@ -1493,6 +1449,63 @@
           ]
         },
         {
+          "title": "The Fusion Energy Industry Needs More Credibility To Commercialize",
+          "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPT3RmU2xYOUdUUm8xTnhYZTNKVTRIeHMyZDZWRWp5STZOWTRFZy1GVUh2cXJKYnoyRk0zUU1GbzNvQ2dUa2dpYzVUTmlNMV9WNmxmcVRmRXBKenpFZGVsQUpQdXUtLVFtOHpjZ3UwTVgyZnlGZ29BNUx0X040Y185TDY5NEpnUUF2QWFuS2FuSHA0Z3otdkJDY19ONTJrVUhXbUp0VkZKZGlRa3d2WkJnTXRXWTdiRjJFajBtRg?oc=5",
+          "date": "Tue, 10 Nov 2026 05:00:27 GMT",
+          "summary": "The Fusion Energy Industry Needs More Credibility To Commercialize Forbes",
+          "publisher": "forbes.com",
+          "_via": "news.google.com",
+          "source": "forbes.com",
+          "_hash": "7d53f11ca8d31219",
+          "_ageHours": 3,
+          "_inWindow": true,
+          "_score": 56.34431083333333,
+          "_corrob": 1,
+          "_cluster": [
+            {
+              "source": "sandiegouniontribune.com",
+              "title": "Opinion: Permitting delays hold back San Diego’s clean energy industry - San Diego Union-Tribune",
+              "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNbFRkbTVELUVmbVRxN0VPYjRYZURzMDU4T01lVVZ5QVc0RU4wc1ZRWmU1dE1NcHE1TzZYeXVJbUhveElqckgwTEQ4V05LRU5UQjdxVkVhbGQ0LUdndFEtY3dMbHZnampJcU9jNnR6eDhvcmN0aGRxXzZHbk5wMUhGRHgzLU1LNEQ3bmxaZG9qMFhzQmM2Q1Rfb216ak82WVRob1d4WG1NVmZ2cmNHY3hhQ3prM2pQTUF6?oc=5"
+            }
+          ]
+        },
+        {
+          "title": "New BYD Seal 07 Illustrates Chinese EV Evolution",
+          "link": "https://cleantechnica.com/2026/11/09/new-byd-seal-07-illustrates-chinese-ev-evolution/",
+          "date": "Tue, 10 Nov 2026 03:56:04 +0000",
+          "summary": "Last week, BYD introduced the next generation Seal 07 EV. This model replaces the original BYD Seal, which entered the market in late 2022 and put the brand on the map in the minds of many people around the world. While the new vehicle is important to BYD, it also ... [continued] The post New BYD Seal 07 Illustrates Chinese EV Evolution appeared first on CleanTechnica .",
+          "publisher": "",
+          "_via": "cleantechnica.com",
+          "source": "cleantechnica.com",
+          "_hash": "9ebcc37f7ad6f7b6",
+          "_ageHours": 4,
+          "_inWindow": true,
+          "_score": 56.271255555555555,
+          "_corrob": 0,
+          "_cluster": []
+        },
+        {
+          "title": "Form 4 General Fusion Group Ltd: Thomas Boehlert (Director) For: 15 October",
+          "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOb3lfMzhXQTBzcWV1SENldGh6NGE1MXJUeVVSeGRsNG8ybFNSbE83TFVINDVGdDJZZ1R4T2I3YkxJUUtyNEQyTmxIcWJuSERUbE5PZkVSdXJzRUxnUFBLeGE3VmFRZUVKdFpOb2w2VzlrcXFoWkwtNjN5OVhka0dReGp1Y294X0lsZGd4clE4NnZRWERpYUZMZ3FYQng5Wk13R2QtVWhvQzlCMXRjb0ZaMHdWeHpyU0pGTVJKeFMwbTNhY2Nwc083ZUp4ekg?oc=5",
+          "date": "Tue, 10 Nov 2026 02:47:04 GMT",
+          "summary": "Form 4 General Fusion Group Ltd: Thomas Boehlert (Director) For: 15 October Investing.com UK",
+          "publisher": "uk.investing.com",
+          "_via": "news.google.com",
+          "source": "uk.investing.com",
+          "_hash": "3a9234e34d8c3ef7",
+          "_ageHours": 5,
+          "_inWindow": true,
+          "_score": 54.121255,
+          "_corrob": 1,
+          "_cluster": [
+            {
+              "source": "stocktitan.net",
+              "title": "50,000 fully vested options go to General Fusion Group (GFUZ) director Thomas Boehlert at an $8.25 exercise price.",
+              "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQTEE1WnRNeW4zTUtkYWxlSzhLZVRPVkpoVFFseHlzbmZFVzVMNE9MeDBIcXRNekk5a0swVVB6VGZPRXVPaVBhNXNndnBwaEozOFV6cU1LNXNTSXRfYTB3UjJjempZSkIwbE9KdkFRbUJaejVBSEE5U2NBWjZrM0J2czFfZjloV2JBd3p2N0xEeGpqazEzdGpyNGFLSUpDWmJhMnNiTlhsV2F5WHotbzIxdjBJcjUwMkpWN2c?oc=5"
+            }
+          ]
+        },
+        {
           "title": "Domestic NPUs Enter NVIDIA Systems via NVLink Fusion",
           "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNM0FoOU1MUHV6NmtyMUVrV1NCN1UyQVk2ZkpiTFBhbkZHaEZlSW80TF9vWm1PeDZDMkR5R1JWUUdkS1d5VDZVMmlSdklmeGtydTN1bmxfU0ttNHdMVU4tWG85bXlNOE5HV3hxekVrUl9pRmxGNzk3SE5nZVMzN2NKVkxCNmZFX0o1?oc=5",
           "date": "Mon, 09 Nov 2026 15:37:41 GMT",
@@ -1501,10 +1514,10 @@
           "_via": "news.google.com",
           "source": "chosun.com",
           "_hash": "42e7fa5df2084620",
-          "_ageHours": 12,
+          "_ageHours": 16,
           "_inWindow": true,
-          "_score": 62.11723277777778,
-          "_corrob": 4,
+          "_score": 52.96486611111111,
+          "_corrob": 3,
           "_cluster": [
             {
               "source": "fourweekmba.com",
@@ -1520,145 +1533,48 @@
               "source": "nvidianews.nvidia.com",
               "title": "NVIDIA, Rebellions and SK Telecom Announce Collaboration to Advance Sovereign AI Infrastructure With NVIDIA NVLink Fusion",
               "link": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxORGhIWmZCWlAyVkMzcDMxdFF3NWtlRmZKZXdMYmxKNmhSN0x1OEN4WTBxS0hmUk90M3I1cHhUb0dDSHdkWmkycGhlcHZFWDlWcGhuYVhfZWFzbTZoV05BM0VtWlZ4RjhjdjJXaUxIS3gyUWlRSHFCeFdPM0UtdTdVRldYWkZZZ1VxWXY0dlByR1NHYldtVy1rTmxXZXp3MzBuR0lxaC14b21mVkIyU1hJRTBhMTR5NVhEVkVlTDQxYVpocEdSMlRlamN3Y19FRENqRlJvV2ZsSC15SjhITjhOODhldHp1MWMzdV9Z?oc=5"
-            },
-            {
-              "source": "mykxlg.com",
-              "title": "NVIDIA, Rebellions and SK Telecom Announce Collaboration to Advance Sovereign AI Infrastructure With NVIDIA NVLink Fusion",
-              "link": "https://news.google.com/rss/articles/CBMivgJBVV95cUxOckpaekJ5a0U4NC1hRkxKbmhobXhseWJ6ZXlLcmpneEV1RHlkaVhWMFJkei1BVVJldDlBanZMS0pIS0lhZkNGdmN1WEVWbTgzbE5fMFBiMlRRdU1GY3JaNkczbVNjbVYwTVFTdFlqS0txZ3g3WE5IOHNSc19YeTJGU0xQMzJHN2ZGSEdEd3lHRDZZcE1PMHMwc241cm1FVGlQMXVNNVF2ZTc1OGsxRFNIVnNkdzdsNGhFejE5ZnlVR0MxbFdrZlpnWDlteFluNFhOeW0ydGVvZ00tZFUxbVVYLW83dHJmTXQ5ei15MlNXTHlyV1NaRkhLYnZua3FIbGZZMXM5NWVKY3UzaE9oRWJNdG5WWmVvZ0hhd1dEQUtlSHYxRllwVzM0azlxckFWd05UTG43NUdlVExIZzdoR3c?oc=5"
             }
           ]
         },
         {
-          "title": "Form 4 General Fusion Group Ltd: Thomas Boehlert (Director) For: 15 October",
-          "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOb3lfMzhXQTBzcWV1SENldGh6NGE1MXJUeVVSeGRsNG8ybFNSbE83TFVINDVGdDJZZ1R4T2I3YkxJUUtyNEQyTmxIcWJuSERUbE5PZkVSdXJzRUxnUFBLeGE3VmFRZUVKdFpOb2w2VzlrcXFoWkwtNjN5OVhka0dReGp1Y294X0lsZGd4clE4NnZRWERpYUZMZ3FYQng5Wk13R2QtVWhvQzlCMXRjb0ZaMHdWeHpyU0pGTVJKeFMwbTNhY2Nwc083ZUp4ekg?oc=5",
-          "date": "Tue, 10 Nov 2026 02:47:04 GMT",
-          "summary": "Form 4 General Fusion Group Ltd: Thomas Boehlert (Director) For: 15 October Investing.com UK",
-          "publisher": "uk.investing.com",
+          "title": "UKEF well suited for Sarawak’s clean energy projects",
+          "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOLTVhNlRvQWZYRVA2MGJoR2w1dTJZRGdBZkxIYmM2SF92LW9CQklGdGl3ekx3YlNCUDVhZ2dIVEdfaHZoNzVTa3B1R0ZPelBOWklfU1dDMXVVS3JqMF9BUml2Tlg5bHBva05NbjlVYTFON1E3VWpCajFzcEt2MjJRZWR5VWc3dThxbHplVHh4NXZlajJwREZKYw?oc=5",
+          "date": "Tue, 10 Nov 2026 07:23:55 GMT",
+          "summary": "UKEF well suited for Sarawak’s clean energy projects Borneo Post",
+          "publisher": "theborneopost.com",
           "_via": "news.google.com",
-          "source": "uk.investing.com",
-          "_hash": "3a9234e34d8c3ef7",
+          "source": "theborneopost.com",
+          "_hash": "128af56cdf9d51b5",
+          "_ageHours": 0,
+          "_inWindow": true,
+          "_score": 52.73542166666667,
+          "_corrob": 1,
+          "_cluster": [
+            {
+              "source": "dailyrecordnews.com",
+              "title": "Environmental study looks at rules for clean energy projects",
+              "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxNelR6Vnd3NTktQ1VOX2l6Q05lZkUxMElySnhESHlNWmJlcWM4T0hlYWd1a2NMZDA3eEowaHhTWjlLRHA0QjRrbjc3Tng0WXQyeDFzTkpDUnlkZHVJaWNLUnJ5TGlyZW1CN05PbXJ1QzRXcGJ0YWUyRWJ1bGc2c2xsQTBxazNfSnF1UklpWFhSemdDV0JVeFhoTUpmb2JNQzZhTWFSWWJKc1FWUHdORmhadXpQQzVNRjRjMXo1YVFvRnpHZGNUZEJPVVR4UTNhV2M3alpSM2pYbWhJcFZPQjE2Uw?oc=5"
+            }
+          ]
+        },
+        {
+          "title": "High energy costs complicate the calculations of Norway’s sovereign wealth fund and delay renewable energy investments",
+          "link": "https://news.google.com/rss/articles/CBMigwJBVV95cUxPZ1F2LXFqZy04Z2N1S21oU2ZDdUlUUk5rYU5MODhwYW1RUHFEbENnTklzY1ZZUmRxN1ZZODl5WkpkV1B2b3VreWNmZVZfWFlZX3JzOHBEekpZclk2azFKWUJhTmItLWVkWUl2aHhSNW51YlhHREU2Q05UT1ZHMUpVWlhfa2pfZ21LcTB3dTBfTHBtV0wwSkxKZjBLUEEtYlB2UlB0ZkFORzBaNElvMmlIVXN0MkNSc1VXdF92cjR3Yk85WW9wUmRzUUJnelM3LXpDal9yTVJLYVU5VVJ2RTBjMFRkNDV1M3lEdjg0b25RcV9nU0JfOTN6aEc2cVF0YnpLTHcw?oc=5",
+          "date": "Tue, 10 Nov 2026 06:22:09 GMT",
+          "summary": "High energy costs complicate the calculations of Norway’s sovereign wealth fund and delay renewable energy investments صوت الإمارات",
+          "publisher": "voiceofemirates.com",
+          "_via": "news.google.com",
+          "source": "voiceofemirates.com",
+          "_hash": "5c8c58a74922d508",
           "_ageHours": 1,
           "_inWindow": true,
-          "_score": 58.27362166666666,
+          "_score": 51.7059775,
           "_corrob": 1,
           "_cluster": [
             {
-              "source": "stocktitan.net",
-              "title": "50,000 fully vested options go to General Fusion Group (GFUZ) director Thomas Boehlert at an $8.25 exercise price.",
-              "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQTEE1WnRNeW4zTUtkYWxlSzhLZVRPVkpoVFFseHlzbmZFVzVMNE9MeDBIcXRNekk5a0swVVB6VGZPRXVPaVBhNXNndnBwaEozOFV6cU1LNXNTSXRfYTB3UjJjempZSkIwbE9KdkFRbUJaejVBSEE5U2NBWjZrM0J2czFfZjloV2JBd3p2N0xEeGpqazEzdGpyNGFLSUpDWmJhMnNiTlhsV2F5WHotbzIxdjBJcjUwMkpWN2c?oc=5"
-            }
-          ]
-        },
-        {
-          "title": "COP31 In Antalya: Can Countries Unite On Clean Energy, Climate Finance And Phasing Out Fossil Fuels?",
-          "link": "https://news.google.com/rss/articles/CBMihgJBVV95cUxNYWdxUVVYSE9tTlU3S1hiUUVEWl9BUWRmOGwtTFFwSG54NWtVcGE0dzlVVVltU1lROE9LQlY0Wm9ET2RMU0otNW9LV3RFa2FEckFmX0hmLVVnSzV3aUFzdUw4SGFoMUZOVWRrNXpmNHM5OFNVOXVaUDFTbGtfYlVSSWVZZGFaZkVvaFNoNGxCVm9DYy1NUzM2Wl9EUFZDVFZnb3liZEVMV0F6bDJGMEIzcm5XbGQ5TUFCZnBfc0I5NnpJeHZZNWZpM3p2MmZnb2tHbDIxOE8xT0JPYkRENzR6LThuNFNQUTM0aURVa05YZWptUWhHVklDMk5sVC1lbW8tQk5SOGhn0gGLAkFVX3lxTE5tYVNtS3lDQ0xJMTVYMERDOUJ5amNWTzRVNmxEcW02T196OTNhNnkwVUx6Y01Pc3hFdEdMaHd6Yk1BN0FlaUp4a1c3dzFIbURCTUU0eW1JczlWUTlvQVNpcThVckdwWmtPQ3UydHdaZHhOYXAwaFZXckJ2UlhYeThnXzFfRVJDY2JBX01ydWw3bnZkMGhMQnFVak1rVERMZ3hRUkJVOFYzWUxVVGp0Q2gxMHJ6VWxQc0JZaTZ1WUl4eFNJSUUwaDB1S0xSMGdmTWxxdnR6OFZWM2IyY2x1dlB1V1VVbWF5X1g3S2xJQzZBbWxzZDdLcmd1TlBySUpjZEc2OTFwaU1UOGpwWQ?oc=5",
-          "date": "Mon, 09 Nov 2026 23:48:51 GMT",
-          "summary": "COP31 In Antalya: Can Countries Unite On Clean Energy, Climate Finance And Phasing Out Fossil Fuels? The Times of India",
-          "publisher": "timesofindia.indiatimes.com",
-          "_via": "news.google.com",
-          "source": "timesofindia.indiatimes.com",
-          "_hash": "f81625f0ab3daf3b",
-          "_ageHours": 4,
-          "_inWindow": true,
-          "_score": 54.30334388888889,
-          "_corrob": 2,
-          "_cluster": [
-            {
-              "source": "reuters.com",
-              "title": "COMMENTARY: Grids, finance and jobs: Three tests for COP31’s clean energy promise",
-              "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxPc2VNQkN3RnZkb1JFZTA1TkVhRnBTVjBHWTZFc0dnMUhBN0NkVDZkY0Y3YXRGdndNQ2hmSFlVNG9mbHhsbndRSkdKWWU3WTNPTVZ0bzhkeEFDbFItbUxBb1VOWUdfY0xBSlJkQmNUbGhBdnNEWjBZRUxFU3VTeVhCSnJvejVMVWJwRzhWSFZwamdWUkRpZF9zOTVWSHlvcmdpLWZTVFZBNGRBT25yY200bk5TTXdBVlRmQkJVZWxYTlhvcUl0cmxJUy1LRVNmRkxJMGNlYldhX0ZsVDY1MzBJ?oc=5"
-            },
-            {
-              "source": "valtioneuvosto.fi",
-              "title": "Minister Tavio to promote Finnish commercial clean energy solutions at UN Climate Change Conference in Antalya",
-              "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxOMFEyLUZBdUVxYVJ1RjIxYlA3X1VuV09SS1hQb1FUOWpibjd6NkxyT0lZUVVaSUhmM0dpV0dwZm5hOTdEWVNIWkZsNFFCSWJjNnFuQXV0SUFmMlBkT2I2eDIzNk9uWnlTdHFnakhzS010cDdnNVZIV0pDakVnakh3ejBSOTRFemZPMUJKdUVLSTBCTjh4dnRGVE5OTlBBcTYtdXU5cEhyU0hDRVZ6dEZPTWExUzV4bVZDMW1PZnNKTWxVZk9sbkFIZTVLbzZ6aG80b1RkN1VieTQ?oc=5"
-            }
-          ]
-        },
-        {
-          "title": "BAAJA Remains Fundamentally Flawed Despite Manager’s Amendment",
-          "link": "https://cleantechnica.com/2026/11/09/baaja-remains-fundamentally-flawed-despite-managers-amendment/",
-          "date": "Mon, 09 Nov 2026 15:10:40 +0000",
-          "summary": "Senate Must Allow for an Open Amendment Process Washington, DC — In the continued rush to hold a vote during the lame duck session on the “Bipartisan American Affordability and Jobs Act of 2026”, the senators crafting the bill released a manager’s amendment on Saturday. The Senate has scheduled a ... [continued] The post BAAJA Remains Fundamentally Flawed Despite Manager’s Amendment appeared first on CleanTechnica .",
-          "publisher": "",
-          "_via": "cleantechnica.com",
-          "source": "cleantechnica.com",
-          "_hash": "bd8480b4f971fdb4",
-          "_ageHours": 12,
-          "_inWindow": true,
-          "_score": 53.66695583333333,
-          "_corrob": 0,
-          "_cluster": []
-        },
-        {
-          "title": "‘Walk to Stop the SERPent Pipeline’: Connecticut Groups Protest Proposed Eversource Pipeline",
-          "link": "https://cleantechnica.com/2026/11/09/walk-to-stop-the-serpent-pipeline-connecticut-groups-protest-proposed-eversource-pipeline/",
-          "date": "Tue, 10 Nov 2026 01:56:36 +0000",
-          "summary": "EAST HAMPTON, Connecticut — On Saturday, November 7, Sierra Club Connecticut supporters, other community groups, and allies walked for four hours across seven miles from Hurd State Park to Eversource Headquarters in East Hampton to protest the utility&#8217;s proposed Southeast Resilience Pipeline. Fifty people attended the Walk to Stop the SERPent ... [continued] The post ‘Walk to Stop the SERPent Pipeline’: Connecticut Groups Protest Proposed Eversource Pipeline appeared first on CleanTechnica",
-          "publisher": "",
-          "_via": "cleantechnica.com",
-          "source": "cleantechnica.com",
-          "_hash": "d730fb9b2f6b616c",
-          "_ageHours": 2,
-          "_inWindow": true,
-          "_score": 52.43251138888889,
-          "_corrob": 0,
-          "_cluster": []
-        },
-        {
-          "title": "Fossil CO₂ emissions projected to decrease in 2026 amid clean energy growth and Iran conflict",
-          "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1qUFBmQ2lfYV80SzhuZnRGLV9sVjdJZ3Zsa25RUlpPeEhhSXFyNWM5eHlpbE5JV0JsMUhXV2laQXpPRjZuLUVYQkp4b0wwQ0kwTkhLZENxdmJXOE5PWFVZbWNXaVhjZUJjaWpaM09pNkdvQ05DWmstQUtLTGRLaGs?oc=5",
-          "date": "Tue, 10 Nov 2026 01:00:05 GMT",
-          "summary": "Fossil CO₂ emissions projected to decrease in 2026 amid clean energy growth and Iran conflict Phys.org",
-          "publisher": "phys.org",
-          "_via": "news.google.com",
-          "source": "phys.org",
-          "_hash": "726a7b05fe2024ae",
-          "_ageHours": 3,
-          "_inWindow": true,
-          "_score": 50.490566944444446,
-          "_corrob": 1,
-          "_cluster": [
-            {
-              "source": "nytimes.com",
-              "title": "Why the Iran War Has Spurred Both Clean Energy and Fossil Fuels",
-              "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9LTWpLTkZ0UWxqZ2NwbFhhMDlnRG0ycHlxdmdzYWNMOTJDUndtM0lQUFIyTWR1OTBleXVlQTlpcTBvVlpvM0dZNlZ2UVhkaEJJQlZuMmt3TUdPcHRjVElsNXVBVVNFaHhUQ2NVWGZXM1hJbGtsYm5F?oc=5"
-            }
-          ]
-        },
-        {
-          "title": "EVs Displace 5 Times More Oil Globally Than They Did 5 Years Ago — Analysis",
-          "link": "https://cleantechnica.com/2026/11/09/evs-displace-5-times-more-oil-globally-than-they-did-5-years-ago-analysis/",
-          "date": "Mon, 09 Nov 2026 15:03:14 +0000",
-          "summary": "Five years on from Glasgow, EVs have proved the single most effective way to curb oil use, says T&#38;E. Battery electric vehicles (BEVs) make up about 4.2% of the global car fleet but account for a quarter of all new cars sold worldwide; BEVs displace 1.2 million barrels of oil ... [continued] The post EVs Displace 5 Times More Oil Globally Than They Did 5 Years Ago — Analysis appeared first on CleanTechnica .",
-          "publisher": "",
-          "_via": "cleantechnica.com",
-          "source": "cleantechnica.com",
-          "_hash": "651ff8149c54a2c9",
-          "_ageHours": 12,
-          "_inWindow": true,
-          "_score": 47.54306694444445,
-          "_corrob": 0,
-          "_cluster": []
-        },
-        {
-          "title": "New Mexico's Clean Energy Transition Comes With a $4 Billion Challenge",
-          "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNWGNHU1BIRHBBbW14NS1QRm5wTXVVZTZQcjFQX3RwS0ZvcUN6YXZwV1k0ZjBWVlFBc0otT3NrYnRZUldlNDU1OWdGN0VnUDI1Z1NIdUhFVENRX2tYaGlWSG9vaTNRQXpGWE1DSF9OcDEyQ010TkltWWJFaFNaRmMzcXpYWWl1eFJ2YnM3dXUxbE5xYzZpamVFckZnbWRGeXc4OF8yNEoycFEwTzZvZlE?oc=5",
-          "date": "Mon, 09 Nov 2026 21:21:14 GMT",
-          "summary": "New Mexico's Clean Energy Transition Comes With a $4 Billion Challenge Governing",
-          "publisher": "governing.com",
-          "_via": "news.google.com",
-          "source": "governing.com",
-          "_hash": "71a39469be78fc42",
-          "_ageHours": 6,
-          "_inWindow": true,
-          "_score": 46.843066944444445,
-          "_corrob": 1,
-          "_cluster": [
-            {
-              "source": "rti.org.tw",
-              "title": "Experts warn nuclear referendum could slow Taiwan’s clean energy transition-News-Radio Taiwan International",
-              "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9kaklIVXZ4N3R2T2xRT0dWU0J4bGVXTVRKdktEekdOcC15d0Q2c3dDbzk2MWtBSkxiMWsyUmprem5wMFVjNkhTUlI0ODFyM1d2aWs1cFY2MXVRMXM?oc=5"
+              "source": "impactalpha.com",
+              "title": "Greenhouse Gas Reduction Fund lives again with $550 million in clean energy investments by StepStone",
+              "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQODdUVFJBcU9PcVM2V2lJZ20wQ29rZFY1cjFXU3lyRmFBOUpoUl9WbzJ2UXBrN3RjZW5MMkEybE9aREg0NzUybWk2YV95aDl0cDhQalJXaDJEVzRkend6d2VxS3U2NWs1cG5wVmFnRl9WX0k0SDRQenVKU24wTjJ4QWJuVGgwdTNPLVVNMmE5Z3h6amZWMjQ2N2pDOUx6UWMteWhFZUpHZ0tzbmdxWWtXZC16Z0hhYXdUSDZ5VkxRdXJkZw?oc=5"
             }
           ]
         }
